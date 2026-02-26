@@ -47,6 +47,11 @@ exclude_from_updates:
   - /robots.txt
   - /assets/
 
+# Pages to exclude from print export
+exclude_from_print:
+  - /tags/
+  - /recent/
+
 # Navigation
 navigation:
   - title: Home

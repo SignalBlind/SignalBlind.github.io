@@ -76,7 +76,15 @@
 {% assign all_pages = site.pages | sort: "order" %}
 {% for item in all_pages %}
   {% if item.title %}
-    {% unless item.url contains "print-export" or item.url contains "pdf-export" %}
+    {% assign excluded = false %}
+    {% for exclude_path in site.exclude_from_print %}
+      {% if item.url == exclude_path or item.url contains exclude_path %}
+        {% assign excluded = true %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+
+    {% unless excluded or item.url contains "print-export" or item.url contains "pdf-export" %}
       {% if item.navigation != false %}
 <div class="page-content">
 <h1>{{ item.title }}</h1>
