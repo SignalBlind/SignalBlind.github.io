@@ -1,0 +1,17 @@
+- term: ASD
+  alternates:
+    - Autism
+  full: Autism Spectrum Disorder
+  definition: A developmental condition affecting communication and behavior, characterized by challenges with social skills, repetitive behaviors, and communication differences.
+
+- term: Social Salience
+  alternates:
+    - Social Saliency
+  definition: The quality that makes a person noticeable and memorable in social interactions. People with high social saliency naturally draw attention and are easily remembered. [Wikipedia](https://en.wikipedia.org/wiki/Social_salience)
+
+- term: A-Salience
+  full: Lack of Social Salience
+  definition: The _experience_ of not being noticed or remembered in social contexts. People who are a-salient may be overlooked in groups, forgotten after interactions, or find their contributions attributed to others.
+
+- term: Signal Blind
+  definition: A term describing individuals who lack social salience. Similar to being "invisible" in social situations, where others don't naturally register or remember your presence.

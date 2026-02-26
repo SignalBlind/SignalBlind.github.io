@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<article class="page">
+    {{ content }}
+
+    {% if page.last_modified_at %}
+    <footer class="page-footer">
+        <p class="last-modified">Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}</p>
+    </footer>
+    {% endif %}
+</article>
+
+{% if page.next or page.previous %}
+<nav class="page-navigation">
+    {% if page.previous %}
+    <a href="{{ page.previous.url | relative_url }}" class="prev">&larr; {{ page.previous.title }}</a>
+    {% endif %}
+    {% if page.next %}
+    <a href="{{ page.next.url | relative_url }}" class="next">{{ page.next.title }} &rarr;</a>
+    {% endif %}
+</nav>
+{% endif %}

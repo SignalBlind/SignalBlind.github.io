@@ -1,0 +1,152 @@
+/* Sidebar */
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: var(--header-height);
+    width: var(--sidebar-width);
+    height: calc(100vh - var(--header-height));
+    background-color: var(--sidebar-bg);
+    border-right: 1px solid var(--border-color);
+    overflow-y: auto;
+    z-index: 100;
+}
+
+.sidebar-content {
+    padding: 1.5em;
+}
+
+.sidebar-section {
+    margin-bottom: 2em;
+}
+
+.sidebar-section h3 {
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 0;
+    margin-bottom: 1em;
+    color: #666;
+    font-weight: 600;
+}
+
+.sidebar nav ul {
+    list-style: none;
+    margin: 0;
+}
+
+.sidebar nav li {
+    margin-bottom: 0.5em;
+}
+
+.sidebar nav a {
+    display: block;
+    padding: 0.4em 0.8em;
+    color: var(--text-color);
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+}
+
+.sidebar nav a:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    color: var(--link-color);
+}
+
+.sidebar nav a.active {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+/* Table of Contents in sidebar */
+.toc ul {
+    list-style: none;
+    margin: 0;
+}
+
+.toc li {
+    margin-bottom: 0.3em;
+}
+
+.toc a {
+    font-size: 0.9em;
+    padding: 0.3em 0.6em;
+}
+
+.toc ul ul {
+    margin-left: 1em;
+    margin-top: 0.3em;
+}
+
+/* Export section */
+.export-section {
+    margin-top: auto;
+    padding-top: 1em;
+    border-top: 1px solid var(--border-color);
+}
+
+.btn-export {
+    display: block;
+    text-align: center;
+    padding: 0.75em 1em;
+    background-color: var(--secondary-color);
+    color: white;
+    border-radius: 4px;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+}
+
+.btn-export:hover {
+    background-color: var(--link-hover);
+    color: white;
+}
+
+/* Hierarchical navigation */
+.category-item {
+    margin-bottom: 0.3em;
+}
+
+.category-header {
+    display: flex;
+    align-items: center;
+    padding: 0.4em 0.8em;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+    user-select: none;
+}
+
+.category-header:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.category-toggle {
+    display: inline-block;
+    width: 1em;
+    margin-right: 0.5em;
+    font-size: 0.8em;
+    transition: transform 0.2s ease;
+}
+
+.category-name {
+    font-weight: 600;
+    color: var(--primary-color);
+}
+
+.category-children {
+    list-style: none;
+    margin-left: 0;
+    margin-top: 0.3em;
+    padding-left: 0;
+}
+
+.category-children li {
+    margin-bottom: 0.3em;
+}
+
+.sidebar .category-children a {
+    padding-left: 2.3em !important;
+    font-size: 0.95em;
+}
+
+.category-item.expanded .category-toggle {
+    transform: rotate(0deg);
+}

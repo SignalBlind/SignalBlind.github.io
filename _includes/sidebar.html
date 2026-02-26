@@ -1,0 +1,170 @@
+<aside class="sidebar">
+    <div class="sidebar-content">
+        <div class="sidebar-section">
+            <h3>{{ page.title }}</h3>
+            <nav class="toc" id="sidebar-toc">
+                <!-- Generated dynamically by JavaScript for current page -->
+            </nav>
+        </div>
+
+        <div class="sidebar-section">
+            <h3>Pages</h3>
+            <nav class="page-list">
+                <ul>
+                    {% assign sorted_pages = site.pages | sort: 'order' %}
+
+                    {%- comment -%} Build a list of all items with their order and type {%- endcomment -%}
+                    {% assign nav_items = "" | split: "" %}
+                    {% assign seen_categories = "" | split: "" %}
+
+                    {% for p in sorted_pages %}
+                        {% if p.navigation != false %}
+                            {% if p.category and p.category != "" %}
+                                {%- comment -%} Add category placeholder if first time seeing it {%- endcomment -%}
+                                {% unless seen_categories contains p.category %}
+                                    {% assign category_order = p.order | default: 999 %}
+                                    {% assign cat_item = "category|" | append: p.category | append: "|" | append: category_order %}
+                                    {% assign nav_items = nav_items | push: cat_item %}
+                                    {% assign seen_categories = seen_categories | push: p.category %}
+                                {% endunless %}
+                            {% elsif p.title %}
+                                {%- comment -%} Add regular page (only if has explicit title) {%- endcomment -%}
+                                {% assign page_order = p.order | default: 999 %}
+                                {% assign page_item = "page|" | append: p.title | append: "|" | append: page_order | append: "|" | append: p.url %}
+                                {% assign nav_items = nav_items | push: page_item %}
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+
+                    {%- comment -%} Sort nav_items by order value {%- endcomment -%}
+                    {% assign sorted_nav_items = "" | split: "" %}
+                    {% for item in nav_items %}
+                        {% assign parts = item | split: "|" %}
+                        {% assign item_order = parts[2] | plus: 0 %}
+
+                        {%- comment -%} Insert into sorted position {%- endcomment -%}
+                        {% assign inserted = false %}
+                        {% assign temp_items = "" | split: "" %}
+                        {% for existing in sorted_nav_items %}
+                            {% assign existing_parts = existing | split: "|" %}
+                            {% assign existing_order = existing_parts[2] | plus: 0 %}
+                            {% if inserted == false and item_order < existing_order %}
+                                {% assign temp_items = temp_items | push: item %}
+                                {% assign inserted = true %}
+                            {% endif %}
+                            {% assign temp_items = temp_items | push: existing %}
+                        {% endfor %}
+                        {% if inserted == false %}
+                            {% assign temp_items = temp_items | push: item %}
+                        {% endif %}
+                        {% assign sorted_nav_items = temp_items %}
+                    {% endfor %}
+
+                    {%- comment -%} Now render items in order {%- endcomment -%}
+                    {% for item in sorted_nav_items %}
+                        {% assign parts = item | split: "|" %}
+                        {% assign item_type = parts[0] %}
+
+                        {% if item_type == "page" %}
+                            {% assign page_title = parts[1] %}
+                            {% assign page_url = parts[3] %}
+                            <li>
+                                <a href="{{ page_url | relative_url }}" {% if page.url == page_url %}class="active"{% endif %}>
+                                    {{ page_title }}
+                                </a>
+                            </li>
+                        {% elsif item_type == "category" %}
+                            {% assign category_name = parts[1] %}
+                            <li class="category-item">
+                                <div class="category-header" onclick="toggleCategory(this)">
+                                    <span class="category-toggle">▶</span>
+                                    <span class="category-name">{{ category_name }}</span>
+                                </div>
+                                <ul class="category-children" style="display: none;">
+                                    {%- comment -%} Split category pages into ordered and unordered {%- endcomment -%}
+                                    {% assign ordered_pages = "" | split: "" %}
+                                    {% assign unordered_pages = "" | split: "" %}
+
+                                    {% for p in sorted_pages %}
+                                        {% if p.navigation != false and p.category == category_name %}
+                                            {%- comment -%} Get display title - use title field or infer from filename {%- endcomment -%}
+                                            {% if p.title %}
+                                                {% assign display_title = p.title %}
+                                            {% else %}
+                                                {% assign url_parts = p.url | split: "/" %}
+                                                {% assign filename = url_parts | last %}
+                                                {% if filename == "" %}
+                                                    {% assign filename = url_parts[-2] %}
+                                                {% endif %}
+                                                {% assign title_base = filename | replace: ".html", "" | replace: "-", " " | capitalize %}
+                                                {% assign display_title = title_base %}
+                                            {% endif %}
+
+                                            {% if p.order %}
+                                                {% assign ordered_pages = ordered_pages | push: p %}
+                                            {% else %}
+                                                {% assign unordered_pages = unordered_pages | push: p %}
+                                            {% endif %}
+                                        {% endif %}
+                                    {% endfor %}
+
+                                    {%- comment -%} Sort unordered pages alphabetically by title {%- endcomment -%}
+                                    {% assign unordered_pages = unordered_pages | sort: "title" %}
+
+                                    {%- comment -%} Display ordered pages first {%- endcomment -%}
+                                    {% for p in ordered_pages %}
+                                        {%- comment -%} Get display title {%- endcomment -%}
+                                        {% if p.title %}
+                                            {% assign display_title = p.title %}
+                                        {% else %}
+                                            {% assign url_parts = p.url | split: "/" %}
+                                            {% assign filename = url_parts | last %}
+                                            {% if filename == "" %}
+                                                {% assign filename = url_parts[-2] %}
+                                            {% endif %}
+                                            {% assign display_title = filename | replace: ".html", "" | replace: "-", " " | capitalize %}
+                                        {% endif %}
+
+                                        <li>
+                                            <a href="{{ p.url | relative_url }}" {% if page.url == p.url %}class="active"{% endif %}>
+                                                {{ display_title }}
+                                            </a>
+                                        </li>
+                                    {% endfor %}
+
+                                    {%- comment -%} Then display unordered pages alphabetically {%- endcomment -%}
+                                    {% for p in unordered_pages %}
+                                        {%- comment -%} Get display title {%- endcomment -%}
+                                        {% if p.title %}
+                                            {% assign display_title = p.title %}
+                                        {% else %}
+                                            {% assign url_parts = p.url | split: "/" %}
+                                            {% assign filename = url_parts | last %}
+                                            {% if filename == "" %}
+                                                {% assign filename = url_parts[-2] %}
+                                            {% endif %}
+                                            {% assign display_title = filename | replace: ".html", "" | replace: "-", " " | capitalize %}
+                                        {% endif %}
+
+                                        <li>
+                                            <a href="{{ p.url | relative_url }}" {% if page.url == p.url %}class="active"{% endif %}>
+                                                {{ display_title }}
+                                            </a>
+                                        </li>
+                                    {% endfor %}
+                                </ul>
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </nav>
+        </div>
+
+        <div class="sidebar-section export-section">
+            <h3>Export</h3>
+            <a href="{{ '/print-export.html' | relative_url }}" class="btn-export" target="_blank">
+                Print / Export PDF
+            </a>
+        </div>
+    </div>
+</aside>

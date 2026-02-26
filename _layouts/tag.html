@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<p>Pages tagged with <strong>{{ page.tag }}</strong>:</p>
+
+<ul class="tag-posts">
+{% for post in site.pages %}
+  {% if post.tags contains page.tag %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title | default: post.url }}</a>
+      {% if post.description %}
+        <p class="post-description">{{ post.description }}</p>
+      {% endif %}
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<p><a href="{{ '/tags/' | relative_url }}">← Back to all tags</a></p>

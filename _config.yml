@@ -1,0 +1,64 @@
+# Site settings
+title: Signal Blind
+description: My experience as a signal blind person -- I do not have any social salience (a-salient)
+baseurl: ""
+url: "https://signalblind.github.io"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  toc_levels: 1..3
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
+  - README.md
+  - LICENSE
+  - tools
+  - JEKYLL.md
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-last-modified-at
+
+# Feed settings
+feed:
+  path: feed.xml
+
+# Pages to exclude from RSS feed and Recently Updated
+exclude_from_updates:
+  - /tags/
+  - /recent/
+  - /glossary/
+  - /print-export.html
+  - /sitemap.xml
+  - /feed.xml
+  - /robots.txt
+  - /assets/
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+
+# Footer navigation
+footer_navigation:
+  - title: GitHub
+    url: https://github.com/SignalBlind/SignalBlind.github.io
+  - title: Privacy
+    url: /privacy/
+  - title: RSS Feed
+    url: /feed.xml

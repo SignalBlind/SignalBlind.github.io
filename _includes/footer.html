@@ -1,0 +1,14 @@
+<footer class="site-footer">
+    <div class="footer-content">
+        <nav class="footer-nav">
+            {% for item in site.footer_navigation %}
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {% endfor %}
+        </nav>
+
+        <div class="footer-info">
+            <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+            <p>{{ site.description }}</p>
+        </div>
+    </div>
+</footer>
