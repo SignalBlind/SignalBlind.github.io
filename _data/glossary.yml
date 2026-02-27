@@ -3,12 +3,13 @@
     - ASD
     - Autistic
   full: Autism Spectrum Disorder
-  definition: A developmental condition affecting communication and behavior, characterized by challenges with social skills, repetitive behaviors, and communication differences.
+  definition: A developmental condition affecting communication and behavior, characterized by challenges with social skills, repetitive behaviors, and communication differences. [Wikipedia](https://en.wikipedia.org/wiki/Autism)
 
 - term: Social Salience
   alternates:
     - Social Saliency
-  definition: The quality that makes a person noticeable and memorable in social interactions. People with high social saliency naturally draw attention and are easily remembered. [Wikipedia](https://en.wikipedia.org/wiki/Social_salience)
+    - Salience Network
+  definition: I am really referring to the Salience Network -- a low level part of the brain that processes social signals and gives importance to the same. [Wikipedia](https://en.wikipedia.org/wiki/Salience_network)
 
 - term: A-Salience
   full: Lack of Social Salience
