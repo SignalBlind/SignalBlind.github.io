@@ -14,7 +14,7 @@ This is a static website hosted on GitHub Pages. We collect minimal information 
 ### Information Collection
 
 - **Analytics**: This site may use basic analytics to understand visitor patterns and if anyone has ever seen it
-    - specificially it uses https://www.goatcounter.com (privacy-friendly web analytics)
+    - specifically it uses [goatcounter](https://www.goatcounter.com) (privacy-friendly web analytics)
     - if you want to disable this for some reason, [you can do so](#toggle-goatcounter).
 - **Cookies**: We use minimal cookies for functionality
 - **Personal Data**: We do not collect personal information
@@ -34,6 +34,6 @@ You have the right to:
 
 ### Contact
 
-For privacy concerns, please contact us through GitHub.
+For privacy concerns, please contact us through GitHub -- [just file an Issue](https://github.com/SignalBlind/SignalBlind.github.io/issues)!
 
 Last updated: {{ 'now' | date: "%Y-%m-%d" }}

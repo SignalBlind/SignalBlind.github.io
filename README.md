@@ -1,6 +1,16 @@
-# Signal Blind
+# Signal-Blind Architecture: Technical Documentation
 
-This repository/site describes my experience as a signal blind person -- I do not have any social salience (a-salient).
+This repository contains documentation regarding a specific neurodivergent profile defined by **A-salience** (the total absence of social signal capture).
+
+## Core Distinction
+While phenotypic overlap with Autism Spectrum Disorder (ASD) exists, the underlying mechanism is distinct:
+*   **ASD:** Often involves sensory/regulatory friction and social processing lag.
+*   **Signal-Blindness:** Defined by the absence of a social "receiver." Data is processed via **Propositional Logic** and **Manual Frame Construction**.
+
+## Objective
+This site serves as a functional map of this cognitive architecture. It is provided as a reference for individuals seeking to understand non-standard social processing through a clinical, objective lens.
+
+[View Documentation](https://signalblind.github.io)
 
 ## License
 

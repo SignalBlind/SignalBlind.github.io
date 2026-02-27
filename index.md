@@ -4,41 +4,37 @@ title: Home
 permalink: /
 order: 1
 ---
-
+#todo
 ## Welcome to Signal Blind
 
-This site describes my experience as a signal blind person -- I do not have any social salience (a-salient).
+This repository contains documentation regarding a specific neurodivergent profile defined by **A-salience** (the total absence of social signal capture).
 
-## NOTE
+## Core Distinction
+While phenotypic overlap with Autism Spectrum Disorder (ASD) exists, the underlying mechanism is distinct:
+*   **ASD:** Often involves sensory/regulatory friction and social processing lag.
+*   **Signal-Blindness:** Defined by the absence of a social "receiver." Data is processed via **Propositional Logic** and **Manual Frame Construction**.
 
-I am still working on this site so these are just placeholders for now.
+## Objective
+This site serves as a functional map of this cognitive architecture. It is provided as a reference for individuals seeking to understand non-standard social processing through a clinical, objective lens.
 
-### What is Signal Blindness?
+## Data Reliability and Provenance
 
-Signal blindness, or a-salience, refers to the experience of not having social salience - the quality that makes others notice and remember you in social contexts.
+### Technical Status
+This model is a high-fidelity representation of my subjective cognitive experience. It has not undergone clinical peer review.
 
-### Navigation
+### Methodological Note: Machine-Assisted Synthesis
+The frameworks described here were developed through iterative analysis in collaboration with a Large Language Model (LLM). 
+* **Constraint:** The terminology used is **Functional**, not necessarily **Standard**. Terms are chosen for their descriptive accuracy regarding my internal state, not for alignment with existing psychological literature.
+* **Risk Profile:** There is a known risk of taxonomic drift. The model may use specialized terms in non-standard ways.
+* See [Disclaimer](Disclaimer.md) for more detailed information.
 
-Use the left sidebar to navigate through different sections of this site:
+### Success Metric: Functional Utility
+The primary value of this site is **Functional Utility**, not **Universal Theory**. 
+*   **Objective:** To facilitate precise communication with my spouse and therapist.
+*   **Validation:** The model is considered "successful" if it accurately predicts my behavioral outputs and reduces interaction friction. It is not presented as a clinical diagnostic tool.
 
-- **Table of Contents**: Shows the outline of the current page
-- **Pages**: Quick links to all pages on the site
-- **Export**: Download the entire site as a PDF
+### Project Genesis: System Debugging
+I constructed this material as a functional requirement for communicating with my spouse and therapist. I treat the mind as a complex system requiring debugging and technical mapping. 
 
-### Search
-
-You can search for content using the search box in the top navigation bar.
-
-### Features
-
-This site includes:
-
-- Clean, simple design with left navigation
-- Automatic table of contents generation
-- Full-text search powered by Lunr.js
-- PDF export for offline reading
-- Responsive design for mobile devices
-
-## Getting Started
-
-Start exploring by using the navigation menu or search for specific topics.
+### Publication Rationale
+A search for existing documentation on **A-salience** (Signal-Blindness) yielded zero results. This site serves to fill that data void. 
