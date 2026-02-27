@@ -19,13 +19,27 @@
 
                     {% for p in sorted_pages %}
                         {% if p.navigation != false %}
-                            {% if p.category and p.category != "" %}
+                            {%- comment -%} Infer category from directory if not explicitly set {%- endcomment -%}
+                            {% assign inferred_category = "" %}
+                            {% if p.path %}
+                                {% assign path_parts = p.path | split: "/" %}
+                                {% if path_parts.size > 1 %}
+                                    {% assign first_dir = path_parts[0] %}
+                                    {% assign first_char = first_dir | slice: 0 %}
+                                    {% unless first_dir == "_pages" or first_dir == "tags" or first_dir == "assets" or first_dir == "tools" or first_char == "_" %}
+                                        {% assign inferred_category = first_dir %}
+                                    {% endunless %}
+                                {% endif %}
+                            {% endif %}
+                            {% assign effective_category = p.category | default: inferred_category %}
+
+                            {% if effective_category and effective_category != "" %}
                                 {%- comment -%} Add category placeholder if first time seeing it {%- endcomment -%}
-                                {% unless seen_categories contains p.category %}
+                                {% unless seen_categories contains effective_category %}
                                     {% assign category_order = p.order | default: 999 %}
-                                    {% assign cat_item = "category|" | append: p.category | append: "|" | append: category_order %}
+                                    {% assign cat_item = "category|" | append: effective_category | append: "|" | append: category_order %}
                                     {% assign nav_items = nav_items | push: cat_item %}
-                                    {% assign seen_categories = seen_categories | push: p.category %}
+                                    {% assign seen_categories = seen_categories | push: effective_category %}
                                 {% endunless %}
                             {% elsif p.title %}
                                 {%- comment -%} Add regular page (only if has explicit title) {%- endcomment -%}
@@ -86,7 +100,21 @@
                                     {% assign unordered_pages = "" | split: "" %}
 
                                     {% for p in sorted_pages %}
-                                        {% if p.navigation != false and p.category == category_name %}
+                                        {%- comment -%} Infer category from directory if not explicitly set {%- endcomment -%}
+                                        {% assign inferred_category = "" %}
+                                        {% if p.path %}
+                                            {% assign path_parts = p.path | split: "/" %}
+                                            {% if path_parts.size > 1 %}
+                                                {% assign first_dir = path_parts[0] %}
+                                                {% assign first_char = first_dir | slice: 0 %}
+                                                {% unless first_dir == "_pages" or first_dir == "tags" or first_dir == "assets" or first_dir == "tools" or first_char == "_" %}
+                                                    {% assign inferred_category = first_dir %}
+                                                {% endunless %}
+                                            {% endif %}
+                                        {% endif %}
+                                        {% assign effective_category = p.category | default: inferred_category %}
+
+                                        {% if p.navigation != false and effective_category == category_name %}
                                             {%- comment -%} Get display title - use title field or infer from filename {%- endcomment -%}
                                             {% if p.title %}
                                                 {% assign display_title = p.title %}
