@@ -26,9 +26,16 @@ description: Pages sorted by most recent updates
 
 <ul class="recent-updates">
 {% for page in sorted_pages limit:50 %}
+    {% assign display_title = page.title %}
+    {% unless display_title %}
+      {% assign path_parts = page.path | split: "/" %}
+      {% assign filename_with_ext = path_parts | last %}
+      {% assign filename = filename_with_ext | replace: ".md", "" | replace: ".html", "" %}
+      {% assign display_title = filename | replace: "-", " " | replace: "_", " " %}
+    {% endunless %}
     <li>
       <div class="update-entry">
-        <a href="{{ page.url | relative_url }}" class="update-title">{{ page.title | default: page.name | remove: ".md" | remove: ".html" }}</a>
+        <a href="{{ page.url | relative_url }}" class="update-title">{{ display_title }}</a>
         {% if page.last_modified_at %}
           <span class="update-date">{{ page.last_modified_at | date: "%B %d, %Y" }}</span>
         {% endif %}

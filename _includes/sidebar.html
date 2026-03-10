@@ -1,13 +1,6 @@
 <aside class="sidebar">
     <div class="sidebar-content">
         <div class="sidebar-section">
-            <h3>{{ page.title }}</h3>
-            <nav class="toc" id="sidebar-toc">
-                <!-- Generated dynamically by JavaScript for current page -->
-            </nav>
-        </div>
-
-        <div class="sidebar-section">
             <h3>Pages</h3>
             <nav class="page-list">
                 <ul>
@@ -91,7 +84,7 @@
                             {% assign category_name = parts[1] %}
                             <li class="category-item">
                                 <div class="category-header" onclick="toggleCategory(this)">
-                                    <span class="category-toggle">▶</span>
+                                    <span class="category-toggle">&#9654;</span>
                                     <span class="category-name">{{ category_name }}</span>
                                 </div>
                                 <ul class="category-children" style="display: none;">
@@ -119,13 +112,10 @@
                                             {% if p.title %}
                                                 {% assign display_title = p.title %}
                                             {% else %}
-                                                {% assign url_parts = p.url | split: "/" %}
-                                                {% assign filename = url_parts | last %}
-                                                {% if filename == "" %}
-                                                    {% assign filename = url_parts[-2] %}
-                                                {% endif %}
-                                                {% assign title_base = filename | replace: ".html", "" | replace: "-", " " | capitalize %}
-                                                {% assign display_title = title_base %}
+                                                {% assign path_parts = p.path | split: "/" %}
+                                                {% assign filename_with_ext = path_parts | last %}
+                                                {% assign filename = filename_with_ext | replace: ".md", "" | replace: ".html", "" %}
+                                                {% assign display_title = filename | replace: "-", " " | replace: "_", " " %}
                                             {% endif %}
 
                                             {% if p.order %}
@@ -145,12 +135,10 @@
                                         {% if p.title %}
                                             {% assign display_title = p.title %}
                                         {% else %}
-                                            {% assign url_parts = p.url | split: "/" %}
-                                            {% assign filename = url_parts | last %}
-                                            {% if filename == "" %}
-                                                {% assign filename = url_parts[-2] %}
-                                            {% endif %}
-                                            {% assign display_title = filename | replace: ".html", "" | replace: "-", " " | capitalize %}
+                                            {% assign path_parts = p.path | split: "/" %}
+                                            {% assign filename_with_ext = path_parts | last %}
+                                            {% assign filename = filename_with_ext | replace: ".md", "" | replace: ".html", "" %}
+                                            {% assign display_title = filename | replace: "-", " " | replace: "_", " " %}
                                         {% endif %}
 
                                         <li>
@@ -166,12 +154,10 @@
                                         {% if p.title %}
                                             {% assign display_title = p.title %}
                                         {% else %}
-                                            {% assign url_parts = p.url | split: "/" %}
-                                            {% assign filename = url_parts | last %}
-                                            {% if filename == "" %}
-                                                {% assign filename = url_parts[-2] %}
-                                            {% endif %}
-                                            {% assign display_title = filename | replace: ".html", "" | replace: "-", " " | capitalize %}
+                                            {% assign path_parts = p.path | split: "/" %}
+                                            {% assign filename_with_ext = path_parts | last %}
+                                            {% assign filename = filename_with_ext | replace: ".md", "" | replace: ".html", "" %}
+                                            {% assign display_title = filename | replace: "-", " " | replace: "_", " " %}
                                         {% endif %}
 
                                         <li>

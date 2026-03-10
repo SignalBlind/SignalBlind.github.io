@@ -27,8 +27,15 @@ layout: null
 
     {% assign sorted_pages = filtered_pages | sort: "last_modified_at" | reverse %}
     {% for page in sorted_pages limit:20 %}
+      {% assign display_title = page.title %}
+      {% unless display_title %}
+        {% assign path_parts = page.path | split: "/" %}
+        {% assign filename_with_ext = path_parts | last %}
+        {% assign filename = filename_with_ext | replace: ".md", "" | replace: ".html", "" %}
+        {% assign display_title = filename | replace: "-", " " | replace: "_", " " %}
+      {% endunless %}
       <item>
-        <title>{{ page.title | default: page.name | remove: ".md" | remove: ".html" | xml_escape }}</title>
+        <title>{{ display_title | xml_escape }}</title>
         <description>{{ page.description | default: page.excerpt | xml_escape }}</description>
         <pubDate>{{ page.last_modified_at | default: page.date | date_to_rfc822 }}</pubDate>
         <link>{{ page.url | absolute_url }}</link>

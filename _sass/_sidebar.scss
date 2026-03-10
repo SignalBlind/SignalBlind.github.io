@@ -1,4 +1,4 @@
-/* Sidebar */
+/* Left Sidebar - site navigation */
 .sidebar {
     position: fixed;
     left: 0;
@@ -54,26 +54,6 @@
 .sidebar nav a.active {
     background-color: var(--secondary-color);
     color: white;
-}
-
-/* Table of Contents in sidebar */
-.toc ul {
-    list-style: none;
-    margin: 0;
-}
-
-.toc li {
-    margin-bottom: 0.3em;
-}
-
-.toc a {
-    font-size: 0.9em;
-    padding: 0.3em 0.6em;
-}
-
-.toc ul ul {
-    margin-left: 1em;
-    margin-top: 0.3em;
 }
 
 /* Export section */
@@ -149,4 +129,153 @@
 
 .category-item.expanded .category-toggle {
     transform: rotate(0deg);
+}
+
+/* Right TOC panel - toggle button */
+.toc-toggle {
+    position: fixed;
+    right: 1em;
+    bottom: 1.5em;
+    z-index: 200;
+    width: 48px;
+    height: 48px;
+    border: none;
+    border-radius: 50%;
+    background-color: var(--secondary-color);
+    color: white;
+    font-size: 1.4em;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.toc-toggle:hover {
+    background-color: var(--link-hover);
+    transform: scale(1.05);
+}
+
+/* Right TOC panel - overlay backdrop */
+.toc-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 299;
+}
+
+.toc-overlay.active {
+    display: block;
+}
+
+/* Right TOC panel */
+.toc-panel {
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: var(--sidebar-width);
+    height: 100vh;
+    background-color: var(--sidebar-bg);
+    border-left: 1px solid var(--border-color);
+    overflow-y: auto;
+    z-index: 300;
+    transform: translateX(100%);
+    transition: transform 0.3s ease;
+    box-shadow: -4px 0 16px rgba(0, 0, 0, 0.1);
+}
+
+.toc-panel.open {
+    transform: translateX(0);
+}
+
+.toc-panel-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em 1.5em;
+    border-bottom: 1px solid var(--border-color);
+    font-weight: 600;
+    color: var(--primary-color);
+    font-size: 0.95em;
+}
+
+.toc-panel-close {
+    background: none;
+    border: none;
+    font-size: 1.5em;
+    cursor: pointer;
+    color: #666;
+    padding: 0;
+    line-height: 1;
+    transition: color 0.2s ease;
+}
+
+.toc-panel-close:hover {
+    color: var(--text-color);
+}
+
+.toc-panel-content {
+    padding: 1.5em;
+}
+
+/* Table of Contents styles */
+.toc ul {
+    list-style: none;
+    margin: 0;
+}
+
+.toc li {
+    margin-bottom: 0.3em;
+}
+
+.toc a {
+    display: block;
+    font-size: 0.9em;
+    padding: 0.3em 0.6em;
+    color: var(--text-color);
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+}
+
+.toc a:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    color: var(--link-color);
+}
+
+.toc a.active {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.toc ul ul {
+    margin-left: 1em;
+    margin-top: 0.3em;
+}
+
+.no-toc {
+    color: #999;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .sidebar {
+        position: static;
+        width: 100%;
+        height: auto;
+        border-right: none;
+        border-bottom: 1px solid var(--border-color);
+    }
+
+    .sidebar-content {
+        padding: 1em;
+    }
+
+    .toc-panel {
+        width: 85vw;
+        max-width: 320px;
+    }
 }

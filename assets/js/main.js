@@ -103,33 +103,40 @@ function highlightCurrentSection() {
     });
 }
 
-// Mobile menu toggle
-function initMobileMenu() {
-    // Add hamburger button for mobile
-    const header = document.querySelector('.site-header .header-content');
-    if (!header) return;
+// TOC panel toggle
+function initTocPanel() {
+    const panel = document.getElementById('toc-panel');
+    const overlay = document.getElementById('toc-overlay');
+    const toggleBtn = document.getElementById('toc-toggle');
+    const closeBtn = document.getElementById('toc-panel-close');
 
-    const menuButton = document.createElement('button');
-    menuButton.className = 'mobile-menu-toggle';
-    menuButton.innerHTML = '☰';
-    menuButton.setAttribute('aria-label', 'Toggle menu');
+    if (!panel || !toggleBtn) return;
 
-    const sidebar = document.querySelector('.sidebar');
-
-    menuButton.addEventListener('click', () => {
-        sidebar.classList.toggle('active');
-    });
-
-    // Insert at the beginning of header for mobile
-    if (window.innerWidth <= 768) {
-        header.insertBefore(menuButton, header.firstChild);
+    function openPanel() {
+        panel.classList.add('open');
+        overlay.classList.add('active');
     }
+
+    function closePanel() {
+        panel.classList.remove('open');
+        overlay.classList.remove('active');
+    }
+
+    toggleBtn.addEventListener('click', openPanel);
+    closeBtn.addEventListener('click', closePanel);
+    overlay.addEventListener('click', closePanel);
+
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && panel.classList.contains('open')) {
+            closePanel();
+        }
+    });
 }
 
 // Initialize everything when DOM is ready
 document.addEventListener('DOMContentLoaded', function() {
     generateTOC();
-    initMobileMenu();
+    initTocPanel();
 
     // Auto-expand category if current page is in it
     const activeLink = document.querySelector('.category-children a.active');
@@ -140,15 +147,4 @@ document.addEventListener('DOMContentLoaded', function() {
             toggleCategory(header);
         }
     }
-
-    // Handle window resize
-    let resizeTimeout;
-    window.addEventListener('resize', () => {
-        clearTimeout(resizeTimeout);
-        resizeTimeout = setTimeout(() => {
-            if (window.innerWidth <= 768) {
-                initMobileMenu();
-            }
-        }, 250);
-    });
 });

@@ -61,18 +61,6 @@ body {
         padding: 1em;
     }
 
-    .sidebar {
-        position: static;
-        width: 100%;
-        height: auto;
-        border-right: none;
-        border-bottom: 1px solid var(--border-color);
-    }
-
-    .sidebar-content {
-        padding: 1em;
-    }
-
     .site-header .header-content {
         flex-direction: column;
         align-items: stretch;

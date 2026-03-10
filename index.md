@@ -9,6 +9,8 @@ order: 1
 
 This repository contains documentation regarding a specific neurodivergent profile defined by **A-salience** (the total absence of social signal capture).
 
+This site describes my experience of being neurodivergent and [not knowing it](Experience/Everybody%20is%20the%20Same.md) through to my eventual discovery of the [mechanism behind it](Experience/Social%20Salience.md).  These are my notes, for myself, packaged up in case they are interesting to others.
+
 ## Core Distinction
 While phenotypic overlap with Autism Spectrum Disorder (ASD) exists, the underlying mechanism is distinct:
 *   **ASD:** Often involves sensory/regulatory friction and social processing lag.
