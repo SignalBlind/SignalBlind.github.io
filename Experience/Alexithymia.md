@@ -20,7 +20,7 @@ This is a tricky one.  I don't think I have alexithymia, but there are some stro
 
 There is a [chart](https://www.thementalhealthcoalition.org/feel-your-feelings/) I used with a therapist to try to describe my feelings.
 
-![emotion chart](https://www.thementalhealthcoalition.org/wp-content/uploads/2022/04/A__Mood-Meter-Image.png)
+![emotion chart](https://www.thementalhealthcoalition.org/wp-content/uploads/2022/04/A__Mood-Meter-Image.png){: style="max-width: 700px"}
 
 - I found that I tend to be [Mid-happy Default](../Emotions/Mid-happy%20Default.md)
 	- I think I have very low fluctuation
