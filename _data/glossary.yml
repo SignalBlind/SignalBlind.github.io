@@ -1,19 +1,51 @@
+- term: A-Salience
+  full: Lack of Social Salience
+  definition: The _experience_ of not being noticed or remembered in social contexts.
+    People who are a-salient may be overlooked in groups, forgotten after interactions,
+    or find their contributions attributed to others.
+
+- term: Alexithymia
+  definition: Emotional blindness, a phenomenon characterized by difficulties processing
+    or describing one's emotions. [Wikipedia](https://en.wikipedia.org/wiki/Alexithymia)
+
 - term: Autism
   alternates:
-    - ASD
-    - Autistic
+  - ASD
+  - Autistic
   full: Autism Spectrum Disorder
-  definition: A developmental condition affecting communication and behavior, characterized by challenges with social skills, repetitive behaviors, and communication differences. [Wikipedia](https://en.wikipedia.org/wiki/Autism)
+  definition: A developmental condition affecting communication and behavior, characterized
+    by challenges with social skills, repetitive behaviors, and communication differences.
+    [Wikipedia](https://en.wikipedia.org/wiki/Autism)
+
+- term: DSM-5
+  definition: Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition.  Clinical
+    taxonomic and diagnostic manual published by the  American Psychiatric Association.
+    [Wikipedia](https://en.wikipedia.org/wiki/DSM-5)
+
+- term: Flat Affect
+  definition: The near or total absence of outward emotional expression, characterized
+    by a monotone voice, immobile face, and reduced body language, often mistaken
+    for apathy.
+
+- term: Phenotype
+  alternates:
+  - Phenotypic
+  definition: The set of observable characteristics or traits of an organism. [Wikipedia](https://en.wikipedia.org/wiki/Phenotype)
+
+- term: Prosody
+  definition: Prosody is the "melody" of language—the rhythmic and intonational patterns
+    that give speech and poetry their unique character. It encompasses elements beyond
+    the literal meaning of words, such as pitch, loudness, and timing, which help
+    convey emotion, emphasis, and intent. [Wikipedia](https://en.wikipedia.org/wiki/Prosody_(linguistics))
+
+- term: Signal Blind
+  definition: A term describing individuals who lack social salience. Similar to being
+    "invisible" in social situations, where others don't naturally register or remember
+    your presence.
 
 - term: Social Salience
   alternates:
-    - Social Saliency
-    - Salience Network
-  definition: I am really referring to the Salience Network -- a low level part of the brain that processes social signals and gives importance to the same. [Wikipedia](https://en.wikipedia.org/wiki/Salience_network)
-
-- term: A-Salience
-  full: Lack of Social Salience
-  definition: The _experience_ of not being noticed or remembered in social contexts. People who are a-salient may be overlooked in groups, forgotten after interactions, or find their contributions attributed to others.
-
-- term: Signal Blind
-  definition: A term describing individuals who lack social salience. Similar to being "invisible" in social situations, where others don't naturally register or remember your presence.
+  - Social Saliency
+  - Salience Network
+  definition: I am really referring to the Salience Network -- a low level part of
+    the brain that processes social signals and gives importance to the same. [Wikipedia](https://en.wikipedia.org/wiki/Salience_network)
