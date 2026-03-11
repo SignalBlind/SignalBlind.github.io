@@ -27,6 +27,26 @@
     by a monotone voice, immobile face, and reduced body language, often mistaken
     for apathy.
 
+- term: LLM
+  alternates:
+  - Large Language Model
+  - LLMs
+  definition: A large language model such as ChatGPT or Gemini.  These are AI models
+    trained on a huge amount of human writing.  They can't think but they do a good
+    job with pattern matching and (I found) describing NT behavior and thought patterns.
+
+- term: ND
+  alternates:
+  - Neurodivergent
+  definition: Neurodivergent.  Differing in mental or neurological function from what
+    is considered typical or normal.
+
+- term: NT
+  alternates:
+  - Neurotypical
+  definition: Brain development, processing, and behaviors that fall within the expected,
+    societal, or "typical" range.
+
 - term: Phenotype
   alternates:
   - Phenotypic
