@@ -1,4 +1,5 @@
 ---
+permalink: /Experience/Everybody_is_the_Same/
 layout: page
 ---
 All my life I had this idea that everybody was the same in terms of how we thought.  I wonder, is this human nature?  NT people certainly assume everyone else is NT -- the difference is they are mostly right.

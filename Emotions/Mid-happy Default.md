@@ -1,4 +1,5 @@
 ---
+permalink: /Emotions/Mid-happy_Default/
 layout: page
 ---
 # Mid-happy Default

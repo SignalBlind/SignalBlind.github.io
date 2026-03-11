@@ -1,4 +1,5 @@
 ---
+permalink: /Experience/Not_Autism/
 layout: page
 title: Not Autism
 ---

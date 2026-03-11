@@ -1,4 +1,5 @@
 ---
+permalink: /Experience/Flat_Affect/
 layout: page
 ---
 # Flat Affect
