@@ -5,7 +5,7 @@ layout: page
 
 > "I feel something, but I have no words for it".
 
-Alexithymia is a personality trait characterized by an inability to identify, describe, or express one's own emotions.  It is not [Apathy](Apathy.md), which is a lack of interest and is also different than [Flat Affect](Flat%20Affect.md) which is an inability to express emotions.
+Alexithymia is a personality trait characterized by an inability to identify, describe, or express one's own emotions.  It is not [apathy](Easy%20Going.md), which is a lack of interest and is also different than [Flat Affect](Flat%20Affect.md) which is an inability to express emotions.
 
 There are two ways that it might affect a person:
 
@@ -35,7 +35,7 @@ There is a [chart](https://www.thementalhealthcoalition.org/feel-your-feelings/)
 These aren't alexithymia, but they may be perceived to be related:
 
 - [Flat Affect](Flat%20Affect.md)
-- [Apathy](Apathy.md) -- but not really
+- [Easy Going](Easy%20Going.md) -- but not really
 - No mirroring
 
 So I think I don't have alexithymia, but certainly some overlap in *appearance* (phenotype).
