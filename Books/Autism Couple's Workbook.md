@@ -1,4 +1,5 @@
 ---
+permalink: /Books/Autism_Couple's_Workbook/
 layout: page
 title: Autism Couple's Workbook
 ---

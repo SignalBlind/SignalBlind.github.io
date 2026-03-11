@@ -1,4 +1,5 @@
 ---
+permalink: /Books/Patric_Gagne_-_Sociopath/
 layout: page
 title: Patric Gagne
 ---

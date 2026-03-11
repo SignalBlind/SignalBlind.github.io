@@ -1,9 +1,9 @@
 ---
+permalink: /Books/Favorite_Authors/
 layout: page
 title: Favorite Authors
 ---
-Some of my favorite authors, their books and why I like them.  I read for pleasure.
-
+Some of my favorite authors, their books and why I like them.  I read for pleasure.  See some miscellaneous [Other Books](Other%20Books.md).
 ## [Brandon Sanderson](https://www.amazon.com/stores/Brandon-Sanderson/author/B001IGFHW6)
 Tags: System Discovery, High Competence
 
@@ -189,14 +189,3 @@ Tags: Social Absurdity, High Competence
 A little different than the rest: this is manga, webcomic and anime.
 
 *[One Punch Man](https://www.amazon.com/One-Punch-Man/dp/B07JK95JJH)* series - the premise is absurd:  a superhero who is so powerful that he defeats every enemy in one punch.  He makes Superman look like he is made of tissue.  How could this possibly be good?  It doesn't make sense, but it is *very* good.  Saitama lives outside the rules societal structure.  Most of the plot is the other characters in the Hero Association and their often not-very-heroic deeds.  The reveals of Saitama's power are delicious.
-## One-offs
-
-Allan Wold: [Planet Masters](https://www.amazon.com/gp/product/B00B2EGG5G) - sci-fi, mystery, thriller -- a one man force arrives on a mysterious planet to find secrets that people do not want found.
-
-L Ron Hubbard: [Battlefield Earth](https://www.amazon.com/Battlefield-Earth-Invasion-Post-Apocalyptic-Desperate-ebook/dp/B01B41I4NI) - I don't like most of his books, but this one is a real gem.  Sci-fi underdogs fighting against alien overlords.  I like this book because it doesn't end in the middle -- it goes all the way.
-
-Hugh Howey: [Silo](https://www.amazon.com/Silo-Saga-Omnibus-Shift-Stories-ebook/dp/B088BBLMGS) series - a *really* interesting setting (you just have to read it, no spoilers).  Some of the characters you love and some you hate, but they are all compelling to read about.
-
-Philip Jose Farmer: [Dark is the Sun](https://www.amazon.com/Three-Powerful-Science-Fiction-Classics-ebook/dp/B0732JT62D) - sci-fi about the end of the universe.
-
-Ernest Cline: [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline-ebook/dp/B004J4WKUQ) - ok, maybe it is 80s nostalgia and my childhood, but I love this book.  I was there.  I did these things.  Some of the obscure games mentioned -- I played them!  It is a nice puzzle and the juxtaposition of 80s from my childhood and near future VR systems is enjoyable.
