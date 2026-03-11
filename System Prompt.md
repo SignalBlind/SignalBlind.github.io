@@ -1,9 +1,8 @@
 ---
 permalink: /System_Prompt/
 layout: page
+title: System Prompt
 ---
-# System Prompt -- Interacting with LLMs
-
 ### What is a System Prompt?
 
 When interacting with LLMs (e.g. ChatGPT or Gemini) you typically give it a "prompt" -- this is the question you are asking or what you want it to talk about.  There is a lower level set of instructions called a "system prompt" or "system instructions" or sometimes "developer instructions".  These give guidelines on how you want the LLM to interact with you and as you continue the conversation with it, it will be re-presented to keep it fresh.
