@@ -11,6 +11,8 @@ Don't read any of this as medical advice.  It is probably not wise to read it as
 I value the [Truth](How%20I%20Think/Truth.md) above *most* other things (see [Ethics](How%20I%20Think/Ethics.md) for the few things I value more).  As far as I know, what I have written here is true.  Read this disclaimer to understand how I developed the information and judge for yourself.
 
 Just because I think it is true does not mean it is without error.  I may misrepresent, I may misunderstand and I may not know, but I wouldn't write it if I didn't *think* it was true.  [Let me know if you find an error or have a question!](https://github.com/SignalBlind/SignalBlind.github.io/issues)
+
+This model is not sacrosanct.  I feel no [Shame](Emotions/Shame.md) and although this describes my identity, it is *not* my identity.  It can be updated with no *emotional* cost if it is found to be incorrect.  There is *mechanical* cost to update it, but I value truth and accuracy.  The model is less useful if it is not correct.
 ## How I Developed This Information
 You can read my [History](Experience/History.md) to see my journey.  For most of the material here I worked with LLMs to:
 
