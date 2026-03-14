@@ -19,6 +19,8 @@ Social saliency doesn't just apply to non-verbal cues, it also affects:
 - anticipation
 
 Social salience is roughly the volume control on the social signal.
+
+Note: the social salience network is primarily the anterior insula and dorsal anterior cingulate cortex.  Yeah, I don't know where those are either, but if you are curious, that is what I read!
 ## My Experience: Lack of Social Saliency
 
 I experience a complete lack of social saliency -- the volume on the social signal is turned to zero.  It is [Pure A-salience](Pure%20A-salience.md), a complete signal blindness (hence the website name).

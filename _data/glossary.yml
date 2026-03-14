@@ -4,6 +4,10 @@
     People who are a-salient may be overlooked in groups, forgotten after interactions,
     or find their contributions attributed to others.
 
+- term: Absorption
+  definition: Absorption is a disposition or personality trait in which a person becomes
+    absorbed in their mental imagery, particularly fantasy.  [Wikipedia](https://en.wikipedia.org/wiki/Absorption_(psychology))
+
 - term: Alexithymia
   definition: Emotional blindness, a phenomenon characterized by difficulties processing
     or describing one's emotions. [Wikipedia](https://en.wikipedia.org/wiki/Alexithymia)
@@ -17,15 +21,32 @@
     by challenges with social skills, repetitive behaviors, and communication differences.
     [Wikipedia](https://en.wikipedia.org/wiki/Autism)
 
+- term: Black Box
+  alternates:
+  - Black Boxes
+  definition: A system where you can observe inputs and outputs without knowing the
+    internal function or state. [Wikipedia](https://en.wikipedia.org/wiki/Black_box)
+
 - term: DSM-5
   definition: Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition.  Clinical
     taxonomic and diagnostic manual published by the  American Psychiatric Association.
     [Wikipedia](https://en.wikipedia.org/wiki/DSM-5)
 
+- term: Endophasia
+  alternates:
+  - Imagined speech
+  - Inner speech
+  definition: Thinking in the form of sound -- hearing your own voice silently to
+    oneself. [Wikipedia](https://en.wikipedia.org/wiki/Imagined_speech)
+
 - term: Flat Affect
   definition: The near or total absence of outward emotional expression, characterized
     by a monotone voice, immobile face, and reduced body language, often mistaken
     for apathy.
+
+- term: Hypophantasia
+  definition: A cognitive condition characterized by very low, faint, or unstable
+    visual mental imagery.
 
 - term: LLM
   alternates:

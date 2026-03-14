@@ -26,5 +26,10 @@ Yes, as far as I know.  I am sure my ethics and even abilities were honed over t
 #### What are you diagnosed with?
 Nothing -- I was asked if I was ever diagnosed with [Autism](Experience/Not%20Autism.md) and that is what led me to investigate being ND.  The DSM-5 typically requires some impairment or distress in parts of your life for a "diagnosis".  That is not to say that my condition had no effect on my life but I didn't observe any impairment -- I thought [Everybody is the Same](Experience/Everybody%20is%20the%20Same.md).
 
-I believe I have no [Social Salience](Experience/Social%20Salience.md) and feel that it predicts my behavior and experience, but this is not a diagnosis.
+I believe I have no [Social Salience](Experience/Social%20Salience.md) and feel that it predicts my behavior and experience, but 
+this is not a diagnosis.
 
+#### Do you wish you were neurotypical?
+No, I don't feel any distress from having no [Social Salience](Experience/Social%20Salience.md).  In fact, the social areas where I *might* feel distress are exactly the things that I don't care about because of this lack.  I never knew I was "missing" anything and until very recently didn't even know I was different from other people.
+
+If I became NT I would be a completely different person.  I would experience the world a different way, I would *think* a different way.  I would not to be someone other than myself.

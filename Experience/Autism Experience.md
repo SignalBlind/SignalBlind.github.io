@@ -8,6 +8,8 @@ This describes a typical autistic person's experience of [Theory of Mind](Theory
 
 **Note**: I do not experience this and have only information gleaned from LLMs.  In fact this may not match _anyone's_ experience, but this model _does_ fit with how I have read people think the ToM mechanism behind autism works.
 
+**Note 2:** See also [Mindblind Eyes: An Absence of Spontaneous Theory of Mind in Asperger Syndrome, Senju et al.](Where%20Are%20My%20People?.md#Mindblind%20Eyes%20An%20Absence%20of%20Spontaneous%20Theory%20of%20Mind%20in%20Asperger%20Syndrome,%20Senju%20et%20al.) for a paper that talks about autistic people who (like me) have no [Social Salience](Social%20Salience.md) (or maybe not, see the paper right after that).
+
 See also: [NT Experience](NT%20Experience.md) and [My Experience](My%20Experience.md).
 
 - Able to receive signal from non-verbal cues

@@ -38,6 +38,7 @@ I know that the usual style for writing is "person who is tall", but I am going 
 
 - I am talking about people _with_ these conditions -- the condition is important
 - I have read that because autism is very much *part* of a person autistic people prefer that wording
+- I think the prose is easier to read
 
 If I have that wrong please let me know!
 ## Writing Style and Formatting

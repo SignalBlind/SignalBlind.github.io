@@ -1,4 +1,5 @@
 ---
+permalink: /Experience/Easy_Going/
 layout: page
 ---
 # Easy Going
