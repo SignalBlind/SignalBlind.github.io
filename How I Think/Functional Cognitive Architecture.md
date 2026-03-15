@@ -58,7 +58,7 @@ I can translate real world data into straightforward logic (but like real softwa
 
 These are the rules I follow -- what is right and wrong.  To some extent, what are my low level goals in life.  These are fixed rules, evaluated in priority order.  A higher priority rule may override a lower priority rule, but violation of the rules is not possible.  They are rigid.
 
-Well, of course anything is possible.  One of my rules is about [Facts and Truth](Facts%20and%20Truth.md) and it is physically possible for me to lie, I just won't do it.  Could something force my hand?  Maybe, maybe not.  It would be a BIG DEAL and QUITE TRAUMATIC for me to be forced into something like that.  In realistic situations, no, these are fixed rules.
+Well, of course anything is possible.  One of my rules is about [Truth and Facts](Truth%20and%20Facts.md) and it is physically possible for me to lie, I just won't do it.  Could something force my hand?  Maybe, maybe not.  It would be a BIG DEAL and QUITE TRAUMATIC for me to be forced into something like that.  In realistic situations, no, these are fixed rules.
 #### [Manual Frame Construction](Manual%20Frame%20Construction.md)
 
 Understanding the situation and determining:
@@ -88,6 +88,8 @@ Obviously this is expensive, perhaps more so than Theory-Theory.  Luckily I have
 	- if the cost of a mistake is low, same -- choosing a restaurant is very low stakes (for me anyway)
 	- own the cost of a mistake -- accept that they can happen
 
+Given the model I can compute the actions (instructions) needed to achieve the desired result.  Those are the instructions I need to evaluate in the next step -- some small subset of my available instructions.
+
 These optimizations might not be possible or make sense in people with more traditional mental architectures.  For me they make everyday situations [Zero Lag](../Experience/Zero%20Lag.md) and friction free.
 #### [Propositional Logic](Propositional%20Logic.md) (Runtime)
 
@@ -115,3 +117,16 @@ These layers and probably ethics are all managed manually by me executing my [In
 Perhaps surprisingly this gives me a [Zero Lag](../Experience/Zero%20Lag.md) system that worked well enough that I [didn't even know it was a thing](../Experience/Everybody%20is%20the%20Same.md).  I don't try to emulate NT [Theory of Mind](../Experience/Theory%20of%20Mind.md), I didn't know that was a thing until [recently](../Experience/History.md) either.  This is quite a different mechanism than autism, though there is some overlap in [social communication](../Experience/Not%20Autism.md).
 
 What does this feel like?  [Hypophantasia](../Experience/Hypophantasia.md) describes part of it, including my memory and what the experience is like.  I try to explain the rest in [What Thoughts Looks Like](What%20Thoughts%20Looks%20Like.md).
+## High Fidelity Example
+
+This is an example that shows how my cognitive architecture is *very* different than what an NT person experiences and not in a very good way (in this case).
+
+I received a call late one night and the caller was very upset (crying) and had questions about programming.
+
+I could hear crying and identify that as a high magnitude signal for being upset.  I also had a question that I knew how to answer.  I don't recall if I asked why the caller was upset (in any event I didn't get an answer).  Since I didn't have any sadness to debug, my Manual Frame Construction went for:
+
+> question about software, rule: software expert, provide answer
+
+Functional logic modeling quickly provided the shortcut for answering programming questions, I looked up the information in my memory (facts) and my propositional logic performed the delivery of the information. 
+
+To an NT person this probably sounds very cold or even cruel.  I don't have [affective empathy](../Emotions/Empathy.md) so I can't pick up the signal that is very obvious to most people.  This was a non-sequitur in my mind -- two pieces of incongruent information and I picked the one that I could easily deal with.  The upset fact was discarded as irrelevant.  I don't intend to be cold, but it is a fact of having no [Social Salience](../Experience/Social%20Salience.md).
