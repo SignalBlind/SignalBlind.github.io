@@ -32,9 +32,9 @@ Aphantasia is the inability to visualize mental images.  Hypophantasia is a less
 
 I find that my mental imagery looks a bit like a Lite-Brite.  Sort of outlines of images.  I think it is consciously directed.  I can recall what things looked like, visualize maps or layouts, and easily picture complex structures in software.
 
-## [Inner Speech](https://en.wikipedia.org/wiki/Imagined_speech)
+## Inner Speech
 
-Related to these is what thinking "sounds like" in my brain (not looks like!).  People who are more visual may experience a flow of images.  Because of my hypophantasia I internally vocalize my thoughts.  I am literally talking to myself to think.  There is no audience, just me.  It is not a rehearsal for what I will say, it is how my thoughts are realized.  I do this when I am by myself.
+Related to these is what thinking "sounds like" in my brain (not looks like!).  People who are more visual may experience a flow of images.  Because of my hypophantasia I internally vocalize my thoughts, which is called [Inner Speech](https://en.wikipedia.org/wiki/Imagined_speech).  I am literally talking to myself to think.  There is no audience, just me.  It is not a rehearsal for what I will say, it is how my thoughts are realized.  I do this when I am by myself.
 
 Conscious thought is typically in full sentences, or at least sentence fragments.  More spurious thoughts are single words: as I walk through a crowd I am thinking "left" and "avoid", not full sentences.
 

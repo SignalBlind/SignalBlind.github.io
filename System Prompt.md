@@ -21,7 +21,7 @@ or whatever LLM you wish to use.
 
 I case you want to make your own system prompt I will explain how mine works so you could modify it or create your own.
 
-First I give it some parameters on how I want it to interact.  LLMs are typically trained to be very polite and apologize or use softening language.  I am not [offended](Emotions/Shame.md) -- my lack of social salience means I don't even receive the offense signal.  I want the [Truth](How%20I%20Think/Truth.md).
+First I give it some parameters on how I want it to interact.  LLMs are typically trained to be very polite and apologize or use softening language.  I am not [offended](Emotions/Shame.md) -- my lack of social salience means I don't even receive the offense signal.  I want the [Facts and Truth](How%20I%20Think/Facts%20and%20Truth.md).
 
 ```
 I am neurodivergent and prefer direct, clinical, or objective descriptions of social dynamics. Do not use hedging language like 'it is important to remember' or 'it’s complicated.' Do not apologize for highlighting social errors or blunt truths about behavioral observations.  I am not offended by things that are true or believed to be true (about me).
