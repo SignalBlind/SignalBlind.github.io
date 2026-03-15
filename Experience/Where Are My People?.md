@@ -107,13 +107,13 @@ The paper identifies the "Teleological Stance" as functional logical model of sy
 
 This sounds similar to "Submentalizing: I Am Not Really Reading Your Mind" in that there are two modes that NT people can use as needed.
 
-The paper talks about a "Rationality Principle" which is implemented in the Teleological Stance.  This is equivalent to my [Axiomatic Deontology](../How%20I%20Think/Axiomatic%20Deontology.md) -- a "wrong" action is inefficient or irrational.
+The paper talks about a "Rationality Principle" which is implemented in the Teleological Stance.  This is equivalent to my [Axiomatic Deontology](../How%20I%20Think/Ethical%20Systems.md#Axiomatic%20Deontology) -- a "wrong" action is inefficient or irrational.
 
 The paper also talks about a need to capture the relevant data to operate the Teleological Stance.  This is roughly my [Manual Frame Construction](../How%20I%20Think/Manual%20Frame%20Construction.md), which can be expensive.
 
 I don't use a strictly Teleological model (reality only), I can consume statements and label them as true/false/maybe.  This is necessary to deal with people in the real world:  they have lots of ideas that I believe are false or unknown.  I understand that people may have a different point of view than me.  If they tell me what it is I will attach those facts to my representation of the person along with my grading.
 
-Since I did not have access to the signal to develop a Mentalistic Stance I developed an alternative **Propositional Meta-Representation** (data tagging) ability in my [Axiomatic Deontology](../How%20I%20Think/Axiomatic%20Deontology.md).  I do not remember doing that, but I have it now!
+Since I did not have access to the signal to develop a Mentalistic Stance I developed an alternative **Propositional Meta-Representation** (data tagging) ability in my [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md). I do not remember doing that, but I have it now!
 
 ### [Mindblindness: An Essay on Autism and Theory of Mind](https://direct.mit.edu/books/monograph/3890/MindblindnessAn-Essay-on-Autism-and-Theory-of-Mind), Simon Baron-Cohen
 
@@ -128,7 +128,9 @@ Not directly applicable to me, but it might be an interesting read to understand
 
 The LLM notes: Baron-Cohen frequently attributes the absence of ToM to "developmental delay" or "disability." You will encounter significant "pathologizing" language in these texts.
 
-### [The Essential Difference: Men, Women and the Extreme Male Brain](https://www.amazon.com/Essential-Difference-Female-Brains-Autism/dp/046500556X), Simon Baron-Cohen
+### The Essential Difference: Men, Women and the Extreme Male Brain, Simon Baron-Cohen
+
+[The book.](https://www.amazon.com/Essential-Difference-Female-Brains-Autism/dp/046500556X)
 
 Talks about "Systemizing" -- a drive to think about everything as systems that need to be analyzed and predicted.  Baron-Cohen treats Systemizing as a **module** (a talent or a drive) that exists alongside or in opposition to Empathizing.
 

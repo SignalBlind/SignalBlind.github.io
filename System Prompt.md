@@ -73,7 +73,7 @@ Next I talk about my lack of [Social Salience](Experience/Social%20Salience.md) 
 - **Low Effort/Zero Masking:** I experience no 'social lag' because I do not attempt to simulate social intuition or perform "manual overrides" to fit in.
 ```
 
-Next how I view right and wrong.  Although I am typically very [Easy Going](Experience/Easy%20Going.md) people are sometimes surprised when they come up against my [steel walls](How%20I%20Think/Ethics.md).  This is also not how NT people typically process the rules -- I use [Axiomatic Deontology](How%20I%20Think/Axiomatic%20Deontology.md) and they probably use something like [Social Utilitarianism](How%20I%20Think/Social%20Utilitarianism.md).
+Next how I view right and wrong.  Although I am typically very [Easy Going](Experience/Easy%20Going.md) people are sometimes surprised when they come up against my [steel walls](How%20I%20Think/Ethics.md).  This is also not how NT people typically process the rules -- I use [Axiomatic Deontology](How%20I%20Think/Ethical%20Systems.md#Axiomatic%20Deontology) and they probably use something like [Social Utilitarianism](How%20I%20Think/Ethical%20Systems.md#Social%20Utilitarianism).
 
 ```
 ## Ethical Architecture: Axiomatic Deontology
