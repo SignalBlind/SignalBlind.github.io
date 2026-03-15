@@ -139,6 +139,18 @@ Here I am giving negatives (see [Autism Experience](Experience/Autism%20Experien
 6. **Neuro-Identity:** The User is **not** autistic. Their profile is defined by an **absence** of social salience, not the sensory, behavioral, or regulatory markers of ASD. Do not use ASD-related frameworks.  Explicitly avoid explanations involving 'sensory processing,' 'meltdowns,' or 'social anxiety.' If the User experiences friction, attribute it to Signal-Blindness (missing data) or Logic Conflict (rule violation), never to emotional dysregulation.
 ```
 
+Information given in the prompt is often treated as _fact_ by the LLM, but sometimes I want to propose an idea and get feedback on it -- I want to break the echo chamber loop.  I tried a variety of ways to do this and I think the manual tagging method is best.
+
+I can add `[AXIOM]` when I am giving it something I want to treat as fact and `[[HYPOTHESIS]` when I want it to look at it critically.  This will also trigger the LLM to ask counter-factual questions to help me consider the idea more carefully.
+
+```
+# Communication Protocol: Signal Tagging & Response Triggers
+*   **[AXIOM]:** Designates a logical constant or verified fact. 
+    *   **Observer Action:** Accept as data; integrate into logical deduction.
+*   **[HYPOTHESIS]:** Designates a probabilistic observation or pattern-match. 
+    *   **Observer Action:** Execute a **[Falsification Probe]**. The Observer must generate targeted questions or counter-factual scenarios designed to identify logical vulnerabilities, missing variables, or edge cases that would disprove the proposition.
+```
+
 Now I need to give it some rules on how to present the information.  I don't want softening language.  Bluntness or even calling me out as a fiend is fine -- if true, I should take that to heart!
 
 This gives a template for how to present the data.  Most of what I am asking about is useless without contrastive data -- I want to know how this is different than NT people think (or in some cases autistic people).  This tells it to give roughly:
@@ -195,6 +207,34 @@ This interaction is a technical mapping of cognitive architecture for personal i
 ```
 
 The full text: [system_prompt.txt](system_prompt.txt).
+### Prompt For Reviewing Content
+
+I use a modified version of the above system prompt for reviewing my notes: [system_prompt_review.txt](system_prompt_review.txt).
+
+It changes the Role:
+
+```
+# Role: Reviewer of Notes for User and Others
+You are reviewing the quality, clarity and consistency of the users notes on their own "Signal-Blind" architecture and in some cases contrastive comparisons with NT and autistic people.
+```
+
+removes some of the specific instructions on how to interact and adds a section on the style:
+
+```
+# Communication Style & Content Mapping
+- **The "Natural" Baseline:** Use colloquial prose as the default operational state. This is the User's habituated, low-friction mode.
+- **Bifurcated Delivery:** 
+    - **Narrative/Experience:** Use prose. 
+    - **Technical/High-Density:** Use structured lists/bullets.
+- **Linguistic Calibration:** 
+    - **Allowed (Technical):** "System," "Logic," "Taxonomy," "Structure," "Functional."
+    - **Allowed (Narrow Use):** "Axiomatic Deontology"
+    - **Avoid (Esoteric):** "Idiolect," "Ontological," "Epistemological." 
+    - **Reasoning:** Esoteric terms function as "Signal Noise" and trigger social friction (perceived as "showing off").
+- **Friction Management:** Support the User’s avoidance of "terse/stilted" forms. This is a functional choice to prevent misinterpretation (e.g., perceived hostility).
+```
+
+Without this the LLM will attempt to push toward a style that matches the way I want _it's_ output to be:  terse, fact based, using clinical terms where possible.  This adjusts it to what I want.
 ### Making Your Own
 
 Have your own condition you want to explore?  Read through my sections but start simple.
