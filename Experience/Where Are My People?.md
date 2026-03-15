@@ -77,25 +77,14 @@ The paper talks about [Manual Frame Construction](../How%20I%20Think/Manual%20Fr
 
 In short this describes the mechanism that differs between NT and autistic people (specifically [Asperger Syndrome](https://en.wikipedia.org/wiki/Asperger_syndrome), now called Level 1 ASD) and how autistic people can compensate.
 
-The _really_ interesting part of this paper is that it measured (via eye tracking) individuals with no [Social Salience](Social%20Salience.md) but were still diagnosed with ASD.  This suggests that:
-
-- lack of social salience can be combined with other factors and have different outcomes
-- these individuals had **Social Pressure** to behave like NT people
-	- but no signal whatsoever -- perhaps they were trying to tease some social signal out of the noise floor
-	- this would likely be incredibly stressful and effortful
-- they have **Regulatory Sensitivity** (category B) and this can trigger a meltdown
-
-These people don't have the same configuration as me, but the lack of social salience is a solid hit.
-
-However, see the next paper for a contrasting point of view on the same people!
-
+The paper claimed that it tested ASD subjects (via eye tracking) and found they had no [Social Salience](Social%20Salience.md) but were still diagnosed with ASD.  Although this seems like it might be possible, it doesn't seem likely.  I think the noisy social saliency that [autistic people experience](Autism%20Experience.md) is the trigger for some of the [category B compensation effects](Not%20Autism.md).  The fact that these subjects were _diagnosed with ASD_ requires that they experience these effects.  Now I am no expert on this subject, but I am not sure I buy it.  Read the next paper -- Heyes didn't buy it either.
 ### [Submentalizing: I Am Not Really Reading Your Mind](https://www.semanticscholar.org/paper/Submentalizing%3A-I-Am-Not-Really-Reading-Your-Mind-Heyes/dd4625094a712f55d5f11bb469a2a80295831061) by Cecilia Heyes
 
 The paper’s core thesis is that "social" behavior is often driven by domain-general cognitive processes rather than a dedicated Social Saliency module. Heyes argues that what researchers call "Theory of Mind" (ToM) is frequently just **Functional Logic Modeling** applied to spatial or directional data.  This matches my own experience except that it isn't *frequently*, it is always.  I do have a "fast mode" in my [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md) that I use in a similar way, but it is the _same_ mechanism with shortcuts, not a different mechanism.
 
 Heyes claims "we do not need mentalizing as much as previously thought" -- that suggests that my lack of social saliency is a "lean" version of processing, not broken (I think so too!).  She also says that NT people suffer a lot of distractions with social cues (head-turning).
 
-Curiously Heyes interprets the observations from Senju differently.  The NT subjects were pulled by a non-verbal cue from the agent while the autistic subjects were focused on the truth.  They didn't miss the social signal, it was a distraction that didn't pass their filter.  If true, this is closer to the model I describe in [Autism Experience](Autism%20Experience.md).  I don't know one way or the other.
+Curiously Heyes interprets the observations from Senju differently.  The NT subjects were pulled by a non-verbal cue from the agent while the autistic subjects were focused on the truth.  They didn't miss the social signal, it was a distraction that didn't pass their filter.  It wasn't lack of social salience, but it is some effect from their noisy social salience.
 
 Another interesting point Heyes makes is about "head-turning" is that it isn't a social signal at all -- it is this term "submentalizing".  It is roughly the same as a bright flashing light or a loud bang and is a very low level signal that should grab attention regardless of the social capacity.
 
