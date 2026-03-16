@@ -41,6 +41,7 @@ Tags: High Competence, System Discovery
 *[Formic Wars](https://www.amazon.com/The-First-Formic-War/dp/B074CDJYYT)* series and [Second Series](https://www.amazon.com/The-Second-Formic-War/dp/B07TD6S893).
 - more exploration in competence and system discovery
 - these books form the background for the Ender books
+
 ## [Allan Cole](https://www.amazon.com/stores/Allan-Cole/author/B000AR9N24) and [Chris Bunch](https://www.amazon.com/stores/Chris-Bunch/author/B000AP7QHA)
 Tags: High Competence, System Discovery
 
@@ -51,6 +52,7 @@ The *[Sten](https://www.amazon.com/dp/B0753KR7JZ)* series
 *The Far Kingdoms*, *The Last Legion*, *Seer King*, and *Star Risk, LTD.*
 - By both or one of the authors.
 - These are mostly just fun reads.
+
 ## [James S. A. Corey](https://www.amazon.com/stores/James-S.-A.-Corey/author/B004AQ1W8Y)
 Tags: System Discovery.  Deduction and No Decorum (Amos) to a lesser extent.
 

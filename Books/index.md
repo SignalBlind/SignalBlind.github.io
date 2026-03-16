@@ -43,6 +43,7 @@ I prefer plots that resolve into objective truth. Mysteries and espionage thrill
 - **The System Builders (Sanderson, Clancy, Williams, Corey, Niven, Clarke):** These authors construct macro-level functional logic models. Whether it is fleet tactics, cold-war espionage, or intricate fantasy worlds, the appeal is in the structural integrity of the author's world.
     
 - **The Logic Puzzles (Francis, George, Larsson, Preston/Child):** The mystery genre is the literary equivalent of a propositional logic equation. The reader is provided with incomplete data (Initialization Context) and must wait for the protagonist to execute fact-based deduction to solve for X.
+
 ## What I Like
 
 - **On Plot:** I prefer procedural and structurally rigorous plots. I like mysteries, military sci-fi, and legal thrillers because they focus on logical deduction and problem-solving rather than interpersonal drama.

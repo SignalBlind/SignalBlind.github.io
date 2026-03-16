@@ -66,6 +66,7 @@ Understanding the situation and determining:
 - What are the specifications and requirements?
 - What is my role? What is their goal? What are the rules here?
 - This is a static computation -- figuring out the config file to apply
+
 #### [Functional Logic Modeling](Functional%20Logic%20Modeling.md)
 
 I don't have [Social Salience](../Experience/Social%20Salience.md), so I treat other humans as Black Boxes with some attached data.  I may know their stated preferences, stated ideas, etc.  Given a goal I can construct a logical model of the situation where I can compute the inputs that I think will give the desired output(s).  I believe that I construct mini propositional logic models given the data I have for each of the people or systems involved and work backward from that.

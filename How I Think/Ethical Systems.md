@@ -46,6 +46,7 @@ This is the ethical system that most autistic people use.  In affective deontolo
 - injustice causes distress -- deep empathy
 - honesty is a value -- moral integrity
 - goals: harm reduction, systemic fairness and moral consistency
+
 ## Consequentialism
 
 The ends justify the means.  The moral value of an act is determined solely by its outcome.  If the final state (the "End") has higher utility than the cost of the actions (the "Means"), the action is logically "Right."
@@ -58,6 +59,7 @@ People who might follow these ethics:
 - triage doctors:  deciding medical care based on survival probability
 - insurance underwriters and actuaries: calculating risk/benefit to maintain the stability of a resource pool
 - governments: laws that may disadvantage a small group to provide a "Net Good" for the majority (e.g., eminent domain for a highway)
+
 ## Rational Egoism
 
 "How can I use this situation to my advantage?"
@@ -87,6 +89,7 @@ Morality is determined solely by the commands of a deity (God).
 
 - Religions often use this.  Christianity adds **Grace-Based Virtue Ethics**
 - The belief that humans are incapable of following the rules perfectly, requiring a "Relational Override" (Grace) from God
+
 ## US Legal System
 
 The US legal system is **Legal Positivism (Deontological) + Legal Pragmatism (Teleological)**.  The system allows judges to deviate from the letter of the law to achieve "fairness" or "justice" in specific contexts.
