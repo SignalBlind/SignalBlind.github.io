@@ -8,7 +8,7 @@ Things I want readers to understand about the information on this site.
 ## Not Medical Advice
 Don't read any of this as medical advice.  It is probably not wise to read it as advice at all.  This was developed to help me understand myself.  This is not *diagnosing* any condition, it is trying to describe my mental model.  I am not looking for consideration or medicine, I am trying to understand so that I may interact more fruitfully with my wife.
 ## Truth
-I value the [Facts and Truth](How%20I%20Think/Facts%20and%20Truth.md) above *most* other things (see [Ethics](How%20I%20Think/Ethics.md) for the few things I value more).  As far as I know, what I have written here is true.  Read this disclaimer to understand how I developed the information and judge for yourself.
+I value the [Truth and Facts](How%20I%20Think/Truth%20and%20Facts.md) above *most* other things (see [Ethics](How%20I%20Think/Ethics.md) for the few things I value more).  As far as I know, what I have written here is true.  Read this disclaimer to understand how I developed the information and judge for yourself.
 
 Just because I think it is true does not mean it is without error.  I may misrepresent, I may misunderstand and I may not know, but I wouldn't write it if I didn't *think* it was true.  [Let me know if you find an error or have a question!](https://github.com/SignalBlind/SignalBlind.github.io/issues)
 

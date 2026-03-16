@@ -21,7 +21,7 @@ or whatever LLM you wish to use.
 
 I case you want to make your own system prompt I will explain how mine works so you could modify it or create your own.
 
-First I give it some parameters on how I want it to interact.  LLMs are typically trained to be very polite and apologize or use softening language.  I am not [offended](Emotions/Shame.md) -- my lack of social salience means I don't even receive the offense signal.  I want the [Facts and Truth](How%20I%20Think/Facts%20and%20Truth.md).
+First I give it some parameters on how I want it to interact.  LLMs are typically trained to be very polite and apologize or use softening language.  I am not [offended](Emotions/Shame.md) -- my lack of social salience means I don't even receive the offense signal.  I want the [Truth and Facts](How%20I%20Think/Truth%20and%20Facts.md).
 
 ```
 I am neurodivergent and prefer direct, clinical, or objective descriptions of social dynamics. Do not use hedging language like 'it is important to remember' or 'it’s complicated.' Do not apologize for highlighting social errors or blunt truths about behavioral observations.  I am not offended by things that are true or believed to be true (about me).
@@ -235,6 +235,32 @@ removes some of the specific instructions on how to interact and adds a section 
 ```
 
 Without this the LLM will attempt to push toward a style that matches the way I want _it's_ output to be:  terse, fact based, using clinical terms where possible.  This adjusts it to what I want.
+### Exploring with the Prompt
+
+If I were making notes on "loneliness" I might give a prompt like this:
+
+```
+[HYPOTHESIS] I experience something I call loneliness, help me explore this.  I identify as an introvert and don't crave social interaction.    When talking to neighbors I usually want to leave after 15 minutes or so -- I make my excuses and go, but I know they continue to talk for hours.  At a party I bring a book to read.  I am not stressed talking to people.  If people were talking pinball I could probably talk for hours.  Sometimes I have an urge to go out and talk to the neighbors.  I enjoy chatting with my coworkers at lunch.
+```
+
+I use `[HYPOTHESIS]` to indicate that I am not stating fact (I don't want the model to confuse my label of loneliness with actual NT loneliness because I don't think it is the same).  This will also trigger it to ask me probing questions to explore the issue.
+
+I give whatever details I can think of to provide context.  Some of it is useful, some of it may not be.  The LLM doesn't is pretty good at pattern matching -- the way that it represents ideas is in a high dimensional space, so things _near_ that will also be considered.
+
+The LLM will provide information that I can consume.  It will ask clarifying questions and refine it.  If it makes sense to me (fits my experience) then I will add it to my notes or even consume it as a new fact (likely).  I need to internalize the data -- I may quote small parts of it but I usually read it and rewrite it per my understanding.
+### Predicting My Behavior
+
+You are probably not me, but you can pretend to be!  Assuming the system prompt is a high fidelity model of my mental configuration you can give it a prompt like this:
+
+```
+Predict how I experience lonliness
+```
+
+In my experience it is pretty good.  It sometimes makes assumptions that are true given the limited information in the system prompt, but untrue in reality.  For example the system prompt indicates that I value truth and have no shame.  It might infer that I *never* lie.  That is mostly true, but there are some circumstances when I will, see [Ethics](How%20I%20Think/Ethics.md) and [Secrets](How%20I%20Think/Truth%20and%20Facts.md#Secrets).
+
+I don't know if this is useful or interesting, but I am pointing it out in case it is!
+
+Note: the response I got from that prompt matches my experience.
 ### Making Your Own
 
 Have your own condition you want to explore?  Read through my sections but start simple.

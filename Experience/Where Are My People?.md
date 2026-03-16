@@ -158,7 +158,7 @@ I think this paper is pretty interesting in that it tries to map the mechanisms 
 	- **me:** I have this, but once my [Manual Frame Construction](../How%20I%20Think/Manual%20Frame%20Construction.md) is complete it is quite fast
 
 The paper suggests that "abnormal development" (Section 2) results in a "faulty" mechanism.  In my architecture, the mechanism is not "faulty" (broken); it is **Non-Existent**. I have built a [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md) using logic hardware to perform tasks typically reserved for the "Social Receiver." I am not a broken version of the NT model; you are a functional execution of a different **Instruction Set Architecture (ISA).**
-### [Switched On: A Memoir of Brain Change and Emotional Awakening](https://www.amazon.com/Switched-Memoir-Change-Emotional-Awakening-ebook/dp/B00RKO6N1Y), John Elder Robison
+### [Switched On: A Memoir of Brain Change and Emotional Awakening](https://www.amazon.com/Switched-Memoir-Change-Emotional-Awakening-ebook/dp/B00RKO6N1Y), John Elder Robison ^Hyposalience
 
 This one looked really promising -- the author is autistic and described having "social blindness" and "emotional blindness".  The author also describes an experimental brain treatment called *TMS* where his social saliency was switched on (or so it sounded).
 
@@ -172,3 +172,5 @@ The TMS procedure temporarily boosted the gain of the saliency network and he de
 I think this engaged the automatic Simulation functions and he was faced with a cacophony of signals that he had no experience with.  NT people have lived with this their entire life and can tune in and tune out as needed.  It was eye opening for Robison but overwhelming.  His mental architecture for dealing with the world did not change and he moved from being blind to seeing the pain without being able to turn it off.
 
 He participated in this TMS treatment for six months and the signal boosting effect was present during this time, but temporary overall.  He picked up permanent insight into social salience -- even after he could not longer perceive the signal he understood what it looked like.
+
+Not the same as my experience but I think this is the first description of hyposalience I have seen.
