@@ -3,7 +3,7 @@
     let searchIndex;
     let searchData;
 
-    // Load search data
+    // Load search data (returns promise for lazy loading)
     async function loadSearchData() {
         try {
             const searchInput = document.getElementById('search-input');
@@ -76,6 +76,14 @@
         if (!searchInput) return;
 
         let searchTimeout;
+        let loadingPromise = null;
+
+        // Lazy load search data on first focus
+        searchInput.addEventListener('focus', function() {
+            if (!loadingPromise) {
+                loadingPromise = loadSearchData();
+            }
+        }, { once: true });
 
         searchInput.addEventListener('input', function(e) {
             clearTimeout(searchTimeout);
@@ -86,7 +94,8 @@
                 return;
             }
 
-            searchTimeout = setTimeout(() => {
+            searchTimeout = setTimeout(async () => {
+                if (loadingPromise) await loadingPromise;
                 const results = performSearch(query);
                 displayResults(results);
             }, 300);
@@ -100,14 +109,10 @@
         });
     }
 
-    // Load search data when DOM is ready
+    // Init search when DOM is ready
     if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', function() {
-            loadSearchData();
-            initSearch();
-        });
+        document.addEventListener('DOMContentLoaded', initSearch);
     } else {
-        loadSearchData();
         initSearch();
     }
 })();
