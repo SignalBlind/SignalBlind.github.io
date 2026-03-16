@@ -21,12 +21,12 @@ I had a *different* experience.  I manually constructed each step and then was k
 This was the first time I ever heard that somebody might imagine a scene different from the way I do.  I thought [Everybody is the Same](Everybody%20is%20the%20Same.md).
 
 Once I had this contrasting information I was able to go home and find out what this is called -- that let me do more reading on what was going on.  I found it particularly useful to use an LLM (I think ChatGPT in this case) to describe what happened and ask for a term -- the first term I got was Low Absorption.
-## [Low Absorption](https://en.wikipedia.org/wiki/Absorption_(psychology))
+## [Low Absorption](https://en.wikipedia.org/wiki/Absorption_(psychology)) ^LowAbsorption
 
 Absorption is how much a person becomes absorbed in their mental imagery, especially in fantasy.  A person with high absorption (my wife) has fully autonomous imagination.  A person with low absorption (me) has to do everything manually.
 
 Curiously this term originated in a study about how easy it is to be hypnotized.  I might be immune!
-## [Hypophantasia](https://en.wikipedia.org/wiki/Aphantasia)
+## [Hypophantasia](https://en.wikipedia.org/wiki/Aphantasia) ^Hypophantasia
 
 Aphantasia is the inability to visualize mental images.  Hypophantasia is a lesser form with very low, faint, or unstable visual mental imagery.  Hyperphantasia has vivid imagery.
 
