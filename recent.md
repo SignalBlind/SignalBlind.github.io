@@ -20,7 +20,7 @@ description: Pages sorted by most recent updates
   {% endunless %}
 {% endfor %}
 
-{% assign sorted_pages = filtered_pages | sort: "last_modified_at" | reverse %}
+{% assign sorted_pages = filtered_pages | sort: "last_modified_timestamp" | reverse %}
 
 <p>Pages sorted by most recent changes:</p>
 

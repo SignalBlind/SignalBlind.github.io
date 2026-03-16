@@ -52,6 +52,7 @@ exclude_from_updates:
   - /feed.xml
   - /robots.txt
   - /assets/
+  - search-data.json
 
 # Pages to exclude from print export
 exclude_from_print:
