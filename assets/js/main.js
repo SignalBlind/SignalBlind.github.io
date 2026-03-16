@@ -133,10 +133,48 @@ function initTocPanel() {
     });
 }
 
+// Sidebar toggle (mobile)
+function initSidebarToggle() {
+    const toggle = document.getElementById('sidebar-toggle');
+    const sidebar = document.querySelector('.sidebar');
+    const overlay = document.getElementById('sidebar-overlay');
+
+    if (!toggle || !sidebar) return;
+
+    function openSidebar() {
+        sidebar.classList.add('open');
+        toggle.classList.add('active');
+        if (overlay) overlay.classList.add('active');
+    }
+
+    function closeSidebar() {
+        sidebar.classList.remove('open');
+        toggle.classList.remove('active');
+        if (overlay) overlay.classList.remove('active');
+    }
+
+    toggle.addEventListener('click', function() {
+        if (sidebar.classList.contains('open')) {
+            closeSidebar();
+        } else {
+            openSidebar();
+        }
+    });
+
+    if (overlay) overlay.addEventListener('click', closeSidebar);
+
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && sidebar.classList.contains('open')) {
+            closeSidebar();
+        }
+    });
+}
+
 // Initialize everything when DOM is ready
 document.addEventListener('DOMContentLoaded', function() {
     generateTOC();
     initTocPanel();
+    initSidebarToggle();
 
     // Auto-expand category if current page is in it
     const activeLink = document.querySelector('.category-children a.active');

@@ -9,6 +9,7 @@
     color: white;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     z-index: 1000;
+    overflow: hidden;
 }
 
 .header-content {
@@ -19,6 +20,38 @@
     height: 100%;
     max-width: 1400px;
     margin: 0 auto;
+}
+
+/* Hamburger toggle - hidden on desktop */
+.sidebar-toggle {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5em;
+    margin-right: 0.5em;
+    flex-shrink: 0;
+}
+
+.sidebar-toggle span {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background-color: white;
+    margin: 5px 0;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.sidebar-toggle.active span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+}
+
+.sidebar-toggle.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.sidebar-toggle.active span:nth-child(3) {
+    transform: rotate(-45deg) translate(5px, -5px);
 }
 
 .site-title a {
@@ -72,4 +105,33 @@
     outline: none;
     background-color: rgba(255, 255, 255, 0.2);
     border-color: rgba(255, 255, 255, 0.5);
+}
+
+@media (max-width: 768px) {
+    .sidebar-toggle {
+        display: block;
+    }
+
+    .site-title a {
+        font-size: 1.1em;
+    }
+
+    .site-title {
+        white-space: nowrap;
+    }
+
+    .top-nav {
+        display: none;
+    }
+
+    .search-container {
+        flex-shrink: 1;
+        min-width: 0;
+        max-width: 150px;
+    }
+
+    #search-input {
+        font-size: 0.8em;
+        padding: 0.4em 0.6em;
+    }
 }
