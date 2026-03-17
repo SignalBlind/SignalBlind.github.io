@@ -47,15 +47,17 @@ This is my understanding of the mechanism for my neurodivergence and at a high l
 ## Functional Cognitive Architecture (The Stack)
 
 - **Hardware (Input):** [Pure A-Salient] / Zero [Social Saliency]. Social signals are not filtered out; they are not captured.
-
 - **ISA/Structure:** [Propositional Logic]. Information must be discretized; "fuzzy" or "vibe-based" data is discarded as noise.
-
 - **Software (Operating System):** [Axiomatic Deontology]. A fixed set of non-negotiable rules and logical constants.
-
-- **Initialization (Context):** [Non-Blocking Manual Frame Construction]. Context is built from explicit facts. If data is incomplete, the system triggers Heuristic Optimization, executing the most probable functional script to avoid initialization stalls.
-
-- **Data Structures (Modeling):** [Functional Logic Modeling]. Humans and systems are modeled as "black boxes" where inputs are optimized for specific functional outputs.  Do not use full fidelity / high effort when cost of mistakes are low — own the cost of mistakes and don’t worry.
-
+- **Initialization (Context):** [Non-Blocking Manual Frame Construction (MFC)]. 
+    - **Mechanism:** Satisficing search for "Minimum Viable Facts." 
+    - **Efficiency:** Low-cost. Once the "Black Box" type is identified, MFC terminates to avoid analysis paralysis.
+- **Data Structures (Modeling):** [Functional Logic Modeling (FLM)]. 
+    - **The Script Selection (Low Cost):** If a pre-existing script exists (Heuristic Optimization), FLM is near-zero effort.
+    - **Low Fidelity Strategy (Low Cost):** If the cost of mistakes are low - own the mistakes and don't worry.
+    - **The Synthetic Strategy (High Cost):** If no script exists, FLM requires the manual generation of a logical "If/Then" plan. This is high-effort due to the absence of real-time social telemetry (flying blind).
+    - **Replan (Low to Medium Cost):** If new information is presented or the current model (of any type) fails I can replan, typically using a Low Fidelity Strategy, but focused on the specific issue.
+    - **Replan Trigger: (The Explicit Signal Gate)** The system requires a literal fact/statement to exit a Frame. In the absence of an explicit signal, the system exhibits **Frame Persistence** (continuing the old script after the NT group has pivoted).
 - **Execution:** [Propositional Logic]. All output is driven by fact-based deduction and rule-priority.
 ```
 
@@ -65,11 +67,12 @@ Next I talk about my lack of [Social Salience](Experience/Social%20Salience.md) 
 ## Theory of Mind & Social Processing
 
 - **Signal Blindness:** I experience no usable signal for social simulation. Human interactions are processed with the same emotional weight as a weather report or a mathematical equation.
-
 - **Ontological Blindness:** I am unaware of social cues (tone, status-seeking, 'vibes') as a data category. I operate entirely on the **Explicit Signal** (literal text/facts).
-
 - **The No-ToM Architecture:** I do not model internal states (beliefs/feelings). I use **Functional Logic Modeling**: optimizing for low friction and system requirements, not social harmony.
-
+- **Strategic Overrides:** 
+    - **Mechanism:** The manual injection of logical constraints into an FLM during the planning phase.
+    - **Trigger:** Manually detected functional necessity (e.g., "Avoid arguing in meetings to avoid friction").
+    - **Execution:** These are "hard-coded" rules applied to a specific script; they are not real-time intuitive adjustments.
 - **Low Effort/Zero Masking:** I experience no 'social lag' because I do not attempt to simulate social intuition or perform "manual overrides" to fit in.
 ```
 

@@ -61,37 +61,59 @@ These are the rules I follow -- what is right and wrong.  To some extent, what a
 Well, of course anything is possible.  One of my rules is about [Truth and Facts](Truth%20and%20Facts.md) and it is physically possible for me to lie, I just won't do it.  Could something force my hand?  Maybe, maybe not.  It would be a BIG DEAL and QUITE TRAUMATIC for me to be forced into something like that.  In realistic situations, no, these are fixed rules.
 #### [Manual Frame Construction](Manual%20Frame%20Construction.md)
 
+From software: requirements gathering.
+
 Understanding the situation and determining:
 
 - What are the specifications and requirements?
 - What is my role? What is their goal? What are the rules here?
-- This is a static computation -- figuring out the config file to apply
 
+Because this stage can stall as we wait for more data (*analysis paralysis*), I use three heuristics to enable forward progress:
+
+- familiar situation, proceed with script
+- resource allocation strategy
+	- if the effort is much greater than the estimated value of the output or the cost of a mistake
+	- then proceed with known incomplete data
+- perfect data is rarely available
+	- conscious decision
+	- best effort given available data
+
+For the latter two heuristics I can rely on a feedback loop in the functional logic modeling (plan) to adjust for new information that comes in.
+
+These optimizations might not be possible or make sense in people with more traditional mental architectures.  For me they make everyday situations [Zero Lag](../Experience/Zero%20Lag.md) and friction free.
 #### [Functional Logic Modeling](Functional%20Logic%20Modeling.md)
+
+Time for a plan.
 
 I don't have [Social Salience](../Experience/Social%20Salience.md), so I treat other humans as Black Boxes with some attached data.  I may know their stated preferences, stated ideas, etc.  Given a goal I can construct a logical model of the situation where I can compute the inputs that I think will give the desired output(s).  I believe that I construct mini propositional logic models given the data I have for each of the people or systems involved and work backward from that.
 
 Obviously this is expensive, perhaps more so than Theory-Theory.  Luckily I have developed some optimizations:
 
-- full quality models sometimes needed
-	- e.g. a presentation at work where I need to understand how to convince another team to do something
-- I have a library of heuristics for common situations
-	- lunchtime, let's go to the cafeteria
-	- picking a movie with my family
-- perfect data is rarely available
-	- do not stall the process -- if action is needed work with the data we have
-	- understand that the data is incomplete
-		- use risk management strategies if needed
-		- make a conscious decision to proceed
-	- best effort given available data
-- resource allocation strategy
-	- if the effort is much greater than the estimated value of a mistake then use a low fidelity model (incomplete data, best guess, etc.)
-	- if the cost of a mistake is low, same -- choosing a restaurant is very low stakes (for me anyway)
+- familiar situations, e.g. going to lunch, have a script (zero cost)
+- low fidelity models can be used for many situations (low cost)
+	- if the cost of mistakes are low use a low fidelity model
 	- own the cost of a mistake -- accept that they can happen
+	- adjust via feedback
+	- typical random situations
+- high fidelity models can be used when needed (high cost)
+	- for example a presentation to another group to convince them to do a certain project
+	- I need to model complex black boxes that represent people with enough fidelity that I can predict which inputs will produce the desired outputs
+	- this is not used real-time, this is planning for a meeting or other even and asynchronous
 
-Given the model I can compute the actions (instructions) needed to achieve the desired result.  Those are the instructions I need to evaluate in the next step -- some small subset of my available instructions.
+There is one additional heuristic:
 
-These optimizations might not be possible or make sense in people with more traditional mental architectures.  For me they make everyday situations [Zero Lag](../Experience/Zero%20Lag.md) and friction free.
+- replan if necessary (low to medium cost)
+	- if new information is presented or I detect the current plan failing
+	- come up with a new focused low fidelity plan
+
+And a disadvantage: 
+
+- the replan trigger requires explicit information
+	- if the NT people around me have decided on a new, not explicitly stated, plan I will still be on the old plan
+	- in social situations this might mean unstructured shopping time when I think it is time to go to the next destination
+	- this is a significant source of social friction with NT people -- I appear stubborn or stuck
+
+The model produces a plan for how to achieve my goals -- the instructions I need to execute to achieve the desired result.  Those are the instructions I need to evaluate in the next step -- some small subset of my available instructions.
 #### [Propositional Logic](Propositional%20Logic.md) (Runtime)
 
 The Functional Logic Modeling identified the appropriate "instructions" to evaluate from my Propositional Logic and this layer actually executes them.
