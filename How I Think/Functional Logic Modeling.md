@@ -1,12 +1,13 @@
 ---
 permalink: /How_I_Think/Functional_Logic_Modeling/
 layout: page
+order: 130
 ---
 # Functional Logic Modeling
 
 Time for a plan.
 
-I don't have [Social Salience](../Experience/Social%20Salience.md), so I treat other humans as Black Boxes with some attached data.  I may know their stated preferences, stated ideas, etc.  Given a goal I can construct a logical model of the situation where I can compute the inputs that I think will give the desired output(s).  I believe that I construct mini propositional logic models given the data I have for each of the people or systems involved and work backward from that.
+I don't have [Social Salience](../Experience/Social%20Salience.md), so I treat other humans as Black Boxes with some [attached facts](Truth%20and%20Facts.md).  I may know their stated preferences, stated ideas, etc.  Given a goal I can construct a logical model of the situation where I can compute the inputs that I think will give the desired output(s).
 
 Obviously this is expensive, perhaps more so than Theory-Theory.  Luckily I have developed some optimizations:
 
@@ -46,14 +47,18 @@ There is one additional heuristic:
 		- not nearly as fast as NT social signals (double empathy)
 		- but usable with some computational lag in a conversation
 
+See [Typical Example](Examples.md#Typical%20Example) for a replan -- it can be done during a conversation if simple enough.
+
 ### Limitations
 
-And a disadvantage: 
+And some disadvantages: 
 
 - the replan trigger requires explicit information
 	- if the NT people around me have decided on a new, not explicitly stated, plan I will still be on the old plan
 	- in social situations this might mean unstructured shopping time when I think it is time to go to the next destination
 	- this is a significant source of social friction with NT people -- I appear stubborn or stuck
+- if the task requires an emotional plea I likely cannot accomplish it
+	- I can represent my own emotions but I have no [affect empathy](../Emotions/Empathy.md) and cannot adjust
 
 ### Next Step: Propositional Logic (Runtime)
 

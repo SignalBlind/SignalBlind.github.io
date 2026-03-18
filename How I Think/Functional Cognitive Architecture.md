@@ -2,7 +2,7 @@
 permalink: /How_I_Think/
 layout: page
 title: Functional Cognitive Architecture
-order: 20
+order: 100
 ---
 Just like most everything else I describe on this site, it never occurred to me that I might *think* different than most other people.  In terms of computers I have a completely different architecture and have to run a different operating system on it.  I don't have some of the hardware (or it is unusable) like other people have, but I have many of the same basic needs for dealing with the world.
 
@@ -36,6 +36,8 @@ Here only the first 2 layers are hardware and the Social Salience layer is feedi
 At the lowest level I have the 5 normal senses, but they are hooked up to my conscious thoughts.  My lack of [Social Salience](../Experience/Social%20Salience.md) means that the low level connection (layers 1 and 2 in the above architectures) are missing.  My imagination, which might provide some workarounds, is [Hypophantasia](../Experience/Hypophantasia.md), which turns into an amplifying factor.  My only inputs are explicit facts -- things that people tell me.  I can observe physical facts (the car is red) and can draw logical conclusions (X said they like cats, Y is a cat, X probably likes Y).
 
 Note: this is a *logical* model.  I don't literally have these parts.  It may not work exactly like this, it is a model for the purposes of understanding and predicting.
+
+I can't read my own source code, but since this is mostly manual / conscious thought, I can observe the process.  See [Typical Example](Examples.md#Typical%20Example) for something recorded shortly after experiencing (high fidelity, I think).
 #### [Propositional Logic](Propositional%20Logic.md) (ISA)
 
 The lowest layer of my model is propositional logic.  At the lowest layer this is the ISA (instruction set architecture) -- these are the low level instructions I can execute.  Basically if/then/else with some comparisons possible :
@@ -53,6 +55,7 @@ There is a set of "software" built using these instructions that I use to actual
 | **Active Scripts**      | 15–20 Libraries    | Loaded frameworks for specific environments (Work, Child, Stranger).                  |
 | **Peephole Optimizers** | 40–60 Macros       | "Fast-fail" rules for common interactions (The "Nice" Protocol, The "Bathroom" Exit). |
 | **Manual Logic Gates**  | 200–400 Gates      | Discrete IF/THEN decisions executed during an interaction.                            |
+
 I can translate real world data into straightforward logic (but like real software it can be both and imperfect and leaky abstraction).
 #### [Axiomatic Deontology](Ethical%20Systems.md#Axiomatic%20Deontology) / [Ethics](Ethics.md)
 
@@ -63,54 +66,35 @@ Well, of course anything is possible.  One of my rules is about [Truth and Facts
 
 From software: requirements gathering.
 
-Understanding the situation and determining:
-
-- What are the specifications and requirements?
-- What is my role? What is their goal? What are the rules here?
+- What is the situation and requirements?
 
 Because this stage can stall as we wait for more data (*analysis paralysis*), I use three heuristics to enable forward progress:
 
 - familiar situation, proceed with script
-- resource allocation strategy
-	- if the effort is much greater than the estimated value of the output or the cost of a mistake
-	- then proceed with known incomplete data
-- perfect data is rarely available
-	- conscious decision
-	- best effort given available data
+- if the effort is much greater than the estimated value of the output or the cost of a mistake, proceed with known incomplete data
+- perfect data is rarely available, best effort given available data
 
 For the latter two heuristics I can rely on a feedback loop in the functional logic modeling (plan) to adjust for new information that comes in.
-
-These optimizations might not be possible or make sense in people with more traditional mental architectures.  For me they make everyday situations [Zero Lag](../Experience/Zero%20Lag.md) and friction free.
 #### [Functional Logic Modeling](Functional%20Logic%20Modeling.md)
 
-Time for a plan.
+I don't have [Social Salience](../Experience/Social%20Salience.md), so I treat other humans as Black Boxes with some [attached facts](Truth%20and%20Facts.md).  Given a goal I can construct a logical model of the situation where I can compute the inputs that I think will give the desired output(s).
 
-I don't have [Social Salience](../Experience/Social%20Salience.md), so I treat other humans as Black Boxes with some attached data.  I may know their stated preferences, stated ideas, etc.  Given a goal I can construct a logical model of the situation where I can compute the inputs that I think will give the desired output(s).  I believe that I construct mini propositional logic models given the data I have for each of the people or systems involved and work backward from that.
-
-Obviously this is expensive, perhaps more so than Theory-Theory.  Luckily I have developed some optimizations:
-
-- familiar situations, e.g. going to lunch, have a script (zero cost)
-- low fidelity models can be used for many situations (low cost)
-	- if the cost of mistakes are low use a low fidelity model
+- **Script**: familiar situations, e.g. going to lunch, have a script (zero cost)
+- **Low fidelity**: if the cost of mistakes are low, low fidelity models can be used for many situations (low cost)
 	- own the cost of a mistake -- accept that they can happen
-	- adjust via feedback
-	- typical random situations
-- high fidelity models can be used when needed (high cost)
+- **High fidelity**: high fidelity models can be used when needed (high cost)
 	- for example a presentation to another group to convince them to do a certain project
-	- I need to model complex black boxes that represent people with enough fidelity that I can predict which inputs will produce the desired outputs
-	- this is not used real-time, this is planning for a meeting or other even and asynchronous
 
 There is one additional heuristic:
 
 - replan if necessary (low to medium cost)
 	- if new information is presented or I detect the current plan failing
-	- come up with a new focused low fidelity plan
+	- come up with a new focused **low fidelity** plan
 
 And a disadvantage: 
 
 - the replan trigger requires explicit information
 	- if the NT people around me have decided on a new, not explicitly stated, plan I will still be on the old plan
-	- in social situations this might mean unstructured shopping time when I think it is time to go to the next destination
 	- this is a significant source of social friction with NT people -- I appear stubborn or stuck
 
 The model produces a plan for how to achieve my goals -- the instructions I need to execute to achieve the desired result.  Those are the instructions I need to evaluate in the next step -- some small subset of my available instructions.
@@ -140,16 +124,9 @@ These layers and probably ethics are all managed manually by me executing my [In
 Perhaps surprisingly this gives me a [Zero Lag](../Experience/Zero%20Lag.md) system that worked well enough that I [didn't even know it was a thing](../Experience/Everybody%20is%20the%20Same.md).  I don't try to emulate NT [Theory of Mind](../Experience/Theory%20of%20Mind.md), I didn't know that was a thing until [recently](../Experience/History.md) either.  This is quite a different mechanism than autism, though there is some overlap in [social communication](../Experience/Not%20Autism.md).
 
 What does this feel like?  [Hypophantasia](../Experience/Hypophantasia.md) describes part of it, including my memory and what the experience is like.  I try to explain the rest in [What Thoughts Looks Like](What%20Thoughts%20Looks%20Like.md).
-## High Fidelity Example
 
-This is an example that shows how my cognitive architecture is *very* different than what an NT person experiences and not in a very good way (in this case).
+## Examples
 
-I received a call late one night and the caller was very upset (crying) and had questions about programming.
+- [Failure Example](Examples.md#Failure%20Example)
+- [Typical Example](Examples.md#Typical%20Example)
 
-I could hear crying and identify that as a high magnitude signal for being upset.  I also had a question that I knew how to answer.  I don't recall if I asked why the caller was upset (in any event I didn't get an answer).  Since I didn't have any sadness to debug, my Manual Frame Construction went for:
-
-> question about software, rule: software expert, provide answer
-
-Functional logic modeling quickly provided the shortcut for answering programming questions, I looked up the information in my memory (facts) and my propositional logic performed the delivery of the information. 
-
-To an NT person this probably sounds very cold or even cruel.  I don't have [affective empathy](../Emotions/Empathy.md) so I can't pick up the signal that is very obvious to most people.  This was a non-sequitur in my mind -- two pieces of incongruent information and I picked the one that I could easily deal with.  The upset fact was discarded as irrelevant.  I don't intend to be cold, but it is a fact of having no [Social Salience](../Experience/Social%20Salience.md).

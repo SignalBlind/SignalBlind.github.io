@@ -1,6 +1,7 @@
 ---
 permalink: /How_I_Think/Ethical_Systems/
 layout: page
+order: 115
 ---
 # Ethical Systems
 

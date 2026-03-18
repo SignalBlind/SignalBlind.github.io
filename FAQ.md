@@ -33,3 +33,10 @@ this is not a diagnosis.
 No, I don't feel any distress from having no [Social Salience](Experience/Social%20Salience.md).  In fact, the social areas where I *might* feel distress are exactly the things that I don't care about because of this lack.  I never knew I was "missing" anything and until very recently didn't even know I was different from other people.
 
 If I became NT I would be a completely different person.  I would experience the world a different way, I would *think* a different way.  I would not to be someone other than myself.
+
+#### Did an LLM write this?
+No, I wrote it, but I did use an LLM to help -- this isn't my area of expertise and curiously the LLMs could do a good job of explaining the experiences (at least gleaned from papers and writing) of NT and autistic people.
+
+In some cases I presented the LLM with my observations and asked it questions to help me analyze, see [System Prompt](System%20Prompt.md).
+
+I also used the LLM to review my writing and point out areas that were not clear.  In some cases I quoted excerpts from the LLM (say a sentence or a bullet point) ... without attribution.  Sorry!
