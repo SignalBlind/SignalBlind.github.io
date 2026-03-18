@@ -66,6 +66,7 @@ I can handle negative facts:
 - the world is not flat (true)
 
 If I were to find out that a fact in my own viewpoint is false I would discard it or switch it to a negative fact.  These facts are not tied to my identity and I feel no [Shame](../Emotions/Shame.md) in discovering they are wrong -- I prefer knowing the truth, even when it isn't a truth I like and it is about me.
+#### Hard Truths
 
 A concrete example:  if an NT person told me that I am cold-hearted and have no empathy I would evaluate that for truth.  At the very least that person believes it.  Upon self reflection I would likely decide that:
 
