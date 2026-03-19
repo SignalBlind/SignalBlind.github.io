@@ -9,6 +9,13 @@ Time for a plan.
 
 I don't have [Social Salience](../Experience/Social%20Salience.md), so I treat other humans as Black Boxes with some [attached facts](Truth%20and%20Facts.md).  I may know their stated preferences, stated ideas, etc.  Given a goal I can construct a logical model of the situation where I can compute the inputs that I think will give the desired output(s).
 
+This involves:
+
+- retrieving facts and opinions from [associative memory](../Experience/Hypophantasia.md#My%20Experience%20Memory)
+- computing expected value for uncertain variables
+	- ok, I am not literally doing math here but estimating something like `P(50%) * HIGH > P(90%) * LOW`
+- more [Propositional Logic](Propositional%20Logic.md) to model everything
+
 Obviously this is expensive, perhaps more so than Theory-Theory.  Luckily I have developed some optimizations:
 
 - familiar situations, e.g. going to lunch, have a script (zero cost)
@@ -32,7 +39,7 @@ Obviously this is expensive, perhaps more so than Theory-Theory.  Luckily I have
 		- just data and logical arguments
 		- person A's stated goals
 		- known constraints of the environment
-		- logical causal chains ("If I say X, Person A's internal logic should result in Y")
+		- logical causal chains ("Given Person A's stated facts and constraints, a logical agent would produce Y if given input X.")
 	- this is not dissimilar to NT people planning the same meeting, just focusing on pure information and logic
 		- NT people need to consider social and emotional aspects as well
 	- this is not used real-time, this is planning for a meeting or other even and asynchronous

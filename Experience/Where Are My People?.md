@@ -10,7 +10,7 @@ Am I really unique?  Probably not.  Sure, everybody wants to be the main charact
 
 - DSM-5 is for diagnosing disorders -- conditions that impair various functions
 	- my condition has no visible (to me) impairment and thus wouldn't be covered
-- I have a [Zero Lag](Zero%20Lag.md) low effort mechanism
+- I have a [Zero Lag](../How%20I%20Think/Zero%20Lag.md) low effort mechanism
 	- I didn't even know I was [different](Everybody%20is%20the%20Same.md) -- probably other people would be the same
 - I work in the software industry
 	- my [Propositional Logic](../How%20I%20Think/Propositional%20Logic.md) way of thinking fits perfectly -- again, everything seemed natural

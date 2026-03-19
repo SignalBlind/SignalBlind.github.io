@@ -29,7 +29,7 @@ On top of this lack of signal, I [think different than other people](../How%20I%
 You can read about my [emotions](../Emotions/index.md) but you might not perceive them as I have somewhat [Flat Affect](Flat%20Affect.md) and no emotional mirroring or signaling.  I [have emotions](Alexithymia.md) but they are different than what either NT or autistic people experience.  I have no [Shame](../Emotions/Shame.md), see [Hard Truths](../How%20I%20Think/Truth%20and%20Facts.md#Hard%20Truths) for an example.  There are quite a few socially oriented emotions that I simply can't experience.  Others, like [Compassion](../Emotions/Compassion.md) I use the same word (it looks the same to me) but it isn't the same feeling.  [Anger](../Emotions/Anger.md) and [Sadness](../Emotions/Sadness.md) are two that are probably the most similar and recognizable.
 
 The TLDR is:  I don't receive any social signals.  I don't know what other people are feeling or thinking.  I don't know about social positioning.  On top of not knowing, I also don't *care*.  Not in a negative way, more like asking somebody how they feel about radio waves.
-## What Friction Do You Experience?
+## What Friction Do You Experience? ^Friction
 
 I experience very little friction myself.  Although I exhibit [category A](Not%20Autism.md#A%20Social%20Communication%20and%20Interaction) autism social effects I can't really perceive them.  People have told me about them and as I learn more about ND and NT people I can understand that there are differences.  I don't have any of the category B effects or high social cost effects like *meltdowns*.  I am not worried about how others perceive me (again a somewhat unique effect of no social salience).
 

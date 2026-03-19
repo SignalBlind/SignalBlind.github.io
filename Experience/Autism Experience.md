@@ -13,6 +13,8 @@ See also: [NT Experience](NT%20Experience.md) and [My Experience](My%20Experienc
 - Able to receive signal from non-verbal cues
 	- e.g. the social signal
 	- Very aware that others have hidden thoughts, sometimes hyper-aware
+	- The signal may be noisy, unfiltered, has a connection issue or might be something else -- in any event it doesn't engage the automatic simulation hardware in the brain
+		- See [this book](Where%20Are%20My%20People?.md#^Hyposalience) where the author experiences a *change* in their ability
 - Manual processing, manual simulation
 	- Called [Theory-theory](https://en.wikipedia.org/wiki/Theory-theory)
 	- People must manually process social signals through propositional logic

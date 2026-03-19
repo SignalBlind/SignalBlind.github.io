@@ -37,7 +37,7 @@ Per discussion with an LLM I likely have a few hundred instructions:
 | **Peephole Optimizers** | 40–60 Macros       | "Fast-fail" rules for common interactions (The "Nice" Protocol, The "Bathroom" Exit). |
 | **Manual Logic Gates**  | 200–400 Gates      | Discrete IF/THEN decisions executed during an interaction.                            |
 
-In my [Functional Logic Modeling](Functional%20Logic%20Modeling.md) I can select which instructions are needed, giving me [Zero Lag](../Experience/Zero%20Lag.md) evaluation.
+In my [Functional Logic Modeling](Functional%20Logic%20Modeling.md) I can select which instructions are needed, giving me [Zero Lag](Zero%20Lag.md) evaluation.
 
 ## NT Experience
 

@@ -31,6 +31,8 @@ Autistic cognitive architecture might look something like this:
 5. **Runtime:** **Associative Heuristics.** (Consciousness lives in "Vibes" and "Feelings").
 
 Here only the first 2 layers are hardware and the Social Salience layer is feeding noisy data to the rest of the system.  Layer 3 (ToM) is thus very expensive to run.
+
+Note: likely autistic people have the same hardware, but the noisy sensor prevents the automated simulation from engaging.  See [this book](../Experience/Where%20Are%20My%20People?.md#^Hyposalience) that suggests that this is the case.
 ## My Hardware and Software
 
 At the lowest level I have the 5 normal senses, but they are hooked up to my conscious thoughts.  My lack of [Social Salience](../Experience/Social%20Salience.md) means that the low level connection (layers 1 and 2 in the above architectures) are missing.  My imagination, which might provide some workarounds, is [Hypophantasia](../Experience/Hypophantasia.md), which turns into an amplifying factor.  My only inputs are explicit facts -- things that people tell me.  I can observe physical facts (the car is red) and can draw logical conclusions (X said they like cats, Y is a cat, X probably likes Y).
@@ -121,9 +123,9 @@ When I enter a room (let's say at a conference) something like this happens:
 
 These layers and probably ethics are all managed manually by me executing my [Inner Speech](../Experience/Hypophantasia.md#Inner%20Speech).  There are a number of shortcuts I employ in the Functional Logic Modeling -- this isn't as expensive as it sounds.  My entire "stack" is software.
 
-Perhaps surprisingly this gives me a [Zero Lag](../Experience/Zero%20Lag.md) system that worked well enough that I [didn't even know it was a thing](../Experience/Everybody%20is%20the%20Same.md).  I don't try to emulate NT [Theory of Mind](../Experience/Theory%20of%20Mind.md), I didn't know that was a thing until [recently](../Experience/History.md) either.  This is quite a different mechanism than autism, though there is some overlap in [social communication](../Experience/Not%20Autism.md).
+Perhaps surprisingly this gives me a [Zero Lag](Zero%20Lag.md) system that worked well enough that I [didn't even know it was a thing](../Experience/Everybody%20is%20the%20Same.md).  I don't try to emulate NT [Theory of Mind](../Experience/Theory%20of%20Mind.md), I didn't know that was a thing until [recently](../Experience/History.md) either.  This is quite a different mechanism than autism, though there is some overlap in [social communication](../Experience/Not%20Autism.md).
 
-What does this feel like?  [Hypophantasia](../Experience/Hypophantasia.md) describes part of it, including my memory and what the experience is like.  I try to explain the rest in [What Thoughts Looks Like](What%20Thoughts%20Looks%20Like.md).
+What does this feel like?  [Hypophantasia](../Experience/Hypophantasia.md) describes part of it, including my memory and what the experience is like.  I [have an example](Examples.md#Typical%20Example) captured soon after I experienced it and with this framework in mind.
 
 ## Examples
 

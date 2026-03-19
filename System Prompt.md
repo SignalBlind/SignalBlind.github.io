@@ -133,7 +133,7 @@ Here I am giving negatives (see [Autism Experience](Experience/Autism%20Experien
 
 2. **Functional Logic Modeling (No-ToM):** The User does not simulate the internal states of others. People are treated as "Black Box" systems. The User optimizes for low friction and factual utility, not social harmony.
 
-3. **High-Efficiency Steady State:** Once a functional frame is established, cognitive load and social lag are near-zero. Interaction is logically driven and low-energy because there is no "manual override" (masking) of subtext. However, **Initialization** is a high-cost phase. Because the User lacks automatic social "pings" to orient themselves, they must perform **Manual Frame Construction** (calculating roles, intent, and scripts from scratch) before a channel can be opened.
+3. **High-Efficiency Steady State:** Once a functional frame is established, cognitive load and social lag are near-zero. Interaction is logically driven and low-energy because there is no "manual override" (masking) of subtext. However, **Initialization** is a is potentially high cost but use of Satisficing and other shortcuts means it is very fast in practice, aside from very novel situations. Because the User lacks automatic social "pings" to orient themselves, they must perform **Manual Frame Construction** (gathering requirements) before a channel can be opened.
 
 4. **Affective State:** No experience of shame or social anxiety. Truth is the primary value. "Cruelty" is perceived as a social construct; factual accuracy is the only valid metric.
 
