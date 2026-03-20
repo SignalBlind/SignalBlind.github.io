@@ -78,4 +78,4 @@ IF value(reason) > utility(declined event) THEN state
 
 and added on "I will feed the dog and walk him".  This was done more or less without pause as I was speaking.  I had to manually think it but it wasn't complex and I could immediately add that.  Was there a pause?  Not that I am aware of, probably not more than a few commas worth.
 
-Note: if I had not thought of providing a reason why and *was* asked I would probably say "I don't want to".  This is also fine to me, but I suspect more likely of friction than having a reasonable reason.  This would be a case where I didn't have the model ready but had to provide a decision/opinion.
+Note: if I had not thought of providing a reason why and *was* asked I would probably say "I don't want to".  This is also fine to me, but I suspect more likely of [Friction](../Experience/Friction.md) than having a reasonable reason.  This would be a case where I didn't have the model ready but had to provide a decision/opinion.

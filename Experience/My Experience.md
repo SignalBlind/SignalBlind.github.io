@@ -9,8 +9,8 @@ You can read my [History](History.md) and how I discovered that I was ND after o
 
 I have identified two root causes for my ND condition:
 
-- no [Social Salience](Social%20Salience.md) -- [Pure A-salience](Pure%20A-salience.md)
-- [Hypophantasia](Hypophantasia.md)
+- no [Social Salience](Social%20Salience.md) / [Pure A-salience](Pure%20A-salience.md) -- no social signal, don't care about social status
+- [Hypophantasia](Hypophantasia.md) -- low imagery manual 
 
 everything else falls out of that.
 ## What Does it Feel Like?
@@ -31,7 +31,7 @@ You can read about my [emotions](../Emotions/index.md) but you might not perceiv
 The TLDR is:  I don't receive any social signals.  I don't know what other people are feeling or thinking.  I don't know about social positioning.  On top of not knowing, I also don't *care*.  Not in a negative way, more like asking somebody how they feel about radio waves.
 ## What Friction Do You Experience? ^Friction
 
-I experience very little friction myself.  Although I exhibit [category A](Not%20Autism.md#A%20Social%20Communication%20and%20Interaction) autism social effects I can't really perceive them.  People have told me about them and as I learn more about ND and NT people I can understand that there are differences.  I don't have any of the category B effects or high social cost effects like *meltdowns*.  I am not worried about how others perceive me (again a somewhat unique effect of no social salience).
+I experience very little [Friction](Friction.md) myself.  Although I exhibit [category A](Not%20Autism.md#A%20Social%20Communication%20and%20Interaction) autism social effects I can't really perceive them.  People have told me about them and as I learn more about ND and NT people I can understand that there are differences.  I don't have any of the category B effects or high social cost effects like *meltdowns*.  I am not worried about how others perceive me (again a somewhat unique effect of no social salience).
 
 That isn't to say there is no friction.  I know that I can [Say The Wrong Thing](Say%20The%20Wrong%20Thing.md) and I give off *unusual* social signals.  This sometimes causes trouble.  I don't always know it at the time, sometimes people like my wife have to tell me.  For the longest time I thought it couldn't be true -- how could somebody make things up about me and then believe them?  I now know about the [mechanism](Theory%20of%20Mind.md) and have a little more insight here, but still don't _really_ understand it.
 

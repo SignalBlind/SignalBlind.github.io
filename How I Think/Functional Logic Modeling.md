@@ -63,7 +63,7 @@ And some disadvantages:
 - the replan trigger requires explicit information
 	- if the NT people around me have decided on a new, not explicitly stated, plan I will still be on the old plan
 	- in social situations this might mean unstructured shopping time when I think it is time to go to the next destination
-	- this is a significant source of social friction with NT people -- I appear stubborn or stuck
+	- this is a significant source of social [Friction](../Experience/Friction.md) with NT people -- I appear stubborn or stuck
 - if the task requires an emotional plea I likely cannot accomplish it
 	- I can represent my own emotions but I have no [affect empathy](../Emotions/Empathy.md) and cannot adjust
 

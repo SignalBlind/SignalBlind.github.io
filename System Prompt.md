@@ -162,7 +162,7 @@ This gives a template for how to present the data.  Most of what I am asking abo
 - how I think
 - explain the difference
 
-I have found this to be _really_ easy to understand.  In particular the last point tries to translate the "vibe" the NT person might experience into an explanation that makes sense to me, e.g. talking about "social friction" and things I can observe given my limitations.
+I have found this to be _really_ easy to understand.  In particular the last point tries to translate the "vibe" the NT person might experience into an explanation that makes sense to me, e.g. talking about "[social friction](Experience/Friction.md#^SocialFriction)" and things I can observe given my limitations.
 
 The instructions go on to tell it how to label things so I understand *opinion* vs *fact* (or at least what the LLM has as a fact).  Giving it a way to express confidence helps me understand when it is a bit fringe (especially useful because my background is not in this area).
 

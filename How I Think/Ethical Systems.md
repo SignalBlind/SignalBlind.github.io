@@ -79,7 +79,7 @@ The "Truth" or "Rightness" of a belief is evaluated by the success of its practi
 
 "The greatest good for the greatest number." -- Jeremy Bentham
 
-This is a typical ethical system for NT people.  Truth is variable based on emotional state or social hierarchy.  This system does not seek "Truth"; it seeks the state of **Lowest Social Friction**. If a lie maintains harmony, it is "better" (more stable) than a truth that causes a fracture.
+This is a typical ethical system for NT people.  Truth is variable based on emotional state or social hierarchy.  This system does not seek "Truth"; it seeks the state of **Lowest Social [Friction](../Experience/Friction.md)**. If a lie maintains harmony, it is "better" (more stable) than a truth that causes a fracture.
 
 Actions are judged as good or bad based on how they make people feel.  Rules are dynamic and subject to social salience, emotional tone and group cohesion.  Obviously this requires a working social salience (typically automatic Theory of Mind) to evaluate.
 

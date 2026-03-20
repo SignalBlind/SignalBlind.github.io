@@ -37,7 +37,7 @@ So what are my rules?  In priority order, something like this:
 ### Guideline A: **Entropy Reduction** (Politeness Filter, best effort, known faulty)
 
 - Function: A best-effort throttle on the output of Truth.
-- Application: Suppress unsolicited harmful facts (e.g., "You are fat") to reduce systemic friction.
+- Application: Suppress unsolicited harmful facts (e.g., "You are fat") to reduce systemic [Friction](../Experience/Friction.md).
 - Limitation: High error rate due to **Signal-Blindness**
 - I will not tell a lie but I can omit information if I can tell it is 1) useless and 2) might cause friction
 - Note: something like this is likely the *highest* priority for NT people.

@@ -12,7 +12,7 @@ I can be blunt: I will say things that I believe are true without regard for the
 
 I don't feel a need to tell every fact to everyone.  If I think not knowing a fact would cause harm to somebody I will tell them.
 
-I have some heuristics that I manually apply to avoid some social friction, e.g. don't tell somebody they are fat.  These do not have anywhere close to full coverage and their manual application means I do slip up (and not know it).
+I have some heuristics that I manually apply to avoid some [social friction](../Experience/Friction.md#^SocialFriction), e.g. don't tell somebody they are fat.  These do not have anywhere close to full coverage and their manual application means I do slip up (and not know it).
 
 I would rather not say something that say something false.
 #### White Lies
@@ -88,7 +88,7 @@ If I need to state something that is false I would be **very** clear on why I am
 
 This is sort of code review wording -- some of programming is absolute but a lot is opinion or "best" practices.  You need to be careful when giving feedback to indicate if it is something they **must** do or that they **should** do or even **just think about it**.  I use a similar approach in real life.
 
-There are cases where I might use these softening phrases to reduce social friction.  For example, in a meeting with a lot of people it is often counterproductive to correct somebody with a direct and forceful statement (you are wrong, it is X not Y) even if X is known true.  Instead you can ask a question: "I wonder if X might be the case?"  You can state it as an opinion: "I think X might fit better here."  You need to weigh the immediate feedback against correcting it later in a 1:1 situation as well.  I don't have any instinct here, it is just learned heuristics from having made the forceful statement too many times.
+There are cases where I might use these softening phrases to reduce [social friction](../Experience/Friction.md#^SocialFriction).  For example, in a meeting with a lot of people it is often counterproductive to correct somebody with a direct and forceful statement (you are wrong, it is X not Y) even if X is known true.  Instead you can ask a question: "I wonder if X might be the case?"  You can state it as an opinion: "I think X might fit better here."  You need to weigh the immediate feedback against correcting it later in a 1:1 situation as well.  I don't have any instinct here, it is just learned heuristics from having made the forceful statement too many times.
 
 Sometimes I am sloppy with my qualifying statements.  If the stakes are low I may present something as true (no softening) when it is only likely true.  I will also omit the softening language if what is being stated is an opinion and I believe it is clear that it is the case, e.g. "cheese is very tasty" can't be mistaken for an absolute fact.
 

@@ -97,7 +97,7 @@ And a disadvantage:
 
 - the replan trigger requires explicit information
 	- if the NT people around me have decided on a new, not explicitly stated, plan I will still be on the old plan
-	- this is a significant source of social friction with NT people -- I appear stubborn or stuck
+	- this is a significant source of social [Friction](../Experience/Friction.md) with NT people -- I appear stubborn or stuck
 
 The model produces a plan for how to achieve my goals -- the instructions I need to execute to achieve the desired result.  Those are the instructions I need to evaluate in the next step -- some small subset of my available instructions.
 #### [Propositional Logic](Propositional%20Logic.md) (Runtime)
