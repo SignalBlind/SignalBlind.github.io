@@ -86,73 +86,15 @@
     <p><em>This instruction box will not appear in the printed version.</em></p>
 </div>
 
-{% assign sorted_pages = site.pages | sort: 'order' %}
-
-{%- comment -%} Build ordered nav_items list matching sidebar logic {%- endcomment -%}
-{% assign nav_items = "" | split: "" %}
-{% assign seen_categories = "" | split: "" %}
-
-{% for p in sorted_pages %}
-    {% if p.navigation != false %}
-        {% assign inferred_category = "" %}
-        {% if p.path %}
-            {% assign path_parts = p.path | split: "/" %}
-            {% if path_parts.size > 1 %}
-                {% assign first_dir = path_parts[0] %}
-                {% assign first_char = first_dir | slice: 0 %}
-                {% unless first_dir == "_pages" or first_dir == "tags" or first_dir == "assets" or first_dir == "tools" or first_char == "_" %}
-                    {% assign inferred_category = first_dir %}
-                {% endunless %}
-            {% endif %}
-        {% endif %}
-        {% assign effective_category = p.category | default: inferred_category %}
-
-        {% if effective_category and effective_category != "" %}
-            {% unless seen_categories contains effective_category %}
-                {% assign category_order = p.order | default: 999 %}
-                {% assign cat_item = "category|" | append: effective_category | append: "|" | append: category_order %}
-                {% assign nav_items = nav_items | push: cat_item %}
-                {% assign seen_categories = seen_categories | push: effective_category %}
-            {% endunless %}
-        {% elsif p.title %}
-            {% assign page_order = p.order | default: 999 %}
-            {% assign page_item = "page|" | append: p.title | append: "|" | append: page_order | append: "|" | append: p.url %}
-            {% assign nav_items = nav_items | push: page_item %}
-        {% endif %}
-    {% endif %}
+{% assign all_pages_by_url = "" | split: "" %}
+{% for p in site.pages %}
+    {% assign all_pages_by_url = all_pages_by_url | push: p %}
 {% endfor %}
 
-{%- comment -%} Sort nav_items by order value {%- endcomment -%}
-{% assign sorted_nav_items = "" | split: "" %}
-{% for item in nav_items %}
-    {% assign parts = item | split: "|" %}
-    {% assign item_order = parts[2] | plus: 0 %}
-    {% assign inserted = false %}
-    {% assign temp_items = "" | split: "" %}
-    {% for existing in sorted_nav_items %}
-        {% assign existing_parts = existing | split: "|" %}
-        {% assign existing_order = existing_parts[2] | plus: 0 %}
-        {% if inserted == false and item_order < existing_order %}
-            {% assign temp_items = temp_items | push: item %}
-            {% assign inserted = true %}
-        {% endif %}
-        {% assign temp_items = temp_items | push: existing %}
-    {% endfor %}
-    {% if inserted == false %}
-        {% assign temp_items = temp_items | push: item %}
-    {% endif %}
-    {% assign sorted_nav_items = temp_items %}
-{% endfor %}
-
-{%- comment -%} Render pages in sorted order {%- endcomment -%}
-{% for item in sorted_nav_items %}
-    {% assign parts = item | split: "|" %}
-    {% assign item_type = parts[0] %}
-
-    {% if item_type == "page" %}
-        {% assign page_url = parts[3] %}
-        {% for p in sorted_pages %}
-            {% if p.url == page_url %}
+{% for item in site.data.sorted_navigation %}
+    {% if item.type == "page" %}
+        {% for p in all_pages_by_url %}
+            {% if p.url == item.url %}
                 {% assign excluded = false %}
                 {% for exclude_path in site.exclude_from_print %}
                     {% if p.url == exclude_path or p.url contains exclude_path %}
@@ -162,7 +104,7 @@
                 {% endfor %}
                 {% unless excluded or p.url contains "print-export" or p.url contains "pdf-export" %}
 <div class="page-content">
-<h1>{{ p.title }}</h1>
+<h1>{{ item.display_title }}</h1>
 {% if p.content contains "##" %}
   {{ p.content | markdownify }}
 {% else %}
@@ -173,77 +115,29 @@
             {% endif %}
         {% endfor %}
 
-    {% elsif item_type == "category" %}
-        {% assign category_name = parts[1] %}
-
-        {%- comment -%} Split category pages into ordered and unordered {%- endcomment -%}
-        {% assign ordered_pages = "" | split: "" %}
-        {% assign unordered_pages = "" | split: "" %}
-
-        {% for p in sorted_pages %}
-            {% assign inferred_category = "" %}
-            {% if p.path %}
-                {% assign path_parts = p.path | split: "/" %}
-                {% if path_parts.size > 1 %}
-                    {% assign first_dir = path_parts[0] %}
-                    {% assign first_char = first_dir | slice: 0 %}
-                    {% unless first_dir == "_pages" or first_dir == "tags" or first_dir == "assets" or first_dir == "tools" or first_char == "_" %}
-                        {% assign inferred_category = first_dir %}
+    {% elsif item.type == "category" %}
+        {% for child in item.children %}
+            {% for p in all_pages_by_url %}
+                {% if p.url == child.url %}
+                    {% assign excluded = false %}
+                    {% for exclude_path in site.exclude_from_print %}
+                        {% if p.url == exclude_path or p.url contains exclude_path %}
+                            {% assign excluded = true %}
+                            {% break %}
+                        {% endif %}
+                    {% endfor %}
+                    {% unless excluded or p.url contains "print-export" or p.url contains "pdf-export" %}
+<div class="page-content">
+<h1>{{ child.display_title }}</h1>
+{% if p.content contains "##" %}
+  {{ p.content | markdownify }}
+{% else %}
+  {{ p.content }}
+{% endif %}
+</div>
                     {% endunless %}
                 {% endif %}
-            {% endif %}
-            {% assign effective_category = p.category | default: inferred_category %}
-
-            {% if p.navigation != false and effective_category == category_name %}
-                {% if p.order %}
-                    {% assign ordered_pages = ordered_pages | push: p %}
-                {% else %}
-                    {% assign unordered_pages = unordered_pages | push: p %}
-                {% endif %}
-            {% endif %}
-        {% endfor %}
-
-        {% assign unordered_pages = unordered_pages | sort: "title" %}
-
-        {%- comment -%} Output ordered pages first, then unordered alphabetically {%- endcomment -%}
-        {% for p in ordered_pages %}
-            {% assign excluded = false %}
-            {% for exclude_path in site.exclude_from_print %}
-                {% if p.url == exclude_path or p.url contains exclude_path %}
-                    {% assign excluded = true %}
-                    {% break %}
-                {% endif %}
             {% endfor %}
-            {% unless excluded or p.url contains "print-export" or p.url contains "pdf-export" %}
-<div class="page-content">
-<h1>{{ p.title }}</h1>
-{% if p.content contains "##" %}
-  {{ p.content | markdownify }}
-{% else %}
-  {{ p.content }}
-{% endif %}
-</div>
-            {% endunless %}
-        {% endfor %}
-
-        {% for p in unordered_pages %}
-            {% assign excluded = false %}
-            {% for exclude_path in site.exclude_from_print %}
-                {% if p.url == exclude_path or p.url contains exclude_path %}
-                    {% assign excluded = true %}
-                    {% break %}
-                {% endif %}
-            {% endfor %}
-            {% unless excluded or p.url contains "print-export" or p.url contains "pdf-export" %}
-<div class="page-content">
-<h1>{{ p.title }}</h1>
-{% if p.content contains "##" %}
-  {{ p.content | markdownify }}
-{% else %}
-  {{ p.content }}
-{% endif %}
-</div>
-            {% endunless %}
         {% endfor %}
     {% endif %}
 {% endfor %}

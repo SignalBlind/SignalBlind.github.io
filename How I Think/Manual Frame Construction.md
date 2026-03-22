@@ -1,7 +1,7 @@
 ---
 permalink: /How_I_Think/Manual_Frame_Construction/
 layout: page
-order: 120
+order: 1120
 ---
 # Manual Frame Construction
 

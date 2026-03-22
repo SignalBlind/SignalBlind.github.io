@@ -2,6 +2,7 @@
 layout: page
 title: My Experience
 permalink: /experience/
+order: 500
 ---
 You can read my [History](History.md) and how I discovered that I was ND after over 50 years thinking [Everybody is the Same](Everybody%20is%20the%20Same.md).
 

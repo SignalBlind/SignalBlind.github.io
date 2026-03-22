@@ -1,5 +1,6 @@
 ---
 layout: page
+order: 503
 ---
 # Hypophantasia, Low Absorption, and Inner Speech
 

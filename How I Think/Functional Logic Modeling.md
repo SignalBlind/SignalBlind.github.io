@@ -1,7 +1,7 @@
 ---
 permalink: /How_I_Think/Functional_Logic_Modeling/
 layout: page
-order: 130
+order: 1130
 ---
 # Functional Logic Modeling
 

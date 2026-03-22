@@ -2,6 +2,7 @@
 permalink: /Experience/Not_Autism/
 layout: page
 title: Not Autism
+order: 510
 ---
 When I first met a therapist she asked me if I had ever been diagnosed with autism.  I hadn't and was a bit surprised that she would ask.  I wasn't offended but my ideas of autism didn't seem to match my own experience (to be fair, they didn't match autistic people's experience either).  It was actually a very good question and opened up the door to start understanding neurodivergence.
 

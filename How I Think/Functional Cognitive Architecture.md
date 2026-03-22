@@ -2,7 +2,7 @@
 permalink: /How_I_Think/
 layout: page
 title: Functional Cognitive Architecture
-order: 100
+order: 1100
 ---
 Just like most everything else I describe on this site, it never occurred to me that I might *think* different than most other people.  In terms of computers I have a completely different architecture and have to run a different operating system on it.  I don't have some of the hardware (or it is unusable) like other people have, but I have many of the same basic needs for dealing with the world.
 

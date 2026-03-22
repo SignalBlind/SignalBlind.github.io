@@ -1,7 +1,7 @@
 ---
 permalink: /How_I_Think/Truth_and_Facts/
 layout: page
-order: 131
+order: 1131
 ---
 # Truth
 

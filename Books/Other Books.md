@@ -1,6 +1,7 @@
 ---
 permalink: /Books/Other_Books/
 layout: page
+order: 811
 ---
 # Other Books
 

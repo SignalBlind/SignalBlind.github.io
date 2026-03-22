@@ -1,6 +1,7 @@
 ---
 permalink: /Experience/NT_Experience/
 layout: page
+order: 520
 ---
 # The Neurotypical Experience
 

@@ -1,7 +1,7 @@
 ---
 permalink: /How_I_Think/Propositional_Logic/
 layout: page
-order: 110
+order: 1110
 ---
 # [Propositional Logic](https://en.wikipedia.org/wiki/Propositional_logic)
 

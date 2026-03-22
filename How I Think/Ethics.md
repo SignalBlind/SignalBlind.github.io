@@ -1,7 +1,7 @@
 ---
 permalink: /How_I_Think/Ethics/
 layout: page
-order: 116
+order: 1116
 ---
 # Ethics
 

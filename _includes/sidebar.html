@@ -4,165 +4,24 @@
             <h3>Pages</h3>
             <nav class="page-list">
                 <ul>
-                    {% assign sorted_pages = site.pages | sort: 'order' %}
-
-                    {%- comment -%} Build a list of all items with their order and type {%- endcomment -%}
-                    {% assign nav_items = "" | split: "" %}
-                    {% assign seen_categories = "" | split: "" %}
-
-                    {% for p in sorted_pages %}
-                        {% if p.navigation != false %}
-                            {%- comment -%} Infer category from directory if not explicitly set {%- endcomment -%}
-                            {% assign inferred_category = "" %}
-                            {% if p.path %}
-                                {% assign path_parts = p.path | split: "/" %}
-                                {% if path_parts.size > 1 %}
-                                    {% assign first_dir = path_parts[0] %}
-                                    {% assign first_char = first_dir | slice: 0 %}
-                                    {% unless first_dir == "_pages" or first_dir == "tags" or first_dir == "assets" or first_dir == "tools" or first_char == "_" %}
-                                        {% assign inferred_category = first_dir %}
-                                    {% endunless %}
-                                {% endif %}
-                            {% endif %}
-                            {% assign effective_category = p.category | default: inferred_category %}
-
-                            {% if effective_category and effective_category != "" %}
-                                {%- comment -%} Add category placeholder if first time seeing it {%- endcomment -%}
-                                {% unless seen_categories contains effective_category %}
-                                    {% assign category_order = p.order | default: 999 %}
-                                    {% assign cat_item = "category|" | append: effective_category | append: "|" | append: category_order %}
-                                    {% assign nav_items = nav_items | push: cat_item %}
-                                    {% assign seen_categories = seen_categories | push: effective_category %}
-                                {% endunless %}
-                            {% elsif p.title %}
-                                {%- comment -%} Add regular page (only if has explicit title) {%- endcomment -%}
-                                {% assign page_order = p.order | default: 999 %}
-                                {% assign page_item = "page|" | append: p.title | append: "|" | append: page_order | append: "|" | append: p.url %}
-                                {% assign nav_items = nav_items | push: page_item %}
-                            {% endif %}
-                        {% endif %}
-                    {% endfor %}
-
-                    {%- comment -%} Sort nav_items by order value {%- endcomment -%}
-                    {% assign sorted_nav_items = "" | split: "" %}
-                    {% for item in nav_items %}
-                        {% assign parts = item | split: "|" %}
-                        {% assign item_order = parts[2] | plus: 0 %}
-
-                        {%- comment -%} Insert into sorted position {%- endcomment -%}
-                        {% assign inserted = false %}
-                        {% assign temp_items = "" | split: "" %}
-                        {% for existing in sorted_nav_items %}
-                            {% assign existing_parts = existing | split: "|" %}
-                            {% assign existing_order = existing_parts[2] | plus: 0 %}
-                            {% if inserted == false and item_order < existing_order %}
-                                {% assign temp_items = temp_items | push: item %}
-                                {% assign inserted = true %}
-                            {% endif %}
-                            {% assign temp_items = temp_items | push: existing %}
-                        {% endfor %}
-                        {% if inserted == false %}
-                            {% assign temp_items = temp_items | push: item %}
-                        {% endif %}
-                        {% assign sorted_nav_items = temp_items %}
-                    {% endfor %}
-
-                    {%- comment -%} Now render items in order {%- endcomment -%}
-                    {% for item in sorted_nav_items %}
-                        {% assign parts = item | split: "|" %}
-                        {% assign item_type = parts[0] %}
-
-                        {% if item_type == "page" %}
-                            {% assign page_title = parts[1] %}
-                            {% assign page_url = parts[3] %}
+                    {% for item in site.data.sorted_navigation %}
+                        {% if item.type == "page" %}
                             <li>
-                                <a href="{{ page_url | relative_url }}" {% if page.url == page_url %}class="active"{% endif %}>
-                                    {{ page_title }}
+                                <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>
+                                    {{ item.display_title }}
                                 </a>
                             </li>
-                        {% elsif item_type == "category" %}
-                            {% assign category_name = parts[1] %}
+                        {% elsif item.type == "category" %}
                             <li class="category-item">
                                 <div class="category-header" onclick="toggleCategory(this)">
                                     <span class="category-toggle">&#9654;</span>
-                                    <span class="category-name">{{ category_name }}</span>
+                                    <span class="category-name">{{ item.display_title }}</span>
                                 </div>
                                 <ul class="category-children" style="display: none;">
-                                    {%- comment -%} Split category pages into ordered and unordered {%- endcomment -%}
-                                    {% assign ordered_pages = "" | split: "" %}
-                                    {% assign unordered_pages = "" | split: "" %}
-
-                                    {% for p in sorted_pages %}
-                                        {%- comment -%} Infer category from directory if not explicitly set {%- endcomment -%}
-                                        {% assign inferred_category = "" %}
-                                        {% if p.path %}
-                                            {% assign path_parts = p.path | split: "/" %}
-                                            {% if path_parts.size > 1 %}
-                                                {% assign first_dir = path_parts[0] %}
-                                                {% assign first_char = first_dir | slice: 0 %}
-                                                {% unless first_dir == "_pages" or first_dir == "tags" or first_dir == "assets" or first_dir == "tools" or first_char == "_" %}
-                                                    {% assign inferred_category = first_dir %}
-                                                {% endunless %}
-                                            {% endif %}
-                                        {% endif %}
-                                        {% assign effective_category = p.category | default: inferred_category %}
-
-                                        {% if p.navigation != false and effective_category == category_name %}
-                                            {%- comment -%} Get display title - use title field or infer from filename {%- endcomment -%}
-                                            {% if p.title %}
-                                                {% assign display_title = p.title %}
-                                            {% else %}
-                                                {% assign path_parts = p.path | split: "/" %}
-                                                {% assign filename_with_ext = path_parts | last %}
-                                                {% assign filename = filename_with_ext | replace: ".md", "" | replace: ".html", "" %}
-                                                {% assign display_title = filename | replace: "-", " " | replace: "_", " " %}
-                                            {% endif %}
-
-                                            {% if p.order %}
-                                                {% assign ordered_pages = ordered_pages | push: p %}
-                                            {% else %}
-                                                {% assign unordered_pages = unordered_pages | push: p %}
-                                            {% endif %}
-                                        {% endif %}
-                                    {% endfor %}
-
-                                    {%- comment -%} Sort unordered pages alphabetically by title {%- endcomment -%}
-                                    {% assign unordered_pages = unordered_pages | sort: "title" %}
-
-                                    {%- comment -%} Display ordered pages first {%- endcomment -%}
-                                    {% for p in ordered_pages %}
-                                        {%- comment -%} Get display title {%- endcomment -%}
-                                        {% if p.title %}
-                                            {% assign display_title = p.title %}
-                                        {% else %}
-                                            {% assign path_parts = p.path | split: "/" %}
-                                            {% assign filename_with_ext = path_parts | last %}
-                                            {% assign filename = filename_with_ext | replace: ".md", "" | replace: ".html", "" %}
-                                            {% assign display_title = filename | replace: "-", " " | replace: "_", " " %}
-                                        {% endif %}
-
+                                    {% for child in item.children %}
                                         <li>
-                                            <a href="{{ p.url | relative_url }}" {% if page.url == p.url %}class="active"{% endif %}>
-                                                {{ display_title }}
-                                            </a>
-                                        </li>
-                                    {% endfor %}
-
-                                    {%- comment -%} Then display unordered pages alphabetically {%- endcomment -%}
-                                    {% for p in unordered_pages %}
-                                        {%- comment -%} Get display title {%- endcomment -%}
-                                        {% if p.title %}
-                                            {% assign display_title = p.title %}
-                                        {% else %}
-                                            {% assign path_parts = p.path | split: "/" %}
-                                            {% assign filename_with_ext = path_parts | last %}
-                                            {% assign filename = filename_with_ext | replace: ".md", "" | replace: ".html", "" %}
-                                            {% assign display_title = filename | replace: "-", " " | replace: "_", " " %}
-                                        {% endif %}
-
-                                        <li>
-                                            <a href="{{ p.url | relative_url }}" {% if page.url == p.url %}class="active"{% endif %}>
-                                                {{ display_title }}
+                                            <a href="{{ child.url | relative_url }}" {% if page.url == child.url %}class="active"{% endif %}>
+                                                {{ child.display_title }}
                                             </a>
                                         </li>
                                     {% endfor %}
