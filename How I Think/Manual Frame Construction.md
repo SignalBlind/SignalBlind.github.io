@@ -27,6 +27,9 @@ Of course the biggest stall is *analysis paralysis*.  How do you know when you a
 I use three heuristics to break the stall:
 
 - familiar situation, proceed with script
+	- greetings
+	- answering factual questions or stored opinions
+	- going to lunch
 - resource allocation strategy
 	- if the effort is much greater than the estimated value of the output or the cost of a mistake
 	- then proceed with known incomplete data
