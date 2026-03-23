@@ -73,6 +73,8 @@ A concrete example:  if an NT person told me that I am cold-hearted and have no 
 - I appear cold-hearted to NT observers (likely true)
 - I have no *affective* empathy (true)
 - unknown to NT observers I have no capacity for preventing either of these (likely true)
+- I don't feel cold-hearted (true)
+- I do [Care](../Emotions/Care.md) about people but perhaps not in a recognizable way (true)
 
 These are hard truths and do not paint me in a good light (though the third point indicates *why* it is so).  I have no problem ingesting this -- indeed it is useful for me to know it.  There may be cases where I have to explain to another person why I am behaving this way.
 #### Handling Opinions and Fuzzy Facts ^Softening
