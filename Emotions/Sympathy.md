@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Sympathy
 ---
-# Sympathy
-
 [Sympathy](https://en.wikipedia.org/wiki/Sympathy) is perception or understanding of distress in another being.  As opposed to [Empathy](Empathy.md) (feeling *with* the person), sympathy is feeling *for* the person.
 
 Sympathy is from your own perspective:  you can see that somebody is suffering and intellectually recognize pain -- you feel pity.  When somebody feels sympathy they may offer to help, give advice or "look on the bright side".

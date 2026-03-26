@@ -1,10 +1,9 @@
 ---
-permalink: /Books/Other_Books/
 layout: page
+title: Other Books
+permalink: /Books/Other_Books/
 order: 811
 ---
-# Other Books
-
 Not my [Favorite Authors](Favorite%20Authors.md) but books I like.
 
 ### Starrigger ([Skyway series](https://www.amazon.com/dp/B074BLMJ3V))

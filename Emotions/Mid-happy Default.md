@@ -1,9 +1,8 @@
 ---
-permalink: /Emotions/Mid-happy_Default/
 layout: page
+title: Mid-happy Default
+permalink: /Emotions/Mid-happy_Default/
 ---
-# Mid-happy Default
-
 I find myself being mid-happy most of the time.  As long as I am not *hangry* I would probably describe myself as "Happy" or "Satisfied".  Not higher or lower energy.  Curiously I don't really identify with "Hopeful" as being in between those two -- that suggests something is wrong.
 
 ![emotion chart](https://www.thementalhealthcoalition.org/wp-content/uploads/2022/04/A__Mood-Meter-Image.png){: style="max-width: 700px"}

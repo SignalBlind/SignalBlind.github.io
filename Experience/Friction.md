@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Friction
 ---
-# Friction
-
 I am referring to difference kinds of friction or high effort/low utility states in social settings.
 ## NT Experience: No Friction
 

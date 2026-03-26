@@ -1,10 +1,9 @@
 ---
-permalink: /How_I_Think/Functional_Logic_Modeling/
 layout: page
+title: Functional Logic Modeling
+permalink: /How_I_Think/Functional_Logic_Modeling/
 order: 1130
 ---
-# Functional Logic Modeling
-
 Time for a plan.
 
 I don't have [Social Salience](../Experience/Social%20Salience.md), so I treat other humans as Black Boxes with some [attached facts](Truth%20and%20Facts.md).  I may know their stated preferences, stated ideas, etc.  Given a goal I can construct a logical model of the situation where I can compute the inputs that I think will give the desired output(s).

@@ -1,8 +1,9 @@
 ---
-permalink: /Experience/Theory_of_Mind/
 layout: page
+title: Theory of Mind
+permalink: /Experience/Theory_of_Mind/
 ---
-# [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) (ToM)
+[Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) (**ToM**) is a key feature in my condition.
 
 From Wikipedia:
 

@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Examples
 order: 1190
 ---
-# Examples
-
 Examples of [Functional Cognitive Architecture](Functional%20Cognitive%20Architecture.md).
 ## Failure Example
 

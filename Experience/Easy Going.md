@@ -1,9 +1,8 @@
 ---
-permalink: /Experience/Easy_Going/
 layout: page
+title: Easy Going
+permalink: /Experience/Easy_Going/
 ---
-# Easy Going
-
 I am usually very easy going.  I don't care, or perhaps better phrased I don't have an opinion on a lot of things.  If needed I can chose.  I am not lazy -- well, I am not lazy in not chosing.
 ## vs Apathy
 

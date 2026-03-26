@@ -1,10 +1,9 @@
 ---
-permalink: /How_I_Think/Ethical_Systems/
 layout: page
+title: Ethical Systems
+permalink: /How_I_Think/Ethical_Systems/
 order: 1115
 ---
-# Ethical Systems
-
 Ethics tell a person what *should be done*.  What is right and what is wrong.  Surprisingly (to me anyway) there are many different ways to approach this.  I never considered that there could be other ways and my [Axiomatic Deontology](#Axiomatic%20Deontology) gives "universal" right and wrong -- it doesn't really allow for a lot of flexibility.
 
 Both autistic people and I operate with ethical systems that look very similar from the outside.  I use [Axiomatic Deontology](#Axiomatic%20Deontology) while many autistic people will employ [Affective Deontology](#Affective%20Deontology).

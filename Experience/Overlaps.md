@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Overlaps
 order: 511
 ---
-# Overlaps
-
 How would I be characterized?  Neurodivergent, but how?  See my [History](History.md) for what I experienced.  Several different conditions were discussed or considered -- they all had some overlap.
 ## [Autism](https://en.wikipedia.org/wiki/Autism)
 

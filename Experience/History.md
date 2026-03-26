@@ -1,9 +1,8 @@
 ---
 layout: page
+title: History
 order: 505
 ---
-# History
-
 I spent over 50 years of my life thinking [Everybody is the Same](Everybody%20is%20the%20Same.md).  I didn't experience any difficulties in life that seemed unique to me.  I was successful in my career.  I was married and had children.
 
 My condition may be somewhat unique in that *I* couldn't see any problems but other people had problems with me -- in particular I had [category A autism social communication and interaction markers](Not%20Autism.md#A%20Social%20Communication%20and%20Interaction) but could not see them myself because of my lack of [Social Salience](Social%20Salience.md) (which I did not know about yet).  I would argue with my wife about why people would "make things up about me and then believe them" ([Theory of Mind](Theory%20of%20Mind.md) emotional signaling gone wrong).  That didn't make any sense so I discarded it or perhaps because I had no social salience I simply labeled it as zero value -- in any event it wasn't a thing for me.

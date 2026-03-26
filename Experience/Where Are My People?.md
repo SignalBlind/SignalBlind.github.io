@@ -1,9 +1,8 @@
 ---
-permalink: /Experience/Where_Are_My_People/
 layout: page
+title: Where Are My People?
+permalink: /Experience/Where_Are_My_People/
 ---
-# Where Are My People?
-
 While researching my mental model I thought it might be a good idea to double check these ideas -- this isn't my area of expertise.  The terms the LLM was feeding me made sense but they didn't seem to be clinical terms in many cases.  I wasn't able to find _any_ account similar to my own.
 
 Am I really unique?  Probably not.  Sure, everybody wants to be the main character in their own story, but logically it didn't make sense.  Even if it were 0.1% of the people that is still millions of people.  Where are they?

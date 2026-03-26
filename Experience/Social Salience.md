@@ -1,9 +1,9 @@
 ---
-permalink: /Experience/Social_Salience/
 layout: page
+title: Social Salience
+permalink: /Experience/Social_Salience/
 order: 502
 ---
-# Social Salience
 Note: this document describes what I do not have, see [below](#My%20Experience%20Lack%20of%20Social%20Saliency)
 
 See also: [NT Experience](NT%20Experience.md), [Autism Experience](Autism%20Experience.md), [My Experience](My%20Experience.md)

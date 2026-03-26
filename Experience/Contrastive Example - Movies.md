@@ -1,9 +1,8 @@
 ---
-permalink: /Experience/Contrastive_Example_-_Movies/
 layout: page
+title: Contrastive Example - Movies
+permalink: /Experience/Contrastive_Example_-_Movies/
 ---
-# Contrastive Example - Movies
-
 A visualization of my experience.  Imagine your life as a movie.
 
 **The NT Experience:** You are watching a high-budget movie. You feel the "vibe," see the subtext in Chad's eyes, and "know" how he feels because the music and acting tell you. You are living the simulation.

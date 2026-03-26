@@ -1,11 +1,10 @@
 ---
-permalink: /How_I_Think/Propositional_Logic/
 layout: page
+title: Propositional Logic
+permalink: /How_I_Think/Propositional_Logic/
 order: 1110
 ---
-# [Propositional Logic](https://en.wikipedia.org/wiki/Propositional_logic)
-
-Propositional logic is a type of logic that looks like mathematical expressions.  If you are familiar with programming, it is boolean logic and boolean algebra.
+[Propositional logic](https://en.wikipedia.org/wiki/Propositional_logic) is a type of logic that looks like mathematical expressions.  If you are familiar with programming, it is boolean logic and boolean algebra.
 
 Think something like:
 

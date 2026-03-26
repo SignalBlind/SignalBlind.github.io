@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Hyposalience
 ---
-# Hyposalience
-
 Hyposalience is having [Social Salience](../Experience/Social%20Salience.md) with the gain set so low it is barely perceived.
 
 [John Elder Robison](../Experience/Where%20Are%20My%20People?.md#^Hyposalience) describes being autistic but instead of being able to manually simulate  [Theory of Mind](../Experience/Theory%20of%20Mind.md) he was effectively "emotionally blind" and "socially blind".  He was aware there was a social signal but it was so faint he was unable to use it.

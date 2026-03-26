@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Hearing
 ---
-# Hearing
-
 I read about this effect and thought it was interesting.  I don't know if I hear any different than others, but maybe.
 
 In NT individuals social salience can actually control the gain on individual signals according to their importance.  They can more easily hold a conversation in a noisy area (possibly further enhanced by their bi-directional TOM).  This is called the "[Cocktail Party Effect](https://americanhearing.us/how-the-cocktail-party-effect-affects-your-hearing/)".

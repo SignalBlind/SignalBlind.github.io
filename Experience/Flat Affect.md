@@ -1,9 +1,8 @@
 ---
-permalink: /Experience/Flat_Affect/
 layout: page
+title: Flat Affect
+permalink: /Experience/Flat_Affect/
 ---
-# Flat Affect
-
 > "I may feel it, but my face and voice don't show it."
 
 Flat Affect may be caused by different things:

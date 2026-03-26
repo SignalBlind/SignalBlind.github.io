@@ -1,10 +1,9 @@
 ---
-permalink: /How_I_Think/Manual_Frame_Construction/
 layout: page
+title: Manual Frame Construction
+permalink: /How_I_Think/Manual_Frame_Construction/
 order: 1120
 ---
-# Manual Frame Construction
-
 From software: requirements gathering.
 
 Understanding the situation and determining:

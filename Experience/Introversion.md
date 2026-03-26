@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Introversion
 ---
-# Introversion
-
 I always figured myself as an introvert.  I didn't particularly need or enjoy social situations and I would get tired of them after a while and leave.  I certainly wasn't an extrovert -- I didn't feel any recharge from social events.
 
 Looking at this now from the lens of ND and no [Social Salience](Social%20Salience.md) I wonder if this isn't quite what I think it is.

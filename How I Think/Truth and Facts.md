@@ -1,10 +1,9 @@
 ---
-permalink: /How_I_Think/Truth_and_Facts/
 layout: page
+title: Truth
+permalink: /How_I_Think/Truth_and_Facts/
 order: 1131
 ---
-# Truth
-
 Given my [Axiomatic Deontology](Ethical%20Systems.md#Axiomatic%20Deontology) and [Ethics](Ethics.md) I value truth highly.  My lack of [Social Salience](../Experience/Social%20Salience.md) means I have no [Shame](../Emotions/Shame.md) and my identity is not tied to facts about me.  I am willing to accept non-flattering true statements without any stress.  I will reject untrue statements about me (good or bad).
 
 I can be blunt: I will say things that I believe are true without regard for the receiver's feelings -- without social saliency I don't know what their feelings are.  To me a lie is data corruption.  I will not willingly say it.

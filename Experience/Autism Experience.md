@@ -1,10 +1,9 @@
 ---
-permalink: /Experience/Autism_Experience/
 layout: page
+title: The Autism Experience
+permalink: /Experience/Autism_Experience/
 order: 521
 ---
-# The Autism Experience
-
 This describes a typical autistic person's experience of [Theory of Mind](Theory%20of%20Mind.md).  Autism varies widely and if you are autistic and reading this it may not match *your* experience.
 
 **Note**: I do not experience this and have only information gleaned from LLMs.  In fact this may not match _anyone's_ experience, but this model _does_ fit with how I have read people think the ToM mechanism behind autism works.

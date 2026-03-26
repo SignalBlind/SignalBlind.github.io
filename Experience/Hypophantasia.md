@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Hypophantasia, Low Absorption, and Inner Speech
 order: 503
 ---
-# Hypophantasia, Low Absorption, and Inner Speech
-
 I never realized people have a wide variety of ways that thoughts appear in their head.
 
 One time my wife and I were doing a mindfulness exercise where a narrator guided us like this (roughly):

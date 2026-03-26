@@ -1,9 +1,8 @@
 ---
-permalink: /Experience/Contrastive_Example_-_Bar/
 layout: page
+title: Contrastive Example - Bar
+permalink: /Experience/Contrastive_Example_-_Bar/
 ---
-# Contrastive Example - Bar
-
 A contrastive example -- what I experience vs what NT people experience.
 
 Imagine a bar full of people talking.  It is very loud and people are all around.  You can barely hear your friends.

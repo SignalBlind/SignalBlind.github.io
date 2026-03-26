@@ -1,9 +1,8 @@
 ---
-permalink: /Experience/Say_The_Wrong_Thing/
 layout: page
+title: Say The Wrong Thing
+permalink: /Experience/Say_The_Wrong_Thing/
 ---
-# Say The Wrong Thing
-
 Both autistic people and I say the "wrong" from time to time.  Wrong is the eye of the (typically) NT beholder, of course.
 
 Curiously the presentation of saying the wrong thing is very similar between autism and me, the mechanism is often different.  In autism it is often [Social Lag](../How%20I%20Think/Zero%20Lag.md#Autism%20Experience%20Social%20Lag) or the high cost to manually compute [theory of mind](Autism%20Experience.md).  ADHD individuals may also say the wrong thing:  that is an issue with regulation -- they say things before they can stop themselves.

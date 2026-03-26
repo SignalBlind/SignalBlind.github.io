@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Empathy
 ---
-# Empathy
-
 [Empathy](https://en.wikipedia.org/wiki/Empathy) is not an emotion per-se, rather it is the ability to understand and share the feelings of another.  There are a wide range of definitions but for the purpose of my notes:
 
 - **Affective Empathy** (mirroring) -- feeling the emotions that another person is experiencing.  This is also called emotional contagion, which describes picking up the mood of another person or the room.
@@ -31,6 +30,8 @@ For example, in the movie *Up*, the initial sequence (no dialogue) tells a compe
 
 Another example is if somebody's cat or dog dies I will feel very sad.  I have had my own cats and currently have a dog.  I can picture when my own dog is near death and dying.  I may be at the vet office holding him as he breathes his last.  Even typing this I am tearing up.  This will be a significant permanent loss of a beloved pet/family member.  I will be very [sad](Sadness.md) and I may express this sadness to the other person.  It is not empathy, but it is as close as I can get.
 
-I can't use this when I can't model the experience.  I need memories or experience of something related.  I could resonate with an animal losing its child (I have a direct map) but not a person losing their horse (I know nothing about horses -- are they pets?).  I grieve at permanent loss of unique things (objects, people, animals) that are valued (by humans or animals).
+A third example is books:  they provide a pure literal signal.  Authors often write what people feel or the social signals they are picking up.  I can feel the same sense of loss for characters and events in books as I do for real life.  Some authors, notably [Brandon Sanderson](../Books/Favorite%20Authors.md#^BrandonSanderson) can give me a thrill when competent characters reveal their abilities or accomplish something notable.
+
+Notably I can only use this where I can model and experience the situation or something close to it.  This is easiest for sadness -- permanent loss of something unique is my primary trigger.
 
 This is not a social function, this is a logical simulation of values.  I am not "feeling what they feel".  Technically this is [autonoetic thought](https://en.wikipedia.org/wiki/Autonoetic_consciousness) where I reenact the concept of loss within my own value system.  It is a functional bridge but not empathy.

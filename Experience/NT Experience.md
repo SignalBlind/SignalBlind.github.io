@@ -1,10 +1,9 @@
 ---
-permalink: /Experience/NT_Experience/
 layout: page
+title: The Neurotypical Experience
+permalink: /Experience/NT_Experience/
 order: 520
 ---
-# The Neurotypical Experience
-
 This describes the typical NT experience of [Theory of Mind](Theory%20of%20Mind.md).
 
 **Note**: I do not experience this and have only secondhand knowledge and information gleaned from LLMs.
