@@ -19,7 +19,7 @@ In the case of ethical violations, my "hate" is more of a label:  "this person d
 
 Unlike NT people I can "hate" objects.  I don't ascribe evil intent to them, I just don't like them.  They might be inelegant, they might taste bad, they might be fundamentally flawed.  Again, it is just a label of dislike.
 
-I can "hate" people that I have never met, will never meet, am not affected by, etc.  For example, if I heard about a mass murderer in another country I would "hate" them (and perhaps an NT person might not -- they won't like them, but hate is a little more personal).  I don't hate people who don't like me, I don't really care.  If somebody tries to harm me and they succeed I might hate them:  they did me harm.  If they accidentally did me harm (without malic or negligence), I might be angry at the situation, but I would not hate them.
+I can "hate" people that I have never met, will never meet, am not affected by, etc.  For example, if I heard about a mass murderer in another country I would "hate" them (and perhaps an NT person might not -- they won't like them, but hate is a little more personal).  I don't hate people who don't like me, I don't really care.  If somebody tries to harm me and they succeed I might hate them:  they did me harm.  If they accidentally did me harm (without malice or negligence), I might be angry at the situation, but I would not hate them.
 
 My hate toward people is two-fold:
 
