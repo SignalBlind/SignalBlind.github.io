@@ -28,4 +28,4 @@ I experience a complete lack of social saliency -- the volume on the social sign
 
 I don't receive any social signals.  I don't pick up non-verbal cues.  I don't know what people are thinking or how they are feeling unless they explicitly tell me.  I didn't even know this [was a thing](Everybody%20is%20the%20Same.md)!
 
-I am not only missing the social signal but also the social connections and pressures that go along with it.  I don't particularly care what another person thinks of me:  either they are right and I should take note or they are wrong and I can ignore it.  I don't experience [Shame](../Emotions/Shame.md) or a whole host of other [socially triggered emotions](../Emotions/index.md).
+I am not only missing the social signal but also the social connections and pressures that go along with it.  I don't particularly care what another person thinks of me:  either they are right and I should take note or they are wrong and I can ignore it.  I don't experience [Shame](../Emotions/Shame.md) or a whole host of other [socially triggered emotions](../Emotions/Emotions.md).

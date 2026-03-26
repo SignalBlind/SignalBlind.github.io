@@ -27,7 +27,7 @@ I think [Theory of Mind: Identity of Others](Theory%20of%20Mind.md#My%20Experien
 
 On top of this lack of signal, I [think different than other people](../How%20I%20Think/Functional%20Cognitive%20Architecture.md) -- necessarily because so much NT thought is around social things.  I even have different [Ethics](../How%20I%20Think/Ethics.md).  These might sound a little more familiar to autistic people, though they probably use [Affective Deontology](../How%20I%20Think/Ethical%20Systems.md#Affective%20Deontology) -- both of these will probably look about the same to NT people ([Social Utilitarianism](../How%20I%20Think/Ethical%20Systems.md#Social%20Utilitarianism)).
 
-You can read about my [emotions](../Emotions/index.md) but you might not perceive them as I have somewhat [Flat Affect](Flat%20Affect.md) and no emotional mirroring or signaling.  I [have emotions](Alexithymia.md) but they are different than what either NT or autistic people experience.  I have no [Shame](../Emotions/Shame.md), see [Hard Truths](../How%20I%20Think/Truth%20and%20Facts.md#Hard%20Truths) for an example.  There are quite a few socially oriented emotions that I simply can't experience.  Others, like [Compassion](../Emotions/Compassion.md) I use the same word (it looks the same to me) but it isn't the same feeling.  [Anger](../Emotions/Anger.md) and [Sadness](../Emotions/Sadness.md) are two that are probably the most similar and recognizable.
+You can read about my [emotions](../Emotions/Emotions.md) but you might not perceive them as I have somewhat [Flat Affect](Flat%20Affect.md) and no emotional mirroring or signaling.  I [have emotions](Alexithymia.md) but they are different than what either NT or autistic people experience.  I have no [Shame](../Emotions/Shame.md), see [Hard Truths](../How%20I%20Think/Truth%20and%20Facts.md#Hard%20Truths) for an example.  There are quite a few socially oriented emotions that I simply can't experience.  Others, like [Compassion](../Emotions/Compassion.md) I use the same word (it looks the same to me) but it isn't the same feeling.  [Anger](../Emotions/Anger.md) and [Sadness](../Emotions/Sadness.md) are two that are probably the most similar and recognizable.
 
 The TLDR is:  I don't receive any social signals.  I don't know what other people are feeling or thinking.  I don't know about social positioning.  On top of not knowing, I also don't *care*.  Not in a negative way, more like asking somebody how they feel about radio waves.
 ## What Friction Do You Experience? ^Friction
@@ -75,7 +75,7 @@ OK, so why do I think it is actually *no social salience*?
 	- [No Authority Bias](../How%20I%20Think/Ethics.md#No%20Authority%20Bias)
 - no [Masking](Masking.md)
 - no social contagion -- I don't pick up the mood of the room
-- no [Shame](../Emotions/Shame.md) and a variety of other [emotions](../Emotions/index.md)
+- no [Shame](../Emotions/Shame.md) and a variety of other [emotions](../Emotions/Emotions.md)
 
 Those are all good evidence of *something* being different about my social salience, but *zero*?
 

@@ -15,7 +15,7 @@ Alexithymia can be very frustrating and isolating for a person who has it.
 
 ## My Experience
 
-This is a tricky one.  I don't think I have alexithymia, but there are some strong overlaps.  I think I experience [emotions](../Emotions/index.md) in a very different way than most people, but I do have them and can describe them.
+This is a tricky one.  I don't think I have alexithymia, but there are some strong overlaps.  I think I experience [emotions](../Emotions/Emotions.md) in a very different way than most people, but I do have them and can describe them.
 
 There is a [chart](https://www.thementalhealthcoalition.org/feel-your-feelings/) I used with a therapist to try to describe my feelings.
 
