@@ -62,3 +62,5 @@ I present my observations as **Facts**.
 I cannot directly perceive the social signals or internal feelings of other people. 
 *   **Method:** To describe how NT or autistic people might think, I use an AI (LLM) to provide a description. 
 *   **Reliability:** I use these descriptions as a "best guess" to help compare my experience to others, but I cannot personally verify if they are 100% accurate.
+
+I know that the descriptions of NT and autistic people may not apply to a particular person -- my intent is that they are directionally correct and apply to many people.
