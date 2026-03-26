@@ -44,6 +44,7 @@ feed:
 
 # Pages to exclude from RSS feed and Recently Updated
 exclude_from_updates:
+  - google38ed2014273d2f3d.html
   - /tags/
   - /recent/
   - /glossary/
@@ -56,8 +57,15 @@ exclude_from_updates:
 
 # Pages to exclude from print export
 exclude_from_print:
+  - google38ed2014273d2f3d.html
   - /tags/
   - /recent/
+  - /feed.xml
+  - /glossary.md
+  - /assets/
+  - /_sass/
+  - /robots.txt
+  - /search-data.json
 
 # Navigation
 navigation:
