@@ -38,3 +38,5 @@ If I found that I had said something false (against my [Ethics](../How%20I%20Thi
 I can be held accountable for my actions without feeling bad about them or myself.
 
 I use my [Axiomatic Deontology](../How%20I%20Think/Ethical%20Systems.md#Axiomatic%20Deontology) and [Ethics](../How%20I%20Think/Ethics.md) to guide my behavior rather than shame.
+
+[Semantic Divergence](Semantic%20Divergence.md): yes, extreme.

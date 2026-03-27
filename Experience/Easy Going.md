@@ -17,7 +17,7 @@ I don't have apathy but there is some phenotypic overlap.  My lack of care looks
 
 I don't have decisional paralysis -- I can easily select a restaurant, a movie, a place to go to.  I am just easy going.
 
-In 90% of social interactions (e.g., choosing a restaurant, deciding on a movie, small-talk topics), the data has zero weight within my [Ethics](../How%20I%20Think/Ethics.md).  Because I lack [Social Salience](Social%20Salience.md), I do not experience "preference" based on status-seeking, social "vibes," or [Ego](No%20Ego.md)-protection.
+In 90% of social interactions (e.g., choosing a restaurant, deciding on a movie, small-talk topics), the data has zero weight within my [Ethics](../How%20I%20Think/Ethics.md).  Because I lack [Social Salience](Social%20Salience.md), I do not experience "preference" based on status-seeking, social "vibes," or [Ego](../Emotions/Ego.md)-protection.
 
 **Mechanical Reality:** It is **Optimization for Low [Friction](Friction.md)**. If a choice has no logical or ethical consequence, the most efficient path is to default to the other person's input. This minimizes **Initialization ([[Manual Frame Construction]])** costs and conserves cognitive energy. I am not "agreeing" so much as I am "not processing the data as relevant."
 

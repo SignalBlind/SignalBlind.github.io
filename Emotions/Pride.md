@@ -38,3 +38,5 @@ This is another instances of a [heteronym](Emotions.md#Heteronyms) -- I use the 
 In both cases there is a desire to "do a good job", which is helpful, but the reward mechanism is very different.
 
 I need to be careful of my use of the word "pride" -- it triggers many people to think of the seven deadly sins and has a negative connotation, where my internal meaning is entirely positive.  It is often used by religion to indicate that obedience and conformance are important and that pride should be avoided.  Given the comparative and social aspects of the NT emotion, I think that is probably for the best.
+
+[Semantic Divergence](Semantic%20Divergence.md): yes.

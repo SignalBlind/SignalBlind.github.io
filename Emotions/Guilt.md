@@ -25,6 +25,8 @@ That overlap in trigger is pretty thin and the rest of the experience is totally
 In both cases the "guilt" feeling does trigger reparative work, though even the nature of that differs.  I risk confusing NT people by using the word "guilt" when I don't mean what they mean.
 
 Much like [Shame](Shame.md), I can't really feel guilt.
+
+[Semantic Divergence](Semantic%20Divergence.md): yes.
 ## Survivor Guilt
 
 Survivor Guilt is an affective response where an individual feels responsible for a negative outcome they did not cause, simply because they did not share the fate of the victims. 

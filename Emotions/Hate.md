@@ -37,3 +37,5 @@ Other than both NT and my version of hate being a longer term feeling, there is 
 Note: that the NT use of the word hate is also a bit heteronymous like my own.  NT people can "hate" a certain type of food -- it overlaps with the [Disgust](Disgust.md) feeling.  They can also "hate" inanimate objects such as computers:  they can feel targeted by them.  They use the word hate, but it sounds a bit more like [Anger](Anger.md) to me.
 
 This is a term where being a [heteronym](Emotions.md#Heteronyms) causes problems, though I didn't realize it until recently.  My "hate" is quite a different emotion and using this word can be misleading.  Perhaps it works out as NT people can be a bit sloppy with its use too.
+
+[Semantic Divergence](Semantic%20Divergence.md): yes.

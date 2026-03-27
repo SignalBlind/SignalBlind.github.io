@@ -32,7 +32,7 @@ That isn't to say I don't feel things that I would label with those words.  For 
 
 I think I learned a lot of my vocabulary through reading and thus by context.  In books when somebody is "ashamed" I can see the inputs (situation) and any description of the outputs (corrective action, future avoidance).  I picked up *[Shame](Shame.md)* as something like regret, maybe strong [Regret](Regret.md).  It was compatible enough that I never noticed that my definition was off -- in fact it [wasn't until I discovered I was ND](../Experience/History.md) that I even became aware of this.  In playing with LLMs they picked up on the fact that my descriptions for emotions were inconsistent.
 
-Even before I knew that there was a difference in definition, I think there were problems with using these words incorrectly.  I can see that retrospectively where the words I used were taken as judgement but to me they were just descriptive words used in constructive feedback.  Now I am more aware that my words are askew.
+Even before I knew that there was a [Semantic Divergence](Semantic%20Divergence.md) in definition, I think there were problems with using these words incorrectly.  I can see that retrospectively where the words I used were taken as judgement but to me they were just descriptive words used in constructive feedback.  Now I am more aware that my words are askew.
 
 For example, I might say I [Hate](Hate.md) somebody, say a corrupt politician.  To me this is indicating high magnitude dislike -- they are violating my [ethical standards](../How%20I%20Think/Ethics.md) for their own gain.  I don't know them, it doesn't affect me.  I just want it to stop.  To NT people this means something else: moral disgust, evil, and some feeling of ill will (I think).
 
@@ -73,5 +73,4 @@ There are a number of other emotions that I have a "compatible" experience.  For
 These aren't emotions, but may be related to emotions and social harmony:
 
 - [Arrogance](Arrogance.md)
-- [Jerk](Jerk.md)
 - [Blame](Blame.md)

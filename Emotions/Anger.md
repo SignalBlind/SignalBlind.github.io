@@ -28,6 +28,7 @@ The target of my anger is also different.  I might be angry locally -- perhaps m
 
 My anger is futile.
 
+[Semantic Divergence](Semantic%20Divergence.md): yes.
 ## Specific Trigger: Integrity
 
 There is at least one thing that will trigger anger with a feeling of personal insult:  if somebody questions my integrity.

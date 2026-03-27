@@ -2,6 +2,8 @@
 layout: page
 title: Regret
 ---
+## NT Experience
+
 In NT people [regret](https://en.wikipedia.org/wiki/Regret) is a judgement of actions or outcomes, a feeling of "I did a bad thing":
 
 - the brain compares the actual outcome with a simulated *better* outcome
@@ -22,3 +24,5 @@ I think regret stands in for a number of emotions that I can't feel:
 - [Guilt](Guilt.md)
 
 If I had a high magnitude failure, something that violated my [Ethics](../How%20I%20Think/Ethics.md), like being negligent and causing somebody physical harm I would feel **Integrity Distress**.  I am not feeling the victim's pain, I am feeling an internal pain due to the failure of my own standards.
+
+[Semantic Divergence](Semantic%20Divergence.md): yes, but less than most.

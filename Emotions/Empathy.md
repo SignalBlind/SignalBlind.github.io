@@ -35,3 +35,8 @@ A third example is books:  they provide a pure literal signal.  Authors often wr
 Notably I can only use this where I can model and experience the situation or something close to it.  This is easiest for sadness -- permanent loss of something unique is my primary trigger.
 
 This is not a social function, this is a logical simulation of values.  I am not "feeling what they feel".  Technically this is [autonoetic thought](https://en.wikipedia.org/wiki/Autonoetic_consciousness) where I reenact the concept of loss within my own value system.  It is a functional bridge but not empathy.
+## Comparison
+
+I have no affective empathy at all and my "cognitive empathy" is not really that.
+
+[Semantic Divergence](Semantic%20Divergence.md): yes, sort of -- I am not sure I ever claimed to have empathy.  I certainly didn't know what it was.
