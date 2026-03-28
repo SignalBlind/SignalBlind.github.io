@@ -2,6 +2,7 @@
 permalink: /Emotions/Semantic_Divergence/
 layout: page
 title: Semantic Divergence
+order: 605
 ---
 As mentioned in [Heteronyms](Emotions.md#Heteronyms), I often have the wrong meaning for emotional words.  These definitions are largely coming from context, from reading.  I map them to my own experience based on:
 

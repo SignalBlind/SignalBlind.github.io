@@ -45,3 +45,23 @@ No, I wrote it, but I did use an LLM to help -- this isn't my area of expertise 
 In some cases I presented the LLM with my observations and asked it questions to help me analyze, see [System Prompt](System%20Prompt.md).
 
 I also used the LLM to review my writing and point out areas that were not clear.  In some cases I quoted excerpts from the LLM (say a sentence or a bullet point) ... without attribution.  Sorry!
+
+#### Is this all just made up?  An LLM fantasy?
+
+I hope not, but it is certainly a risk.  LLMs can be echo chambers and by default are yes-men:
+
+- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+- [Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
+
+See [my previous point](#Did%20an%20LLM%20write%20this?) about how I developed it.  My [System Prompt](System%20Prompt.md) is specifically designed to ask me probing questions, but it does take some of the developed information as truth.  I will occasionally ask probing questions myself.
+
+It isn't proof against delusion, but I also talk to a therapist.  Why not base all of this on talk with humans?  It is possible for sure, but would be very expensive.  I am not looking for a [diagnosis](#What%20are%20you%20diagnosed%20with?), more an explanation.  I am curious and if I understand *why* I think the way I do, I can seek to [mitigate](Experience/Mitigation.md) some of the effects.  Just like debugging software.
+
+So, no guarantee it isn't all fantasy, but:
+
+- it is consistent with how I think (via self-introspection)
+- it is self-consistent
+
+I was unable to find [other accounts exactly like mine](Experience/Where%20Are%20My%20People?.md) but I do have *something* different and there are reasonable explanations for why I might not find them.
+
+It is up to you, the reader, to decide if this is true or false.  For me it is useful if it is true.  It doesn't have to be *exactly* right to be useful, but somewhere close.
