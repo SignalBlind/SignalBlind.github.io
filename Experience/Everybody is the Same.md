@@ -17,6 +17,6 @@ I had neither the signal nor the affect.  From my point of view everybody _was_ 
 
 NT people assume that [Theory of Mind](Theory%20of%20Mind.md) is a universal constant.  It is automatic, always on and totally background.  Except in very specific circumstances it isn't even mentioned (who mentions breathing?).
 
-People with [Autism](Autism.md) fit in here too -- they have TOM and affective mirroring but there is noise and some manual processing.  They feel quiet different because they observe others using the same TOM without friction.  They can perceive they are having difficult where others do not.  Without the external observation of the mechanism or the NT experience they likely cannot conceptualize what is going on.
+People with autism fit in here too -- they have TOM and affective mirroring but there is noise and some manual processing.  They feel quiet different because they observe others using the same TOM without friction.  They can perceive they are having difficult where others do not.  Without the external observation of the mechanism or the NT experience they likely cannot conceptualize what is going on.
 
 A-Salience is a difficult architecture to self-identify because it produces very little internal friction.  The system works fine on its own terms.  I never noticed I was signal blind.

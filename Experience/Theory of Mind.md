@@ -9,7 +9,7 @@ From Wikipedia:
 
 > In psychology and philosophy, theory of mind (often abbreviated to ToM) is the capacity to understand other individuals by ascribing mental states to them. A theory of mind includes the understanding that others' beliefs, desires, intentions, emotions, and thoughts may be different from one's own.
 
-This idea first came up to me when I learned about [Autism](../Autism.md) -- it is thought to be a key component in the [Autism Experience](Autism%20Experience.md).
+This idea first came up to me when I learned about Autism -- it is thought to be a key component in the [Autism Experience](Autism%20Experience.md).
 
 When I read about it, it seemed easy!  Of course I know other people have their own thoughts!  There are some tests used such as:
 
