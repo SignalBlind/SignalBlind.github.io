@@ -2,6 +2,9 @@
 layout: page
 title: Empathy
 ---
+"I feel **with** you."
+## NT Experience
+
 [Empathy](https://en.wikipedia.org/wiki/Empathy) is not an emotion per-se, rather it is the ability to understand and share the feelings of another.  There are a wide range of definitions but for the purpose of my notes:
 
 - **Affective Empathy** (mirroring) -- feeling the emotions that another person is experiencing.  This is also called emotional contagion, which describes picking up the mood of another person or the room.

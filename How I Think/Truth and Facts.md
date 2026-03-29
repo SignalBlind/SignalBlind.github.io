@@ -21,7 +21,7 @@ NT people tell white lies for social lubrication -- it isn't even perceived as a
 I do not use white lies.  I might not say anything at all, but if I do say it, it will be true or at the very least not false.  Sometimes in social situations I can say "I am going to finish my walk now" or "I am going in to have tea" when the truth is "I want to leave now".  In those cases I *will* finish my walk or have tea, but it is a bit of misdirection for social friction reasons.
 #### Secrets
 
-In my ethics [Rule 2: Ownership (Data)](Ethics.md#Rule%202%20Contractual/Contextual%20Sovereignty%20(Ownership)) is higher priority than [Rule 3: Truth](Ethics.md#Rule%203%20Vector%20Accuracy%20(Truth)).  If I do not own the data I will not reveal it.
+In my ethics [Rule 2: Ownership](Ethics.md#Rule%202%20Ownership) is higher priority than [Rule 3: Truth](Ethics.md#Rule%203%20Truth).  If I do not own the data I will not reveal it.
 
 In fact, I may *lie* to conceal it and I don't feel this is wrong.  For example if there is a fact **X** about my work and somebody asks me if **X** is true I could say:
 

@@ -2,6 +2,7 @@
 layout: page
 title: Sympathy
 ---
+"I feel **for** you."
 ## NT Experience
 
 [Sympathy](https://en.wikipedia.org/wiki/Sympathy) is perception or understanding of distress in another being.  As opposed to [Empathy](Empathy.md) (feeling *with* the person), sympathy is feeling *for* the person.

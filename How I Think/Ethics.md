@@ -11,18 +11,18 @@ I see this as how I understand the world and what is right and wrong.
 I use [Axiomatic Deontology](Ethical%20Systems.md#Axiomatic%20Deontology), a system where behavior is governed by a fixed set of universal rules (axioms) that apply in all scenarios, regardless of social hierarchy, emotional impact, or outcome.
 
 So what are my rules?  In priority order, something like this:
-### Rule 1: Substrate Integrity (Life/Environment)
+### Rule 1: Do Not Harm (Life/Environment)
     
 - Scope: Humans (Highest), Animals, and Environment (Utility-based).    
 - The Utility Clause: Consumption of resources (food/wood) is permitted if the need is "Justified" by system survival.
 - The Quality Clause: Prevention of suffering (Euthanasia) is prioritized over mere "existence."
 
-### Rule 2: Contractual/Contextual Sovereignty (Ownership)
+### Rule 2: Ownership
     
 - Mechanism: Secrecy is maintained based on explicit promises or **Environmental Context** (e.g., an office vs. a public street). Information overheard in a "Secrecy-Assumed" zone is treated as encrypted/locked data.
 - This applies to data and physical/intellectual property.
 
-### Rule 3: Vector Accuracy (Truth)
+### Rule 3: Truth
     
 - Constraint: **Zero False Signals.** Lying is only permissible under **Duress** (Rule 1 threat) where Agency is removed or rule 2 to avoid divulging a secret.
 - Operational Tool: **Tempering.** Filtering data points or re-contextualizing (e.g., "It looks fine on you") to satisfy Rule 3 without violating Guideline A.

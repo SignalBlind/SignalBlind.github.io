@@ -16,7 +16,7 @@ Correcting errors in conversation, major or minor, is a hallmark of both autisti
 
 Autistic people may have a compulsion, possibly triggered by monotropism, to correct factual errors.  The error can generate physical or cognitive discomfort and correcting it is a way to resolve the tension.
 
-I am very literal and [truth](../How%20I%20Think/Truth%20and%20Facts.md) oriented.  Social standing means nothing, facts are important -- my [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md) depends on them.  Correction makes sense to me.  I will certainly notice inaccuracies but I may chose to ignore them if they are trivial or the cost to correct is grater than the utility (e.g. correcting a stranger).  But my instinct will be to correct as per my [Axiomatic Deontology (Ethics): Vector Accuracy (Truth)](../How%20I%20Think/Ethics.md#Rule%203%20Vector%20Accuracy%20(Truth)).
+I am very literal and [truth](../How%20I%20Think/Truth%20and%20Facts.md) oriented.  Social standing means nothing, facts are important -- my [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md) depends on them.  Correction makes sense to me.  I will certainly notice inaccuracies but I may chose to ignore them if they are trivial or the cost to correct is grater than the utility (e.g. correcting a stranger).  But my instinct will be to correct as per my [Ethics: Truth](../How%20I%20Think/Ethics.md#Rule%203%20Truth)
 ## Hierarchy Blindness
 
 When the boss says something incorrect or makes a poor decision in a meeting.  Autistic people and I would point this out.  NT people might go with it anyway but would certainly use face-saving language when addressing it.
