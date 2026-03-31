@@ -4,6 +4,8 @@ title: Hate
 ---
 ## NT Experience
 
+"You are a threat to my world; you should not exist."
+
 In NT people hate is an emotional/moral feeling.  It i the designation of an individual or a group as malignant.  Hate functions as a social signaling and conformity tool.  For in-group NT people, they both signal allegiance and ensure conformity of hate toward an entity that threatens the group's values or status.  Individuals may hate on their own if they are personally threatened.
 
 Typically hate is restricted to things with will.  In some cases the word may be applied to anthropomorphized objects temporarily.  Hate is typically applied to other people where there is _some_ relationship, perhaps to their in-group.  Hate is relational and requires a social audience. 

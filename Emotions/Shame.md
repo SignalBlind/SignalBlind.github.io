@@ -8,6 +8,8 @@ tags:
 ---
 ## Shame
 
+"I am fundamentally flawed; I must hide myself."
+
 In NT people [shame](https://en.wikipedia.org/wiki/Shame) is a judgement of themselves, a feeling of "I am bad":
 
 - you understand the judgement of your peers ([Social Salience](../Experience/Social%20Salience.md))

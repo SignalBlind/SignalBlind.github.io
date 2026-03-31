@@ -4,6 +4,8 @@ title: Regret
 ---
 ## NT Experience
 
+"I knew better; I wish I could choose differently."
+
 In NT people [regret](https://en.wikipedia.org/wiki/Regret) is a judgement of actions or outcomes, a feeling of "I did a bad thing":
 
 - the brain compares the actual outcome with a simulated *better* outcome

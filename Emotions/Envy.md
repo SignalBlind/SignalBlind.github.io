@@ -4,6 +4,8 @@ title: Envy
 ---
 ## NT Experience
 
+"You have what I deserve; your gain is my loss."
+
 When NT people see other people having better "things", they feel lower in the status hierarchy and want the other thing.  The value of objects, positions, relationships, jobs, etc. are often about how others will feel when they see them.
 
 ## My Experience

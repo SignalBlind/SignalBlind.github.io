@@ -4,6 +4,8 @@ title: Anger
 ---
 ## NT Experience
 
+"This is unfair; a boundary has been crossed; I must fight."
+
 In NT people anger is typically a reaction to a perceived threat to social status, ego or respect.  This is a high-arousal temporary state that can dissipate (maybe slowly) after the conflict is resolved.
 
 Anger is the mechanism used to push the holder into action to force another party to restore status.  Adrenaline amplifies the effect.
