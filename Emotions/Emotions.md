@@ -25,6 +25,7 @@ The [self conscious emotions](https://en.wikipedia.org/wiki/Self-conscious_emoti
 - [Embarassment](Embarassment.md)
 - [Contempt](Contempt.md)
 - [Hate](Hate.md)
+- [Arrogance](Arrogance.md)
 
 That isn't to say I don't feel things that I would label with those words.  For example I might [Regret](Regret.md) some action that I did and call that "shame", but it is a distinctly different feeling from the NT experience.  This is a conceptual [heteronym](https://en.wikipedia.org/wiki/Heteronym_(linguistics)) -- two words that look and sound the same but have different meanings (not the typical use of that vocabulary, but it fits).
 
@@ -68,9 +69,3 @@ There are a number of other emotions that I have a "compatible" experience.  For
 - [Sympathy](Sympathy.md)
 - [Comforting](Comforting.md)
 
-## Social Constructs and Misattributions
-
-These aren't emotions, but may be related to emotions and social harmony:
-
-- [Arrogance](Arrogance.md)
-- [Blame](Blame.md)
