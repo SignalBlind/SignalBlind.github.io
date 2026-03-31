@@ -14,7 +14,7 @@ This is pretty close on one point:
 
 > Difficulties understanding what is not explicitly stated (e.g., making inferences) and nonliteral or ambiguous meanings of language
 
-but the rest of the points (all required) don't match.  I don't have problems communicating, especially technical information -- at least I don't think so!
+but the rest of the points (all required) don't match, it is [Not SCD](Not%20SCD.md).  I don't have problems communicating, especially technical information -- at least I don't think so!
 ## [Schizoid](https://en.wikipedia.org/wiki/Schizoid_personality_disorder)
 
 I read about this in an article and it seemed like it had some overlap:
