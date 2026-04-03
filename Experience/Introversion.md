@@ -12,7 +12,7 @@ The mechanism for the introversion side is interesting.  I don't have the NT soc
 
 Although I don't seek out social situations I am not opposed to them.  I can talk for a long time about topics that interest me, e.g. software or pinball.  I get tired when it is just small talk. This might actually be boredom!
 
-I can hang out with the neighbors for a little bit and participate on the side (maybe adding in some dry humor).  I like the neighbors because they are just hanging out in their yards and driveways talking -- I don't need a hook to join them, I just walk up.  After a little while I will make my excuses and leave.  They continue to talk for hours.
+I can hang out with the neighbors for a little bit and participate on the side (maybe adding in some dry [humor](Humor.md)).  I like the neighbors because they are just hanging out in their yards and driveways talking -- I don't need a hook to join them, I just walk up.  After a little while I will make my excuses and leave.  They continue to talk for hours.
 
 After I leave I usually go do something I enjoy: read a book, play pinball, mess around on the computer.  I don't "rest" -- that is what I do when I take a nap.
 
