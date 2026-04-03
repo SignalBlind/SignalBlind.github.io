@@ -39,6 +39,7 @@ Where else do I benefit?
 	- my identity is not tied to these facts
 	- I am willing to say I don't know or I was mistaken
 	- I can apologize -- I have no social status to worry about
+	- I have no [Ego](../Emotions/Ego.md)
 - **Objectivity:** I am status blind
 	- high-fidelity information auditor – no ignoring fallacies even from high status individuals
 	- immune to shame-based manipulation
