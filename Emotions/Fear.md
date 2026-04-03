@@ -38,9 +38,7 @@ They handle these fears in a couple different ways:
 
 ## My Experience
 
-I have some overlap with these, but have none of the social fears.  I don't want to be socially excluded, but why would I be?  I feel stress when doing a public presentation, but this is related to the preparation and anticipation -- once it is underway I am fine.
-
-I don't fear "loss of autonomy", I fear loss of functionality:
+I have some overlap with these, but have none of the social fears, see below.  I don't fear "loss of autonomy", I fear loss of functionality:
 
 - health and aging
 - financial
@@ -53,6 +51,20 @@ All of these things could have a negative effect on me -- I consider their estim
 I have all the same primal triggers and experience them the same way, I think.
 
 I suspect that the non-primal fears are more of a label to me than an emotion of fear.  It is more of a dislike than something I dwell on.
+
+### My Experience: Social Fears
+
+Lacking [Social Salience](../Experience/Social%20Salience.md) I have none of the social fears:
+
+- social exclusion
+	- identity or status threats
+	- reputation
+	- public speaking
+	- rejection
+
+I don't want to be socially excluded, but why would I be?  It may be hard for an NT conceive of such a thing, but I don't really care if I am excluded from a social group -- it just isn't something I can feel.  I wouldn't want to be fired from a job, but that is because I would lose functionality (my income) and have to find a new job, which can be hard work.
+
+I feel stress when doing a public presentation, but this is related to the preparation and anticipation -- once it is underway I am fine.  I don't fear the audience's reaction, I worry that I might flub the delivery.  I know logically that I can recover and most of the time people won't notice anyway, but I still feel the biological stress leading up to an important event.
 ### Irrational Anxiety: My Dog
 
 I have anxiety over leaving my dog with the neighbors.  They have a small dog like mine and they love to take care of my dog.  I couldn't ask for a better situation.  I have a lot of anxiety leaving him with them if we go on vacation.
@@ -81,4 +93,4 @@ Something I am working on.  This does not match the NT trigger for fear at all, 
 
 I am not brave, but I don't feel any of the social fears that NT people feel.  Aside from primal fears (physical danger), I don't even experience the emotion the same way.  Per the LLM my "fear" emotion is more like **Functional Hazard Analysis**.
 
-[Semantic Divergence](Semantic%20Divergence.md): yes, but perhaps close enough?
+[Semantic Divergence](Semantic%20Divergence.md): yes.  I think this one is not too harmful in terms of people being confused, but it isn't really close at all.

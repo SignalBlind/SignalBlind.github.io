@@ -38,7 +38,7 @@ I prefer plots that resolve into objective truth. Mysteries and espionage thrill
 
 ## Categories
 
-- **The Problem Solvers (Weir, Card, DeMille, Sandford, Chandler, Lee Child):** These books feature individuals placed in high-friction environments where survival or success depends on pure analytical capacity. The protagonists view allies and enemies as "black boxes" to be outmaneuvered.
+- **The Problem Solvers (Weir, Card, DeMille, Sandford, Chandler, Lee Child):** These books feature individuals placed in high-friction environments where survival or success depends on pure analytical capacity. The protagonists view allies and enemies as [Black Boxes](../Experience/Black%20Box.md) to be outmaneuvered.
     
 - **The System Builders (Sanderson, Clancy, Williams, Corey, Niven, Clarke):** These authors construct macro-level functional logic models. Whether it is fleet tactics, cold-war espionage, or intricate fantasy worlds, the appeal is in the structural integrity of the author's world.
     

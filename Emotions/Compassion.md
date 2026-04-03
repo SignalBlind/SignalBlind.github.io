@@ -23,7 +23,7 @@ If I am aware of distress but don't know how to fix it, I am not able to provide
 
 Here is an LLM summary of my "compassion":
 
-> The ad-hoc decision to resolve a specific, identified sub-optimal state in any "Black Box" when the "Manual Frame Construction" (MFC) identifies a solvable problem.
+> The ad-hoc decision to resolve a specific, identified sub-optimal state in any [Black Box](../Experience/Black%20Box.md) (person) when the "Manual Frame Construction" (MFC) identifies a solvable problem.
 ## Comparison
 
 In some cases the output (helping) can overlap, but the trigger and entire feeling is quite different.

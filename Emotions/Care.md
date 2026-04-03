@@ -16,7 +16,7 @@ Unlike NT people I do not expect to receive reciprocal care.  Care is given as y
 
 Here is an LLM summary of my "care":
 
-> The ongoing logical decision to allocate resources to a specific "Black Box" (person) to ensure its continued stability and performance within your environment.
+> The ongoing logical decision to allocate resources to a specific [Black Box](../Experience/Black%20Box.md) (person) to ensure its continued stability and performance within your environment.
 ## Comparison
 
 In some cases the output (helping) can overlap, but the trigger and entire feeling is quite different.

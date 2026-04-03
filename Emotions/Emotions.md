@@ -14,6 +14,12 @@ I do have emotions, but if you met me you might wonder:
 
 That said, I don't have all the same emotions and I experience some of the emotions in a different way.
 
+<div class="callout-important" markdown="1">
+**Extra Disclaimer:** as a person who can't experience some of these emotions and experiences other ones in a different way, these descriptions of the NT experience are _best effort_.  I used an LLM to explain them to me but they are largely in my own words as I understand them.  Not all NT people will experience them the same way and I might be wrong.  I think the descriptions of my own experience are correct as far as I can introspect myself.
+
+As far as I know autistic people experience roughly the same emotions as NT people.
+</div>
+
 ## Social Emotions (Missing) ^Social
 
 The [self conscious emotions](https://en.wikipedia.org/wiki/Self-conscious_emotions) require a feedback signal for you to understand how the *self* is perceived by an external observer -- you guessed it, provided by [Social Salience](../Experience/Social%20Salience.md).  I can't experience any of these emotions:

@@ -79,7 +79,7 @@ Because this stage can stall as we wait for more data (*analysis paralysis*), I 
 For the latter two heuristics I can rely on a feedback loop in the functional logic modeling (plan) to adjust for new information that comes in.
 #### [Functional Logic Modeling](Functional%20Logic%20Modeling.md)
 
-I don't have [Social Salience](../Experience/Social%20Salience.md), so I treat other humans as Black Boxes with some [attached facts](Truth%20and%20Facts.md).  Given a goal I can construct a logical model of the situation where I can compute the inputs that I think will give the desired output(s).
+I don't have [Social Salience](../Experience/Social%20Salience.md), so I treat other humans as [Black Boxes](../Experience/Black%20Box.md) with some [attached facts](Truth%20and%20Facts.md).  Given a goal I can construct a logical model of the situation where I can compute the inputs that I think will give the desired output(s).
 
 - **Script**: familiar situations, e.g. going to lunch, have a script (zero cost)
 - **Low fidelity**: if the cost of mistakes are low, low fidelity models can be used for many situations (low cost)
