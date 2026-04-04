@@ -240,7 +240,7 @@ removes some of the specific instructions on how to interact and adds a section 
 Without this the LLM will attempt to push toward a style that matches the way I want _it's_ output to be:  terse, fact based, using clinical terms where possible.  This adjusts it to what I want.
 ### Exploring with the Prompt
 
-If I were making notes on "loneliness" I might give a prompt like this:
+If I were making notes on "[loneliness](Emotions/Loneliness.md)" I might give a prompt like this:
 
 ```
 [HYPOTHESIS] I experience something I call loneliness, help me explore this.  I identify as an introvert and don't crave social interaction.    When talking to neighbors I usually want to leave after 15 minutes or so -- I make my excuses and go, but I know they continue to talk for hours.  At a party I bring a book to read.  I am not stressed talking to people.  If people were talking pinball I could probably talk for hours.  Sometimes I have an urge to go out and talk to the neighbors.  I enjoy chatting with my coworkers at lunch.
