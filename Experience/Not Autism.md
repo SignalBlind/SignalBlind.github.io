@@ -26,6 +26,7 @@ I hit pretty hard here.
 - developing/maintaining relationships
 	- adjusting behavior to suit social context (yes)
 	- absence of interest in peers (yes, but really social situations)
+	- but generally I do maintain relationships fairly well (I think)
 
 ### B: Restricted, Repetitive Patterns of Behavior
 Overlap: none

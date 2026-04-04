@@ -42,7 +42,7 @@ Looking back on this from [Stage 3](#Stage%203) I can see:
 	- her experience
 		- Gaslighting or passive aggression  
 		- Promise, did it again, infer intent  
-	- **The apologies were honest in intent but fraudulent in execution because they promised a capability that did not exist**
+	- **The [apologies](Apologies.md) were honest in intent but fraudulent in execution because they promised a capability that did not exist**
 - the pain my wife felt is probably greater than I can imagine
 	- I still don't understand what being NT is like but I see there is a *big* gap between what they expect and what I can do
 - other people were not just "making stuff up"

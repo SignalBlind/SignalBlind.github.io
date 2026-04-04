@@ -13,7 +13,10 @@ I have identified two root causes for my ND condition:
 - no [Social Salience](Social%20Salience.md) / [Pure A-salience](Pure%20A-salience.md) -- no social signal, don't care about social status
 - [Hypophantasia](Hypophantasia.md) -- low imagery manual 
 
-everything else falls out of that.
+everything else falls out of that, perhaps the important piece being:
+
+- no [Theory of Mind](Theory%20of%20Mind.md)
+
 ## What Does it Feel Like?
 
 Calm, quiet, peaceful.  I think there is a ton of social stress that is just not visible to me.  Social salience is perhaps unique in that it is responsible for both perceiving the signal and *caring* about it.  I have neither.  I am usually [happy](../Emotions/Mid-happy%20Default.md).
