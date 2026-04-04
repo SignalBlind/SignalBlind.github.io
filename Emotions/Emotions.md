@@ -61,7 +61,7 @@ There are some other physiological emotions regulated by [Dopamine](Dopamine.md)
 Note: in NT people oxytocin (bonding/trust) can amplify the social signal.  Although it is likely that I produce the hormone, I have nothing to amplify due to lack of [Social Salience](../Experience/Social%20Salience.md).  This further impedes the [social emotions](#^Social) that might improve social harmony.
 
 - [Contentment](Contentment.md)
-- [Happiness](Happiness.md) / [Mid-happy Default](Mid-happy%20Default.md)
+- [Mid-happy Default](Mid-happy%20Default.md)
 - [Loneliness](Loneliness.md)
 - [Hugs](Hugs.md)
 
