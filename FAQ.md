@@ -35,6 +35,7 @@ No, I don't feel any distress from having no [Social Salience](Experience/Social
 If I became NT I would be a completely different person.  I would experience the world a different way, I would *think* a different way.  I would not to be someone other than myself.
 
 #### Why do you compare your experience to NT?
+^Compare
 
 Without contrast I thought [Everybody is the Same](Experience/Everybody%20is%20the%20Same.md).  I need a point of reference to know what things might be worth noting -- remember these are written to help me understand how I am different than others.
 

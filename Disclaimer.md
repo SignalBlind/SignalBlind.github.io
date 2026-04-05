@@ -13,6 +13,21 @@ I value the [Truth and Facts](How%20I%20Think/Truth%20and%20Facts.md) above *mos
 Just because I think it is true does not mean it is without error.  I may misrepresent, I may misunderstand and I may not know, but I wouldn't write it if I didn't *think* it was true.  [Let me know if you find an error or have a question!](https://github.com/SignalBlind/SignalBlind.github.io/issues)
 
 This model is not sacrosanct.  I feel no [Shame](Emotions/Shame.md) and although this describes my identity, it is *not* my identity.  It can be updated with no *emotional* cost if it is found to be incorrect.  There is *mechanical* cost to update it, but I value truth and accuracy.  The model is less useful if it is not correct.
+## Descriptions of Autism and NT
+
+My notes have descriptions of autism and NT behaviors and experiences.  See [why I compare](FAQ.md#^Compare).
+
+<div class="callout-important" markdown="1">
+These are not first hand experiences.  They are not second hand experiences.  Mostly I am summarizing what I have read and what I get from an LLM.  To be clear:  this is largely **synthetic data** and a **synthetic model** for both NT and autism experiences.
+</div>
+
+My hope (desire but am not sure it is true) is that these are close to reality.  If they are not, let me know.  I also know **everyone is different**, and perhaps autistic people more than most -- the `D` in neurodiverse means widely varied.  If you are autistic my descriptions may not fit you.  I hope they fit _somebody_.
+
+Note: my descriptions of autism are also focusing mainly on what is formerly known as Aspergers and is now called **ASD Level 1** -- I focus on this because it has the most overlap with my experience.  I don't call this out anywhere except here.  Note that I do [not have autism](Experience/Not%20Autism.md) -- my [mechanism](Experience/My%20Experience.md) is different and I have a different experience.  I do have significant overlap on Category A behaviors and no Category B, so this is very relevant to me.  **I do not understand what it feels like to be autistic any more than I understand what it feels like to be NT.**
+
+These are mostly notes about myself and trying to understand the mechanism that causes my own behavior.  I can directly observe the behavior of myself and others and I have some ability to introspect myself.  Sadly I cannot look at my source code, but I can devise thought exercises and logical models that fit.  In these notes I describe what I understand are the mechanisms and outcomes for both autistic and NT behavior, but understand that this is necessarily a generic view (I am using them as a baseline to provide contrast for my own experience).
+
+For NT people there is also variation and my descriptions may not fit you either.  Hopefully it is in the ballpark for many of the descriptions.
 ## How I Developed This Information
 You can read my [History](Experience/History.md) to see my journey.  For most of the material here I worked with LLMs to:
 
