@@ -57,11 +57,9 @@ I can satisfy my need for "conversation" in a number of ways that probably would
 My wife described my interactions with others (including immediate family) as:  **"you treat everybody like a neighbor."**  What I consider a "close" relationship is probably greater shared context.
 
 TLDR: I seek interaction when I am bored with what I am doing and need some noise injected for variety.  I don't need a lot.  I have much more enjoyment talking about topics of interest.  There is no feeling of connection that I am aware of, but I do value these interactions.
-## My Experience: Task Completion^Completion
+## My Experience: Task Completion
 
-I get a [Dopamine](Dopamine.md) hit when I complete a task.  A small task maybe no or small feeling, but a large or difficult task is a big hit.
-
-I once debugged something over the course of six months or a year -- it was impossible to reproduce, but we saw strong evidence there was a problem.  I worked on it on and off over this time:  whenever I had an idea I might spend a few hours or a day investigating.  This continued until I uncovered the missing link:  a seldom used API that I hadn't been considering.  Suddenly I had a repro case.  I knew *where* the bug was, I knew roughly *what* the bug was.  It wasn't my code (organizationally very distant) but I had the key to unlock everything.  We could fix it.  I felt a *huge* dopamine hit -- I was shaking.  Even though it was late at night I was so excited I texted my boss "I FOUND IT".  He knew what I was talking about.
+I once completed a [huge debugging task](Dopamine.md#^Completion) that took six months or a year (long elapsed time, not continuous work).  When I found it I felt a *huge* dopamine hit -- I was shaking.  Even though it was late at night I was so excited I texted my boss "I FOUND IT".  He knew what I was talking about.  This wasn't bragging or looking for praise, this was *delivery.*
 
 When I complete a task like this I have an urge to tell somebody, ideally somebody who might understand it.  If I made a program I want to demonstrate it.  I am not seeking approval, I am excited (dopamine I presume).  In person is fine, via video chat is fine, even a Slack conversation with screenshots works.  I think it is the *expression* of excitement that I am seeking.
 
