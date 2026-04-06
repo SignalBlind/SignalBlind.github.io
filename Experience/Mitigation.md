@@ -44,6 +44,13 @@ Lucky for me I need to improve communication with only one person: my wife.  Can
 
 LLM feedback: Signal-Blindness is an input deficit, not a processing error. Mitigation strategies must focus on **External Telemetry** (data provided by others) rather than **Internal Intuition** (which does not exist in the stack).
 
+General ideas -- these might apply to all interactions:
+
+- watch my words -- troubles with [Semantic Divergence](../Emotions/Semantic%20Divergence.md)
+	- "I don't care" -> "I have no opinion, you can decide"
+	- "I [hate](../Emotions/Hate.md) X" -> "I don't like X"
+	- "Person X is [evil](../Emotions/Disgust.md)" -> "I *really* don't like X"
+
 Here are some ideas:
 
 - detection
