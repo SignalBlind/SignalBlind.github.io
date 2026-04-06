@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ethics
-permalink: /How_I_Think/Ethics/
+permalink: /cognition/Ethics/
 order: 1116
 ---
 Ethics tell a person what *should be done*.  Worldview is how you perceive the world -- what *is*.  Ethics is then the functional output of rules applied to that.

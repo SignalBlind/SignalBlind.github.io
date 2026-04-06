@@ -29,11 +29,11 @@ NT people detect arrogance in the same way:
 
 I don't experience arrogance, but NT people can easily perceive me to be so:
 
-- I am very [blunt](../How%20I%20Think/Truth%20and%20Facts.md) 
-- I do use [softening](../How%20I%20Think/Truth%20and%20Facts.md#^Softening) for when I am not 100% sure
+- I am very [blunt](../Cognition/Truth%20and%20Facts.md) 
+- I do use [softening](../Cognition/Truth%20and%20Facts.md#^Softening) for when I am not 100% sure
 - I have [Flat Affect](../Experience/Flat%20Affect.md)
 - I have no [Social Salience](../Experience/Social%20Salience.md) so I don't mirror or give off proper vibes
-- I think [logically](../How%20I%20Think/Propositional%20Logic.md) and speak [logically](../How%20I%20Think/Functional%20Logic%20Modeling.md) -- it can come off as cold
+- I think [logically](../Cognition/Propositional%20Logic.md) and speak [logically](../Cognition/Functional%20Logic%20Modeling.md) -- it can come off as cold
 
 Per the LLM, NT people perceive this as:
 
@@ -52,7 +52,7 @@ I don't try to avoid appearing arrogant, but I do try to avoid [social friction]
 My detection of arrogance is quite different too.  I don't see various indicators, I see output:
 
 - abuse of power/position
-- [rule breaking](../How%20I%20Think/Ethics.md)
+- [rule breaking](../Cognition/Ethics.md)
 	- especially by people in positions of power
 
 This is what defines arrogance to me.

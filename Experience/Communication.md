@@ -14,7 +14,7 @@ After I was married of course there were sometimes communication problems betwee
 
 It turns out I might have a *few* difficulties that I didn't really notice.
 
-Communication at work (software job) was largely literal and [logical](../How%20I%20Think/Functional%20Logic%20Modeling.md).  [Truth and Facts](../How%20I%20Think/Truth%20and%20Facts.md) were the primary form of communication.  I fit in well with this -- it is my native language and NT people had to adjust themselves to be clear.
+Communication at work (software job) was largely literal and [logical](../Cognition/Functional%20Logic%20Modeling.md).  [Truth and Facts](../Cognition/Truth%20and%20Facts.md) were the primary form of communication.  I fit in well with this -- it is my native language and NT people had to adjust themselves to be clear.
 
 At home, with my wife, [Emotions](../Emotions/Emotions.md) were more likely part of the discussion.  I think differently (no [Social Salience](Social%20Salience.md), no [Theory of Mind](Theory%20of%20Mind.md)) and [Say The Wrong Thing](Say%20The%20Wrong%20Thing.md).  I even have [different meanings](../Emotions/Semantic%20Divergence.md) for emotion words and didn't know it.  I had no [Empathy](../Emotions/Empathy.md) and [Flat Affect](Flat%20Affect.md) -- emotional conversations were ... not great.
 

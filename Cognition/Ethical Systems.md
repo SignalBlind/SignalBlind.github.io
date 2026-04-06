@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ethical Systems
-permalink: /How_I_Think/Ethical_Systems/
+permalink: /cognition/Ethical_Systems/
 order: 1115
 ---
 Ethics tell a person what *should be done*.  What is right and what is wrong.  Surprisingly (to me anyway) there are many different ways to approach this.  I never considered that there could be other ways and my [Axiomatic Deontology](#Axiomatic%20Deontology) gives "universal" right and wrong -- it doesn't really allow for a lot of flexibility.

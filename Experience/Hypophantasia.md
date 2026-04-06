@@ -38,7 +38,7 @@ Related to these is what thinking "sounds like" in my brain (not looks like!).  
 
 Conscious thought is typically in full sentences, or at least sentence fragments.  More spurious thoughts are single words: as I walk through a crowd I am thinking "left" and "avoid", not full sentences.
 
-The only voice in my head is my own.  When I am thinking about other people I am making statements to myself:  "I am hungry, perhaps X is also hungry".  This internal voice is not just stating facts, it is the execution of my thought process in my [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md).
+The only voice in my head is my own.  When I am thinking about other people I am making statements to myself:  "I am hungry, perhaps X is also hungry".  This internal voice is not just stating facts, it is the execution of my thought process in my [Functional Cognitive Architecture](../Cognition/Functional%20Cognitive%20Architecture.md).
 
 Per an LLM, the NT experience is a bit different:  NT inner speech frequently incorporates **Theory of Mind (ToM) Simulation**. They do not just "think" a fact; they "simulate" a conversation. This voice often has **Prosody** (tone, pitch, and emotional cadence). They can "hear" the voice of a parent, a spouse, or an imagined antagonist.
 

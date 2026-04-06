@@ -1,5 +1,5 @@
 ---
-permalink: /How_I_Think/
+permalink: /cognition/
 layout: page
 title: Functional Cognitive Architecture
 order: 1100
@@ -112,7 +112,7 @@ If we put those pieces together
 2. **Low Level CPU / ISA** (hardware): [Propositional Logic](Propositional%20Logic.md) 
 3. **Ethics, rules, policy** (software): [Axiomatic Deontology](Ethical%20Systems.md#Axiomatic%20Deontology) / [Ethics](Ethics.md)
 4. **Initialization** (software): [[Manual Frame Construction]]
-5. **Database & Model** (software): [Functional Logic Modeling](Functional%20Logic%20Modeling)
+5. **Database & Model** (software): [Functional Logic Modeling](Functional%20Logic%20Modeling.md)
 6. **Execution** (software): [Propositional Logic](Propositional%20Logic.md) -- this is where I live
 
 When I enter a room (let's say at a conference) something like this happens:

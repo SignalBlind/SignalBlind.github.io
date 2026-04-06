@@ -11,7 +11,7 @@ In NT people [guilt](https://en.wikipedia.org/wiki/Guilt_(emotion)) is a reflect
 
 "I have violated a rule, broke something, or caused a failure. Logic dictates a taking steps to restore the original state, if possible."
 
-Although I might say "I feel guilty about X" where X is something that I did, I am not feeling the same emotion at all.  In reality I feel [Regret](Regret.md) that X happened and that I caused it.  I can apologize for it and attempt to make it right.  If I performed X and *knew* it was wrong, I would "feel" bad about myself: I violated my own [Ethics](../How%20I%20Think/Ethics.md).  Except that is not [Shame](Shame.md), again, it is a form of regret that I committed this violation.
+Although I might say "I feel guilty about X" where X is something that I did, I am not feeling the same emotion at all.  In reality I feel [Regret](Regret.md) that X happened and that I caused it.  I can apologize for it and attempt to make it right.  If I performed X and *knew* it was wrong, I would "feel" bad about myself: I violated my own [Ethics](../Cognition/Ethics.md).  Except that is not [Shame](Shame.md), again, it is a form of regret that I committed this violation.
 
 If I can rectify the problem, e.g. I broke something and replaced it with something as good as or better, my feeling goes away.  The ledger is cleared.
 

@@ -7,7 +7,7 @@ For NT people, authority or social position carries considerable weight.  They a
 
 Since I lack [Social Salience](Social%20Salience.md), I lack the ability to care about social position.  Probably in many cases I can't perceive the social position itself -- I can understand jobs that give authority but people would seem to be peers are a flat hierarchy to me.  I respect **competence** rather than power.
 
-I do recognize that my manager and people up the chain to the CEO have the power to compel me to do tasks that I disagree with.  If I think a task is unwise or will not get the desired result I will tell the person giving the order, or if they are not available, my manager.  Given my position at work, I see this as my responsibility.  Once informed, they are free to decide as they please and own the consequences -- I could be wrong.  If I have my wits about me, I will [attempt to reduce friction](Friction.md#^SocialFriction) by talking to them in private or using softening words.  There is a hard wall when it comes to my [Ethics](../How%20I%20Think/Ethics.md) -- I won't do something that I think is illegal, dishonest, or will hurt people.  It doesn't matter who gives the order.
+I do recognize that my manager and people up the chain to the CEO have the power to compel me to do tasks that I disagree with.  If I think a task is unwise or will not get the desired result I will tell the person giving the order, or if they are not available, my manager.  Given my position at work, I see this as my responsibility.  Once informed, they are free to decide as they please and own the consequences -- I could be wrong.  If I have my wits about me, I will [attempt to reduce friction](Friction.md#^SocialFriction) by talking to them in private or using softening words.  There is a hard wall when it comes to my [Ethics](../Cognition/Ethics.md) -- I won't do something that I think is illegal, dishonest, or will hurt people.  It doesn't matter who gives the order.
 
 For example:
 
@@ -24,7 +24,7 @@ I don't consider authority when evaluating ideas:  if a janitor and a CEO both g
 
 I do not have any status vibes.  I wouldn't know a king from a pauper, except by dress.
 
-Additionally, I have [No Authority Bias](../How%20I%20Think/Ethics.md#No%20Authority%20Bias) in my ethics.  In fact I feel the opposite:
+Additionally, I have [No Authority Bias](../Cognition/Ethics.md#No%20Authority%20Bias) in my ethics.  In fact I feel the opposite:
 
 - greater power requires greater accountability because the breadth of their impact is greater  
 - A leader who commits crimes or lies makes me very [angry](../Emotions/Anger.md)  

@@ -21,7 +21,7 @@ My preferred protagonists (Mark Watney, Jack Reacher, Ender Wiggin, Lucas Davenp
 - **Signal Processing:** They rely on explicit facts and deduction. Watney survives via pure math and botany; Ender wins by mapping enemy input/output sequences; detectives solve cases by discarding "vibes" and isolating factual evidence.
 
 **B. Rule-Governed Worldbuilding (Systematized Environments)**  
-My reliance on [Propositional Logic](../How%20I%20Think/Propositional%20Logic.md) dictates a preference for universes with discrete, fixed rules.
+My reliance on [Propositional Logic](../Cognition/Propositional%20Logic.md) dictates a preference for universes with discrete, fixed rules.
 
 - **Hard Magic & Mechanics:** Brandon Sanderson’s magic systems, Larry Niven’s orbital mechanics, and Julian May’s structured psychic powers operate like physics or computer code. Variables go in, predictable outputs come out. There is no "vibe-based" resolution; the systems are logically rigorous.
     

@@ -17,7 +17,7 @@ Other ND phenotypes may also use masking to fit in, but masking is often associa
 
 Lacking [Social Salience](Social%20Salience.md) meant (and still means) that I didn't even notice that I was [not behaving the same as everybody else](Everybody%20is%20the%20Same.md).  Sure, I might have some oddities (I was a nerd), but these seemed within the normal range for people and personalities (my perception).
 
-It never occurred to me that there might be such a thing as masking or that I might want to do it.  Now that I know about it, I still don't care about it (social salience again).  I do use some heuristics to avoid [social friction](Friction.md#^SocialFriction) (for efficiency purposes, which is [Functional Logic Modeling](../How%20I%20Think/Functional%20Logic%20Modeling.md)), but that is about it.  I didn't perceive what I was missing, so it wasn't something I ever considered.
+It never occurred to me that there might be such a thing as masking or that I might want to do it.  Now that I know about it, I still don't care about it (social salience again).  I do use some heuristics to avoid [social friction](Friction.md#^SocialFriction) (for efficiency purposes, which is [Functional Logic Modeling](../Cognition/Functional%20Logic%20Modeling.md)), but that is about it.  I didn't perceive what I was missing, so it wasn't something I ever considered.
 
 I may have been ostracized when I was younger -- certainly I can recall other kids making fun of the way I talked (slowly).  I didn't like it, but I can't recall any particular stress from this.  I had friends:  neighbors and several kids who liked computers or role playing games.  I may not have picked up on the full effect so it kind of rolled off me.
 

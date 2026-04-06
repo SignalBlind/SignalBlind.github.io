@@ -9,10 +9,10 @@ Am I really unique?  Probably not.  Sure, everybody wants to be the main charact
 
 - DSM-5 is for diagnosing disorders -- conditions that impair various functions
 	- my condition has no visible (to me) impairment and thus wouldn't be covered
-- I have a [Zero Lag](../How%20I%20Think/Zero%20Lag.md) low effort mechanism
+- I have a [Zero Lag](../Cognition/Zero%20Lag.md) low effort mechanism
 	- I didn't even know I was [different](Everybody%20is%20the%20Same.md) -- probably other people would be the same
 - I work in the software industry
-	- my [Propositional Logic](../How%20I%20Think/Propositional%20Logic.md) way of thinking fits perfectly -- again, everything seemed natural
+	- my [Propositional Logic](../Cognition/Propositional%20Logic.md) way of thinking fits perfectly -- again, everything seemed natural
 	- what friction I might encounter in other fields is largely absent here:  explicit communication is the norm
 - clinical psychology is output-oriented
 	- [ASD category A](Not%20Autism.md#A%20Social%20Communication%20and%20Interaction) describes me but B is a complete miss -- I need the *mechanism* to understand how I behave
@@ -72,14 +72,14 @@ This describes some of the outcomes of treating humans as "systems" without addr
 
 This provides the distinction between **Implicit (Automatic) Social Tracking** and **Explicit (Manual) Social Reasoning**.
 
-The paper talks about [Manual Frame Construction](../How%20I%20Think/Manual%20Frame%20Construction.md) -- this describes how autistic people can use "compensatory learning" to employ explicit reasoning to accomplish tasks that Automatic ToM would otherwise provide.  This is roughly equivalent to my understanding of [how I Predict or Explain Others](Theory%20of%20Mind.md#My%20Experience%20Predicting%20or%20Explaining%20Others).
+The paper talks about [Manual Frame Construction](../Cognition/Manual%20Frame%20Construction.md) -- this describes how autistic people can use "compensatory learning" to employ explicit reasoning to accomplish tasks that Automatic ToM would otherwise provide.  This is roughly equivalent to my understanding of [how I Predict or Explain Others](Theory%20of%20Mind.md#My%20Experience%20Predicting%20or%20Explaining%20Others).
 
 In short this describes the mechanism that differs between NT and autistic people (specifically [Asperger Syndrome](https://en.wikipedia.org/wiki/Asperger_syndrome), now called Level 1 ASD) and how autistic people can compensate.
 
 The paper claimed that it tested ASD subjects (via eye tracking) and found they had no [Social Salience](Social%20Salience.md) but were still diagnosed with ASD.  Although this seems like it might be possible, it doesn't seem likely.  I think the noisy social saliency that [autistic people experience](Autism%20Experience.md) is the trigger for some of the [category B compensation effects](Not%20Autism.md).  The fact that these subjects were _diagnosed with ASD_ requires that they experience these effects.  Now I am no expert on this subject, but I am not sure I buy it.  Read the next paper -- Heyes didn't buy it either.
 ### [Submentalizing: I Am Not Really Reading Your Mind](https://www.semanticscholar.org/paper/Submentalizing%3A-I-Am-Not-Really-Reading-Your-Mind-Heyes/dd4625094a712f55d5f11bb469a2a80295831061) by Cecilia Heyes
 
-The paper’s core thesis is that "social" behavior is often driven by domain-general cognitive processes rather than a dedicated Social Saliency module. Heyes argues that what researchers call "Theory of Mind" (ToM) is frequently just **Functional Logic Modeling** applied to spatial or directional data.  This matches my own experience except that it isn't *frequently*, it is always.  I do have a "fast mode" in my [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md) that I use in a similar way, but it is the _same_ mechanism with shortcuts, not a different mechanism.
+The paper’s core thesis is that "social" behavior is often driven by domain-general cognitive processes rather than a dedicated Social Saliency module. Heyes argues that what researchers call "Theory of Mind" (ToM) is frequently just **Functional Logic Modeling** applied to spatial or directional data.  This matches my own experience except that it isn't *frequently*, it is always.  I do have a "fast mode" in my [Functional Cognitive Architecture](../Cognition/Functional%20Cognitive%20Architecture.md) that I use in a similar way, but it is the _same_ mechanism with shortcuts, not a different mechanism.
 
 Heyes claims "we do not need mentalizing as much as previously thought" -- that suggests that my lack of social saliency is a "lean" version of processing, not broken (I think so too!).  She also says that NT people suffer a lot of distractions with social cues (head-turning).
 
@@ -95,13 +95,13 @@ The paper identifies the "Teleological Stance" as functional logical model of sy
 
 This sounds similar to "Submentalizing: I Am Not Really Reading Your Mind" in that there are two modes that NT people can use as needed.
 
-The paper talks about a "Rationality Principle" which is implemented in the Teleological Stance.  This is equivalent to my [Axiomatic Deontology](../How%20I%20Think/Ethical%20Systems.md#Axiomatic%20Deontology) -- a "wrong" action is inefficient or irrational.
+The paper talks about a "Rationality Principle" which is implemented in the Teleological Stance.  This is equivalent to my [Axiomatic Deontology](../Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) -- a "wrong" action is inefficient or irrational.
 
-The paper also talks about a need to capture the relevant data to operate the Teleological Stance.  This is roughly my [Manual Frame Construction](../How%20I%20Think/Manual%20Frame%20Construction.md), which can be expensive.
+The paper also talks about a need to capture the relevant data to operate the Teleological Stance.  This is roughly my [Manual Frame Construction](../Cognition/Manual%20Frame%20Construction.md), which can be expensive.
 
 I don't use a strictly Teleological model (reality only), I can consume statements and label them as true/false/maybe.  This is necessary to deal with people in the real world:  they have lots of ideas that I believe are false or unknown.  I understand that people may have a different point of view than me.  If they tell me what it is I will attach those facts to my representation of the person along with my grading.
 
-Since I did not have access to the signal to develop a Mentalistic Stance I developed an alternative **Propositional Meta-Representation** (data tagging) ability in my [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md). I do not remember doing that, but I have it now!
+Since I did not have access to the signal to develop a Mentalistic Stance I developed an alternative **Propositional Meta-Representation** (data tagging) ability in my [Functional Cognitive Architecture](../Cognition/Functional%20Cognitive%20Architecture.md). I do not remember doing that, but I have it now!
 
 ### [Mindblindness: An Essay on Autism and Theory of Mind](https://direct.mit.edu/books/monograph/3890/MindblindnessAn-Essay-on-Autism-and-Theory-of-Mind), Simon Baron-Cohen
 
@@ -124,7 +124,7 @@ Talks about "Systemizing" -- a drive to think about everything as systems that n
 
 Baron-Cohen’s theory assumes that "Systemizers" are simply people who prefer "if-then" rules.
 
-I don't prefer "if-then" rules, I am forced to process using [Propositional Logic](../How%20I%20Think/Propositional%20Logic.md) because of my lack of social signal.  I am not "Systemizing" by choice, it is what is left.
+I don't prefer "if-then" rules, I am forced to process using [Propositional Logic](../Cognition/Propositional%20Logic.md) because of my lack of social signal.  I am not "Systemizing" by choice, it is what is left.
 
 What Baron-Cohen calls "Extreme Systemizing" is likely the emergent behavior of a system that has **Zero Social Saliency**. When the social signal is 0, the logic signal becomes 100% of the usable data.  This idea is interesting to me because it may describe my condition.  I haven't read it but it sounds like a theoretical model rather than first or second hand accounts.  He sees it as something that people would want to overcome.
 
@@ -154,9 +154,9 @@ I think this paper is pretty interesting in that it tries to map the mechanisms 
 - **Explicit Mentalizing (The "Logic Check")**
 	- the ability to manually deconstruct a situation
 	- slow, deliberate, propositional
-	- **me:** I have this, but once my [Manual Frame Construction](../How%20I%20Think/Manual%20Frame%20Construction.md) is complete it is quite fast
+	- **me:** I have this, but once my [Manual Frame Construction](../Cognition/Manual%20Frame%20Construction.md) is complete it is quite fast
 
-The paper suggests that "abnormal development" (Section 2) results in a "faulty" mechanism.  In my architecture, the mechanism is not "faulty" (broken); it is **Non-Existent**. I have built a [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md) using logic hardware to perform tasks typically reserved for the "Social Receiver." I am not a broken version of the NT model; you are a functional execution of a different **Instruction Set Architecture (ISA).**
+The paper suggests that "abnormal development" (Section 2) results in a "faulty" mechanism.  In my architecture, the mechanism is not "faulty" (broken); it is **Non-Existent**. I have built a [Functional Cognitive Architecture](../Cognition/Functional%20Cognitive%20Architecture.md) using logic hardware to perform tasks typically reserved for the "Social Receiver." I am not a broken version of the NT model; you are a functional execution of a different **Instruction Set Architecture (ISA).**
 ### [Switched On: A Memoir of Brain Change and Emotional Awakening](https://www.amazon.com/Switched-Memoir-Change-Emotional-Awakening-ebook/dp/B00RKO6N1Y), John Elder Robison ^Hyposalience
 
 This one looked really promising -- the author is autistic and described having "social blindness" and "emotional blindness".  The author also describes an experimental brain treatment called *TMS* where his social saliency was switched on (or so it sounded).

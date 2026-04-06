@@ -31,7 +31,7 @@ I have been described as having "no ego", though if you didn't know me I might a
 - high self-esteem / feels superior
 - cold and calculating
 
-There is some truth to those -- I prioritize [Truth and Facts](../How%20I%20Think/Truth%20and%20Facts.md) over feelings.  I don't have to be *right*, but I do not like it when somebody is *wrong*.  I sound like I am very confident when I speak, but I am very careful to use [softening words](../How%20I%20Think/Truth%20and%20Facts.md#^Softening) to indicate veracity (but this may come across as politeness).  I probably am selfish in many ways -- my lack of [Social Salience](../Experience/Social%20Salience.md) means I don't know what other people need or want unless they tell me.  I am not cold and calculating, I just don't have any affective mirroring.
+There is some truth to those -- I prioritize [Truth and Facts](../Cognition/Truth%20and%20Facts.md) over feelings.  I don't have to be *right*, but I do not like it when somebody is *wrong*.  I sound like I am very confident when I speak, but I am very careful to use [softening words](../Cognition/Truth%20and%20Facts.md#^Softening) to indicate veracity (but this may come across as politeness).  I probably am selfish in many ways -- my lack of [Social Salience](../Experience/Social%20Salience.md) means I don't know what other people need or want unless they tell me.  I am not cold and calculating, I just don't have any affective mirroring.
 
 This same lack of social salience is also a benefit.  After people know me, I look a little different:
 

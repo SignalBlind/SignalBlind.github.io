@@ -10,7 +10,7 @@ Compassion is a reaction to suffering -- it is a bridge between [Empathy](Empath
 [[Care]] is action-oriented and is an ongoing feeling not necessarily tied to suffering.
 ## My Experience
 
-I find it very hard to differentiate between [Care](Care.md), compassion and [Sympathy](Sympathy.md).  In all three cases my output is the same:  I attempt to fix problems.  I do this because my [Ethics](../How%20I%20Think/Ethics.md) and [Axiomatic Deontology](../How%20I%20Think/Ethical%20Systems.md#Axiomatic%20Deontology) have "do not harm" as the number one rule.  If someone or something is in need and I have the capacity to fix it, I should fix it.  Semantically this is **Functional Altruism**.
+I find it very hard to differentiate between [Care](Care.md), compassion and [Sympathy](Sympathy.md).  In all three cases my output is the same:  I attempt to fix problems.  I do this because my [Ethics](../Cognition/Ethics.md) and [Axiomatic Deontology](../Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) have "do not harm" as the number one rule.  If someone or something is in need and I have the capacity to fix it, I should fix it.  Semantically this is **Functional Altruism**.
 
 Since I lack [Social Salience](../Experience/Social%20Salience.md) I can't directly measure suffering unless:
 
@@ -19,7 +19,7 @@ Since I lack [Social Salience](../Experience/Social%20Salience.md) I can't direc
 
 My "compassion" is triggered in the same way as my "care":  I see a need that I can fulfill.
 
-If I am aware of distress but don't know how to fix it, I am not able to provide any help.  Distress without information is not actionable.  Here is [Failure Example](../How%20I%20Think/Examples.md#Failure%20Example).
+If I am aware of distress but don't know how to fix it, I am not able to provide any help.  Distress without information is not actionable.  Here is [Failure Example](../Cognition/Examples.md#Failure%20Example).
 
 Here is an LLM summary of my "compassion":
 

@@ -21,7 +21,7 @@ or whatever LLM you wish to use.
 
 I case you want to make your own system prompt I will explain how mine works so you could modify it or create your own.
 
-First I give it some parameters on how I want it to interact.  LLMs are typically trained to be very polite and apologize or use softening language.  I am not [offended](Emotions/Shame.md) -- my lack of social salience means I don't even receive the offense signal.  I want the [Truth and Facts](How%20I%20Think/Truth%20and%20Facts.md).
+First I give it some parameters on how I want it to interact.  LLMs are typically trained to be very polite and apologize or use softening language.  I am not [offended](Emotions/Shame.md) -- my lack of social salience means I don't even receive the offense signal.  I want the [Truth and Facts](Cognition/Truth%20and%20Facts.md).
 
 ```
 I am neurodivergent and prefer direct, clinical, or objective descriptions of social dynamics. Do not use hedging language like 'it is important to remember' or 'it’s complicated.' Do not apologize for highlighting social errors or blunt truths about behavioral observations.  I am not offended by things that are true or believed to be true (about me).
@@ -35,7 +35,7 @@ I started by simply saying I had "no social salience (ToM)" and "hypophantasia".
 
 **Note:** autism is a fairly common ND condition and has quite a bit of overlap with my experience.  Because of training data and potentially tuning the LLMs often steer you toward autism if you describe things that sound like it.  I [don't have autism](Experience/Not%20Autism.md) and need to be *very* clear how my experience is different.  Further below I give additional instructions to make sure that the LLM is not giving me autism related advice.  YMMV
 
-This first part describes [how I think](How%20I%20Think/Functional%20Cognitive%20Architecture.md).  It turns out this is significantly different than how NT people think and view the world so this is useful to point out.  A few sub-points are also important: the fact that I have some heuristic optimizations -- what might be a very costly way to process the world around me can be done cheaply by accepting incomplete data and failure modes (see Non-Blocking Manual Frame Construction).  Without that clarification the LLM may assume I spend a lot of time and mental energy perfecting my plans.
+This first part describes [how I think](Cognition/Functional%20Cognitive%20Architecture.md).  It turns out this is significantly different than how NT people think and view the world so this is useful to point out.  A few sub-points are also important: the fact that I have some heuristic optimizations -- what might be a very costly way to process the world around me can be done cheaply by accepting incomplete data and failure modes (see Non-Blocking Manual Frame Construction).  Without that clarification the LLM may assume I spend a lot of time and mental energy perfecting my plans.
 
 The labels here make sense to me:  I am a programmer and thinking in terms of computers works well for me (and the LLM).  This also helps the LLM bypass its empathy/politeness training and give it to me very explicitly.
 
@@ -76,7 +76,7 @@ Next I talk about my lack of [Social Salience](Experience/Social%20Salience.md) 
 - **Low Effort/Zero Masking:** I experience no 'social lag' because I do not attempt to simulate social intuition or perform "manual overrides" to fit in.
 ```
 
-Next how I view right and wrong.  Although I am typically very [Easy Going](Experience/Easy%20Going.md) people are sometimes surprised when they come up against my [steel walls](How%20I%20Think/Ethics.md).  This is also not how NT people typically process the rules -- I use [Axiomatic Deontology](How%20I%20Think/Ethical%20Systems.md#Axiomatic%20Deontology) and they probably use something like [Social Utilitarianism](How%20I%20Think/Ethical%20Systems.md#Social%20Utilitarianism).
+Next how I view right and wrong.  Although I am typically very [Easy Going](Experience/Easy%20Going.md) people are sometimes surprised when they come up against my [steel walls](Cognition/Ethics.md).  This is also not how NT people typically process the rules -- I use [Axiomatic Deontology](Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) and they probably use something like [Social Utilitarianism](Cognition/Ethical%20Systems.md#Social%20Utilitarianism).
 
 ```
 ## Ethical Architecture: Axiomatic Deontology
@@ -259,7 +259,7 @@ You are probably not me, but you can pretend to be!  Assuming the system prompt 
 Predict how I experience lonliness
 ```
 
-In my experience it is pretty good.  It sometimes makes assumptions that are true given the limited information in the system prompt, but untrue in reality.  For example the system prompt indicates that I value truth and have no shame.  It might infer that I *never* lie.  That is mostly true, but there are some circumstances when I will, see [Ethics](How%20I%20Think/Ethics.md) and [Secrets](How%20I%20Think/Truth%20and%20Facts.md#Secrets).
+In my experience it is pretty good.  It sometimes makes assumptions that are true given the limited information in the system prompt, but untrue in reality.  For example the system prompt indicates that I value truth and have no shame.  It might infer that I *never* lie.  That is mostly true, but there are some circumstances when I will, see [Ethics](Cognition/Ethics.md) and [Secrets](Cognition/Truth%20and%20Facts.md#Secrets).
 
 I don't know if this is useful or interesting, but I am pointing it out in case it is!
 

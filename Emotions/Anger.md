@@ -13,7 +13,7 @@ Anger is the mechanism used to push the holder into action to force another part
 See also [Hate](Hate.md) which is a colder and longer term feeling.
 ## My Experience
 
-I feel anger when somebody is violating my [Ethics](../How%20I%20Think/Ethics.md) (e.g. lying or harming people).  I also feel a lower magnitude anger when somebody is wasteful or inefficient, especially when it causes harm to others.  I don't feel any personal insult, I am angered by system-level data corruption.
+I feel anger when somebody is violating my [Ethics](../Cognition/Ethics.md) (e.g. lying or harming people).  I also feel a lower magnitude anger when somebody is wasteful or inefficient, especially when it causes harm to others.  I don't feel any personal insult, I am angered by system-level data corruption.
 
 I can also feel the adrenaline punch when thinking about high impact actors (e.g. leaders and politicians) who cause harm:  lying, cheating, stealing, hurting or killing people.  The magnitude of the harm and the responsibility of the actor to not do those things amplifies the effect.
 

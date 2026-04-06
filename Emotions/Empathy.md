@@ -20,7 +20,7 @@ I have no functional empathy, though I can experience [Sympathy](Sympathy.md) if
 I have no [Social Salience](../Experience/Social%20Salience.md) so I have no emotional signal and affective empathy is impossible for me.  A person in distress who is quiet is the same as a quiet person to me.
 ### Cognitive Empathy of a Sort
 
-If I have an explicit signal, "I am sad because X", I can mentally [model](../How%20I%20Think/Functional%20Logic%20Modeling.md) their state and may be able to understand.  Some things that people might be upset about would not be upsetting to me (see no [Shame](Shame.md)).  I might be able to feel [Sympathy](Sympathy.md) in that case -- I can understand that they are upset without knowing why.
+If I have an explicit signal, "I am sad because X", I can mentally [model](../Cognition/Functional%20Logic%20Modeling.md) their state and may be able to understand.  Some things that people might be upset about would not be upsetting to me (see no [Shame](Shame.md)).  I might be able to feel [Sympathy](Sympathy.md) in that case -- I can understand that they are upset without knowing why.
 
 NT people would not consider this cognitive empathy as it is manually constructed and requires explicit signal -- many times when people are upset they can't explain themselves.
 ### Narrative Affective Resonance

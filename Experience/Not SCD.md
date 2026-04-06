@@ -33,10 +33,10 @@ Again, I am not expert on neurodevelopmental disorders, so I am interpreting thr
 As noted above, I have strong overlap on ASD Category A and none on Category B.  Examining the points above:
 #### Point 1 -- Greeting
 
-Using my [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md) I have a zero lag "greet people in the hallway" script.  If I am not paying attention I can fall prey to the "how are you doing?" being taken literally.  I think *slight* impairment beyond any emotional mirroring that might be expected.
+Using my [Functional Cognitive Architecture](../Cognition/Functional%20Cognitive%20Architecture.md) I have a zero lag "greet people in the hallway" script.  If I am not paying attention I can fall prey to the "how are you doing?" being taken literally.  I think *slight* impairment beyond any emotional mirroring that might be expected.
 #### Point 2 -- Context / Pragmatism
 
-At worst I presume people to have knowledge that they might not have.  I can usually detect this ("huh?") and adjust on the fly to explain the unfamiliar parts (this tends to land better than mansplaining in my experience).  Certainly I [carefully consider the audience](../How%20I%20Think/Functional%20Logic%20Modeling.md) for something important:  what do I think they know, and what information do they need to reach the conclusion I want?  It isn't automatic, but I think I am capable.
+At worst I presume people to have knowledge that they might not have.  I can usually detect this ("huh?") and adjust on the fly to explain the unfamiliar parts (this tends to land better than mansplaining in my experience).  Certainly I [carefully consider the audience](../Cognition/Functional%20Logic%20Modeling.md) for something important:  what do I think they know, and what information do they need to reach the conclusion I want?  It isn't automatic, but I think I am capable.
 #### Point 3 -- Taking Turns
 
 I do sometimes talk over people but will back off if we collide.  I don't have the [Social Salience](Social%20Salience.md) to pick up the non-verbal cues, I wait for silence and attempt to go (like a network).  Again *slight* impairment as it isn't automatic, but functional in practice.

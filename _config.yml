@@ -71,8 +71,10 @@ exclude_from_print:
 navigation:
   - title: Home
     url: /
-  - title: About
-    url: /about/
+  - title: About Me
+    url: /experience/
+  - title: Cognitive Architecture
+    url: /cognition/
 
 # Footer navigation
 footer_navigation:

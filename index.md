@@ -6,7 +6,7 @@ order: 1
 ---
 This repository contains documentation regarding a specific neurodivergent profile defined by [Pure A-salience](Experience/Pure%20A-salience.md) (the total absence of social signal capture).
 
-This is distinct from [Autism](Experience/Not%20Autism.md) and various other [potential diagnoses](Experience/Overlaps.md).  I have good overlap on the [category A](Experience/Not%20Autism.md#A%20Social%20Communication%20and%20Interaction) indicators for autism but NO overlap on category B.  Additionally I have no social [Friction](Experience/Friction.md) or [processing lag](How%20I%20Think/Functional%20Cognitive%20Architecture.md) -- I am not attempting to emulate [Theory of Mind](Experience/Theory%20of%20Mind.md), I didn't even know that was a thing.
+This is distinct from [Autism](Experience/Not%20Autism.md) and various other [potential diagnoses](Experience/Overlaps.md).  I have good overlap on the [category A](Experience/Not%20Autism.md#A%20Social%20Communication%20and%20Interaction) indicators for autism but NO overlap on category B.  Additionally I have no social [Friction](Experience/Friction.md) or [processing lag](Cognition/Functional%20Cognitive%20Architecture.md) -- I am not attempting to emulate [Theory of Mind](Experience/Theory%20of%20Mind.md), I didn't even know that was a thing.
 
 This site describes my [experience](Experience/History.md) of being neurodivergent and [not knowing it](Experience/Everybody%20is%20the%20Same.md) through to my eventual discovery of the [the mechanism behind it](Experience/My%20Experience.md).  These are my notes, for myself, packaged up in case they are interesting to others.
 ## Objective

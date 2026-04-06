@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lag
-permalink: /How_I_Think/Zero_Lag/
+permalink: /cognition/Zero_Lag/
 ---
 Most forms of neurodivergence experience some form of lag -- both a high effort/mental cost processing and a delay in response, particularly in social situations.  My experience is different in that I have low effort and low or zero lag.
 

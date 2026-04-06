@@ -40,7 +40,7 @@ I think I learned a lot of my vocabulary through reading and thus by context.  I
 
 Even before I knew that there was a [Semantic Divergence](Semantic%20Divergence.md) in definition, I think there were problems with using these words incorrectly.  I can see that retrospectively where the words I used were taken as judgement but to me they were just descriptive words used in constructive feedback.  Now I am more aware that my words are askew.
 
-For example, I might say I [Hate](Hate.md) somebody, say a corrupt politician.  To me this is indicating high magnitude dislike -- they are violating my [ethical standards](../How%20I%20Think/Ethics.md) for their own gain.  I don't know them, it doesn't affect me.  I just want it to stop.  To NT people this means something else: moral disgust, evil, and some feeling of ill will (I think).
+For example, I might say I [Hate](Hate.md) somebody, say a corrupt politician.  To me this is indicating high magnitude dislike -- they are violating my [ethical standards](../Cognition/Ethics.md) for their own gain.  I don't know them, it doesn't affect me.  I just want it to stop.  To NT people this means something else: moral disgust, evil, and some feeling of ill will (I think).
 
 ## Primary Emotions (Biological) ^Primary
 

@@ -25,7 +25,7 @@ I can be annoyed at tripped in public or having food in my teeth, but it is a mi
 
 Bodily noises, on the other hand, can trigger the blush response.  A loud fart in a elevator full of people.  I will certainly blush and say "excuse me".  This is not embarrassment in the NT sense:  the blush is a biological threat response (BTR).  I suddenly have 5 people looking at me and whiffing odors that I wish they would not smell.  I am not in fear of my life, but at a low level my brain recognizes a threat signal.  I am not reacting to the social wrongness, I am experiencing momentary stress.  Once I am clear, the feeling will quickly subside -- I tend not to have a lot of lingering thoughts.
 
-Note: my wife says that I will say excuse me even when I am half asleep.  This is not a social gesture, this is a hard coded script in my [Manual Frame Construction](../How%20I%20Think/Manual%20Frame%20Construction.md) to provide [Zero Lag](../How%20I%20Think/Zero%20Lag.md) response when needed.
+Note: my wife says that I will say excuse me even when I am half asleep.  This is not a social gesture, this is a hard coded script in my [Manual Frame Construction](../Cognition/Manual%20Frame%20Construction.md) to provide [Zero Lag](../Cognition/Zero%20Lag.md) response when needed.
 
 I can also trigger the same blush response if I inadvertently say [something that sounds off color or racist](../Experience/Say%20The%20Wrong%20Thing.md#Whoops).  I realize this after the fact -- perhaps my brain is reviewing the speech for clarity and it trips a heuristic rule.  I will apologize and probably blush.  If it came out not as I intended, then I will move on though my face may take time to recover.
 

@@ -8,13 +8,13 @@ title: Disgust
 
 Curiously the moral disgust emotion shares biological circuitry with the physical disgust feeling.  Being disgusted by a person feels the same way as watching somebody vomit or tasting rotten food.
 
-The trigger for disgust in NT people is social and ethical violations.  Since NT [ethics](../How%20I%20Think/Ethical%20Systems.md#Social%20Utilitarianism) are deeply tied to social cohesion, this makes sense.  When people hear about a horrible crime it may be described as "sickening" -- that is literally part of the feeling.  Taboo social behaviors trigger the same reaction
+The trigger for disgust in NT people is social and ethical violations.  Since NT [ethics](../Cognition/Ethical%20Systems.md#Social%20Utilitarianism) are deeply tied to social cohesion, this makes sense.  When people hear about a horrible crime it may be described as "sickening" -- that is literally part of the feeling.  Taboo social behaviors trigger the same reaction
 
 ## My Experience
 
 Of course I feel the same physical disgust from smelling or eating rotten food: that is a hard wired physiological response to keep us safe from things that might poison us.
 
-I do feel something that I label "disgust" (moral) but it only has coincidental overlap with the NT triggers and none of the same internal feeling.  In a similar way, violation of my [Ethics](../How%20I%20Think/Ethics.md) (note: these are _different_ than NT ethics!) triggers a feeling of [Anger](Anger.md) or [Hate](Hate.md) (note: also different, more like a label) toward the situation and sometimes the people.
+I do feel something that I label "disgust" (moral) but it only has coincidental overlap with the NT triggers and none of the same internal feeling.  In a similar way, violation of my [Ethics](../Cognition/Ethics.md) (note: these are _different_ than NT ethics!) triggers a feeling of [Anger](Anger.md) or [Hate](Hate.md) (note: also different, more like a label) toward the situation and sometimes the people.
 
 Yes, if somebody commits a horrible crime, e.g. murder, I feel "disgust".  What an awful thing to do and to have happen.  The person doesn't "disgust" me, unless perhaps they were gleeful in it -- that would be a violation on top of the crime.  The action itself violates my number 1 ethical rule about harming others.
 

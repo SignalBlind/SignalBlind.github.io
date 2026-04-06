@@ -6,7 +6,7 @@ As I mentioned in [Everybody is the Same](Everybody%20is%20the%20Same.md), I nev
 
 Are there downsides?  Maybe!  See [Friction](Friction.md) and [Communication](Communication.md).  An oddity of having no [Social Salience](Social%20Salience.md) is that I can't perceive many of the limitations and don't have much feeling about it one way or another.  I can see secondary effects in communication with my wife as the biggest issue.
 
-Note that I work in software development, which is *highly* aligned with my [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md).  Computers and people who are dealing with them are typically *very* literal.  The computer will do as programmed, even if it doesn't make sense, so being literal is key.  Of course where there are people, there are emotions, but in a workplace these tend to be more along the lines of frustration or boredom -- nothing tricky.
+Note that I work in software development, which is *highly* aligned with my [Functional Cognitive Architecture](../Cognition/Functional%20Cognitive%20Architecture.md).  Computers and people who are dealing with them are typically *very* literal.  The computer will do as programmed, even if it doesn't make sense, so being literal is key.  Of course where there are people, there are emotions, but in a workplace these tend to be more along the lines of frustration or boredom -- nothing tricky.
 ## Autism and ADHD Experience
 
 I have read about and heard from friends with ADHD that there is some benefit to their condition *in the software industry*.  Outside of that field, I am not sure.  There are certainly stressful and tiring parts of autism and ADHD.  Of course individual experiences vary.  These are things that I have heard of that _are sometimes a benefit_ (paraphrased from an LLM):
@@ -26,7 +26,7 @@ Although I am [Not Autistic](Not%20Autism.md) I do share some of the same benefi
 
 Where else do I benefit?
 
-- **Logical:** I use [Propositional Logic](../How%20I%20Think/Propositional%20Logic.md) and [Functional Logic Modeling](../How%20I%20Think/Functional%20Logic%20Modeling.md) in how I think
+- **Logical:** I use [Propositional Logic](../Cognition/Propositional%20Logic.md) and [Functional Logic Modeling](../Cognition/Functional%20Logic%20Modeling.md) in how I think
 	- this works well in STEM fields and software development
 - **Calm and Quiet:** I don't experience the social pings
 	- I don't pick up emotions or reflect them back
@@ -35,7 +35,7 @@ Where else do I benefit?
 	- cognitive efficiency
 - **Self Esteem:** my sense of self worth is entirely internal and stable
 	- I have no [Shame](../Emotions/Shame.md)
-	- I want the [Truth and Facts](../How%20I%20Think/Truth%20and%20Facts.md)
+	- I want the [Truth and Facts](../Cognition/Truth%20and%20Facts.md)
 	- my identity is not tied to these facts
 	- I am willing to say I don't know or I was mistaken
 	- I can apologize -- I have no social status to worry about

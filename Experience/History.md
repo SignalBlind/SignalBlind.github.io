@@ -89,7 +89,7 @@ The first round, which lasted a few days, pointed me at "effortful, explicit the
 I was about to build a mental model and suddenly everything started to unlock.
 
 - I discovered how fundamentally different I am from NT people
-	- from [Ethics](../How%20I%20Think/Ethics.md) to [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md) 
+	- from [Ethics](../Cognition/Ethics.md) to [Functional Cognitive Architecture](../Cognition/Functional%20Cognitive%20Architecture.md) 
 	- and all the things tied directly to social salience like [Shame](../Emotions/Shame.md) and [Empathy](../Emotions/Empathy.md)
 - I finally understood *why* I am not autistic
 	- and why I share some traits and not others

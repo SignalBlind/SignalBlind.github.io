@@ -25,7 +25,7 @@ I have no [Social Salience](../Experience/Social%20Salience.md) so I:
 - don't know what other people feel about me
 - and don't care either
 
-If somebody were to tell me [Hard Truths](../How%20I%20Think/Truth%20and%20Facts.md#Hard%20Truths), like "you are cold-hearted and have no empathy" it doesn't make me feel bad.  The statement is either:
+If somebody were to tell me [Hard Truths](../Cognition/Truth%20and%20Facts.md#Hard%20Truths), like "you are cold-hearted and have no empathy" it doesn't make me feel bad.  The statement is either:
 
 - true -- accept and decide if I want to address
 - false -- ignore
@@ -35,10 +35,10 @@ I don't feel any loss of social standing or feel different about myself.  If the
 
 If I were found to have made a mistake, I would feel functional [Regret](Regret.md) at the fact that it happened.  I might even adjust my mental model to prioritize diligence, assuming that the mistake was not anticipated as a potential risk.
 
-If I found that I had said something false (against my [Ethics](../How%20I%20Think/Ethics.md)) I would again regret having said such a thing (perhaps it was a mistake?).  I would correct the error and move on.
+If I found that I had said something false (against my [Ethics](../Cognition/Ethics.md)) I would again regret having said such a thing (perhaps it was a mistake?).  I would correct the error and move on.
 
 I can be held accountable for my actions without feeling bad about them or myself.
 
-I use my [Axiomatic Deontology](../How%20I%20Think/Ethical%20Systems.md#Axiomatic%20Deontology) and [Ethics](../How%20I%20Think/Ethics.md) to guide my behavior rather than shame.
+I use my [Axiomatic Deontology](../Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) and [Ethics](../Cognition/Ethics.md) to guide my behavior rather than shame.
 
 [Semantic Divergence](Semantic%20Divergence.md): yes, extreme.

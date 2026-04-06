@@ -12,7 +12,7 @@ I think my favorite author.  I like all of his books.  They tend toward fantasy 
 
 He has some YA books as well and these were ok, but I wasn't really the target audience.
 
-Kaladin, from the Stormlight Archive, might be my favorite character in any book.  Although I can't identify with his emotional struggles, he is written in a way where I get it.  He has specific triggers for his depression and low self esteem -- I can see the mechanics.  Combine these flaws with an awe inspiring arc of achievement, it is very emotional just thinking of it.  He operates outside the system and beings of great power find out what he is made of and respect him.  He is responsible for a good number of those mind blowing scenes I mentioned.  On top of all of this I think he and I process our thoughts and actions in much the same way: [Axiomatic Deontology](../How%20I%20Think/Ethical%20Systems.md#Axiomatic%20Deontology).
+Kaladin, from the Stormlight Archive, might be my favorite character in any book.  Although I can't identify with his emotional struggles, he is written in a way where I get it.  He has specific triggers for his depression and low self esteem -- I can see the mechanics.  Combine these flaws with an awe inspiring arc of achievement, it is very emotional just thinking of it.  He operates outside the system and beings of great power find out what he is made of and respect him.  He is responsible for a good number of those mind blowing scenes I mentioned.  On top of all of this I think he and I process our thoughts and actions in much the same way: [Axiomatic Deontology](../Cognition/Ethical%20Systems.md#Axiomatic%20Deontology).
 
 *[The Stormlight Archive](https://www.amazon.com/dp/B074CBP9DY)*
 - these and Mistborn are probably the other ones tied for favorite
@@ -139,7 +139,7 @@ What a prolific author, mostly in horror or many touching on fantasy, but a bit 
 
 Stephen King operates on pure instinct and vibes when writing -- how do I connect?  The supernatural elements aren't as much emotional horror as systems to discover -- rules to map.
 
-*The Stand* aligns with my [Axiomatic Deontology](../How%20I%20Think/Ethical%20Systems.md#Axiomatic%20Deontology) with a literal war between Good and Evil.  There is no moral ambiguity.
+*The Stand* aligns with my [Axiomatic Deontology](../Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) with a literal war between Good and Evil.  There is no moral ambiguity.
 
 I value his tight prose but cant handle his more psychological books like *Rose Madder*.  I find those tedious.
 ## [Douglas Preston](https://www.amazon.com/stores/Douglas-Preston/author/B000AQ0AWW) and [Lincoln Child](https://www.amazon.com/stores/Lincoln-Child/author/B000APYNUI)

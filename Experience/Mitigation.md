@@ -5,7 +5,7 @@ title: Mitigation
 Mitigate what?  I didn't even realize [there was anything wrong](Everybody%20is%20the%20Same.md).
 
 - I don't experience any [Friction](Friction.md) myself
-- I work as a software developer and my [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md) fits like a glove
+- I work as a software developer and my [Functional Cognitive Architecture](../Cognition/Functional%20Cognitive%20Architecture.md) fits like a glove
 	- my no [Ego](../Emotions/Ego.md) approach makes me easy to work with
 - with friends and neighbors I might appear a bit odd
 	- but once people are used to me, normal enough
@@ -31,7 +31,7 @@ For me, not so much.  My lack of [Social Salience](Social%20Salience.md) means I
 - I don't know how they feel, I don't mirror the emotion
 - my [Flat Affect](Flat%20Affect.md) signals lack of care and even aggression
 - my calmness as their tension rises fans the flames
-- my literal processing and strict [logic](../How%20I%20Think/Functional%20Logic%20Modeling.md) are not helpful when emotions are high
+- my literal processing and strict [logic](../Cognition/Functional%20Logic%20Modeling.md) are not helpful when emotions are high
 - apparently asking "why?" doesn't help either
 	- there is a term for this, [sealioning](https://en.wikipedia.org/wiki/Sealioning), and it is a form of harassment (yikes!)
 
@@ -51,7 +51,7 @@ Here are some ideas:
 		- ask questions
 		- disengage until later
 		- I am not sure I can perform calming/de-escalation
-	- non sequiturs, e.g. [this example](../How%20I%20Think/Examples.md#Failure%20Example), are a sure sign I don't understand
+	- non sequiturs, e.g. [this example](../Cognition/Examples.md#Failure%20Example), are a sure sign I don't understand
 	- yelling = red zone
 	- can I detect entry into the yellow zone?  there is still time there
 		- volume and pitch of voice

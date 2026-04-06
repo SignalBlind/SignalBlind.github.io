@@ -69,7 +69,7 @@ I feel stress when doing a public presentation, but this is related to the prepa
 
 I have anxiety over leaving my dog with the neighbors.  They have a small dog like mine and they love to take care of my dog.  I couldn't ask for a better situation.  I have a lot of anxiety leaving him with them if we go on vacation.
 
-He is a toy poodle who is small and fragile and very needy.  I didn't feel this way with my cats, but this dog is something else, triggered by my [Functional Cognitive Architecture](../How%20I%20Think/Functional%20Cognitive%20Architecture.md) and how I care for my dog.
+He is a toy poodle who is small and fragile and very needy.  I didn't feel this way with my cats, but this dog is something else, triggered by my [Functional Cognitive Architecture](../Cognition/Functional%20Cognitive%20Architecture.md) and how I care for my dog.
 
 Per the LLM:
 

@@ -28,11 +28,11 @@ Here are some examples that might give a hint:
 
 I think [Theory of Mind: Identity of Others](Theory%20of%20Mind.md#My%20Experience%20Identity%20of%20Others) might also give some insight if I explained it well enough.
 
-On top of this lack of signal, I [think different than other people](../How%20I%20Think/Functional%20Cognitive%20Architecture.md) -- necessarily because so much NT thought is around social things.  I even have different [Ethics](../How%20I%20Think/Ethics.md).  These might sound a little more familiar to autistic people, though they probably use [Affective Deontology](../How%20I%20Think/Ethical%20Systems.md#Affective%20Deontology) -- both of these will probably look about the same to NT people ([Social Utilitarianism](../How%20I%20Think/Ethical%20Systems.md#Social%20Utilitarianism)).
+On top of this lack of signal, I [think different than other people](../Cognition/Functional%20Cognitive%20Architecture.md) -- necessarily because so much NT thought is around social things.  I even have different [Ethics](../Cognition/Ethics.md).  These might sound a little more familiar to autistic people, though they probably use [Affective Deontology](../Cognition/Ethical%20Systems.md#Affective%20Deontology) -- both of these will probably look about the same to NT people ([Social Utilitarianism](../Cognition/Ethical%20Systems.md#Social%20Utilitarianism)).
 
-You can read about my [emotions](../Emotions/Emotions.md) but you might not perceive them as I have somewhat [Flat Affect](Flat%20Affect.md) and no emotional mirroring or signaling.  I [have emotions](Alexithymia.md) but they are different than what either NT or autistic people experience.  I have no [Shame](../Emotions/Shame.md), see [Hard Truths](../How%20I%20Think/Truth%20and%20Facts.md#Hard%20Truths) for an example.  There are quite a few socially oriented emotions that I simply can't experience.  Others, like [Compassion](../Emotions/Compassion.md) I use the same word (it looks the same to me) but it isn't the same feeling.  [Anger](../Emotions/Anger.md) and [Sadness](../Emotions/Sadness.md) are two that are probably the most similar and recognizable.
+You can read about my [emotions](../Emotions/Emotions.md) but you might not perceive them as I have somewhat [Flat Affect](Flat%20Affect.md) and no emotional mirroring or signaling.  I [have emotions](Alexithymia.md) but they are different than what either NT or autistic people experience.  I have no [Shame](../Emotions/Shame.md), see [Hard Truths](../Cognition/Truth%20and%20Facts.md#Hard%20Truths) for an example.  There are quite a few socially oriented emotions that I simply can't experience.  Others, like [Compassion](../Emotions/Compassion.md) I use the same word (it looks the same to me) but it isn't the same feeling.  [Anger](../Emotions/Anger.md) and [Sadness](../Emotions/Sadness.md) are two that are probably the most similar and recognizable.
 
-Despite all of these differences from the norm, I have [Zero Lag](../How%20I%20Think/Zero%20Lag.md), low [Friction](Friction.md) (personally), and experience some [Benefits](Benefits.md) from the way my mind works.
+Despite all of these differences from the norm, I have [Zero Lag](../Cognition/Zero%20Lag.md), low [Friction](Friction.md) (personally), and experience some [Benefits](Benefits.md) from the way my mind works.
 
 The TLDR is:  I don't receive any social signals.  I don't know what other people are feeling or thinking.  I don't know about social positioning.  On top of not knowing, I also don't *care*.  Not in a negative way, more like asking somebody how they feel about radio waves.
 ## What Friction Do You Experience? ^Friction
@@ -67,7 +67,7 @@ OK, so why do I think it is actually *no social salience*?
 - [Occam's razor](https://en.wikipedia.org/wiki/Occam's_razor) -- it is the simplest mechanism that explains *everything* I have observed
 	- it continues to be a good predictor of my behavior and thought process
 	- it has helped me explain myself to myself and others
-- there are some [some non-flattering examples](../How%20I%20Think/Examples.md#Failure%20Example) of how it fails
+- there are some [some non-flattering examples](../Cognition/Examples.md#Failure%20Example) of how it fails
 	- there are plenty more situations that show it but that one I think captures what having no social salience looks like in a way that is unambiguous and impactful
 - if I encounter a situation where I have elevated emotions, say sad or angry, as soon as the topic is resolved I am back to steady state
 	- there is no post-interaction [rumination](https://en.wikipedia.org/wiki/Rumination_(psychology))
@@ -77,7 +77,7 @@ OK, so why do I think it is actually *no social salience*?
 - I am immune to [phatic pressure](https://en.wikipedia.org/wiki/Phatic_expression) -- the need to say something to fill silence
 	- I might talk to relieve boredom
 - I do not respect [Authority](Authority.md) (social positioning), only competence
-	- [No Authority Bias](../How%20I%20Think/Ethics.md#No%20Authority%20Bias)
+	- [No Authority Bias](../Cognition/Ethics.md#No%20Authority%20Bias)
 - no [Masking](Masking.md)
 - no social contagion -- I don't pick up the mood of the room
 - no [Shame](../Emotions/Shame.md) and a variety of other [emotions](../Emotions/Emotions.md)
