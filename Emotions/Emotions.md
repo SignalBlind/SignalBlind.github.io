@@ -28,9 +28,17 @@ The [self conscious emotions](https://en.wikipedia.org/wiki/Self-conscious_emoti
 - [Pride](Pride.md)
 - [Guilt](Guilt.md)
 - [Envy](Envy.md)
-- [Embarassment](Embarassment.md)
+- [Embarrassment](Embarrassment.md)
 - [Hate](Hate.md)
 - [Arrogance](Arrogance.md)
+- [Compassion](Compassion.md)
+- [Care](Care.md)
+- [Sympathy](Sympathy.md)
+- [Comforting](Comforting.md)
+
+This one is a stand in for several of the *negative* emotions:
+
+- [Regret](Regret.md)
 
 That isn't to say I don't feel things that I would label with those words.  For example, I might [Regret](Regret.md) some action that I did and call that "shame", but it is a distinctly different feeling from the NT experience.  This is a conceptual [heteronym](https://en.wikipedia.org/wiki/Heteronym_(linguistics)) -- two words that look and sound the same but have different meanings (not the typical use of that vocabulary, but it fits).
 
@@ -61,15 +69,3 @@ Note: in NT people oxytocin (bonding/trust) can amplify the social signal.  Alth
 
 - [Mid-happy Default](Mid-happy%20Default.md)
 - [Loneliness](Loneliness.md)
-- [Hugs](Hugs.md)
-
-## Logical Equivalents
-
-There are a number of other emotions that I have a "compatible" experience.  For example, what I call [Compassion](Compassion.md) is "functional altruism" (per the LLM).  It looks similar from the outside, but internally it is a different beast.
-
-- [Compassion](Compassion.md)
-- [Regret](Regret.md)
-- [Care](Care.md)
-- [Sympathy](Sympathy.md)
-- [Comforting](Comforting.md)
-

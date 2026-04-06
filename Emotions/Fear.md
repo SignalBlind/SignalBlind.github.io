@@ -9,7 +9,7 @@ title: Fear
 Fear is a very low level emotion that triggers action when there is danger.  For NT people it might be triggered for any or all of these reasons:
 
 - social exclusion
-	- identity or status threats, e.g. [Shame](Shame.md) or [Embarassment](Embarassment.md)
+	- identity or status threats, e.g. [Shame](Shame.md) or [Embarrassment](Embarrassment.md)
 	- reputation
 	- public speaking
 	- rejection
