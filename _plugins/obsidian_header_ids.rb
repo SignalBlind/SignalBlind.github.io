@@ -11,6 +11,13 @@ Jekyll::Hooks.register [:pages, :documents], :pre_render do |item|
     '\1 {#\2}'
   )
 
+  # Convert ^id on its own line (block ID for preceding paragraph/element)
+  # into kramdown block attribute {: #id}
+  item.content = item.content.gsub(
+    /^\^([a-zA-Z][-a-zA-Z0-9]*)\s*$/,
+    '{: #\1}'
+  )
+
   # Strip ^ from anchor references in markdown links (e.g. #^id -> #id)
   item.content = item.content.gsub(
     /(\]\([^)]*\#)\^([a-zA-Z][-a-zA-Z0-9]*\))/,
