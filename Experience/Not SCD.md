@@ -1,4 +1,5 @@
 ---
+permalink: /Experience/Not_SCD/
 layout: page
 title: Not Social (Pragmatic) Communication Disorder
 ---
