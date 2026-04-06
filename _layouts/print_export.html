@@ -103,7 +103,7 @@
                     {% endif %}
                 {% endfor %}
                 {% unless excluded or p.url contains "print-export" or p.url contains "pdf-export" %}
-<div class="page-content">
+<div class="page-content" id="{{ item.url | slugify }}" data-url="{{ item.url }}">
 <h1>{{ item.display_title }}</h1>
 {% if p.content contains "##" %}
   {{ p.content | markdownify }}
@@ -127,7 +127,7 @@
                         {% endif %}
                     {% endfor %}
                     {% unless excluded or p.url contains "print-export" or p.url contains "pdf-export" %}
-<div class="page-content">
+<div class="page-content" id="{{ child.url | slugify }}" data-url="{{ child.url }}">
 <h1>{{ child.display_title }}</h1>
 {% if p.content contains "##" %}
   {{ p.content | markdownify }}
@@ -145,6 +145,85 @@
 <div style="margin-top: 3em; padding-top: 2em; border-top: 2px solid #ccc; text-align: center; color: #666;">
     <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
 </div>
+
+<script>
+(function() {
+    // 1. Build URL→ID lookup map from data-url attributes
+    var sections = document.querySelectorAll('.page-content[data-url]');
+    var urlToId = {};
+
+    sections.forEach(function(section) {
+        var url = section.getAttribute('data-url');
+        var id = section.id;
+        if (!url || !id) return;
+
+        // Store multiple normalizations for matching
+        urlToId[url] = id;                                    // /Emotions/Regret/
+        urlToId[url.toLowerCase()] = id;                      // /emotions/regret/
+        if (url.endsWith('/')) {
+            urlToId[url.slice(0, -1)] = id;                   // /Emotions/Regret
+            urlToId[url.slice(0, -1).toLowerCase()] = id;     // /emotions/regret
+        }
+    });
+
+    // 2. Prefix heading IDs with section ID to avoid duplicates
+    sections.forEach(function(section) {
+        var sectionId = section.id;
+        var headings = section.querySelectorAll('[id]');
+        headings.forEach(function(el) {
+            if (el === section) return; // skip the section div itself
+            el.id = sectionId + '--' + el.id;
+        });
+    });
+
+    // 3. Rewrite links
+    var links = document.querySelectorAll('a[href]');
+    links.forEach(function(link) {
+        var href = link.getAttribute('href');
+        if (!href) return;
+
+        // Leave external links unchanged
+        if (/^https?:\/\//i.test(href) || /^mailto:/i.test(href)) return;
+
+        // Same-page fragment links: #fragment → #section--fragment
+        if (href.startsWith('#')) {
+            // Find which section this link is inside
+            var parentSection = link.closest('.page-content[data-url]');
+            if (parentSection) {
+                link.setAttribute('href', '#' + parentSection.id + '--' + href.slice(1));
+            }
+            return;
+        }
+
+        // Internal path links: split into path and optional fragment
+        var parts = href.split('#');
+        var path = parts[0];
+        var fragment = parts[1] || null;
+
+        // Try to find the target section
+        var targetId = urlToId[path] || urlToId[path.toLowerCase()];
+
+        // Try adding/removing trailing slash
+        if (!targetId && path.endsWith('/')) {
+            targetId = urlToId[path.slice(0, -1)] || urlToId[path.slice(0, -1).toLowerCase()];
+        }
+        if (!targetId && !path.endsWith('/')) {
+            targetId = urlToId[path + '/'] || urlToId[(path + '/').toLowerCase()];
+        }
+
+        if (!targetId) return; // Link to excluded page or unknown — leave as-is
+
+        if (fragment) {
+            // Decode percent-encoded fragments and slugify: "Hard%20Truths" → "hard-truths"
+            var decoded = decodeURIComponent(fragment);
+            var slugified = decoded.toLowerCase().replace(/[^\w\s-]/g, '').replace(/[\s_]+/g, '-').replace(/^-+|-+$/g, '');
+            link.setAttribute('href', '#' + targetId + '--' + slugified);
+        } else {
+            link.setAttribute('href', '#' + targetId);
+        }
+    });
+})();
+</script>
 
 </body>
 </html>
