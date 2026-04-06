@@ -11,7 +11,7 @@ It turns out this is common.  The assumption that others share one's internal co
 
 Additionally, the [**Invisibility of Architecture** is a universal cognitive constraint](https://www.academia.edu/4185806/Through_the_Brain_Darkly_The_Blind_Brain_Theory_of_R_Scott_Bakker).  Internal experience is **non-comparative.** Without an external reference point or a "System Diagnostic" from an outside source, an individual cannot perceive the absence of a faculty they have never possessed, nor can they perceive the "ease" of a faculty they struggle with.
 
-Some people can _see_ the difference, see [Author - Patric Gagne](Author%20-%20Patric%20Gagne.md) -- she had high social saliency but low affect.  She could perceive the signal and the effect of the emotions and knew she was not experiencing it.  In a way she pierce the Invisibility of Architecture with high saliency and zero-affect.  She could see both sides.
+Some people can _see_ the difference, see [Author - Patric Gagne](Author%20-%20Patric%20Gagne.md) -- she had high social saliency but low affect.  She could perceive the signal and the effect of the emotions and knew she was not experiencing it.  In a way she pierces the Invisibility of Architecture with high saliency and zero-affect.  She could see both sides.
 
 I had neither the signal nor the affect.  From my point of view everybody _was_ the same.  The explicit data matched ad the exceptions could be accounted for.
 

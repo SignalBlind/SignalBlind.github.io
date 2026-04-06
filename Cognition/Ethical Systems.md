@@ -24,7 +24,7 @@ This is not an exhaustive list, just covering the ones that I felt were most imp
 
 This is the ethical style that I use.  I apply the rules of truth and ethics consistently, see [Ethics](Ethics.md) for my specific rules.
 
-**Axiomatic** refers to a set of rules (axioms).  In **Deontology**, the logic/action itself is either consistent or inconsistent with a universal rule. The outcome is secondary to the integrity of the rule.  
+**Axiomatic** refers to a set of rules (axioms).  In **Deontology**, the logic/action itself is either consistent or inconsistent with a universal rule. The outcome is secondary to the integrity of the rule.
 
 Who else might use a system like this?
 
@@ -56,7 +56,7 @@ The ends justify the means.  The moral value of an act is determined solely by i
 
 People who might follow these ethics:
 
-- triage doctors:  deciding medical care based on survival probability
+- triage doctors: deciding medical care based on survival probability
 - insurance underwriters and actuaries: calculating risk/benefit to maintain the stability of a resource pool
 - governments: laws that may disadvantage a small group to provide a "Net Good" for the majority (e.g., eminent domain for a highway)
 

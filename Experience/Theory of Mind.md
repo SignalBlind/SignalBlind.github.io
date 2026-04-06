@@ -19,7 +19,7 @@ Seems logical, I have a perfect score!  Of course this is a test for 3 year olds
 
 ## Key Point: Mindreading
 
-I was missing some key points from the wikipedia article:
+I was missing some key points from the Wikipedia article:
 
 - **Mentalizing/Mindreading:** The ability to infer what others are thinking or feeling.
 - **False Belief Understanding:** Recognizing that someone can hold a belief that contradicts reality.
@@ -28,14 +28,14 @@ I was missing some key points from the wikipedia article:
 That first point is mentioned but it isn't in the main description and I didn't pick it up.
 ## My Experience: Mindreading
 
-Mindreading is critical (see [NT Experience](NT%20Experience.md)) and it turned out I didn't have that:  I was missing the ability to pick up the social signal.  It wasn't until my therapist described the experience of automatic ToM that I realized my gap.  In fact this was the key piece of information that led me to uncover the mechanism: no [Social Salience](Social%20Salience.md)!
+Mindreading is critical (see [NT Experience](NT%20Experience.md)) and it turned out I didn't have that: I was missing the ability to pick up the social signal.  It wasn't until my therapist described the experience of automatic ToM that I realized my gap.  In fact this was the key piece of information that led me to uncover the mechanism: no [Social Salience](Social%20Salience.md)!
 
 I was fooled by the online tests because they were not measuring this, they gave it away for free:
 
 - I knew there was a problem to pick up
 - they fed me the hidden information like "your friend doesn't want to talk and is avoiding your gaze"
 
-I can solve these easily:  they are either logic puzzles (who knows what and when) or some kind of what would cause this behavior question.  If I am given all the facts I can figure it out.  This is different than Simulation (NT ToM) or Theory-Theory (autism ToM) -- it isn't ToM at all.  It is debugging -- what would this cause or what would cause this?
+I can solve these easily: they are either logic puzzles (who knows what and when) or some kind of what would cause this behavior question.  If I am given all the facts I can figure it out.  This is different than Simulation (NT ToM) or Theory-Theory (autism ToM) -- it isn't ToM at all.  It is debugging -- what would this cause or what would cause this?
 
 This is a significant difference from the autism experience -- autistic people typically do have the social signal, even if it is noisy and expensive to consume.  In me it is missing entirely.
 
@@ -51,7 +51,7 @@ So I think my conception of another person is *quite* different than the NT perc
 
 Per the LLM the absence of these traits as "Impaired Object Relations" or "Lack of Affective Permanence," usually in the context of Borderline Personality Disorder or ASD.  This typically causes **distress, volatility, or anxiety**.  Because I lack the social salience I didn't even notice they were missing.
 
-Additionally I think my feelings towards others on the negative scale are fundamentally different.  I might say "I don't like X" but it is more a classification of "likely to cause harm" (maybe they lie).  I might say "X is very bad" and that is a greater magnitude of harm.  "I hate X" is for people that I think cause large scale harm.  I don't feel *hate* as a visceral emotion.  I might get angry (systemic anger from harm rather than social anger from offense/shame) when thinking about people currently causing harm, but this is not the same as NT hate.
+Additionally, I think my feelings towards others on the negative scale are fundamentally different.  I might say "I don't like X" but it is more a classification of "likely to cause harm" (maybe they lie).  I might say "X is very bad" and that is a greater magnitude of harm.  "I hate X" is for people that I think cause large scale harm.  I don't feel *hate* as a visceral emotion.  I might get angry (systemic anger from harm rather than social anger from offense/shame) when thinking about people currently causing harm, but this is not the same as NT hate.
 ## My Experience: Predicting or Explaining Others
 
 Despite not having ToM, I *can* predict the actions of others or deduce the inputs needed to convince somebody of something.  This is a very high effort construction of a logical model of the person given whatever facts I know (e.g. they like cheese, they are silly, they know about computers).  Given the current state of things and this model I could predict how the person would behave -- specifically I could make an educated guess.  I don't have any measure of the quality, but when I want to convince somebody of something I am often successful.
@@ -66,8 +66,8 @@ This might be termed **Egocentric Logical Realism**:
 The big difference between me and people with ToM I think is that I *don't* do this very often.  A big presentation at work about a project I work on?  Sure I will figure out what the audience needs to know.  Any other situation?  No idea what they are thinking and no effort put into guessing.  I can just ask -- this is something of a faux pas for NT people.
 ## My Experience: Summary
 
-I have no social salience and I completely miss the "mindreading" part of Theory of Mind.  Because I lack the signal I also don't mirror emotions or signal them in a usable form.  Mostly:  I can cry when sad, laugh when there is something funny and raise my voice when angered, but these are high magnitude events that trigger the physiological effects, not subtle cues.
+I have no social salience and I completely miss the "mindreading" part of Theory of Mind.  Because I lack the signal I also don't mirror emotions or signal them in a usable form.  Mostly: I can cry when sad, laugh when there is something funny and raise my voice when angered, but these are high magnitude events that trigger the physiological effects, not subtle cues.
 
-My conception of other people is fundamentally different than NT people:  I perceive people as black boxes where I attach factual data.  I see only their words and actions.  I don't perceive them as bundles of emotions and thoughts separate from their actions.  I don't know how they think, I can only track facts I know *about* them.
+My conception of other people is fundamentally different than NT people: I perceive people as black boxes where I attach factual data.  I see only their words and actions.  I don't perceive them as bundles of emotions and thoughts separate from their actions.  I don't know how they think, I can only track facts I know *about* them.
 
 Effectively I have no Theory of Mind -- quite the opposite of what I originally thought.  This is different than autism where ToM is impaired by being noisy, high lag and effortful.  Mine is missing and I didn't even know it was a thing.

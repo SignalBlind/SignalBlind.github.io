@@ -12,7 +12,7 @@ This involves:
 
 - retrieving facts and opinions from [associative memory](../Experience/Hypophantasia.md#My%20Experience%20Memory)
 - computing expected value for uncertain variables
-	- ok, I am not literally doing math here but estimating something like `P(50%) * HIGH > P(90%) * LOW`
+	- OK, I am not literally doing math here but estimating something like `P(50%) * HIGH > P(90%) * LOW`
 - more [Propositional Logic](Propositional%20Logic.md) to model everything
 
 Obviously this is expensive, perhaps more so than Theory-Theory.  Luckily I have developed some optimizations:
@@ -23,7 +23,7 @@ Obviously this is expensive, perhaps more so than Theory-Theory.  Luckily I have
 - low fidelity models can be used for many situations (low cost)
 	- if the cost of mistakes are low use a low fidelity model
 		- e.g. other situations that had some similarity
-		- not considering all of the people and factors involved:  usually a logical argument will suffice
+		- not considering all the people and factors involved: usually a logical argument will suffice
 	- own the cost of a mistake -- accept that they can happen
 	- understand that the data is incomplete
 		- use risk management strategies if needed
@@ -31,7 +31,7 @@ Obviously this is expensive, perhaps more so than Theory-Theory.  Luckily I have
 	- adjust via feedback
 	- typical random situations
 - high fidelity models can be used when needed (high cost)
-	- for example a presentation to another group to convince them to do a certain project
+	- for example, a presentation to another group to convince them to do a certain project
 	- consider the available data, logical arguments, how people may react, what are their likely needs and desires given what their group does, etc.
 	- I need to model complex black boxes that represent people with enough fidelity that I can predict which inputs will produce the desired outputs
 		- without the input of vibes or other social salience
@@ -50,14 +50,14 @@ There is one additional heuristic:
 - replan if necessary (low to medium cost)
 	- if new information is presented or I detect the current plan failing
 	- come up with a new focused low fidelity plan
-		- not nearly as fast as NT social signals (double empathy)
+		- not nearly as fast as NT social signals ([double empathy](../Experience/Double%20Empathy.md))
 		- but usable with some computational lag in a conversation
 
 See [Typical Example](Examples.md#Typical%20Example) for a replan -- it can be done during a conversation if simple enough.
 
 ### Limitations
 
-And some disadvantages: 
+And some disadvantages:
 
 - the replan trigger requires explicit information
 	- if the NT people around me have decided on a new, not explicitly stated, plan I will still be on the old plan

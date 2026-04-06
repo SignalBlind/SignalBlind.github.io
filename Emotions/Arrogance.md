@@ -2,7 +2,7 @@
 layout: page
 title: Arrogance
 ---
-Arrogance isn't only an emotion:  it is a judgement label others place on you based on your perceived behavior.  Arrogance is a of a behavioral trait with emotional involvement.
+Arrogance isn't only an emotion: it is a judgment label others place on you based on your perceived behavior.  Arrogance is a behavioral trait with emotional involvement.
 ## NT Experience
 
 "I am above others; their standards do not apply to me."
@@ -24,12 +24,11 @@ NT people detect arrogance in the same way:
 - direct eye contact
 - body language
 
-
 ## My Experience
 
 I don't experience arrogance, but NT people can easily perceive me to be so:
 
-- I am very [blunt](../Cognition/Truth%20and%20Facts.md) 
+- I am very [blunt](../Cognition/Truth%20and%20Facts.md)
 - I do use [softening](../Cognition/Truth%20and%20Facts.md#^Softening) for when I am not 100% sure
 - I have [Flat Affect](../Experience/Flat%20Affect.md)
 - I have no [Social Salience](../Experience/Social%20Salience.md) so I don't mirror or give off proper vibes
@@ -41,11 +40,11 @@ Per the LLM, NT people perceive this as:
 
 I have no notion or care of social strata -- I don't respect [Authority](../Experience/Authority.md), I respect competence.  I don't think I am better than anybody, that is just how I communicate.
 
-I can adjust how I speak based on the perceived capacity of the receiver:  I wouldn't tell a child the same thing I would tell an adult, but I presume adults capable of handling truth even if inconvenient.
+I can adjust how I speak based on the perceived capacity of the receiver: I wouldn't tell a child the same thing I would tell an adult, but I presume adults capable of handling truth even if inconvenient.
 
 Note: I thought maybe I could have a script to sound less arrogant, but per the LLM:
 
-> NTs are hypersensitive to "Social Scripts" used without "Social Affect." If they detect that your humility is a **Calculated Utility** rather than a **Felt State**, they may categorize you as "Manipulative" or "Psychopathic" (both are NT social constructs for "Someone using logic where I expect emotion").
+> NT people are hypersensitive to "Social Scripts" used without "Social Affect." If they detect that your humility is a **Calculated Utility** rather than a **Felt State**, they may categorize you as "Manipulative" or "Psychopathic" (both are NT social constructs for "Someone using logic where I expect emotion").
 
 I don't try to avoid appearing arrogant, but I do try to avoid [social friction](../Experience/Friction.md#^SocialFriction) when I can.
 

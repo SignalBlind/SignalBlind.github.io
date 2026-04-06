@@ -7,10 +7,10 @@ title: Care
 
 In NT people care is wanting to help with another person's life and needs.  It involves [Compassion](Compassion.md), listening, and active support.  Giving care may act as an emotional anchor to reduce stress.  This is typically a sustained feeling and is **proactive/preventative** (keeping the system running).
 
-Care is not transactional, but there is an expectation that care for somebody implicitly means that they will return the energy, validation or support sometime in the future.
+Care is not transactional, but there is an expectation that care for somebody implicitly means that they will return the energy, validation, or support sometime in the future.
 ## My Experience
 
-I find it very hard to differentiate between care, [Compassion](Compassion.md) and [Sympathy](Sympathy.md).  In all three cases my output is the same:  I attempt to fix problems.  I do this because my [Ethics](../Cognition/Ethics.md) and [Axiomatic Deontology](../Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) have "do not harm" as the number one rule.  If I can help someone, I should.  Semantically this is **ethical care**.  I give care because I think it is the right thing to do, not because I have an emotional need.
+I find it very hard to differentiate between care, [Compassion](Compassion.md) and [Sympathy](Sympathy.md).  In all three cases my output is the same: I attempt to fix problems.  I do this because my [Ethics](../Cognition/Ethics.md) and [Axiomatic Deontology](../Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) have "do not harm" as the number one rule.  If I can help someone, I should.  Semantically this is **ethical care**.  I give care because I think it is the right thing to do, not because I have an emotional need.
 
 Unlike NT people I do not expect to receive reciprocal care.  Care is given as you are able and is not a debt to be repaid.
 

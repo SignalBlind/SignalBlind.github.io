@@ -11,7 +11,7 @@ You can read my [History](History.md) and how I discovered that I was ND after o
 I have identified two root causes for my ND condition:
 
 - no [Social Salience](Social%20Salience.md) / [Pure A-salience](Pure%20A-salience.md) -- no social signal, don't care about social status
-- [Hypophantasia](Hypophantasia.md) -- low imagery manual 
+- [Hypophantasia](Hypophantasia.md) -- low imagery manual
 
 everything else falls out of that, perhaps the important piece being:
 
@@ -34,14 +34,14 @@ You can read about my [emotions](../Emotions/Emotions.md) but you might not perc
 
 Despite all of these differences from the norm, I have [Zero Lag](../Cognition/Zero%20Lag.md), low [Friction](Friction.md) (personally), and experience some [Benefits](Benefits.md) from the way my mind works.
 
-The TLDR is:  I don't receive any social signals.  I don't know what other people are feeling or thinking.  I don't know about social positioning.  On top of not knowing, I also don't *care*.  Not in a negative way, more like asking somebody how they feel about radio waves.
+The TLDR is: I don't receive any social signals.  I don't know what other people are feeling or thinking.  I don't know about social positioning.  On top of not knowing, I also don't *care*.  Not in a negative way, more like asking somebody how they feel about radio waves.
 ## What Friction Do You Experience? ^Friction
 
-I experience very little [Friction](Friction.md) myself.  Although I exhibit [category A](Not%20Autism.md#A%20Social%20Communication%20and%20Interaction) autism social effects I can't really perceive them.  People have told me about them and as I learn more about ND and NT people I can understand that there are differences.  I don't have any of the category B effects or high social cost effects like *meltdowns*.  I am not worried about how others perceive me (again a somewhat unique effect of no social salience).
+I experience very little [Friction](Friction.md) myself.  Although I exhibit [category A](Not%20Autism.md#A%20Social%20Communication%20and%20Interaction) autism social effects I can't really perceive them.  People have told me about them and as I learn more about ND and NT people I can understand that there are differences.  I don't have any of the category B effects or high social cost effects like *meltdowns*.  I am not worried about how others perceive me (again a unique effect of no social salience).
 
 That isn't to say there is no friction.  I know that I can [Say The Wrong Thing](Say%20The%20Wrong%20Thing.md) and I give off *unusual* social signals.  This sometimes causes trouble.  I don't always know it at the time, sometimes people like my wife have to tell me.  For the longest time I thought it couldn't be true -- how could somebody make things up about me and then believe them?  I now know about the [mechanism](Theory%20of%20Mind.md) and have a little more insight here, but still don't _really_ understand it.
 
-Also perhaps unique to no social salience is the fact that the friction is asymmetric.  I have no [Empathy](../Emotions/Empathy.md), I don't react to emotions in the same way other people do.  I don't react at all.  This is not a big deal at work, in fact I might just appear very calm.  It isn't so important with friends, that is more casual and fun -- they can accept that I am a little odd pretty easily.  It is a lot harder with my closest relationships:  my family, my wife, my kids.  Well, so they tell me.
+Also perhaps unique to no social salience is the fact that the friction is asymmetric.  I have no [Empathy](../Emotions/Empathy.md), I don't react to emotions in the same way other people do.  I don't react at all.  This is not a big deal at work, in fact I might just appear very calm.  It isn't so important with friends, that is more casual and fun -- they can accept that I am a little odd pretty easily.  It is a lot harder with my closest relationships: my family, my wife, my kids.  Well, so they tell me.
 
 Perhaps I can illustrate this with an example:
 
@@ -58,7 +58,7 @@ Conclusion: I am responding to the explicit signal (location); she is responding
 
 [Hypophantasia](Hypophantasia.md) is directly observable -- once I knew it "was a thing" I could describe my imagination experience and google/LLMs easily gave me a term.  Sure enough that was a match.
 
-No [Social Salience](Social%20Salience.md) is a bit trickier, see [Stage 3](History.md#Stage%203) for how I discovered it.  There is plenty written about [Theory of Mind](Theory%20of%20Mind.md) and the social salience network, but very little about [what i experienced](Where%20Are%20My%20People?.md).  Each time I would read something that sounded close there would be stressors that I just didn't experience.  For example, [noisy social salience](Autism%20Experience.md) seems to be one of the root causes for autism (your milage may vary, I understand people are different).  It produces a [huge overlap](Not%20Autism.md) (and [Overlaps](Overlaps.md)) but also a big gap.
+No [Social Salience](Social%20Salience.md) is a bit trickier, see [Stage 3](History.md#Stage%203) for how I discovered it.  There is plenty written about [Theory of Mind](Theory%20of%20Mind.md) and the social salience network, but very little about [what i experienced](Where%20Are%20My%20People?.md).  Each time I would read something that sounded close there would be stressors that I just didn't experience.  For example, [noisy social salience](Autism%20Experience.md) seems to be one of the root causes for autism (your mileage may vary, I understand people are different).  It produces a [huge overlap](Not%20Autism.md) (and [Overlaps](Overlaps.md)) but also a big gap.
 
 Eventually I settled on *no social salience* -- literally no social signal.  I couldn't perceive it, in fact I didn't even know it was there.  It was like being achromatic and nobody mentioning that color exists.  Well, maybe more like people not mentioning breathing -- everybody has it, it is automatic, it is just a thing.  Nobody talks about breathing either.
 
@@ -67,7 +67,7 @@ OK, so why do I think it is actually *no social salience*?
 - [Occam's razor](https://en.wikipedia.org/wiki/Occam's_razor) -- it is the simplest mechanism that explains *everything* I have observed
 	- it continues to be a good predictor of my behavior and thought process
 	- it has helped me explain myself to myself and others
-- there are some [some non-flattering examples](../Cognition/Examples.md#Failure%20Example) of how it fails
+- there are [some non-flattering examples](../Cognition/Examples.md#Failure%20Example) of how it fails
 	- there are plenty more situations that show it but that one I think captures what having no social salience looks like in a way that is unambiguous and impactful
 - if I encounter a situation where I have elevated emotions, say sad or angry, as soon as the topic is resolved I am back to steady state
 	- there is no post-interaction [rumination](https://en.wikipedia.org/wiki/Rumination_(psychology))

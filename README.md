@@ -13,7 +13,7 @@ Visit the [site](https://signalblind.github.io) to find out more.
 
 Copyright (c) 2026 SignalBlind.
 
-This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License, 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License,
 see [LICENSE](LICENSE) file for details.
 
 

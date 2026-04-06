@@ -34,7 +34,7 @@ I process the world around me using [Propositional Logic](Propositional%20Logic.
 	- don't correct people/argue in a meeting unless absolutely required
 	- don't tell somebody they are fat
 
-I only engage effortful and slow mechanisms when the complexity and important of the outcome requires it:  think preparing a presentation to another team at work to convince them of something.  That is going to be effortful no matter who is doing it, so this isn't a particular burden.
+I only engage effortful and slow mechanisms when the complexity and important of the outcome requires it: think preparing a presentation to another team at work to convince them of something.  That is going to be effortful no matter who is doing it, so this isn't a particular burden.
 
 The big takeaway is that I am willing to eat the cost of some [social friction](../Experience/Friction.md#^SocialFriction) because it doesn't feel the same way that it would to NT or autistic people.  The benefit is that I didn't even [that I was different](../Experience/Everybody%20is%20the%20Same.md) -- it was [random chance that led me to discover it](../Experience/History.md).
 

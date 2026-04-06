@@ -3,7 +3,7 @@ permalink: /Books/Patric_Gagne_-_Sociopath/
 layout: page
 title: Patric Gagne
 ---
-**Patric Gagne** -- a person with sociopathy that leads a normal life and wrote a book about it: [Sociopath: A Memoir](https://www.amazon.com/dp/B0C7RKQRG8)  
+**Patric Gagne** -- a person with sociopathy that leads a normal life and wrote a book about it: [Sociopath: A Memoir](https://www.amazon.com/dp/B0C7RKQRG8)
 
 Note: [sociopathy is not a clinical term](../Experience/Overlaps.md#ASPD).
 
@@ -72,7 +72,7 @@ Note: I didn't read the book.   but did watch a couple video interviews where sh
 		- and knows this feeling is "wrong"
 		- learned to lie and manipulate
 		- **me: i don't care and would say so**
-		- author: met with judgement and she didn't like that, so reinforced lying behavior
+		- author: met with judgment and she didn't like that, so reinforced lying behavior
 		- **me: sounds like "white lies" justification**
 	- no dopamine hit for good deed
 		- e.g. paying for somebodies groceries

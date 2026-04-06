@@ -12,11 +12,11 @@ One time my wife and I were doing a mindfulness exercise where a narrator guided
 - there are trees
 - their leaves are falling into the water and flowing downstream
 - more leaves fall and go downstream
-- etc, probably some stuff about putting your extra thoughts on the leaves
+- etc., probably some stuff about putting your extra thoughts on the leaves
 
 We each described out experience with the exercise.  My wife thought it was peaceful and she described a vivid scene that once set up ran by itself.  When new pieces of the scenario were added, they just appeared and worked automatically.
 
-I had a *different* experience.  I manually constructed each step and then was kind of stressed that the narrator went and changed everything on each new step.  Why didn't he mention these things all at once?  For example I placed the trees on the hills.  When the leaves were falling on the water I had to reconstruct the scene with the trees near the water.  Leaves falling and flowing was me manually animating each leaf and moving it downstream.  I was following the instructions literally -- whatever vibes my wife was picking up were lost on me.  It was exhausting!  I am pretty sure that was not the intent of the exercise (and I was never fond of these mindfulness exercises, now I know why!)
+I had a *different* experience.  I manually constructed each step and then was kind of stressed that the narrator went and changed everything on each new step.  Why didn't he mention these things all at once?  For example, I placed the trees on the hills.  When the leaves were falling on the water I had to reconstruct the scene with the trees near the water.  Leaves falling and flowing was me manually animating each leaf and moving it downstream.  I was following the instructions literally -- whatever vibes my wife was picking up were lost on me.  It was exhausting!  I am pretty sure that was not the intent of the exercise (and I was never fond of these mindfulness exercises, now I know why!)
 
 This was the first time I ever heard that somebody might imagine a scene different from the way I do.  I thought [Everybody is the Same](Everybody%20is%20the%20Same.md).
 
@@ -38,14 +38,14 @@ Related to these is what thinking "sounds like" in my brain (not looks like!).  
 
 Conscious thought is typically in full sentences, or at least sentence fragments.  More spurious thoughts are single words: as I walk through a crowd I am thinking "left" and "avoid", not full sentences.
 
-The only voice in my head is my own.  When I am thinking about other people I am making statements to myself:  "I am hungry, perhaps X is also hungry".  This internal voice is not just stating facts, it is the execution of my thought process in my [Functional Cognitive Architecture](../Cognition/Functional%20Cognitive%20Architecture.md).
+The only voice in my head is my own.  When I am thinking about other people I am making statements to myself: "I am hungry, perhaps X is also hungry".  This internal voice is not just stating facts, it is the execution of my thought process in my [Functional Cognitive Architecture](../Cognition/Functional%20Cognitive%20Architecture.md).
 
-Per an LLM, the NT experience is a bit different:  NT inner speech frequently incorporates **Theory of Mind (ToM) Simulation**. They do not just "think" a fact; they "simulate" a conversation. This voice often has **Prosody** (tone, pitch, and emotional cadence). They can "hear" the voice of a parent, a spouse, or an imagined antagonist.
+Per an LLM, the NT experience is a bit different: NT inner speech frequently incorporates **Theory of Mind (ToM) Simulation**. They do not just "think" a fact; they "simulate" a conversation. This voice often has **Prosody** (tone, pitch, and emotional cadence). They can "hear" the voice of a parent, a spouse, or an imagined antagonist.
 
-A person more in the middle of the phantasia scale has images thrown in:  when they think of a "dog," they see a generic, non-specific image of a dog while the word "dog" occurs in their inner speech.
+A person more in the middle of the phantasia scale has images thrown in: when they think of a "dog," they see a generic, nonspecific image of a dog while the word "dog" occurs in their inner speech.
 ## My Experience: Memory
 
-I described what it looks like in my mind above.  I might have missed something:  without the contrast of another point of view it is just "how I am".
+I described what it looks like in my mind above.  I might have missed something: without the contrast of another point of view it is just "how I am".
 
 These factors also affect how our minds store and retrieve memories.
 
@@ -57,6 +57,6 @@ Thinking of "memories of the future" (called Prospection), I can imagine the sce
 
 Mentally I am modeling the weight and feel of my dog's hair.  I am calculating the physical sensation of a terminal loss.  I feel the biological affect of this thought as if I were experiencing it.  I don't feel sad because of the emotions of the situation, I feel sad because my dog is being deleted from the universe -- it is a literal loss of functionality.
 
-This is called Semantic Prospection:  I am knowing the facts and situation of what will occur.
+This is called Semantic Prospection: I am knowing the facts and situation of what will occur.
 
-Contrast this with the typical NT experience:  they experience a mental movie and imagine how the dog feels, then they mirror that emotion or feel the void left by the loss of the dog.  This is called Episodic Prospection -- they feel the vibe of being there.
+Contrast this with the typical NT experience: they experience a mental movie and imagine how the dog feels, then they mirror that emotion or feel the void left by the loss of the dog.  This is called Episodic Prospection -- they feel the vibe of being there.

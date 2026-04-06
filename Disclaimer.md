@@ -19,7 +19,7 @@ This model is not sacrosanct.  I feel no [Shame](Emotions/Shame.md) and although
 My notes have descriptions of autism and NT behaviors and experiences.  See [why I compare](FAQ.md#^Compare).
 
 <div class="callout-important" markdown="1">
-These are not first hand experiences.  They are not second hand experiences.  Mostly I am summarizing what I have read and what I get from an LLM.  To be clear:  this is largely **synthetic data** and a **synthetic model** for both NT and autism experiences.
+These are not first hand experiences.  They are not second hand experiences.  Mostly I am summarizing what I have read and what I get from an LLM.  To be clear: this is largely **synthetic data** and a **synthetic model** for both NT and autism experiences.
 </div>
 
 My hope (desire but am not sure it is true) is that these are close to reality.  If they are not, let me know.  I also know **everyone is different**, and perhaps autistic people more than most -- the `D` in neurodiverse means widely varied.  If you are autistic my descriptions may not fit you.  I hope they fit _somebody_.
@@ -42,11 +42,11 @@ You can read my [History](Experience/History.md) to see my journey.  For most of
 	- if I could understand the mechanism then I could explain why I behaved as I did
 	- and how I might work around some of the behaviors
 
-I used both ChatGPT and Gemini to get information from two different models -- they are trained differently so this would avoid some biases.  I carefully read the output and asked for explanations where I didn't understand.  If something didn't fit my experience I considered why:  was my model wrong?  Had I asked the right question?  Did I understand what was being said?
+I used both ChatGPT and Gemini to get information from two different models -- they are trained differently so this would avoid some biases.  I carefully read the output and asked for explanations where I didn't understand.  If something didn't fit my experience I considered why: was my model wrong?  Had I asked the right question?  Did I understand what was being said?
 
 I also kept probing the conclusions I reached.  For example, if the primary mechanism is no [Social Salience](Experience/Social%20Salience.md) what evidence do I have?  Could it be something else?  Are there gray areas where the model doesn't fit?
 
-Where possible I tried to find independent confirmation of the ideas but it is hard because there is not much written about *my* condition -- [Where Are My People?](Experience/Where%20Are%20My%20People?.md) 
+Where possible I tried to find independent confirmation of the ideas but it is hard because there is not much written about *my* condition -- [Where Are My People?](Experience/Where%20Are%20My%20People?.md)
 
 TLDR: I have tried to be careful, but this is not my area of expertise so it is best effort.  For my purposes (mental model useful to me) this is fine.  See [Truth](#Truth).
 
@@ -75,20 +75,20 @@ If I find out there are errors I will correct them, up to and including rewritin
 
 ### 1. Delivery Modes: Stories vs. Facts
 This site uses two different ways of writing depending on what is being described:
-*   **Standard Prose (Colloquial):** Used for "Experience" pages. This is my habitual way of speaking. It is the style I have developed to communicate easily with the people around me. 
+*   **Standard Prose (Colloquial):** Used for "Experience" pages. This is my habitual way of speaking. It is the style I have developed to communicate easily with the people around me.
 *   **Structured Lists (Bullets):** Used for "Technical Mapping." I use this when the goal is to provide a lot of information quickly. It removes the "filler" of normal conversation to focus on the logic.
 
 ### 2. Why I Don't Use a "Terse" Style
 I avoid writing in a very short or "stilted" way because it often causes unnecessary problems. In many social situations, being too brief is seen as being cold or angry. Using a more natural, conversational style allows the information to be received without causing that specific kind of social friction.
 
 ### 3. Fact-Based Presentation
-I present my observations as **Facts**. 
-*   **Reason:** This is more efficient than constantly saying "I think" or "In my opinion." 
+I present my observations as **Facts**.
+*   **Reason:** This is more efficient than constantly saying "I think" or "In my opinion."
 *   **Note:** While I write these as facts, they are based on my own internal model of my mind. They have not been reviewed by doctors or scientists.
 
 ### 4. Descriptions of Others (The LLM Proxy)
-I cannot directly perceive the social signals or internal feelings of other people. 
-*   **Method:** To describe how NT or autistic people might think, I use an AI (LLM) to provide a description. 
+I cannot directly perceive the social signals or internal feelings of other people.
+*   **Method:** To describe how NT or autistic people might think, I use an AI (LLM) to provide a description.
 *   **Reliability:** I use these descriptions as a "best guess" to help compare my experience to others, but I cannot personally verify if they are 100% accurate.
 
 I know that the descriptions of NT and autistic people may not apply to a particular person -- my intent is that they are directionally correct and apply to many people.

@@ -6,17 +6,17 @@ order: 1100
 ---
 Just like most everything else I describe on this site, it never occurred to me that I might *think* different than most other people.  In terms of computers I have a completely different architecture and have to run a different operating system on it.  I don't have some of the hardware (or it is unusable) like other people have, but I have many of the same basic needs for dealing with the world.
 
-We can imagine the hardware and software in a sort of stack where each layer depends on the previous layer.  Signals come in (vision, hearing) and are decoded and processed.  Your conscious thinking sits on top of this:  you make decisions and take actions. There might be some optional systems that could be employed if needed, e.g. you can concentrate on something.
+We can imagine the hardware and software in a sort of stack where each layer depends on the previous layer.  Signals come in (vision, hearing) and are decoded and processed.  Your conscious thinking sits on top of this: you make decisions and take actions. There might be some optional systems that could be employed if needed, e.g. you can concentrate on something.
 
 For contrast, let's look at what NT and autistic architectures might look like first.
 ## NT Cognitive Architecture
 
 Describing neurotypical cognitive architecture in similar terms might look like this:
 
-1. **Hardware:** **Standard Neuro-typical Sensory Array.**
+1. **Hardware:** **Standard Neurotypical Sensory Array.**
 2. **Social Salience (Limbic Hardware):** The "Antenna" is always on and prioritized.
 3. **ToM (Automated Simulation):** The brain "mirrors" others' states automatically.
-4. **Logic (Optional Overlay):** Used only when "Intuition" fails. (High effort for NTs).
+4. **Logic (Optional Overlay):** Used only when "Intuition" fails. (High effort for NT people).
 5. **Runtime:** **Associative Heuristics.** (Consciousness lives in "Vibes" and "Feelings").
 
 Note that the first 3 layers are all "implemented in hardware" and are thus very low effort and indeed below the level of conscious thought.
@@ -24,7 +24,7 @@ Note that the first 3 layers are all "implemented in hardware" and are thus very
 
 Autistic cognitive architecture might look something like this:
 
-1. **Hardware:** **Standard Neuro-typical Sensory Array.**
+1. **Hardware:** **Standard Neurotypical Sensory Array.**
 2. **Social Salience (Limbic Hardware):** The "Antenna" is always on and prioritized, **but may be noisy and often highly sensitive**
 3. **ToM (Manual Simulation):** The social signal is received but has to be decoded and **manually processed, e.g. by Theory-Theory**.  This is mentally costly and causes social lag.  Theory-theory is a type of [Propositional Logic](Propositional%20Logic.md).
 4. **Manual Frame Construction:** Autistic people use social scripting as ways to [Mask](../Experience/Masking.md) and avoid social issues.
@@ -85,7 +85,7 @@ I don't have [Social Salience](../Experience/Social%20Salience.md), so I treat o
 - **Low fidelity**: if the cost of mistakes are low, low fidelity models can be used for many situations (low cost)
 	- own the cost of a mistake -- accept that they can happen
 - **High fidelity**: high fidelity models can be used when needed (high cost)
-	- for example a presentation to another group to convince them to do a certain project
+	- for example, a presentation to another group to convince them to do a certain project
 
 There is one additional heuristic:
 
@@ -93,7 +93,7 @@ There is one additional heuristic:
 	- if new information is presented or I detect the current plan failing
 	- come up with a new focused **low fidelity** plan
 
-And a disadvantage: 
+And a disadvantage:
 
 - the replan trigger requires explicit information
 	- if the NT people around me have decided on a new, not explicitly stated, plan I will still be on the old plan
@@ -109,7 +109,7 @@ The Functional Logic Modeling identified the appropriate "instructions" to evalu
 If we put those pieces together
 
 1. **Sensing Hardware** (turned off): [Pure A-salience](../Experience/Pure%20A-salience.md) / no [Social Salience](../Experience/Social%20Salience.md) / [Hypophantasia](../Experience/Hypophantasia.md)
-2. **Low Level CPU / ISA** (hardware): [Propositional Logic](Propositional%20Logic.md) 
+2. **Low Level CPU / ISA** (hardware): [Propositional Logic](Propositional%20Logic.md)
 3. **Ethics, rules, policy** (software): [Axiomatic Deontology](Ethical%20Systems.md#Axiomatic%20Deontology) / [Ethics](Ethics.md)
 4. **Initialization** (software): [[Manual Frame Construction]]
 5. **Database & Model** (software): [Functional Logic Modeling](Functional%20Logic%20Modeling.md)
@@ -119,7 +119,7 @@ When I enter a room (let's say at a conference) something like this happens:
 
 - [Manual Frame Construction](Manual%20Frame%20Construction.md) -- understand the situation, "professional context, rule: protocol over personality"
 - [Functional Logic Modeling](Functional%20Logic%20Modeling.md) -- model the situation with people as black boxes and produce a logical model based on my goals, "goal: factual exchange.  input: standard greeting, ask questions", which produces the instructions.
-- [Propositional Logic](Propositional%20Logic.md) (runtime) -- execute the instructions:  "**if** greeting accepted **then** ask question" (probably dropping the if/then for brevity).
+- [Propositional Logic](Propositional%20Logic.md) (runtime) -- execute the instructions: "**if** greeting accepted **then** ask question" (probably dropping the if/then for brevity).
 
 These layers and probably ethics are all managed manually by me executing my [Inner Speech](../Experience/Hypophantasia.md#Inner%20Speech).  There are a number of shortcuts I employ in the Functional Logic Modeling -- this isn't as expensive as it sounds.  My entire "stack" is software.
 

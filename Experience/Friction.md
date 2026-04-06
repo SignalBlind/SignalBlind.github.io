@@ -5,10 +5,10 @@ title: Friction
 I am referring to difference kinds of friction or high effort/low utility states in social settings.
 ## NT Experience: No Friction
 
-Typically NT people experience low friction because of their [active](NT%20Experience.md) [Theory of Mind](Theory%20of%20Mind.md) -- they are able to simulate and predict the thoughts and feelings of people around them.  Promoting emotional equilibrium and group cohesion  is a primary tenet of their [ethical system](../Cognition/Ethical%20Systems.md#Social%20Utilitarianism).
+Typically NT people experience low friction because of their [active](NT%20Experience.md) [Theory of Mind](Theory%20of%20Mind.md) -- they are able to simulate and predict the thoughts and feelings of people around them.  Promoting emotional equilibrium and group cohesion is a primary tenet of their [ethical system](../Cognition/Ethical%20Systems.md#Social%20Utilitarianism).
 ## Autism Experience: High Friction
 
-Autistic people experience friction from having [non-automatic prediction of others](Autism%20Experience.md).  They have to use manual Theory-Theory to predict and experience [lag](../Cognition/Zero%20Lag.md#Autism%20Experience) and social fatigue.  Additionally they may employ [Masking](Masking.md) to present as neurotypical, another high effort mechanism.
+Autistic people experience friction from having [non-automatic prediction of others](Autism%20Experience.md).  They have to use manual Theory-Theory to predict and experience [lag](../Cognition/Zero%20Lag.md#Autism%20Experience) and social fatigue.  Additionally, they may employ [Masking](Masking.md) to present as neurotypical, another high effort mechanism.
 ## My Internal Experience: No Friction ^NoFriction
 
 Internally I don't experience [any friction](My%20Experience.md#^Friction).  I don't sense social signal, I don't feel shame, I don't care about social positioning.  To be clear: *I* don't feel these things, but people around me, especially my loved ones, may some friction on my behalf because of e.g. [social gaffes](Say%20The%20Wrong%20Thing.md).

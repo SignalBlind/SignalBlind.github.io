@@ -10,9 +10,9 @@ See also: [NT Experience](NT%20Experience.md), [Autism Experience](Autism%20Expe
 
 The word "salience" has to do with assigning importance to something.  In computer vision it is identifying parts of an image that are important.
 
-Social salience network is the label for a very low level part of the brain that gives meaning and importance to social signals.  For example in [Theory of Mind](Theory%20of%20Mind.md) an NT person will observe a large number of non-verbal cues as input to their simulation.  Social Saliency grades these and decides what inputs are important.  Sort of a gain control on the primary signal.
+Social salience network is the label for a very low level part of the brain that gives meaning and importance to social signals.  For example in [Theory of Mind](Theory%20of%20Mind.md) an NT person will observe a large number of nonverbal cues as input to their simulation.  Social Saliency grades these and decides what inputs are important.  Sort of a gain control on the primary signal.
 
-Social saliency doesn't just apply to non-verbal cues, it also affects:
+Social saliency doesn't just apply to nonverbal cues, it also affects:
 
 - perception
 - cognition
@@ -26,6 +26,6 @@ Note: the social salience network is primarily the anterior insula and dorsal an
 
 I experience a complete lack of social saliency -- the volume on the social signal is turned to zero.  It is [Pure A-salience](Pure%20A-salience.md), a complete signal blindness (hence the website name).
 
-I don't receive any social signals.  I don't pick up non-verbal cues.  I don't know what people are thinking or how they are feeling unless they explicitly tell me.  I didn't even know this [was a thing](Everybody%20is%20the%20Same.md)!
+I don't receive any social signals.  I don't pick up nonverbal cues.  I don't know what people are thinking or how they are feeling unless they explicitly tell me.  I didn't even know this [was a thing](Everybody%20is%20the%20Same.md)!
 
-I am not only missing the social signal but also the social connections and pressures that go along with it.  I don't particularly care what another person thinks of me:  either they are right and I should take note or they are wrong and I can ignore it.  I don't experience [Shame](../Emotions/Shame.md) or a whole host of other [socially triggered emotions](../Emotions/Emotions.md).
+I am not only missing the social signal but also the social connections and pressures that go along with it.  I don't particularly care what another person thinks of me: either they are right and I should take note or they are wrong and I can ignore it.  I don't experience [Shame](../Emotions/Shame.md) or a whole host of other [socially triggered emotions](../Emotions/Emotions.md).

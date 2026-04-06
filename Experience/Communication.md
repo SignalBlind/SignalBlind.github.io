@@ -8,7 +8,7 @@ Before [I found out I was ND](History.md) I thought I had good or even excellent
 - I could speak and write clearly (you may disagree, these are my opinions!)
 - experience showed I could explain complex ideas to people
 
-After I was married of course there were sometimes communication problems between me and my wife, but everybody has those and this was no different.  Or so I thought:  these are not at all the same.
+After I was married of course there were sometimes communication problems between me and my wife, but everybody has those and this was no different.  Or so I thought: these are not at all the same.
 
 ## Communication Grade 2.0
 

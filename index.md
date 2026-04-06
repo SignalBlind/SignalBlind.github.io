@@ -11,7 +11,7 @@ This is distinct from [Autism](Experience/Not%20Autism.md) and various other [po
 This site describes my [experience](Experience/History.md) of being neurodivergent and [not knowing it](Experience/Everybody%20is%20the%20Same.md) through to my eventual discovery of the [the mechanism behind it](Experience/My%20Experience.md).  These are my notes, for myself, packaged up in case they are interesting to others.
 ## Objective
 
-This site serves as a functional map of this cognitive architecture. It is provided as a reference for individuals seeking to understand non-standard social processing through my personal experience and what I have been able to introspect and determine through a variety of mechanisms.
+This site serves as a functional map of this cognitive architecture. It is provided as a reference for individuals seeking to understand nonstandard social processing through my personal experience and what I have been able to introspect and determine through a variety of mechanisms.
 ## Data Reliability and Provenance
 
 ### Technical Status
@@ -23,16 +23,16 @@ This model is a high-fidelity representation of my subjective cognitive experien
 The frameworks described here were developed through iterative analysis in collaboration with a Large Language Model (LLM) -- you can see my [System Prompt](System%20Prompt.md) to understand more.
 
 * **Constraint:** The terminology used is **Functional**, not necessarily **Standard**. Terms are chosen for their descriptive accuracy regarding my internal state, not for alignment with existing psychological literature.
-* **Risk Profile:** There is a known risk of taxonomic drift. The model may use specialized terms in non-standard ways.
+* **Risk Profile:** There is a known risk of taxonomic drift. The model may use specialized terms in nonstandard ways.
 * See [Disclaimer](Disclaimer.md) for more detailed information.
 
 ### Success Metric: Functional Utility
 
-The primary value of this site is **Functional Utility**, not **Universal Theory**. 
+The primary value of this site is **Functional Utility**, not **Universal Theory**.
 *   **Objective:** To facilitate precise communication with my spouse and therapist.  It would be wonderful if somebody else like me saw this and discovered something new -- it took me [over 50 years and happened by chance](Experience/History.md)!  Maybe it will be interesting to somebody else.
 *   **Validation:** The model is considered "successful" if it accurately predicts my behavioral outputs and reduces interaction friction. It is not presented as a clinical diagnostic tool.
 
 ### Publication Rationale
-A search for existing documentation on **A-salience** (Signal-Blindness) yielded zero results. This site serves to fill that data void. 
+A search for existing documentation on **A-salience** (Signal-Blindness) yielded zero results. This site serves to fill that data void.
 
 See [Where Are My People?](Experience/Where%20Are%20My%20People?.md)

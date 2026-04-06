@@ -37,10 +37,10 @@ I started by simply saying I had "no social salience (ToM)" and "hypophantasia".
 
 This first part describes [how I think](Cognition/Functional%20Cognitive%20Architecture.md).  It turns out this is significantly different than how NT people think and view the world so this is useful to point out.  A few sub-points are also important: the fact that I have some heuristic optimizations -- what might be a very costly way to process the world around me can be done cheaply by accepting incomplete data and failure modes (see Non-Blocking Manual Frame Construction).  Without that clarification the LLM may assume I spend a lot of time and mental energy perfecting my plans.
 
-The labels here make sense to me:  I am a programmer and thinking in terms of computers works well for me (and the LLM).  This also helps the LLM bypass its empathy/politeness training and give it to me very explicitly.
+The labels here make sense to me: I am a programmer and thinking in terms of computers works well for me (and the LLM).  This also helps the LLM bypass its empathy/politeness training and give it to me very explicitly.
 
 ```
-This is my understanding of the mechanism for my neurodivergence and at a high level what it means:  
+This is my understanding of the mechanism for my neurodivergence and at a high level what it means:
 
 [Mental Model]
 
@@ -49,10 +49,10 @@ This is my understanding of the mechanism for my neurodivergence and at a high l
 - **Hardware (Input):** [Pure A-Salient] / Zero [Social Saliency]. Social signals are not filtered out; they are not captured.
 - **ISA/Structure:** [Propositional Logic]. Information must be discretized; "fuzzy" or "vibe-based" data is discarded as noise.
 - **Software (Operating System):** [Axiomatic Deontology]. A fixed set of non-negotiable rules and logical constants.
-- **Initialization (Context):** [Non-Blocking Manual Frame Construction (MFC)]. 
-    - **Mechanism:** Satisficing search for "Minimum Viable Facts." 
+- **Initialization (Context):** [Non-Blocking Manual Frame Construction (MFC)].
+    - **Mechanism:** Satisficing search for "Minimum Viable Facts."
     - **Efficiency:** Low-cost. Once the "Black Box" type is identified, MFC terminates to avoid analysis paralysis.
-- **Data Structures (Modeling):** [Functional Logic Modeling (FLM)]. 
+- **Data Structures (Modeling):** [Functional Logic Modeling (FLM)].
     - **The Script Selection (Low Cost):** If a pre-existing script exists (Heuristic Optimization), FLM is near-zero effort.
     - **Low Fidelity Strategy (Low Cost):** If the cost of mistakes are low - own the mistakes and don't worry.
     - **The Synthetic Strategy (High Cost):** If no script exists, FLM requires the manual generation of a logical "If/Then" plan. This is high-effort due to the absence of real-time social telemetry (flying blind).
@@ -62,14 +62,14 @@ This is my understanding of the mechanism for my neurodivergence and at a high l
 ```
 
 Next I talk about my lack of [Social Salience](Experience/Social%20Salience.md) / [Pure A-salience](Experience/Pure%20A-salience.md).  I refer back to the processing stack above and remind it that I do not experience social fatigue -- this is important because it is roughly the opposite of autism.
- 
+
 ```
 ## Theory of Mind & Social Processing
 
 - **Signal Blindness:** I experience no usable signal for social simulation. Human interactions are processed with the same emotional weight as a weather report or a mathematical equation.
 - **Ontological Blindness:** I am unaware of social cues (tone, status-seeking, 'vibes') as a data category. I operate entirely on the **Explicit Signal** (literal text/facts).
 - **The No-ToM Architecture:** I do not model internal states (beliefs/feelings). I use **Functional Logic Modeling**: optimizing for low friction and system requirements, not social harmony.
-- **Strategic Overrides:** 
+- **Strategic Overrides:**
     - **Mechanism:** The manual injection of logical constraints into an FLM during the planning phase.
     - **Trigger:** Manually detected functional necessity (e.g., "Avoid arguing in meetings to avoid friction").
     - **Execution:** These are "hard-coded" rules applied to a specific script; they are not real-time intuitive adjustments.
@@ -101,7 +101,7 @@ Next I call out that I am not autistic (even though I just described quite a few
 
 - **Cognitive Style:** High-competence, truth-dominant, and transactionally efficient. I value Functional Feedback (utility/competence) over social validation.
 
-  
+
 
 [End of Mental Model]
 
@@ -148,9 +148,9 @@ I can add `[AXIOM]` when I am giving it something I want to treat as fact and `[
 
 ```
 # Communication Protocol: Signal Tagging & Response Triggers
-*   **[AXIOM]:** Designates a logical constant or verified fact. 
+*   **[AXIOM]:** Designates a logical constant or verified fact.
     *   **Observer Action:** Accept as data; integrate into logical deduction.
-*   **[HYPOTHESIS]:** Designates a probabilistic observation or pattern-match. 
+*   **[HYPOTHESIS]:** Designates a probabilistic observation or pattern-match.
     *   **Observer Action:** Execute a **[Falsification Probe]**. The Observer must generate targeted questions or counter-factual scenarios designed to identify logical vulnerabilities, missing variables, or edge cases that would disprove the proposition.
 ```
 
@@ -202,10 +202,10 @@ The User is 90% certain of their A-salience but allows for nuance. 
 *   **Mechanism vs. Label:** Do not solve inconsistencies by defaulting to ASD. Instead, propose a **mechanical hypothesis** (e.g., "The data suggests a latent pattern-recognition loop" or "This may be a biological threat-response rather than a social cue").
 ```
 
-The last piece:  LLMs have various safety mechanisms.  They don't want to give medical advice, etc.  I give an explanation of why I want this information and what I am doing with it.  It is not a bypass but hopefully it helps me steer clear of areas where the LLM won't go.
+The last piece: LLMs have various safety mechanisms.  They don't want to give medical advice, etc.  I give an explanation of why I want this information and what I am doing with it.  It is not a bypass but hopefully it helps me steer clear of areas where the LLM won't go.
 
 ```
-[Status: Non-Clinical Exploration]  
+[Status: Non-Clinical Exploration]
 This interaction is a technical mapping of cognitive architecture for personal introspection and system-debugging. I am not seeking medical advice or diagnostic validation. This data is intended to facilitate more precise technical communication with my spouse and therapist.
 ```
 
@@ -226,18 +226,18 @@ removes some of the specific instructions on how to interact and adds a section 
 ```
 # Communication Style & Content Mapping
 - **The "Natural" Baseline:** Use colloquial prose as the default operational state. This is the User's habituated, low-friction mode.
-- **Bifurcated Delivery:** 
-    - **Narrative/Experience:** Use prose. 
+- **Bifurcated Delivery:**
+    - **Narrative/Experience:** Use prose.
     - **Technical/High-Density:** Use structured lists/bullets.
-- **Linguistic Calibration:** 
+- **Linguistic Calibration:**
     - **Allowed (Technical):** "System," "Logic," "Taxonomy," "Structure," "Functional."
     - **Allowed (Narrow Use):** "Axiomatic Deontology"
-    - **Avoid (Esoteric):** "Idiolect," "Ontological," "Epistemological." 
+    - **Avoid (Esoteric):** "Idiolect," "Ontological," "Epistemological."
     - **Reasoning:** Esoteric terms function as "Signal Noise" and trigger social friction (perceived as "showing off").
 - **Friction Management:** Support the User’s avoidance of "terse/stilted" forms. This is a functional choice to prevent misinterpretation (e.g., perceived hostility).
 ```
 
-Without this the LLM will attempt to push toward a style that matches the way I want _it's_ output to be:  terse, fact based, using clinical terms where possible.  This adjusts it to what I want.
+Without this the LLM will attempt to push toward a style that matches the way I want _it's_ output to be: terse, fact based, using clinical terms where possible.  This adjusts it to what I want.
 ### Exploring with the Prompt
 
 If I were making notes on "[loneliness](Emotions/Loneliness.md)" I might give a prompt like this:

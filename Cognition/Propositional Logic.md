@@ -40,7 +40,7 @@ In my [Functional Logic Modeling](Functional%20Logic%20Modeling.md) I can select
 
 ## NT Experience
 
-NT people also use propositional logic in some situations:  programming computers, doing math and a lot of work in STEM fields requires logical thinking.  They have to translate between their native thought patterns which are associative, narrative and heuristic frameworks.
+NT people also use propositional logic in some situations: programming computers, doing math and a lot of work in STEM fields requires logical thinking.  They have to translate between their native thought patterns which are associative, narrative and heuristic frameworks.
 
 When a neurotypical (NT) programmer sits down to code, they aren't just "typing thoughts"—they are performing an act of **mental compilation.** They have to take a high-level, "fuzzy" goal and break it down into the rigid, propositional constraints of a machine.
 ## Autism Experience
@@ -49,7 +49,7 @@ The Theory-Theory model of how autistic people process TOM signals is thought to
 
 If this is true, autistic people use propositional logic to decode noisy social salience signals into the [Theory of Mind](../Experience/Theory%20of%20Mind.md) model -- they evaluate rules in sequence to figure out what is happening.  This is _expensive_ -- there are a lot of rules to evaluate and this causes the stress in [Autism Experience](../Experience/Autism%20Experience.md).
 
-How many rules and what do they look like?  Well, an LLM suggests an order of magnitude for a typical autistic person: 
+How many rules and what do they look like?  Well, an LLM suggests an order of magnitude for a typical autistic person:
 #### The Core Heuristics (100–500 Rules)
 
 At the foundational level, one needs rules for basic physical safety, greetings, and primary needs. These are the "if-then" statements that govern surface-level interactions:

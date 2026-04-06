@@ -16,7 +16,7 @@ There are two types of pride:
 
 Pride provides a [Dopamine](Dopamine.md) hit.
 
-This [blog entry](https://www.karenrkoenig.com/blog/authentic-versus-hubristic-pride) is a nice writeup on the concept.
+This [blog entry](https://www.karenrkoenig.com/blog/authentic-versus-hubristic-pride) is a nice write up on the concept.
 
 ## My Experience
 
@@ -27,7 +27,7 @@ I value competence and utility.  I want my work to be valued -- this is what mot
 - **Logical Closure** (primary) -- resolution of a complex logic-puzzle. It is 100% internal and independent of external observation or deployment
 - **Systemic Utility** (secondary) -- value derived from the work being used.  Not a social reward, but functional validation.  If a solution is not deployed, its utility remains theoretical/latent.
 
-I don't value the social part of the acknowledgement -- private is fine, or none.  Seeing my work being used is value enough.
+I don't value the social part of the acknowledgment -- private is fine, or none.  Seeing my work being used is value enough.
 
 Lacking [Social Salience](../Experience/Social%20Salience.md) I don't feel any of the social aspects of pride.  There may be a dopamine hit from closure, especially from a difficult problem. Mostly there is only a label on the event of "job well done" or "this helped somebody".  I do not feel better than others, I only feel that I have done what I set out to do.
 

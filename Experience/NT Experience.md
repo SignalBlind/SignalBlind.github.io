@@ -19,7 +19,7 @@ See also: [Autism Experience](Autism%20Experience.md) and [My Experience](My%20E
 		- Facial micro expressions
 		- Social proximity
 		- And probably others
-	- Bidirectional – you signal back non-verbally as well
+	- Bidirectional – you signal back nonverbally as well
 		- Meaning exists between people, not just words.  Full of emotion and it is shared
 		- Called: mirroring
 	- Ambiguity is normal and fine
@@ -39,7 +39,7 @@ See also: [Autism Experience](Autism%20Experience.md) and [My Experience](My%20E
 	- The other person appears to be unpredictable or weird
 - **Mechanism**
 	- [Simulation theory](https://en.wikipedia.org/wiki/Simulation_theory_of_empathy)
-	- One person's mind simulates the conditions for another and predicts	- senses feed through a series of systems that decode and compute saliency — this mechanism is THE SIGNAL (highlighted here as it is important in my experience)
+	- One person's mind simulates the conditions for another and predicts - senses feed through a series of systems that decode and compute saliency — this mechanism is THE SIGNAL (highlighted here as it is important in my experience)
 	- This part of the brain is known as the Salience Network
 	- This is called Affective Theory of Mind
 	- It is pre-reflective, meaning it occurs before conscious thought

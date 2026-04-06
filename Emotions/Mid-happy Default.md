@@ -16,8 +16,8 @@ Speculation, but maybe:
 	- experience [emotional contagion](https://en.wikipedia.org/wiki/Emotional_contagion) and pick up the mood of others
 - me
 	- no [Social Salience](../Experience/Social%20Salience.md) -- no social signal or hierarchy
-	- no [Shame](Shame.md) (social tax), no judgement from others
+	- no [Shame](Shame.md) (social tax), no judgment from others
 	- do not pick up the mood of the room
-	- Internally generated:  are my needs met?  Is the environment stable and predictable?  Do I understand?
+	- Internally generated: are my needs met?  Is the environment stable and predictable?  Do I understand?
 
 Generally my needs are met and things are fine.  Mid-happy default!

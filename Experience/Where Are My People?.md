@@ -3,7 +3,7 @@ layout: page
 title: Where Are My People?
 permalink: /Experience/Where_Are_My_People/
 ---
-While researching my mental model I thought it might be a good idea to double check these ideas -- this isn't my area of expertise.  The terms the LLM was feeding me made sense but they didn't seem to be clinical terms in many cases.  I wasn't able to find _any_ account similar to my own.
+While researching my mental model I thought it might be a good idea to double-check these ideas -- this isn't my area of expertise.  The terms the LLM was feeding me made sense but they didn't seem to be clinical terms in many cases.  I wasn't able to find _any_ account similar to my own.
 
 Am I really unique?  Probably not.  Sure, everybody wants to be the main character in their own story, but logically it didn't make sense.  Even if it were 0.1% of the people that is still millions of people.  Where are they?
 
@@ -13,7 +13,7 @@ Am I really unique?  Probably not.  Sure, everybody wants to be the main charact
 	- I didn't even know I was [different](Everybody%20is%20the%20Same.md) -- probably other people would be the same
 - I work in the software industry
 	- my [Propositional Logic](../Cognition/Propositional%20Logic.md) way of thinking fits perfectly -- again, everything seemed natural
-	- what friction I might encounter in other fields is largely absent here:  explicit communication is the norm
+	- what friction I might encounter in other fields is largely absent here: explicit communication is the norm
 - clinical psychology is output-oriented
 	- [ASD category A](Not%20Autism.md#A%20Social%20Communication%20and%20Interaction) describes me but B is a complete miss -- I need the *mechanism* to understand how I behave
 	- in debugging you can't treat the symptom, you need to know the root cause
@@ -21,7 +21,7 @@ Am I really unique?  Probably not.  Sure, everybody wants to be the main charact
 	- the Autism Spectrum covers a wide range of experiences
 	- although I don't match the diagnosis it might be easy to mistake because the category A behaviors are a great match
 
-Basically people like me are probably hidden.  No problem, no diagnosis, no writeup or descriptions.  If they land in positions where logical thought is the norm (STEM), they fit right in.
+Basically people like me are probably hidden.  No problem, no diagnosis, no write up or descriptions.  If they land in positions where logical thought is the norm (STEM), they fit right in.
 
 Since I was building a mental model for myself (I already had the notes!) I thought it might be useful to organize them from a big outline into something coherent.  Maybe somebody else would come across this and recognize themselves.  Or not.  I like building things, so I like doing it regardless.
 
@@ -61,7 +61,7 @@ Even though these don't describe *me*, they are interesting and provided things 
 
 In Daniel Dennett’s framework, there are three levels of abstraction used to predict the behavior of a system: the **Physical Stance**(physics/chemistry), the **Design Stance** (purpose/function), and the **Intentional Stance** (beliefs/desires).
 
-The Design Stance is a reasonable match:  I treat humans as [Black Boxes](Theory%20of%20Mind.md) where I might know their role in a company or society.  I can predict what a Manager or Programmer does based on their role.  I might construct a logical model to refine this.
+The Design Stance is a reasonable match: I treat humans as [Black Boxes](Theory%20of%20Mind.md) where I might know their role in a company or society.  I can predict what a Manager or Programmer does based on their role.  I might construct a logical model to refine this.
 
 The Physical Stance is about predicting behavior only on physical properties, e.g. tensile strength or mass.  NT people would use this for inanimate systems where I might still use the Design Stance -- what is it supposed to do.
 
@@ -83,11 +83,11 @@ The paper’s core thesis is that "social" behavior is often driven by domain-ge
 
 Heyes claims "we do not need mentalizing as much as previously thought" -- that suggests that my lack of social saliency is a "lean" version of processing, not broken (I think so too!).  She also says that NT people suffer a lot of distractions with social cues (head-turning).
 
-Curiously Heyes interprets the observations from Senju differently.  The NT subjects were pulled by a non-verbal cue from the agent while the autistic subjects were focused on the truth.  They didn't miss the social signal, it was a distraction that didn't pass their filter.  It wasn't lack of social salience, but it is some effect from their noisy social salience.
+Curiously Heyes interprets the observations from Senju differently.  The NT subjects were pulled by a nonverbal cue from the agent while the autistic subjects were focused on the truth.  They didn't miss the social signal, it was a distraction that didn't pass their filter.  It wasn't lack of social salience, but it is some effect from their noisy social salience.
 
 Another interesting point Heyes makes is about "head-turning" is that it isn't a social signal at all -- it is this term "submentalizing".  It is roughly the same as a bright flashing light or a loud bang and is a very low level signal that should grab attention regardless of the social capacity.
 
-So is she right?  In a face-to-face conversation I would probably notice if somebody turned their head.  I would have to decide if it meant anything (sometimes people turn their heads for reasons I do not know, e.g. looking up and to the right while thinking), but I would likely see the head turn itself -- it is right in front of my eyes (high magnitude singal).  However, when walking with my spouse she might say "did you see that person?" and typically I had not.  I didn't notice her looking around or at anyone and I also wasn't looking.  Even if I saw her looking around it wouldn't mean anything to me (we are out in a crowd) -- I wouldn't pick it up.
+So is she correct?  In a face-to-face conversation I would probably notice if somebody turned their head.  I would have to decide if it meant anything (sometimes people turn their heads for reasons I do not know, e.g. looking up and to the right while thinking), but I would likely see the head turn itself -- it is right in front of my eyes (high magnitude singal).  However, when walking with my spouse she might say "did you see that person?" and typically I had not.  I didn't notice her looking around or at anyone and I also wasn't looking.  Even if I saw her looking around it wouldn't mean anything to me (we are out in a crowd) -- I wouldn't pick it up.
 
 ### [Teleological reasoning in infancy: the naïve theory of rational action](https://www.semanticscholar.org/paper/Teleological-reasoning-in-infancy%3A-the-nai%3Bve-of-Gergely-Csibra/0b0f8ce4b34a5db2185e70688f0620ffd4b28436), Gergely & Csibra
 
@@ -99,7 +99,7 @@ The paper talks about a "Rationality Principle" which is implemented in the Tele
 
 The paper also talks about a need to capture the relevant data to operate the Teleological Stance.  This is roughly my [Manual Frame Construction](../Cognition/Manual%20Frame%20Construction.md), which can be expensive.
 
-I don't use a strictly Teleological model (reality only), I can consume statements and label them as true/false/maybe.  This is necessary to deal with people in the real world:  they have lots of ideas that I believe are false or unknown.  I understand that people may have a different point of view than me.  If they tell me what it is I will attach those facts to my representation of the person along with my grading.
+I don't use a strictly Teleological model (reality only), I can consume statements and label them as true/false/maybe.  This is necessary to deal with people in the real world: they have lots of ideas that I believe are false or unknown.  I understand that people may have a different point of view than me.  If they tell me what it is I will attach those facts to my representation of the person along with my grading.
 
 Since I did not have access to the signal to develop a Mentalistic Stance I developed an alternative **Propositional Meta-Representation** (data tagging) ability in my [Functional Cognitive Architecture](../Cognition/Functional%20Cognitive%20Architecture.md). I do not remember doing that, but I have it now!
 
@@ -161,7 +161,7 @@ The paper suggests that "abnormal development" (Section 2) results in a "faulty"
 
 This one looked really promising -- the author is autistic and described having "social blindness" and "emotional blindness".  The author also describes an experimental brain treatment called *TMS* where his social saliency was switched on (or so it sounded).
 
-Typically [autistic people social salience](Autism%20Experience.md).  They may have very high social salience but the output is noisy and does not engage the automatic Simulation.  In Robison's case I think that social saliency was working but at such a low level that his mind was discarding the signal.  I think he was aware there was a signal, at least some of the time, because he was aware that he was missing something -- this caused social distress.  He had enough social salience to value what he was missing.
+Typically [autistic people have social salience](Autism%20Experience.md).  They may have very high social salience but the output is noisy and does not engage the automatic Simulation.  In Robison's case I think that social saliency was working but at such a low level that his mind was discarding the signal.  I think he was aware there was a signal, at least some of the time, because he was aware that he was missing something -- this caused social distress.  He had enough social salience to value what he was missing.
 
 The TMS procedure temporarily boosted the gain of the saliency network and he described it like going from black and white to full color.
 
@@ -170,6 +170,6 @@ The TMS procedure temporarily boosted the gain of the saliency network and he de
 
 I think this engaged the automatic Simulation functions and he was faced with a cacophony of signals that he had no experience with.  NT people have lived with this their entire life and can tune in and tune out as needed.  It was eye opening for Robison but overwhelming.  His mental architecture for dealing with the world did not change and he moved from being blind to seeing the pain without being able to turn it off.
 
-He participated in this TMS treatment for six months and the signal boosting effect was present during this time, but temporary overall.  He picked up permanent insight into social salience -- even after he could not longer perceive the signal he understood what it looked like.
+He participated in this TMS treatment for six months and the signal boosting effect was present during this time, but temporary overall.  He picked up permanent insight into social salience -- even after he could no longer perceive the signal he understood what it looked like.
 
-Not the same as my experience but I think this is the first description of hyposalience I have seen.
+Not the same as my experience but I think this is the first description of [Hyposalience](../Other/Hyposalience.md) I have seen.

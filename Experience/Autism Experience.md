@@ -10,7 +10,7 @@ This describes a typical autistic person's experience of [Theory of Mind](Theory
 
 See also: [NT Experience](NT%20Experience.md) and [My Experience](My%20Experience.md).
 
-- Able to receive signal from non-verbal cues
+- Able to receive signal from nonverbal cues
 	- e.g. the social signal
 	- Very aware that others have hidden thoughts, sometimes hyper-aware
 	- The signal may be noisy, unfiltered, has a connection issue or might be something else -- in any event it doesn't engage the automatic simulation hardware in the brain

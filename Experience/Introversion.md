@@ -6,7 +6,7 @@ I always figured myself as an introvert.  I didn't particularly need or enjoy so
 
 Looking at this now from the lens of ND and no [Social Salience](Social%20Salience.md) I wonder if this isn't quite what I think it is.
 
-Extroversion is easy:  I probably _can't_ be an extrovert given my inability to receive "vibes".  There is no social energy for me, just data (or lack of it).
+Extroversion is easy: I probably _can't_ be an extrovert given my inability to receive "vibes".  There is no social energy for me, just data (or lack of it).
 
 The mechanism for the introversion side is interesting.  I don't have the NT social emotions that need to be fed.  I don't feel any need for belonging or fitting in.
 
@@ -16,7 +16,7 @@ I can hang out with the neighbors for a little bit and participate on the side (
 
 After I leave I usually go do something I enjoy: read a book, play pinball, mess around on the computer.  I don't "rest" -- that is what I do when I take a nap.
 
-I also enjoy hanging out with my friends:  we go to lunch (I like eating), we see a movie (I like movies).  Perhaps we are each getting something different out of it.  I like doing these things _with_ other people.  Perhaps my friends are enjoying the conversation and social aspects while I am there for the food.  Maybe the talking too:  we often talk about things that interest me (these are also tech people).
+I also enjoy hanging out with my friends: we go to lunch (I like eating), we see a movie (I like movies).  Perhaps we are each getting something different out of it.  I like doing these things _with_ other people.  Perhaps my friends are enjoying the conversation and social aspects while I am there for the food.  Maybe the talking too: we often talk about things that interest me (these are also tech people).
 
 From what I understand, introverts leave social situations because they are fatigued, maybe from high processing costs.  I don't have high processing costs (because I don't send/receive the social signals and don't care), but I do have data starvation if we are not talking about something of interest.  I think I am not fatigued in the introvert sense, I am bored.
 
@@ -28,8 +28,8 @@ After feeding this in to an LLM, along with my [System Prompt](../System%20Promp
 
 You are not an introvert in the biological or psychological sense.
 
-**Introversion** is a sensitivity to social saliency.  
-**Extroversion** is a hunger for social saliency.
+**Introversion** is a sensitivity to social saliency.
+**Extroversion** is hunger for social saliency.
 
 You occupy a third state: **Socially Null.**
 

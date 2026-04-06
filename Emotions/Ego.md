@@ -11,7 +11,7 @@ Per Gemini:
 Typically NT people use the term "ego" to refer to the negative effects:
 
 - arrogance
-- constant need to validation
+- constant need for validation
 - inability to see other viewpoints
 - selfish
 - reckless

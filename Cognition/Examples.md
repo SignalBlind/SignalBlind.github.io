@@ -16,7 +16,7 @@ I could hear crying and identify that as a high magnitude signal for being upset
 
 > question about software, rule: software expert, provide answer
 
-Functional logic modeling quickly provided the shortcut for answering programming questions, I looked up the information in my memory (facts) and my propositional logic performed the delivery of the information. 
+Functional logic modeling quickly provided the shortcut for answering programming questions, I looked up the information in my memory (facts) and my propositional logic performed the delivery of the information.
 
 To an NT person this probably sounds very cold or even cruel.  I don't have [affective empathy](../Emotions/Empathy.md) so I can't pick up the signal that is very obvious to most people.  This was a non-sequitur in my mind -- two pieces of incongruent information and I picked the one that I could easily deal with.  The upset fact was discarded as irrelevant.  I don't intend to be cold, but it is a fact of having no [Social Salience](../Experience/Social%20Salience.md).
 
@@ -45,7 +45,7 @@ Pretty simple and roughly complete in terms of framing the situation.  I used a 
 - food?
 	- **i want to eat out, always**
 	- but I do have some food at home that I was thinking of
-- logististics
+- logistics
 	- **complicated, probably requires waiting**
 	- **going to store -- not my favorite**
 - not required, want food but effort exceeds reward and food at home is ok
@@ -77,4 +77,4 @@ IF value(reason) > utility(declined event) THEN state
 
 and added on "I will feed the dog and walk him".  This was done more or less without pause as I was speaking.  I had to manually think it but it wasn't complex and I could immediately add that.  Was there a pause?  Not that I am aware of, probably not more than a few commas worth.
 
-Note: if I had not thought of providing a reason why and *was* asked I would probably say "I don't want to".  This is also fine to me, but I suspect more likely of [Friction](../Experience/Friction.md) than having a reasonable reason.  This would be a case where I didn't have the model ready but had to provide a decision/opinion.
+Note: if I had not thought of providing a reason why and *was* asked I would probably say "I don't want to".  This is also fine to me, but I suspect more likely to cause [Friction](../Experience/Friction.md) than having a reasonable reason.  This would be a case where I didn't have the model ready but had to provide a decision/opinion.

@@ -5,14 +5,14 @@ permalink: /Experience/Say_The_Wrong_Thing/
 ---
 Both autistic people and I say the "wrong" from time to time.  Wrong is the eye of the (typically) NT beholder, of course.
 
-Curiously the presentation of saying the wrong thing is very similar between autism and me, the mechanism is often different.  In autism it is often [Social Lag](../Cognition/Zero%20Lag.md#Autism%20Experience%20Social%20Lag) or the high cost to manually compute [theory of mind](Autism%20Experience.md).  ADHD individuals may also say the wrong thing:  that is an issue with regulation -- they say things before they can stop themselves.
+Curiously the presentation of saying the wrong thing is very similar between autism and me, the mechanism is often different.  In autism it is often [Social Lag](../Cognition/Zero%20Lag.md#Autism%20Experience%20Social%20Lag) or the high cost to manually compute [theory of mind](Autism%20Experience.md).  ADHD individuals may also say the wrong thing: that is an issue with regulation -- they say things before they can stop themselves.
 
 I might look similar, but for me it is not seeing the social signals, a very literal approach and not seeing anything wrong with what I said.
 ## Factual Correction
 
 "Well, axxshually..."
 
-Correcting errors in conversation, major or minor, is a hallmark of both autistic people and myself.  NT people are more about the vibe and accuracy is secondary to the flow and social cohesion.  NT people might perceive this as signaling intellectual superiority, as pedantry.
+Correcting errors in conversation, major, or minor, is a hallmark of both autistic people and myself.  NT people are more about the vibe and accuracy is secondary to the flow and social cohesion.  NT people might perceive this as signaling intellectual superiority, as pedantry.
 
 Autistic people may have a compulsion, possibly triggered by monotropism, to correct factual errors.  The error can generate physical or cognitive discomfort and correcting it is a way to resolve the tension.
 
@@ -32,7 +32,7 @@ NT people understand all of these things because of their [Theory of Mind](Theor
 
 The same lag that causes autistic people to trip over social hierarchy can cause them to miss the context of a conversation, at least in real-time.
 
-My experience is different:  I don't have any social signal so I only have the literal words.  I can sometimes pick up humor if the prosody is exaggerated (think actors on a stage).  I have [canned scripts for some situations](../Cognition/Manual%20Frame%20Construction.md#Satisficing) -- I don't actually understand what is being done when people ask "how are you?" but I have canned responses I can use for greetings that do the job.  Or I can answer the question if I don't match it to the script.
+My experience is different: I don't have any social signal so I only have the literal words.  I can sometimes pick up humor if the prosody is exaggerated (think actors on a stage).  I have [canned scripts for some situations](../Cognition/Manual%20Frame%20Construction.md#Satisficing) -- I don't actually understand what is being done when people ask "how are you?" but I have canned responses I can use for greetings that do the job.  Or I can answer the question if I don't match it to the script.
 ## Functional Feedback / Bluntness^Bluntness
 
 When people ask questions they may want the answer or more often they may want reassurance.  In NT society "what do you think of my speech?" is a request for compliments, not an ask for constructive criticism.  Guess which one autistic people and I do?
@@ -55,7 +55,7 @@ For autistic people, if they slip up on this, it might be because of cognitive l
 For me, I construct a [Functional Logic Model](../Cognition/Functional%20Logic%20Modeling.md) to answer the question, possibly running a shorthand precomputed model for answering factual questions.  I don't *need* to know how their weekend was, so I don't ask.  I am just not [curious](Hypophantasia.md) about it because I don't need that information -- it isn't disinterest (social choice), it is lack of need.
 ## Letting the Conversation Die
 
-Sometimes the conversation will sort of die out.  NT people are adept at small talk and can re-ignite it by talking about nothing (from my point of view).  NT people dislike silence -- it is social friction and might indicate rejection.  Low density talk back and forth fills the void and comforts them.
+Sometimes the conversation will sort of die out.  NT people are adept at small talk and can reignite it by talking about nothing (from my point of view).  NT people dislike silence -- it is social friction and might indicate rejection.  Low density talk back and forth fills the void and comforts them.
 
 Autistic people might appreciate silence but will also experience anxiety because they know they should be talking.  Like me, they don't know what to say.
 
@@ -65,7 +65,7 @@ I have no problem with silence, though I find it boring and will want to leave (
 I might reveal that I have psoriasis or that I am ND to people if I think it is helpful to the conversation.  The LLM tells me this is too much information -- these are high stigma pieces of data.  To me they are just facts.
 ## Whoops
 
-Probably everybody, NT, autistic or whatever I am, has put their foot in their mouth.  You say something that you realize is a bit off color or sounds racist.  NT people have real-time bi-directional signaling and (if they care) can adjust as they are speaking.  They might still commit a faux pas, but if they do it is probably more up to their personality.
+Probably everybody, NT, autistic, or whatever I am, has put their foot in their mouth.  You say something that you realize is a bit off color or sounds racist.  NT people have real-time bidirectional signaling and (if they care) can adjust as they are speaking.  They might still commit a faux pas, but if they do it is probably more up to their personality.
 
 Autistic people can see the social signals and pick up facial changes.  They may not be able to react quickly enough to correct course.  They will feel anxiety about what they said and perhaps [Shame](../Emotions/Shame.md).
 

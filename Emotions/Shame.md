@@ -10,9 +10,9 @@ tags:
 
 "I am fundamentally flawed; I must hide myself."
 
-In NT people [shame](https://en.wikipedia.org/wiki/Shame) is a judgement of themselves, a feeling of "I am bad":
+In NT people [shame](https://en.wikipedia.org/wiki/Shame) is a judgment of themselves, a feeling of "I am bad":
 
-- you understand the judgement of your peers ([Social Salience](../Experience/Social%20Salience.md))
+- you understand the judgment of your peers ([Social Salience](../Experience/Social%20Salience.md))
 - you are able to model their internal disappointment or disgust ([Theory of Mind](../Experience/Theory%20of%20Mind.md))
 
 This is a painful feeling of humiliation.  You feel bad about yourself.  In NT people it provides a societal feeling or right and wrong and is the negative feedback used to steer people away from the wrong.

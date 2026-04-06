@@ -82,7 +82,7 @@ Tags: System Discovery, High Competence
 ## [Larry Niven](https://www.amazon.com/stores/Larry-Niven/author/B000APNCCI)
 Tags: System Discovery
 
-Fantastic sci-fi world builder.  
+Fantastic sci-fi world builder.
 
 *[Footfall](https://www.amazon.com/Footfall-Larry-Niven-ebook/dp/B01EKJ4PQ6)* - with Jerry Pournelle, an alien invasion novel.
 
@@ -125,7 +125,7 @@ Tags: Deduction, No Decorum
 
 Dashiell Hammett may have invented the hard boiled detective and the style of movies known as film noir, but I Raymond Chandler better.
 
-*Philip Marlowe* series - a wise cracking hard boiled detective in Los Angeles.  
+*Philip Marlowe* series - a wise cracking hard boiled detective in Los Angeles.
 ## [Nelson DeMille](https://www.amazon.com/stores/Nelson-DeMille/author/B000AQ2RZ0)
 Tags: Deduction, High Competence, No Decorum
 
@@ -191,4 +191,4 @@ Tags: Social Absurdity, High Competence
 
 A little different than the rest: this is manga, webcomic and anime.
 
-*[One Punch Man](https://www.amazon.com/One-Punch-Man/dp/B07JK95JJH)* series - the premise is absurd:  a superhero who is so powerful that he defeats every enemy in one punch.  He makes Superman look like he is made of tissue.  How could this possibly be good?  It doesn't make sense, but it is *very* good.  Saitama lives outside the rules societal structure.  Most of the plot is the other characters in the Hero Association and their often not-very-heroic deeds.  The reveals of Saitama's power are delicious.
+*[One Punch Man](https://www.amazon.com/One-Punch-Man/dp/B07JK95JJH)* series - the premise is absurd: a superhero who is so powerful that he defeats every enemy in one punch.  He makes Superman look like he is made of tissue.  How could this possibly be good?  It doesn't make sense, but it is *very* good.  Saitama lives outside the rules societal structure.  Most of the plot is the other characters in the Hero Association and their often not-very-heroic deeds.  The reveals of Saitama's power are delicious.

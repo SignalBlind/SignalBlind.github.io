@@ -4,7 +4,7 @@ layout: page
 title: Not Autism
 order: 510
 ---
-When I first met a therapist she asked me if I had ever been diagnosed with autism.  I hadn't and was a bit surprised that she would ask.  I wasn't offended but my ideas of autism didn't seem to match my own experience (to be fair, they didn't match autistic people's experience either).  It was actually a very good question and opened up the door to start understanding neurodivergence.
+When I first met a therapist she asked me if I had ever been diagnosed with autism.  I hadn't and was a bit surprised that she would ask.  I wasn't offended but my ideas of autism didn't seem to match my own experience (to be fair, they didn't match autistic people's experience either).  It was actually an excellent question and opened up the door to start understanding neurodivergence.
 
 I don't have autism but I do have [considerable overlap in some of my behaviors](../Books/Autism%20Couple's%20Workbook.md).  If it helps somebody understand me then autism is maybe a more familiar word, but it is the wrong word for me.
 
@@ -22,7 +22,7 @@ I hit pretty hard here.
 	- abnormal social approach (sometimes)
 	- failure to initiate or respond to social interactions (sometimes)
 - nonverbal communication
-	- lack of eye contact, gesture and prosody (some, especially the last)
+	- lack of eye contact, gesture, and prosody (some, especially the last)
 - developing/maintaining relationships
 	- adjusting behavior to suit social context (yes)
 	- absence of interest in peers (yes, but really social situations)
