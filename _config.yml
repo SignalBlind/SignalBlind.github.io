@@ -82,10 +82,10 @@ navigation:
     url: /
   - title: About Me
     url: /experience/
-  - title: Cognitive Architecture
-    url: /cognition/
   - title: Emotions
     url: /emotions/
+  - title: Cognitive Architecture
+    url: /cognition/
 
 # Footer navigation
 footer_navigation:

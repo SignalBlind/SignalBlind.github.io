@@ -2,7 +2,7 @@
 layout: page
 title: Recently Updated
 permalink: /recent/
-order: 52
+order: 5010
 description: Pages sorted by most recent updates
 ---
 

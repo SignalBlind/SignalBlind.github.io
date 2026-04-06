@@ -2,7 +2,7 @@
 layout: page
 title: Glossary
 permalink: /glossary/
-order: 50
+order: 5000
 description: Definitions of key terms used throughout this site
 ---
 

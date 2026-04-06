@@ -172,4 +172,4 @@ I think this engaged the automatic Simulation functions and he was faced with a 
 
 He participated in this TMS treatment for six months and the signal boosting effect was present during this time, but temporary overall.  He picked up permanent insight into social salience -- even after he could no longer perceive the signal he understood what it looked like.
 
-Not the same as my experience but I think this is the first description of [Hyposalience](../Other/Hyposalience.md) I have seen.
+Not the same as my experience but I think this is the first description of [Hyposalience](Hyposalience.md) I have seen.

@@ -2,7 +2,7 @@
 permalink: /Books/Favorite_Authors/
 layout: page
 title: Favorite Authors
-order: 810
+order: 2010
 ---
 Some of my favorite authors, their books and why I like them.  I read for pleasure.  See some miscellaneous [Other Books](Other%20Books.md).
 ## [Brandon Sanderson](https://www.amazon.com/stores/Brandon-Sanderson/author/B001IGFHW6)^BrandonSanderson
