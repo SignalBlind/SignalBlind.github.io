@@ -45,7 +45,7 @@ Looking back on this from [Stage 3](#Stage%203) I can see:
 	- **The [apologies](Apologies.md) were honest in intent but fraudulent in execution because they promised a capability that did not exist**
 - the pain my wife felt is probably greater than I can imagine
 	- I still don't understand what being NT is like but I see there is a *big* gap between what they expect and what I can do
-- other people were not just "making stuff up"
+- other people were not just "[making stuff up](Double%20Empathy.md#^Party)"
 	- well, kind of they were, but [Theory of Mind](Theory%20of%20Mind.md) -- it make sense
 
 I didn't know that then of course.
