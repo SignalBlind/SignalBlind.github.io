@@ -56,3 +56,20 @@ The mechanism is the same but my triggers are very restricted compared to NT peo
 The bigger the task, the harder it is, or the more complex the problem, the bigger the dopamine hit.
 
 I once debugged something over the course of six months or a year -- it was impossible to reproduce, but we saw strong evidence there was a problem.  I worked on it on and off over this time: whenever I had an idea I might spend a few hours or a day investigating.  This continued until I uncovered the missing link: a seldom used API that I hadn't been considering.  Suddenly I had a repro case.  I knew *where* the bug was, I knew roughly *what* the bug was.  It wasn't my code (organizationally very distant) but I had the key (100% repro case) to unlock everything.  We could fix it.  I felt a *huge* dopamine hit -- **I was shaking**.  Even though it was late at night I was so excited I texted my boss "I FOUND IT".  Not bragging or looking for praise, but *delivery* (or a proxy for it).  He knew what I was talking about.  It wasn't the end-end of the task, but it was the completion of the hard part -- the rest was just cleanup.
+
+## My Experience: Animal Videos
+
+I feel dopamine pleasure from watching animal videos.  Animals are pure -- they have no social signaling (at least that I know of) so we are on even footing.
+
+- kittens and puppies playing
+	- **[Kindchenschema](https://en.wikipedia.org/wiki/Cuteness)** -- this is the term for biological recognition of baby features, e.g. large eyes, small limbs, short tails
+	- literally "cuteness"
+- beavers working
+	- seeing animals executing a complex task is pleasant
+- capybaras
+- animal failures -- as long as there is no harm
+	- baby pandas falling over
+	- clumsy animals of all types
+	- incongruity of the situation
+
+I am not happy because the animals are happy, I recognize a cute creature doing its thing and enjoy it.  I have no shame.
