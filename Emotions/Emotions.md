@@ -69,3 +69,31 @@ Note: in NT people oxytocin (bonding/trust) can amplify the social signal.  Alth
 
 - [Mid-happy Default](Mid-happy%20Default.md)
 - [Loneliness](Loneliness.md)
+
+## Table
+
+LLM summary showing the NT experience vs My Experience.
+
+| Emotion                           | NT Experience                                                       | My Experience                                                                             |
+| :-------------------------------- | :------------------------------------------------------------------ | :---------------------------------------------------------------------------------------- |
+| [Anger](Anger.md)                 | "This is unfair; a boundary has been crossed; I must fight."        | "This is a violation of Ethics/Logic; the system is experiencing data corruption."        |
+| [Arrogance](Arrogance.md)         | "I am above others; their standards do not apply to me."            | "Status-blind factual output; bluntness perceived as a claim to dominance."               |
+| [Care](Care.md)                   | "I invest in you (proactive/preventative support)."                 | "Resource allocation to ensure Black Box stability; 'do no harm' ethical protocol."       |
+| [Comforting](Comforting.md)       | "I will co-regulate your distress via mirroring and presence."      | "Mechanical stabilization of a biological organism or technical troubleshooting."         |
+| [Compassion](Compassion.md)       | "I feel moved by you (reactive/reparative response to suffering)."  | "Functional Altruism; ad-hoc decision to resolve identified suboptimal states."           |
+| [Disgust](Disgust.md)             | "This is toxic; it will contaminate me; I must expel it."           | "High-magnitude logical flag for intentional malice or irreparable axiom violation."      |
+| [Dopamine](Dopamine.md)           | Reward/Drive for social bonding, status, and survival tasks.        | Reward for task completion, logical closure, and delivery of utility.                     |
+| [Ego](Ego.md)                     | Self-identity balancing desires and status; involves defensiveness. | Identity as a product of consistent logic; status-blindness; zero-lag correction.         |
+| [Embarrassment](Embarrassment.md) | "I have made a social slip; I am at risk of social exclusion."      | "Biological Threat Response (BTR) to sudden scrutiny or rule-violation detection."        |
+| [Empathy](Empathy.md)             | "I feel with you (Affective mirroring and perspective taking)."     | "Narrative Affective Resonance; logical simulation of loss within own system."            |
+| [Envy](Envy.md)                   | "You have what I deserve; your gain is my loss."                    | "Identification of functional inefficiency; desire for a high-utility tool or state."     |
+| [Fear](Fear.md)                   | "I am in danger; I am unprepared; I must escape."                   | "Functional Hazard Analysis; biological stress regarding resource/function loss."         |
+| [Guilt](Guilt.md)                 | "I have hurt the group; I am at risk of exclusion."                 | "Acknowledgement of rule violation; protocol to restore the original system state."       |
+| [Hate](Hate.md)                   | "You are a threat to my world; you should not exist."               | "High-intensity dislike; label for 'bad' actors; wish for cessation of unethical output." |
+| [Loneliness](Loneliness.md)       | "I am disconnected; I am hungry for belonging."                     | "Boredom due to low environmental complexity; a requirement for noise injection."         |
+| [Love](Love.md)                   | "Your well-being is as important as my own; shared 'we' identity."  | "Loyalty and resource-sharing with a high-familiarity system; stability provision."       |
+| [Pride](Pride.md)                 | "I am better than others; others see me as valuable."               | "Validation that output meets specifications; logical closure of a complex puzzle."       |
+| [Regret](Regret.md)               | "I knew better; I wish I could choose differently."                 | "Recognition of an inefficient outcome or Integrity Distress (standard failure)."         |
+| [Sadness](Sadness.md)             | "I have lost something precious; I need time to heal."              | "High-magnitude deletion event; permanent loss of unique value/data."                     |
+| [Shame](Shame.md)                 | "I am fundamentally flawed; I must hide myself."                    | "Zero-signal; replaced by factual audit and decision to address or ignore data."          |
+| [Sympathy](Sympathy.md)           | "I feel for you (pity/intellectual recognition of pain)."           | "Labeling an observed state of distress; bias toward noninterference or fixing."          |
