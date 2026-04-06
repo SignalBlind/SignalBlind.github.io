@@ -72,7 +72,7 @@ Note: in NT people oxytocin (bonding/trust) can amplify the social signal.  Alth
 
 ## Table
 
-LLM summary showing the NT experience vs My Experience.
+LLM summary showing the NT experience vs My Experience highlighting the [Semantic Divergence](Semantic%20Divergence.md).
 
 | Emotion                           | NT Experience                                                       | My Experience                                                                             |
 | :-------------------------------- | :------------------------------------------------------------------ | :---------------------------------------------------------------------------------------- |
