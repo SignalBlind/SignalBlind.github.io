@@ -48,6 +48,7 @@ In some cases I presented the LLM with my observations and asked it questions to
 I also used the LLM to review my writing and point out areas that were not clear.  In some cases I quoted excerpts from the LLM (say a sentence or a bullet point) ... without attribution.  Sorry!
 
 #### Is this all just made up?  An LLM fantasy?
+^False
 
 I hope not, but it is certainly a risk.  LLMs can be echo chambers and by default are yes-men:
 

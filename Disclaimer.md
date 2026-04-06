@@ -58,6 +58,18 @@ I know that the usual style for writing is "person who is tall", but I am going 
 - I think the prose is easier to read
 
 If I have that wrong please let me know!
+## Could This Be Entirely False?
+
+Yes, possibly.  See also [FAQ](FAQ.md#^False).  I don't think it is, but skepticism is good.
+
+- I haven't been diagnosed with anything, in fact I thought [Everybody is the Same](Experience/Everybody%20is%20the%20Same.md)
+- I have no background or expertise in anything related to the mind.  or humans
+	- I am a programmer
+- I am reading things online, in books and using an LLM to explore
+
+About all I can say is that my observations about myself are truthful as far as I can perceive -- I might be mistaken, but when I find inconsistencies I figure them out.
+
+If I find out there are errors I will correct them, up to and including rewriting all of my notes.
 ## Writing Style and Formatting
 
 ### 1. Delivery Modes: Stories vs. Facts
