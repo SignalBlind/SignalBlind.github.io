@@ -122,8 +122,8 @@
                 }
             });
 
-            // Sort matches by position (earliest first)
-            allMatches.sort((a, b) => a.index - b.index);
+            // Sort matches by position (earliest first), then longest first for ties
+            allMatches.sort((a, b) => a.index - b.index || b.length - a.length);
 
             // Process matches in order, skipping duplicates of same glossary item
             let modified = false;
@@ -133,6 +133,9 @@
             allMatches.forEach(match => {
                 // Skip if we've already linked this glossary entry
                 if (linkedTerms.has(match.glossaryItem.term)) return;
+
+                // Skip if this match overlaps with a previously processed match
+                if (match.index < lastIndex) return;
 
                 // Add text before match
                 if (match.index > lastIndex) {

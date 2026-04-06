@@ -12,6 +12,7 @@ kramdown:
   toc_levels: 1..3
 
 # Exclude from processing
+# Note: tags not used right now so exclude
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -24,6 +25,7 @@ exclude:
   - LICENSE
   - tools
   - JEKYLL.md
+  - tags/
 
 # Plugins
 plugins:
@@ -67,6 +69,13 @@ exclude_from_print:
   - /robots.txt
   - /search-data.json
 
+# Pages to exclude from sidebar navigation
+exclude_from_nav:
+  - /feed.xml
+  - /assets/
+  - /robots.txt
+  - /search-data.json
+
 # Navigation
 navigation:
   - title: Home
@@ -75,6 +84,8 @@ navigation:
     url: /experience/
   - title: Cognitive Architecture
     url: /cognition/
+  - title: Emotions
+    url: /emotions/
 
 # Footer navigation
 footer_navigation:

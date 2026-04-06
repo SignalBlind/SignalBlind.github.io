@@ -9,8 +9,11 @@ module Jekyll
       categories = {}
       top_level = []
 
+      nav_excludes = site.config["exclude_from_nav"] || []
+
       site.pages.each do |page|
         next if page.data["navigation"] == false
+        next if nav_excludes.any? { |pattern| page.url == pattern || page.url.start_with?(pattern) }
 
         category = effective_category(page)
         display_title = resolve_title(page)

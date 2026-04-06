@@ -21,6 +21,11 @@
     by challenges with social skills, repetitive behaviors, and communication differences.
     [Wikipedia](https://en.wikipedia.org/wiki/Autism)
 
+- term: Autism Experience
+  full: Autism Experience
+  definition: How I believe autistic people experience this, in general.  Developed
+    by reading and using an LLM. [Disclaimer](/Disclaimer.html#Experience)
+
 - term: Black Box
   alternates:
   - Black Boxes
@@ -44,6 +49,7 @@
   alternates:
   - Imagined speech
   - Inner speech
+  full: Endophasia
   definition: Thinking in the form of sound -- hearing your own voice silently to
     oneself. [Wikipedia](https://en.wikipedia.org/wiki/Imagined_speech)
 
@@ -60,6 +66,7 @@
   alternates:
   - Large Language Model
   - LLMs
+  full: Large Language Model
   definition: A large language model such as ChatGPT or Gemini.  These are AI models
     trained on a huge amount of human writing.  They can't think but they do a good
     job with pattern matching and (I found) describing NT behavior and thought patterns.
@@ -68,22 +75,35 @@
   definition: A cognitive style characterized by an intense, narrow focus on a limited
     number of interests or tasks, often known as hyperfocus.  [Wikipedia](https://en.wikipedia.org/wiki/Monotropism)
 
+- term: My Experience
+  full: My Experience
+  definition: How I observe own experience though inputs, outputs and self-introspection
+    on the mechanism.  Often in contrast to NT Experience and Autism Experience
+
 - term: ND
   alternates:
   - Neurodivergent
+  full: Neurodivergent
   definition: Neurodivergent.  Differing in mental or neurological function from what
     is considered typical or normal.
 
 - term: NT
   alternates:
   - Neurotypical
+  full: Neurotypical
   definition: Brain development, processing, and behaviors that fall within the expected,
     societal, or "typical" range.
+
+- term: NT Experience
+  full: Neurotypical Experience
+  definition: How I believe neurotypical people experience this, in general.  Developed
+    by reading and using an LLM. [Disclaimer](/Disclaimer.html#Experience)
 
 - term: Phatic speech
   alternates:
   - Phatic questions
   - Phatic expression
+  full: Phatic speech
   definition: Conversational exchanges that function as social glue rather than for
     sharing information, such as greetings, weather comments, and small talk.  [Wikipedia](https://en.wikipedia.org/wiki/Phatic_expression)
 
@@ -115,6 +135,7 @@
   alternates:
   - SCD
   - Social (Pragmatic) Communication Disorder
+  full: Social (Pragmatic) Communication Disorder
   definition: A neurodevelopmental condition marked by persistent difficulties using
     verbal and nonverbal language for social purposes, such as conversation, social
     rules, and adapting communication to different contexts, without the restricted/repetitive
@@ -124,12 +145,14 @@
   alternates:
   - Social Saliency
   - Salience Network
+  full: Social Salience
   definition: I am really referring to the Salience Network -- a low level part of
     the brain that processes social signals and gives importance to the same. [Wikipedia](https://en.wikipedia.org/wiki/Salience_network)
 
 - term: Theory of Mind
   alternates:
   - ToM
+  full: Theory of Mind
   definition: the cognitive ability to understand that others have (and _what they
     are_) their own unique beliefs, desires, intentions, and perspectives, which may
     differ from one's own. [Wikipedia](https://en.wikipedia.org/wiki/Theory_of_mind)

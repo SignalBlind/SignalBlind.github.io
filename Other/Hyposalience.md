@@ -8,7 +8,11 @@ Hyposalience is having [Social Salience](../Experience/Social%20Salience.md) wit
 
 ## Diagnostic Questions
 
-**Not for actual diagnostic use!**  I was wondering how a person might be able to tell if they have hyposalience vs no salience.  I describe [why I think I have no social salience](../Experience/My%20Experience.md#Why%20No%20Social%20Salience).  I asked an LLM to generate questions that might be able to tell the difference between these two conditions.
+<div class="callout-warning" markdown="1">
+**Not for actual diagnostic use!**
+</div>
+
+I was wondering how a person might be able to tell if they have hyposalience vs no salience.  I describe [why I think I have no social salience](../Experience/My%20Experience.md#Why%20No%20Social%20Salience).  I asked an LLM to generate questions that might be able to tell the difference between these two conditions.
 
 Again, this is just for fun.
 

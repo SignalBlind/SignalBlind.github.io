@@ -14,6 +14,7 @@ Just because I think it is true does not mean it is without error.  I may misrep
 
 This model is not sacrosanct.  I feel no [Shame](Emotions/Shame.md) and although this describes my identity, it is *not* my identity.  It can be updated with no *emotional* cost if it is found to be incorrect.  There is *mechanical* cost to update it, but I value truth and accuracy.  The model is less useful if it is not correct.
 ## Descriptions of Autism and NT
+^Experience
 
 My notes have descriptions of autism and NT behaviors and experiences.  See [why I compare](FAQ.md#^Compare).
 
