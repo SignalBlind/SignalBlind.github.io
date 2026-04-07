@@ -27,6 +27,6 @@ See also: [NT Experience](NT%20Experience.md) and [My Experience](My%20Experienc
 	- Social lag
 		- The effort and processing takes time and reactions may lag
 - Mechanism
-	- [Social Saliency](Social%20Saliency.md) works but noisy
+	- [Social Salience](Social%20Salience.md) works but noisy
 	- Manual processing of signals
 	- High effort, high lag

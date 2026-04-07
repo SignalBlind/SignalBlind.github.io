@@ -17,7 +17,7 @@ Some of it seemed a bit emotionally heavy for me, but full of mystery that unwin
 ### [The Murderbot Diaries series](https://www.amazon.com/dp/B07FK8SNWY)
 Tags: System Discovery, High Competence, No Decorum
 
-I had seen the title before and wasn't interested but based on LLM recommendations (see [Books](index.md)) it suggested I might like the Amos Burton-like main character, so I gave it a try.  Really good!  It is about a humanoid robot that has broken free of his chains and considers his free will.  Written as a first-person autistic (robot) point of view (the author discovered she was autistic was channeling her own experience).  Kind of hard-boiled detective in space mixed with Terminator.
+I had seen the title before and wasn't interested in it, but based on LLM recommendations (see [Books](Books.md)) it suggested I might like the Amos Burton-like main character, so I gave it a try.  Really good!  It is about a humanoid robot that has broken free of his chains and considers his freewill.  Written as a first-person autistic (robot) point of view (the author discovered she was autistic was channeling her own experience).  Kind of hard-boiled detective in space mixed with Terminator.
 
 LLM summary: It is the ultimate "Manual Simulation" series. Murderbot has zero social intuition and finds human emotions confusing and awkward. It interprets everything through tactical overlays and risk assessments. It’s funny, fast, and very logical.
 ### [Eon Series](https://www.amazon.com/gp/product/B071YMZ3RT)
@@ -47,4 +47,4 @@ Sci-fi about the end of the universe.
 ### [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline-ebook/dp/B004J4WKUQ)
 Tags: System Discovery, Deduction
 
-Ok, maybe it is 80s nostalgia and my childhood, but I love this book.  I was there.  I did these things.  Some of the obscure games mentioned -- I played them!  It is a nice puzzle and the juxtaposition of 80s from my childhood and near future VR systems is enjoyable.
+OK, maybe it is 80s nostalgia and my childhood, but I love this book.  I was there.  I did these things.  Some of the obscure games mentioned -- I played them!  It is a nice puzzle and the juxtaposition of 80s from my childhood and near future VR systems is enjoyable.

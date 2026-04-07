@@ -24,7 +24,7 @@ James Fallon talks about his "lack of care" for people and failure to reach out 
 
 > occasionally do things to suggest I don’t really care about other people. Consider the words and phrases they used to describe me: “manipulative,” “charming but devious,” “an intellectual bully,” “untrustworthy when it comes down to you or me,” “narcissistic,” “superficial,” “unreliable when you’re needed,”
 
-It am the polar opposite -- although we have congruent "care" **behaviors** our actions and descriptions of character are very far apart.  Mine is from lack of [Social Saliency](Social%20Saliency.md) while Fallon's are from using high saliency and a different drive to manipulate people into liking him and doing things for him (or something like that).
+I am the polar opposite -- although we have congruent "care" **behaviors** our actions and descriptions of character are very far apart.  Mine is from lack of [Social Salience](../Experience/Social%20Salience.md) while Fallon's are from using high saliency and a different drive to manipulate people into liking him and doing things for him (or something like that).
 
 Additionally:
 
