@@ -5,7 +5,7 @@ title: Favorite Authors
 order: 2010
 ---
 Some of my favorite authors, their books and why I like them.  I read for pleasure.  See some miscellaneous [Other Books](Other%20Books.md).
-## [Brandon Sanderson](https://www.amazon.com/stores/Brandon-Sanderson/author/B001IGFHW6)^BrandonSanderson
+## [Brandon Sanderson](https://www.amazon.com/stores/Brandon-Sanderson/author/B001IGFHW6) ^BrandonSanderson
 Tags: System Discovery, High Competence
 
 I think my favorite author.  I like all of his books.  They tend toward fantasy and have intricate world building and magic systems.  His characters are amazing and some of the scenes in the book read like the opening of Star Wars -- mind blowing.

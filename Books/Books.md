@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books
-permalink: /books/
+permalink: /Books/
 order: 2000
 ---
 See [Favorite Authors](Favorite%20Authors.md) for authors and books.  This is what I came up with using my manually constructed list and an LLM to analyze it.
