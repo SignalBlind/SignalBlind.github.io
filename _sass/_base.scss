@@ -78,7 +78,9 @@ pre {
     background-color: #f4f4f4;
     padding: 1em;
     border-radius: 5px;
-    overflow-x: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
     margin-bottom: 1em;
 }
 
