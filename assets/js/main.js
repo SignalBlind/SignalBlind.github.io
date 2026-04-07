@@ -170,11 +170,30 @@ function initSidebarToggle() {
     });
 }
 
+// Add anchor links to headings and other elements with IDs
+function addHeadingAnchors() {
+    const content = document.querySelector('.content');
+    if (!content) return;
+
+    content.querySelectorAll('[id]').forEach(function(el) {
+        // Only add to headings
+        if (!/^H[1-6]$/.test(el.tagName)) return;
+
+        const anchor = document.createElement('a');
+        anchor.className = 'heading-anchor';
+        anchor.href = '#' + el.id;
+        anchor.textContent = '#';
+        anchor.setAttribute('aria-label', 'Link to this section');
+        el.prepend(anchor);
+    });
+}
+
 // Initialize everything when DOM is ready
 document.addEventListener('DOMContentLoaded', function() {
     generateTOC();
     initTocPanel();
     initSidebarToggle();
+    addHeadingAnchors();
 
     // Auto-expand category if current page is in it
     const activeLink = document.querySelector('.category-children a.active');

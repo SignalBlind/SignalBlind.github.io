@@ -81,6 +81,33 @@
         .page-content {
             margin-bottom: 3em;
         }
+        /* Anchor links on headings */
+        h1, h2, h3, h4, h5, h6 {
+            position: relative;
+        }
+        .heading-anchor {
+            position: absolute;
+            left: -1.2em;
+            top: 0;
+            color: #ccc;
+            text-decoration: none;
+            font-weight: 400;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+        }
+        .heading-anchor::after {
+            content: none !important;
+            display: none !important;
+        }
+        h1:hover .heading-anchor,
+        h2:hover .heading-anchor,
+        h3:hover .heading-anchor,
+        h4:hover .heading-anchor {
+            opacity: 1;
+        }
+        .heading-anchor:hover {
+            color: #3498db;
+        }
         @media print {
             body { padding: 0; }
             .page-content { page-break-inside: avoid; }
@@ -232,6 +259,21 @@
         } else {
             link.setAttribute('href', '#' + targetId);
         }
+    });
+})();
+</script>
+
+<script>
+// Add anchor links to headings in print export
+(function() {
+    document.querySelectorAll('.page-content [id]').forEach(function(el) {
+        if (!/^H[1-6]$/.test(el.tagName)) return;
+        var anchor = document.createElement('a');
+        anchor.className = 'heading-anchor';
+        anchor.href = '#' + el.id;
+        anchor.textContent = '#';
+        anchor.setAttribute('aria-label', 'Link to this section');
+        el.prepend(anchor);
     });
 })();
 </script>
