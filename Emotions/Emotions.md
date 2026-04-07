@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Emotions
-permalink: /emotions/
+permalink: /Emotions/
 order: 600
 description: Exploring emotions in the context of signal blindness
 tags:

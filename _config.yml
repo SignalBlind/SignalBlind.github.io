@@ -4,6 +4,8 @@ description: My experience as a signal blind person -- I do not have any social 
 baseurl: ""
 url: "https://signalblind.github.io"
 
+permalink: pretty
+
 # Build settings
 markdown: kramdown
 kramdown:

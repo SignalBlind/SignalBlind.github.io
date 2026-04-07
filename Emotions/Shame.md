@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shame
-permalink: /emotions/shame/
+permalink: /Emotions/Shame/
 description: Understanding shame in the context of signal blindness
 tags:
   - emotions
