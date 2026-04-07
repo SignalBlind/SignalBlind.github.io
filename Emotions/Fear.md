@@ -83,7 +83,7 @@ It triggers some kind of safety protocol in me:
 
 The dog is upset when we drop him off and happy to see us when we return.  He is unharmed and in good shape.  While we are traveling I sometimes think about him and hope he is doing well, but it is not something that I dwell on.
 
-The LLM suggested this mitigation (which I find hilarious in phrasing):
+The LLM suggested this [mitigation](../Experience/Mitigation.md) (which I find hilarious in phrasing):
 
 >**Logic Override:** Remind the system (that is me) that the "Neighbor System" has successfully processed the "Dog Node" in the past with a 0% failure rate. Use the historical data to suppress the real-time alarm.
 

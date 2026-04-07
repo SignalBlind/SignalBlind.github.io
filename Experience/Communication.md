@@ -18,4 +18,6 @@ Communication at work (software job) was largely literal and [logical](../Cognit
 
 At home, with my wife, [Emotions](../Emotions/Emotions.md) were more likely part of the discussion.  I think differently (no [Social Salience](Social%20Salience.md), no [Theory of Mind](Theory%20of%20Mind.md)) and [Say The Wrong Thing](Say%20The%20Wrong%20Thing.md).  I even have [different meanings](../Emotions/Semantic%20Divergence.md) for emotion words and didn't know it.  I had no [Empathy](../Emotions/Empathy.md) and [Flat Affect](Flat%20Affect.md) -- emotional conversations were ... not great.
 
+Additionally, NT people experience [Double Empathy](Double%20Empathy.md) with me, though I don't experience it with them.  In fact I completely miss this nonverbal part -- **signal blind**.
+
 What works great in the office doesn't always work the same way in the home.  Now that I understand more about what is going on with NT emotional signaling I can see there is a big gap in some conversations.  From what I read, these high emotion conversations aren't easy for NT people and I am flying blind.

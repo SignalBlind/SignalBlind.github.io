@@ -11,7 +11,7 @@ Note that I work in software development, which is *highly* aligned with my [Fun
 
 I have read about and heard from friends with ADHD that there is some benefit to their condition *in the software industry*.  Outside of that field, I am not sure.  There are certainly stressful and tiring parts of autism and ADHD.  Of course individual experiences vary.  These are things that I have heard of that _are sometimes a benefit_ (paraphrased from an LLM):
 
-- **hyperfocus:**  might spend ten hours in a "flow state," solving a complex architectural bug that others couldn't crack. The trade-off is often physical exhaustion, forgetting to eat, or "autistic burnout" afterward.
+- **hyperfocus:** might spend ten hours in a "flow state," solving a complex architectural bug that others couldn't crack. The trade-off is often physical exhaustion, forgetting to eat, or "autistic burnout" afterward.
 - **pattern recognition:** many autistic individuals excel at seeing systemic connections or edge cases in code that others miss -- this is the key to debugging as well.
 - **deep interest:** when a job aligns with a "special interest," the level of dedication and knowledge acquisition can be far beyond average.
 - **literal communication:** many ND people prefer direct, honest, and transparent information exchange. This can lead to incredibly efficient collaboration because there is less "reading between the lines."
@@ -33,6 +33,7 @@ Where else do I benefit?
 	- I am [Mid-happy Default](../Emotions/Mid-happy%20Default.md)
 	- I am reliable in a crisis -- P0 tickets, no worry!
 	- cognitive efficiency
+	- patient
 - **Self Esteem:** my sense of self worth is entirely internal and stable
 	- I have no [Shame](../Emotions/Shame.md)
 	- I want the [Truth and Facts](../Cognition/Truth%20and%20Facts.md)
