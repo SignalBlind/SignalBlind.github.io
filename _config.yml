@@ -83,11 +83,11 @@ navigation:
   - title: Home
     url: /
   - title: About Me
-    url: /experience/
+    url: /Experience/
   - title: Emotions
-    url: /emotions/
+    url: /Emotions/
   - title: Cognitive Architecture
-    url: /cognition/
+    url: /Cognition/
 
 # Footer navigation
 footer_navigation:
