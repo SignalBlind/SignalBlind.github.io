@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Functional Logic Modeling
-permalink: /cognition/Functional_Logic_Modeling/
+permalink: /Cognition/Functional_Logic_Modeling/
 order: 1130
 ---
 Time for a plan.

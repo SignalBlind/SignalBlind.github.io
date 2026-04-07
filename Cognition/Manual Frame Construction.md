@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Manual Frame Construction
-permalink: /cognition/Manual_Frame_Construction/
+permalink: /Cognition/Manual_Frame_Construction/
 order: 1120
 ---
 From software: requirements gathering.

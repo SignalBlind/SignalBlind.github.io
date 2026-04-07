@@ -1,5 +1,5 @@
 ---
-permalink: /cognition/
+permalink: /Cognition/
 layout: page
 title: Functional Cognitive Architecture
 order: 1100

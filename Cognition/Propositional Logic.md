@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Propositional Logic
-permalink: /cognition/Propositional_Logic/
+permalink: /Cognition/Propositional_Logic/
 order: 1110
 ---
 [Propositional logic](https://en.wikipedia.org/wiki/Propositional_logic) is a type of logic that looks like mathematical expressions.  If you are familiar with programming, it is boolean logic and boolean algebra.
