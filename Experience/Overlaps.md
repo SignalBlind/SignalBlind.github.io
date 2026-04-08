@@ -8,7 +8,7 @@ How would I be characterized?  Neurodivergent, but how?  See my [History](Histor
 
 This was the first condition suggested but I discovered my condition is [Not Autism](Not%20Autism.md).  For lack of a better term I did describe my ND as "autism adjacent" for several months before I found the mechanism -- it described many of the outward effects.
 
-# Social (Pragmatic) Communication Disorder ^SCD
+## Social (Pragmatic) Communication Disorder ^SCD
 
 This is pretty close on one point:
 

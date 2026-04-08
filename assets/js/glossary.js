@@ -30,14 +30,23 @@
 
     function markdownToHtml(text) {
         // Convert basic markdown formatting to HTML
-        // Links: [text](url) - make clickable in tooltip
-        text = text.replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2" class="glossary-tooltip-link" style="display:inline;margin:0;font-size:inherit;">$1</a>');
+        // Extract links first to protect URLs from italic/bold processing
+        var links = [];
+        text = text.replace(/\[([^\]]+)\]\(((?:[^()]*|\([^()]*\))*)\)/g, function(match, linkText, url) {
+            var placeholder = '\x00LINK' + links.length + '\x00';
+            links.push('<a href="' + url + '" class="glossary-tooltip-link" style="display:inline;margin:0;font-size:inherit;">' + linkText + '</a>');
+            return placeholder;
+        });
         // Bold: **text** or __text__
         text = text.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
         text = text.replace(/__(.+?)__/g, '<strong>$1</strong>');
         // Italic: *text* or _text_
         text = text.replace(/\*(.+?)\*/g, '<em>$1</em>');
         text = text.replace(/_(.+?)_/g, '<em>$1</em>');
+        // Restore links
+        links.forEach(function(link, i) {
+            text = text.replace('\x00LINK' + i + '\x00', link);
+        });
         return text;
     }
 
