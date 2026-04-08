@@ -1,5 +1,6 @@
 - term: A-Salience
   full: Lack of Social Salience
+  page: /Experience/Pure_A-salience/
   definition: The _experience_ of not being noticed or remembered in social contexts.
     People who are a-salient may be overlooked in groups, forgotten after interactions,
     or find their contributions attributed to others.
@@ -9,6 +10,7 @@
     absorbed in their mental imagery, particularly fantasy.  [Wikipedia](https://en.wikipedia.org/wiki/Absorption_(psychology))
 
 - term: Alexithymia
+  page: /Experience/Alexithymia/
   definition: Emotional blindness, a phenomenon characterized by difficulties processing
     or describing one's emotions. [Wikipedia](https://en.wikipedia.org/wiki/Alexithymia)
 
@@ -23,16 +25,19 @@
 
 - term: Autism Experience
   full: Autism Experience
+  page: /Experience/Autism_Experience/
   definition: How I believe autistic people experience this, in general.  Developed
     by reading and using an LLM. [Disclaimer](/Disclaimer.html#Experience)
 
 - term: Black Box
   alternates:
   - Black Boxes
+  page: /Experience/Black_Box/
   definition: A system where you can observe inputs and outputs without knowing the
     internal function or state. [Wikipedia](https://en.wikipedia.org/wiki/Black_box)
 
 - term: Double Empathy
+  page: /Experience/Double_Empathy/
   definition: This theory proposes that many of the difficulties autistic individuals
     face when socializing with non-autistic individuals are due, in part, to mismatch
     and a lack of mutual understanding between the two groups, meaning that most autistic
@@ -54,11 +59,13 @@
     oneself. [Wikipedia](https://en.wikipedia.org/wiki/Imagined_speech)
 
 - term: Flat Affect
+  page: /Experience/Flat_Affect/
   definition: The near or total absence of outward emotional expression, characterized
     by a monotone voice, immobile face, and reduced body language, often mistaken
     for apathy.
 
 - term: Hypophantasia
+  page: /Experience/Hypophantasia/
   definition: A cognitive condition characterized by very low, faint, or unstable
     visual mental imagery.
 
@@ -77,6 +84,7 @@
 
 - term: My Experience
   full: My Experience
+  page: /Experience/
   definition: How I observe own experience though inputs, outputs and self-introspection
     on the mechanism.  Often in contrast to NT Experience and Autism Experience
 
@@ -96,6 +104,7 @@
 
 - term: NT Experience
   full: Neurotypical Experience
+  page: /Experience/NT_Experience/
   definition: How I believe neurotypical people experience this, in general.  Developed
     by reading and using an LLM. [Disclaimer](/Disclaimer.html#Experience)
 
@@ -144,6 +153,7 @@
   - Social Saliency
   - Salience Network
   full: Social Salience
+  page: /Experience/Social_Salience/
   definition: I am really referring to the Salience Network -- a low level part of
     the brain that processes social signals and gives importance to the same. [Wikipedia](https://en.wikipedia.org/wiki/Salience_network)
 
@@ -151,6 +161,7 @@
   alternates:
   - ToM
   full: Theory of Mind
+  page: /Experience/Theory_of_Mind/
   definition: the cognitive ability to understand that others have (and _what they
     are_) their own unique beliefs, desires, intentions, and perspectives, which may
     differ from one's own. [Wikipedia](https://en.wikipedia.org/wiki/Theory_of_mind)

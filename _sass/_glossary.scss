@@ -33,7 +33,11 @@
     border-bottom-color: var(--link-hover);
 }
 
-/* Tooltip */
+/* Glossary-annotated links (existing <a> tags with tooltips) */
+a.glossary-annotated {
+    border-bottom: 1px dotted var(--link-color);
+    cursor: help;
+}
 .glossary-tooltip {
     visibility: hidden;
     opacity: 0;
@@ -74,6 +78,20 @@
     visibility: visible;
     opacity: 1;
     pointer-events: auto;
+}
+
+/* Tooltip link */
+.glossary-tooltip-link {
+    display: block;
+    margin-top: 0.5em;
+    color: white;
+    text-decoration: underline;
+    font-size: 0.8rem;
+    opacity: 0.85;
+
+    &:hover {
+        opacity: 1;
+    }
 }
 
 /* Adjust tooltip position if near edges */

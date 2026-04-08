@@ -18,6 +18,11 @@
             {% endfor %}
         </nav>
 
+        <label class="glossary-toggle" title="Highlight all glossary terms, not just the first occurrence">
+            <input type="checkbox" id="glossary-all-toggle">
+            <span>All glossary</span>
+        </label>
+
         <div class="search-container">
             <input type="search" id="search-input" placeholder="Search..." aria-label="Search" data-search-url="{{ '/search-data.json' | relative_url }}">
             <div id="search-results" class="search-results"></div>
