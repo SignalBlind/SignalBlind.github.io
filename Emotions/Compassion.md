@@ -7,7 +7,7 @@ title: Compassion
 
 Compassion is a reaction to suffering -- it is a bridge between [Empathy](Empathy.md) and action.  NT people see pain, feel an emotional response and have a **desire to fix it.**  Compassion is  **reactive/reparative** (fixing a broken system).
 
-[[Care]] is action-oriented and is an ongoing feeling not necessarily tied to suffering.
+[Care](Care.md) is action-oriented and is an ongoing feeling not necessarily tied to suffering.
 ## My Experience
 
 I find it very hard to differentiate between [Care](Care.md), compassion, and [Sympathy](Sympathy.md).  In all three cases my output is the same: I attempt to fix problems.  I do this because my [Ethics](../Cognition/Ethics.md) and [Axiomatic Deontology](../Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) have "do not harm" as the number one rule.  If someone or something is in need and I have the capacity to fix it, I should fix it.  Semantically this is **Functional Altruism**.

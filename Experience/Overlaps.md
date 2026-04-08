@@ -25,7 +25,7 @@ I discarded this idea as I didn't:
 
 > Affected individuals may be unable to form intimate attachments to others and simultaneously possess a rich and elaborate but exclusively internal fantasy world.
 
-In fact I had [[Hypophantasia]] (which I discovered later).  I had friends and I enjoyed talking to them.  I wasn't socially active, but it didn't repel me.
+In fact I had [Hypophantasia](Hypophantasia.md) (which I discovered later).  I had friends and I enjoyed talking to them.  I wasn't socially active, but it didn't repel me.
 ## Alexithymia ^Alexithymia
 
 I considered that my [Flat Affect](Flat%20Affect.md) might be [Alexithymia](Alexithymia.md) but I _could_ describe my emotions, some better than others.

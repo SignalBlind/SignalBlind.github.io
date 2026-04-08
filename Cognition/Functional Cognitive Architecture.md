@@ -111,7 +111,7 @@ If we put those pieces together
 1. **Sensing Hardware** (turned off): [Pure A-salience](../Experience/Pure%20A-salience.md) / no [Social Salience](../Experience/Social%20Salience.md) / [Hypophantasia](../Experience/Hypophantasia.md)
 2. **Low Level CPU / ISA** (hardware): [Propositional Logic](Propositional%20Logic.md)
 3. **Ethics, rules, policy** (software): [Axiomatic Deontology](Ethical%20Systems.md#Axiomatic%20Deontology) / [Ethics](Ethics.md)
-4. **Initialization** (software): [[Manual Frame Construction]]
+4. **Initialization** (software): [Manual Frame Construction](Manual%20Frame%20Construction.md)
 5. **Database & Model** (software): [Functional Logic Modeling](Functional%20Logic%20Modeling.md)
 6. **Execution** (software): [Propositional Logic](Propositional%20Logic.md) -- this is where I live
 

@@ -145,7 +145,7 @@ Here I am giving negatives (see [Autism Experience](Experience/Autism%20Experien
 
 Information given in the prompt is often treated as _fact_ by the LLM, but sometimes I want to propose an idea and get feedback on it -- I want to break the echo chamber loop.  I tried a variety of ways to do this and I think the manual tagging method is best.
 
-I can add `[AXIOM]` when I am giving it something I want to treat as fact and `[[HYPOTHESIS]` when I want it to look at it critically.  This will also trigger the LLM to ask counter-factual questions to help me consider the idea more carefully.
+I can add `[AXIOM]` when I am giving it something I want to treat as fact and `[HYPOTHESIS]` when I want it to look at it critically.  This will also trigger the LLM to ask counter-factual questions to help me consider the idea more carefully.
 
 ```
 # Communication Protocol: Signal Tagging & Response Triggers
