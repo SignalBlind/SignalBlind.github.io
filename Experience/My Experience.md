@@ -34,6 +34,8 @@ You can read about my [emotions](../Emotions/Emotions.md) but you might not perc
 
 Despite all of these differences from the norm, I have [Zero Lag](../Cognition/Zero%20Lag.md), low [Friction](Friction.md) (personally), and experience some [Benefits](Benefits.md) from the way my mind works.
 
+Does it sound like your own experience?  I think these are discriminating questions: [Checklist](Checklist.md).
+
 The TLDR is: I don't receive any social signals.  I don't know what other people are feeling or thinking.  I don't know about social positioning.  On top of not knowing, I also don't *care*.  Not in a negative way, more like asking somebody how they feel about radio waves.
 ## What Friction Do You Experience? ^Friction
 

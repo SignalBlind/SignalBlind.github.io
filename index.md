@@ -4,6 +4,9 @@ title: Welcome to Signal Blind
 permalink: /
 order: 1
 ---
+<div class="callout-note" markdown="1">
+The "signal blind" mental architecture is not defined by struggle with social signals, but by the absence of them. I do not experience social anxiety, sensory overload, or the "social burnout" common in autism. Where others describe a "painful gap" between themselves and society, I perceive a neutral data field. My logic is not a compensatory tool for a broken social sense; it is the primary and only mode of operation.
+</div>
 ## About Me
 
 This site documents a specific cognitive architecture: **Total Social Signal Blindness.** It is the functional map of my own cognitive architecture.  I discovered late in life that I might be neurodivergent and this is what I discovered.
@@ -52,6 +55,8 @@ Sadly my quest failed.  [Where Are My People?](Experience/Where%20Are%20My%20Peo
 - I suspect there are many "Stealth ND" individuals in technical fields.
 
 My hope is that someone like me will find this and recognize their own architecture.
+
+Does this sound familiar?  I have a [Checklist](Experience/Checklist.md) if you want to see what I think might be discriminating factors.
 
 ## Data Reliability and Provenance
 

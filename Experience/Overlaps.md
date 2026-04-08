@@ -45,3 +45,6 @@ Some more overlap in the social behaviors, but not me.
 # So What Is It?
 
 No [Social Salience](Social%20Salience.md).
+
+Does it sound like your own experience?  I think these are discriminating questions: [Checklist](Checklist.md).
+
