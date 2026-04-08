@@ -3,7 +3,7 @@ permalink: /Experience/Double_Empathy/
 layout: page
 title: Double Empathy
 ---
-[Double empathy](https://en.wikipedia.org/wiki/Double_empathy_problem) is a term coined in 2012 by Damian Milton to describe the difficulty in communication between NT people and autistic people.
+Double empathy is a term coined in 2012 by Damian Milton to describe the difficulty in communication between NT people and autistic people.
 
 The idea is that the cognitive structure for NT people are similar to each other and the structure for autistic people are similar to each other.  Each group interfaces well with people from their own group, but less well between groups.  Effectively the groups use different social languages and it forces each group to notice this and translate back and forth.  The [Theory of Mind](../Experience/Theory%20of%20Mind.md) is working, but differently -- they aren't modeling each other correctly. This can lead to miscommunication and mental fatigue.   This double empathy problem tends to be lopsided: NT people, being the majority, expect others to conform to their point of view.  Autistic people use [Masking](../Experience/Masking.md) to act and sound like NT people, which adds additional mental load.
 

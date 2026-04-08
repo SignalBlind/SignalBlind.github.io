@@ -33,7 +33,7 @@ For me, not so much.  My lack of [Social Salience](Social%20Salience.md) means I
 - my calmness as their tension rises fans the flames
 - my literal processing and strict [logic](../Cognition/Functional%20Logic%20Modeling.md) are not helpful when emotions are high
 - apparently asking "why?" doesn't help either
-	- there is a term for this, [sealioning](https://en.wikipedia.org/wiki/Sealioning), and it is a form of harassment (yikes!)
+	- there is a term for this, sealioning, and it is a form of harassment (yikes!)
 
 Typically I know that there is something wrong when yelling starts.  It is like saying ["I am angry"](../Emotions/Anger.md#Comparison) from my point of view.  This is typically in the red zone.
 

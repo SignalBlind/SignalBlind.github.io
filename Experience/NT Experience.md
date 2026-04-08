@@ -38,7 +38,7 @@ See also: [Autism Experience](Autism%20Experience.md) and [My Experience](My%20E
 	- Automatic simulation mispredicts
 	- The other person appears to be unpredictable or weird
 - **Mechanism**
-	- [Simulation theory](https://en.wikipedia.org/wiki/Simulation_theory_of_empathy)
+	- Simulation theory
 	- One person's mind simulates the conditions for another and predicts - senses feed through a series of systems that decode and compute saliency — this mechanism is THE SIGNAL (highlighted here as it is important in my experience)
 	- This part of the brain is known as the Salience Network
 	- This is called Affective Theory of Mind

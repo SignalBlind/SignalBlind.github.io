@@ -4,7 +4,7 @@ title: Alexithymia
 ---
 > "I feel something, but I have no words for it".
 
-[Alexithymia](https://en.wikipedia.org/wiki/Alexithymia) is a personality trait characterized by an inability to identify, describe, or express one's own emotions.  It is not [apathy](Easy%20Going.md), which is a lack of interest and is also different than [Flat Affect](Flat%20Affect.md) which is an inability to express emotions.
+Alexithymia is a personality trait characterized by an inability to identify, describe, or express one's own emotions.  It is not [apathy](Easy%20Going.md), which is a lack of interest and is also different than [Flat Affect](Flat%20Affect.md) which is an inability to express emotions.
 
 There are two ways that it might affect a person:
 

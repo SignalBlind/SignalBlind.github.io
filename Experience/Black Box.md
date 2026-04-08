@@ -7,7 +7,7 @@ permalink: /Experience/Black_Box/
 
 Most people use have [Theory of Mind](Theory%20of%20Mind.md) and think of other humans as bundles of emotions and thoughts.  They *feel* them as other minds.
 
-My lack of [Social Salience](Social%20Salience.md) means I can't sense the social signals and don't perceive people this same way.  I mentally model other humans as **[black boxes](https://en.wikipedia.org/wiki/Black_box)**.  A black box (in science and engineering) is a system that is understood in terms of its inputs and outputs without understanding its inner state or mechanism.
+My lack of [Social Salience](Social%20Salience.md) means I can't sense the social signals and don't perceive people this same way.  I mentally model other humans as **black boxes**.  A black box (in science and engineering) is a system that is understood in terms of its inputs and outputs without understanding its inner state or mechanism.
 
 You may make observations and even draw conclusions about black boxes:
 

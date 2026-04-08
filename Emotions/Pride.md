@@ -6,7 +6,7 @@ title: Pride
 
 "I am better than others; others see me as valuable."
 
-NT people experience [pride](https://en.wikipedia.org/wiki/Pride) as roughly the emotional opposite of [Shame](Shame.md) and it may be viewed as both a virtue and a vice (in fact one of the seven deadly sins).  Pride is a social signaling mechanism which maintains social hierarchy.
+NT people experience pride as roughly the emotional opposite of [Shame](Shame.md) and it may be viewed as both a virtue and a vice (in fact one of the seven deadly sins).  Pride is a social signaling mechanism which maintains social hierarchy.
 
 There are two types of pride:
 

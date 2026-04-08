@@ -5,7 +5,7 @@ title: Empathy
 "I feel **with** you."
 ## NT Experience
 
-[Empathy](https://en.wikipedia.org/wiki/Empathy) is not an emotion per se, rather it is the ability to understand and share the feelings of another.  There are a wide range of definitions but for the purpose of my notes:
+Empathy is not an emotion per se, rather it is the ability to understand and share the feelings of another.  There are a wide range of definitions but for the purpose of my notes:
 
 - **Affective Empathy** (mirroring) -- feeling the emotions that another person is experiencing.  This is also called emotional contagion, which describes picking up the mood of another person or the room.
 - **Cognitive Empathy** (perspective taking) -- understanding another person's perspective or mental state.  NT people would understand this to be implicit.
@@ -37,7 +37,7 @@ A third example is books: they provide a pure literal signal.  Authors often wri
 
 Notably I can only use this where I can model and experience the situation or something close to it.  This is easiest for sadness -- permanent loss of something unique is my primary trigger.
 
-This is not a social function, this is a logical simulation of values.  I am not "feeling what they feel".  Technically this is [autonoetic thought](https://en.wikipedia.org/wiki/Autonoetic_consciousness) where I reenact the concept of loss within my own value system.  It is a functional bridge but not empathy.
+This is not a social function, this is a logical simulation of values.  I am not "feeling what they feel".  Technically this is autonoetic thought where I reenact the concept of loss within my own value system.  It is a functional bridge but not empathy.
 ## Comparison
 
 I have no affective empathy at all and my "cognitive empathy" is not really that.

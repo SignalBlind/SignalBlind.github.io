@@ -13,7 +13,7 @@ Speculation, but maybe:
 
 - NT people
 	- happiness depends on social belonging and hierarchy
-	- experience [emotional contagion](https://en.wikipedia.org/wiki/Emotional_contagion) and pick up the mood of others
+	- experience emotional contagion and pick up the mood of others
 - me
 	- no [Social Salience](../Experience/Social%20Salience.md) -- no social signal or hierarchy
 	- no [Shame](Shame.md) (social tax), no judgment from others

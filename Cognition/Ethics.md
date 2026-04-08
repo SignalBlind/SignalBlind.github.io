@@ -46,7 +46,7 @@ Consider Capacity, Intent, Agency, and the priority of these rules.  The rules a
 I think how infractions are dealt with needs to consider the situation: prevention and correction is the most important.  I am not sure how I would feel if I were the victim of a crime: would I want punishment for the perpetrator?  Restitution makes sense, but what if it is a crime that cannot be repaid?
 ## No Authority Bias
 
-When I say my ethics apply to everyone, I mean everyone.  Me, my friends, my family, the people in my city, the local leaders, the leaders of companies, the leaders of nations and religions, and even God Himself.  In fact, the higher importance the position, the [more responsibility these people have to do the right thing](https://en.wikipedia.org/wiki/Noblesse_oblige).  The leaders of nations and religions have the greatest ability to harm the people the represent and command and thus should be held to the highest standards.  Incompetence is no excuse -- you should not hold such a position if you are unable to carry out your duty.
+When I say my ethics apply to everyone, I mean everyone.  Me, my friends, my family, the people in my city, the local leaders, the leaders of companies, the leaders of nations and religions, and even God Himself.  In fact, the higher importance the position, the more responsibility these people have to do the right thing -- Noblesse Oblige.  The leaders of nations and religions have the greatest ability to harm the people the represent and command and thus should be held to the highest standards.  Incompetence is no excuse -- you should not hold such a position if you are unable to carry out your duty.
 
 Of course my ethics seem to have little value for people in authority.
 

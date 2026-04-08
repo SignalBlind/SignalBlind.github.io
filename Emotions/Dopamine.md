@@ -62,7 +62,7 @@ I once debugged something over the course of six months or a year -- it was impo
 I feel dopamine pleasure from watching animal videos.  Animals are pure -- they have no social signaling (at least that I know of) so we are on even footing.
 
 - kittens and puppies playing
-	- **[Kindchenschema](https://en.wikipedia.org/wiki/Cuteness)** -- this is the term for biological recognition of baby features, e.g. large eyes, small limbs, short tails
+	- **Kindchenschema** -- this is the term for biological recognition of baby features, e.g. large eyes, small limbs, short tails
 	- literally "cuteness"
 - beavers working
 	- seeing animals executing a complex task is pleasant

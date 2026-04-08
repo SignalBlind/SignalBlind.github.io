@@ -14,6 +14,12 @@
   definition: Emotional blindness, a phenomenon characterized by difficulties processing
     or describing one's emotions. [Wikipedia](https://en.wikipedia.org/wiki/Alexithymia)
 
+- term: Asperger Syndrome
+  alternates:
+  - Aspergers
+  definition: Former name for high-functioning Autism Spectrum Disorder (ASD) (without
+    intellectual or language impairment). [Wikipedia](https://en.wikipedia.org/wiki/Asperger_syndrome)
+
 - term: Autism
   alternates:
   - ASD
@@ -28,6 +34,12 @@
   page: /Experience/Autism_Experience/
   definition: How I believe autistic people experience this, in general.  Developed
     by reading and using an LLM. [Disclaimer](/Disclaimer.html#Experience)
+
+- term: autonoetic thought
+  definition: Autonoetic consciousness is the human ability to mentally place oneself
+    in the past and future (i.e. mental time travel) or in counterfactual situations
+    (i.e. alternative outcomes), and to thus be able to examine one's own thoughts.
+    [Wikipedia](https://en.wikipedia.org/wiki/Autonoetic_consciousness)
 
 - term: Black Box
   alternates:
@@ -50,6 +62,16 @@
     taxonomic and diagnostic manual published by the  American Psychiatric Association.
     [Wikipedia](https://en.wikipedia.org/wiki/DSM-5)
 
+- term: emotional contagion
+  definition: Unconscious, automatic process of mimicking and synchronizing facial
+    expressions, vocalizations, postures, and movements with another person, leading
+    to shared emotions. [Wikipedia](https://en.wikipedia.org/wiki/Emotional_contagion)
+
+- term: Empathy
+  definition: Empathy is the ability to understand and share the feelings of another,
+    acting as a bridge for connection and altruism.  Affective empathy is directly
+    feeling the emotions of another person.  [Wikipedia](https://en.wikipedia.org/wiki/Empathy)
+
 - term: Endophasia
   alternates:
   - Imagined speech
@@ -58,16 +80,34 @@
   definition: Thinking in the form of sound -- hearing your own voice silently to
     oneself. [Wikipedia](https://en.wikipedia.org/wiki/Imagined_speech)
 
+- term: False Consensus Effect
+  definition: A cognitive bias where individuals overestimate the extent to which
+    their opinions, beliefs, and behaviors are shared by others. [Wikipedia](https://en.wikipedia.org/wiki/False_consensus_effect)
+
 - term: Flat Affect
   page: /Experience/Flat_Affect/
   definition: The near or total absence of outward emotional expression, characterized
     by a monotone voice, immobile face, and reduced body language, often mistaken
     for apathy.
 
+- term: Guilt
+  definition: A self-conscious, often prosocial emotion arising from a personal violation
+    of one's own morals or causing harm to others. It acts as a moral compass to repair
+    relationships, causing symptoms like anxiety, irritability, and sleeplessness.  [Wikipedia](https://en.wikipedia.org/wiki/Guilt_(emotion))
+
+- term: Heteronym
+  definition: A word that has a different pronunciation and meaning as another word
+    but the same spelling.  [Wikipedia](https://en.wikipedia.org/wiki/Heteronym_(linguistics))
+
 - term: Hypophantasia
   page: /Experience/Hypophantasia/
   definition: A cognitive condition characterized by very low, faint, or unstable
-    visual mental imagery.
+    visual mental imagery. [Wikipedia](https://en.wikipedia.org/wiki/Aphantasia)
+
+- term: Kindchenschema
+  definition: Kindchenschema (baby schema) is a set of infantile physical features—large
+    head, high forehead, big eyes, chubby cheeks, small nose/mouth—defined by Konrad
+    Lorenz to evoke cuteness and nurturing behavior. [Wikipedia](https://en.wikipedia.org/wiki/Cuteness)
 
 - term: LLM
   alternates:
@@ -95,6 +135,12 @@
   definition: Neurodivergent.  Differing in mental or neurological function from what
     is considered typical or normal.
 
+- term: Noblesse Oblige
+  definition: Noblesse oblige is a French phrase that literally translates to "nobility
+    obligates". It refers to the concept that individuals with high rank, wealth,
+    or privilege have a moral responsibility to act with generosity, honor, and kindness
+    toward those less fortunate. [Wikipedia](https://en.wikipedia.org/wiki/Noblesse_oblige)
+
 - term: NT
   alternates:
   - Neurotypical
@@ -107,6 +153,17 @@
   page: /Experience/NT_Experience/
   definition: How I believe neurotypical people experience this, in general.  Developed
     by reading and using an LLM. [Disclaimer](/Disclaimer.html#Experience)
+
+- term: Occam's razor
+  definition: A problem-solving principle stating that when faced with competing hypotheses
+    that make the same predictions, one should select the one with the fewest assumptions.  [Wikipedia](https://en.wikipedia.org/wiki/Occam's_razor)
+
+- term: Phatic Pressure
+  alternates:
+  - phatic expression
+  definition: The social and communicative demand to engage in "phatic communication"—speech
+    that serves a social function (like small talk or greetings) rather than conveying
+    information. [Wikipedia](https://en.wikipedia.org/wiki/Phatic_expression)
 
 - term: Phatic speech
   alternates:
@@ -121,22 +178,77 @@
   - Phenotypic
   definition: The set of observable characteristics or traits of an organism. [Wikipedia](https://en.wikipedia.org/wiki/Phenotype)
 
+- term: Pride
+  definition: A feeling of honour and self-respect; a sense of personal worth. excessive
+    self-esteem; conceit. [Wikipedia](https://en.wikipedia.org/wiki/Pride)
+
+- term: Propositional Logic
+  definition: A branch of logic that analyzes compound statements formed by connecting
+    atomic propositions—declarative sentences that are strictly true or false—using
+    logical operators. It focuses on how connectives (AND, OR, NOT, implies) determine
+    the truth value of complex statements, rather than the internal content of the
+    propositions themselves.  [Wikipedia](https://en.wikipedia.org/wiki/Propositional_logic)
+
 - term: Prosody
   definition: Prosody is the "melody" of language—the rhythmic and intonational patterns
     that give speech and poetry their unique character. It encompasses elements beyond
     the literal meaning of words, such as pitch, loudness, and timing, which help
     convey emotion, emphasis, and intent. [Wikipedia](https://en.wikipedia.org/wiki/Prosody_(linguistics))
 
+- term: Regret
+  definition: A complex, negative emotion stemming from a "counterfactual" thought
+    process—wishing a past decision or event had turned out differently. [Wikipedia](https://en.wikipedia.org/wiki/Regret)
+
+- term: Rumination
+  definition: A focused, repetitive, and passive dwelling on negative emotions, past
+    mistakes, or uncontrollable problems, which often worsens mood and hampers active
+    problem-solving. It is a common, often involuntary, mental habit—like a "downward
+    spiral" or "mental scab-picking"—that can lead to anxiety, depression, and poor
+    mental health.  [Wikipedia](https://en.wikipedia.org/wiki/Rumination_(psychology))
+
 - term: Satisficing
   definition: Satisficing is a decision-making strategy that aims for a "good enough"
     result rather than an optimal one, balancing limited time, information, and effort.
 
+- term: Schizoid Personality Disorder
+  alternates:
+  - Clinical Schizoid Personality Style
+  definition: A personality disorder marked by a long-term pattern of social detachment,
+    limited emotional expression, and a preference for isolation.  This has category
+    A autism traits without category B. [Wikipedia](https://en.wikipedia.org/wiki/Schizoid_personality_disorder)
+
+- term: Sealioning
+  definition: A trolling tactic where a person feigns ignorance and politeness while
+    relentlessly demanding evidence or badgering someone with questions, aiming to
+    exhaust their target and disrupt conversations.  [Wikipedia](https://en.wikipedia.org/wiki/Sealioning)
+
+- term: Self Conscious Emotions
+  definition: Complex, higher-order emotional responses—including pride, shame, guilt,
+    and embarrassment—that emerge from self-reflection and social evaluation. [Wikipedia](https://en.wikipedia.org/wiki/Self-conscious_emotions)
+
+- term: Shame
+  definition: A feeling of embarrassment or humiliation that arises from the perception
+    of having done something dishonorable, immoral, or improper -- specifically something
+    you know your peers feel about you.  [Wikipedia](https://en.wikipedia.org/wiki/Shame)
+
 - term: Signal Blind
-  definition: A term describing individuals who lack social salience and are completely blind to the social signal. This means they don't see the emotional mirroring, or any of the nonverbal communication that makes up a big part of neurotypical society. For me this also means I have no Theory of Mind -- I perceive other humans as Black Boxes where I can see inputs and ouputs but have no idea about their inner state (thoughts and emotions).
+  definition: A term describing individuals who lack social salience and are completely
+    blind to the social signal. This means they don't see the emotional mirroring,
+    or any of the nonverbal communication that makes up a big part of neurotypical
+    society. For me this also means I have no Theory of Mind -- I perceive other humans
+    as Black Boxes where I can see inputs and ouputs but have no idea about their
+    inner state (thoughts and emotions).
 
 - term: Simulation Theory
   definition: Idea that in neurotypical people they simulate the knowledge, emotions
     and behaviors of others automatically in their own mind.[Wikipedia](https://en.wikipedia.org/wiki/Simulation_theory_of_empathy)
+
+- term: Simulation Theory
+  definition: The simulation theory of mind (or simulation theory of empathy/mindreading)
+    proposes that people understand others' mental states by simulating them, or "putting
+    themselves in another's shoes". We use our own cognitive processes, emotions,
+    and imaginations to mirror, predict, or interpret the actions, thoughts, and feelings
+    of others. [Wikipedia](https://en.wikipedia.org/wiki/Simulation_theory_of_empathy)
 
 - term: Social Communication Disorder
   alternates:
@@ -156,6 +268,20 @@
   page: /Experience/Social_Salience/
   definition: I am really referring to the Salience Network -- a low level part of
     the brain that processes social signals and gives importance to the same. [Wikipedia](https://en.wikipedia.org/wiki/Salience_network)
+
+- term: Sympathy
+  definition: The feeling of care, sorrow, or concern for another person’s misfortune,
+    often accompanied by a desire for them to be happier or in a better situation.
+    It differs from empathy, which is sharing the exact same emotional state, by maintaining
+    a boundary while offering support. It is crucial for building relationships by
+    validating feelings and showing you care.  [Wikipedia](https://en.wikipedia.org/wiki/Sympathy)
+
+- term: The Intentional Stance
+  definition: A predictive strategy developed by philosopher Daniel Dennett. Instead
+    of looking at the physical makeup or the specific design of an object, you treat
+    it as a rational agent with beliefs and desires. By assuming the agent will act
+    rationally to satisfy its desires based on its beliefs, you can accurately predict
+    what it will do next. [Wikipedia](https://en.wikipedia.org/wiki/Intentional_stance)
 
 - term: Theory of Mind
   alternates:

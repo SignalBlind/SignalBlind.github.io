@@ -6,7 +6,7 @@ title: Guilt
 
 "I have hurt the group; I am at risk of exclusion; I feel the group's pain."
 
-In NT people [guilt](https://en.wikipedia.org/wiki/Guilt_(emotion)) is a reflection of how others view them: specifically that others feel they have harmed a relationship or violated a social norm.  Guilt is the emotion that they feel and the mechanism that triggers their signaling and social repair.
+In NT people guilt is a reflection of how others view them: specifically that others feel they have harmed a relationship or violated a social norm.  Guilt is the emotion that they feel and the mechanism that triggers their signaling and social repair.
 ## My Experience
 
 "I have violated a rule, broke something, or caused a failure. Logic dictates a taking steps to restore the original state, if possible."

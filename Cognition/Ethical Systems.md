@@ -29,7 +29,7 @@ This is the ethical style that I use.  I apply the rules of truth and ethics con
 Who else might use a system like this?
 
 - The "Extreme Systemizer" (Non-ASD), see [The Essential Difference: Men, Women and the Extreme Male Brain, Simon Baron-Cohen](../Experience/Where%20Are%20My%20People?.md#The%20Essential%20Difference%20Men,%20Women%20and%20the%20Extreme%20Male%20Brain,%20Simon%20Baron-Cohen)
-- [Clinical Schizoid Personality Style](https://en.wikipedia.org/wiki/Schizoid_personality_disorder) (Non-Disordered)
+- Clinical Schizoid Personality Style (Non-Disordered)
 - Intentional Stoics (Manual Override)
 - Algorithmic/AI Models (LLMs)
 

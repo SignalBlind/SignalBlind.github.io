@@ -4,18 +4,18 @@ title: Overlaps
 order: 511
 ---
 How would I be characterized?  Neurodivergent, but how?  See my [History](History.md) for what I experienced.  Several different conditions were discussed or considered -- they all had some overlap.
-## [Autism](https://en.wikipedia.org/wiki/Autism) ^Autism
+## Autism ^Autism
 
 This was the first condition suggested but I discovered my condition is [Not Autism](Not%20Autism.md).  For lack of a better term I did describe my ND as "autism adjacent" for several months before I found the mechanism -- it described many of the outward effects.
 
-# [Social (Pragmatic) Communication Disorder](https://en.wikipedia.org/wiki/Social_(pragmatic)_communication_disorder) ^SCD
+# Social (Pragmatic) Communication Disorder ^SCD
 
 This is pretty close on one point:
 
 > Difficulties understanding what is not explicitly stated (e.g., making inferences) and non literal or ambiguous meanings of language
 
 but the rest of the points (all required) don't match, it is [Not SCD](Not%20SCD.md).  I don't have problems communicating, especially technical information -- at least I don't think so!
-## [Schizoid Personality Disorder](https://en.wikipedia.org/wiki/Schizoid_personality_disorder) ^Schizoid
+## Schizoid Personality Disorder ^Schizoid
 
 I read about this in an article and it seemed like it had some overlap:
 
@@ -26,7 +26,7 @@ I discarded this idea as I didn't:
 > Affected individuals may be unable to form intimate attachments to others and simultaneously possess a rich and elaborate but exclusively internal fantasy world.
 
 In fact I had [[Hypophantasia]] (which I discovered later).  I had friends and I enjoyed talking to them.  I wasn't socially active, but it didn't repel me.
-## [Alexithymia](https://en.wikipedia.org/wiki/Alexithymia) ^Alexithymia
+## Alexithymia ^Alexithymia
 
 I considered that my [Flat Affect](Flat%20Affect.md) might be [Alexithymia](Alexithymia.md) but I _could_ describe my emotions, some better than others.
 ## ASPD

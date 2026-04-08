@@ -66,17 +66,17 @@ Eventually I settled on *no social salience* -- literally no social signal.  I c
 
 OK, so why do I think it is actually *no social salience*?
 
-- [Occam's razor](https://en.wikipedia.org/wiki/Occam's_razor) -- it is the simplest mechanism that explains *everything* I have observed
+- Occam's razor -- it is the simplest mechanism that explains *everything* I have observed
 	- it continues to be a good predictor of my behavior and thought process
 	- it has helped me explain myself to myself and others
 - there are [some non-flattering examples](../Cognition/Examples.md#Failure%20Example) of how it fails
 	- there are plenty more situations that show it but that one I think captures what having no social salience looks like in a way that is unambiguous and impactful
 - if I encounter a situation where I have elevated emotions, say sad or angry, as soon as the topic is resolved I am back to steady state
-	- there is no post-interaction [rumination](https://en.wikipedia.org/wiki/Rumination_(psychology))
+	- there is no post-interaction rumination
 	- I don't store [emotions in my memory](Hypophantasia.md#My%20Experience%20Memory)
 		- lack of capture: no social salience
 		- lack of storage: hypophantasia
-- I am immune to [phatic pressure](https://en.wikipedia.org/wiki/Phatic_expression) -- the need to say something to fill silence
+- I am immune to phatic pressure -- the need to say something to fill silence
 	- I might talk to relieve boredom
 - I do not respect [Authority](Authority.md) (social positioning), only competence
 	- [No Authority Bias](../Cognition/Ethics.md#No%20Authority%20Bias)

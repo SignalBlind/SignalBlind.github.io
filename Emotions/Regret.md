@@ -6,7 +6,7 @@ title: Regret
 
 "I knew better; I wish I could choose differently."
 
-In NT people [regret](https://en.wikipedia.org/wiki/Regret) is a judgment of actions or outcomes, a feeling of "I did a bad thing":
+In NT people regret is a judgment of actions or outcomes, a feeling of "I did a bad thing":
 
 - the brain compares the actual outcome with a simulated *better* outcome
 - this does not require [Social Salience](../Experience/Social%20Salience.md) -- it can represent a missed opportunity or an error

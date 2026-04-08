@@ -21,12 +21,14 @@ I had a *different* experience.  I manually constructed each step and then was k
 This was the first time I ever heard that somebody might imagine a scene different from the way I do.  I thought [Everybody is the Same](Everybody%20is%20the%20Same.md).
 
 Once I had this contrasting information I was able to go home and find out what this is called -- that let me do more reading on what was going on.  I found it particularly useful to use an LLM (I think ChatGPT in this case) to describe what happened and ask for a term -- the first term I got was Low Absorption.
-## [Low Absorption](https://en.wikipedia.org/wiki/Absorption_(psychology)) ^LowAbsorption
+
+## Low Absorption ^LowAbsorption
 
 Absorption is how much a person becomes absorbed in their mental imagery, especially in fantasy.  A person with high absorption (my wife) has fully autonomous imagination.  A person with low absorption (me) has to do everything manually.
 
 Curiously this term originated in a study about how easy it is to be hypnotized.  I might be immune!
-## [Hypophantasia](https://en.wikipedia.org/wiki/Aphantasia) ^Hypophantasia
+
+## Hypophantasia ^Hypophantasia
 
 Aphantasia is the inability to visualize mental images.  Hypophantasia is a lesser form with very low, faint, or unstable visual mental imagery.  Hyperphantasia has vivid imagery.
 
@@ -34,7 +36,7 @@ I find that my mental imagery looks a bit like a Lite-Brite.  Sort of outlines o
 
 ## Inner Speech
 
-Related to these is what thinking "sounds like" in my brain (not looks like!).  People who are more visual may experience a flow of images.  Because of my hypophantasia I internally vocalize my thoughts, which is called [Inner Speech](https://en.wikipedia.org/wiki/Imagined_speech).  I am literally talking to myself to think.  There is no audience, just me.  It is not a rehearsal for what I will say, it is how my thoughts are realized.  I do this when I am by myself.
+Related to these is what thinking "sounds like" in my brain (not looks like!).  People who are more visual may experience a flow of images.  Because of my hypophantasia I internally vocalize my thoughts, which is called Inner Speech.  I am literally talking to myself to think.  There is no audience, just me.  It is not a rehearsal for what I will say, it is how my thoughts are realized.  I do this when I am by myself.
 
 Conscious thought is typically in full sentences, or at least sentence fragments.  More spurious thoughts are single words: as I walk through a crowd I am thinking "left" and "avoid", not full sentences.
 
@@ -43,6 +45,7 @@ The only voice in my head is my own.  When I am thinking about other people I am
 Per an LLM, the NT experience is a bit different: NT inner speech frequently incorporates **Theory of Mind (ToM) Simulation**. They do not just "think" a fact; they "simulate" a conversation. This voice often has **Prosody** (tone, pitch, and emotional cadence). They can "hear" the voice of a parent, a spouse, or an imagined antagonist.
 
 A person more in the middle of the phantasia scale has images thrown in: when they think of a "dog," they see a generic, nonspecific image of a dog while the word "dog" occurs in their inner speech.
+
 ## My Experience: Memory
 
 I described what it looks like in my mind above.  I might have missed something: without the contrast of another point of view it is just "how I am".

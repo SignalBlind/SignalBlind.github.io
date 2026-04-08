@@ -22,7 +22,7 @@ As far as I know autistic people experience roughly the same emotions as NT peop
 
 ## Social Emotions (Missing) ^Social
 
-The [self conscious emotions](https://en.wikipedia.org/wiki/Self-conscious_emotions) require a feedback signal for you to understand how the *self* is perceived by an external observer -- you guessed it, provided by [Social Salience](../Experience/Social%20Salience.md).  I can't experience any of these emotions:
+The self conscious emotions require a feedback signal for you to understand how the *self* is perceived by an external observer -- you guessed it, provided by [Social Salience](../Experience/Social%20Salience.md).  I can't experience any of these emotions:
 
 - [Shame](Shame.md)
 - [Pride](Pride.md)
@@ -40,7 +40,7 @@ This one is a stand in for several of the *negative* emotions:
 
 - [Regret](Regret.md)
 
-That isn't to say I don't feel things that I would label with those words.  For example, I might [Regret](Regret.md) some action that I did and call that "shame", but it is a distinctly different feeling from the NT experience.  This is a conceptual [heteronym](https://en.wikipedia.org/wiki/Heteronym_(linguistics)) -- two words that look and sound the same but have different meanings (not the typical use of that vocabulary, but it fits).
+That isn't to say I don't feel things that I would label with those words.  For example, I might [Regret](Regret.md) some action that I did and call that "shame", but it is a distinctly different feeling from the NT experience.  This is a conceptual heteronym -- two words that look and sound the same but have different meanings (not the typical use of that vocabulary, but it fits).
 
 ### Heteronyms
 

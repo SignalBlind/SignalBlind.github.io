@@ -7,7 +7,6 @@ I had never heard of SCD before researching all of this.  Roughly SCD looks like
 
 You can read more about it here:
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Social_(pragmatic)_communication_disorder)
 - [Autism Speaks](https://www.autismspeaks.org/expert-opinion/social-pragmatic-communication-disorder)
 
 The "Pragmatic" part is about a communication disability:

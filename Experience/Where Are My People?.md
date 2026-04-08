@@ -57,7 +57,7 @@ The common flaws I found in their match with my experience (these may be more ge
 
 Even though these don't describe *me*, they are interesting and provided things to think about.  For example, what is the mechanism that allows me to hold false beliefs?  It wasn't something I actively considered as I didn't realize it might be a problem!
 
-### [The Intentional Stance](https://en.wikipedia.org/wiki/Intentional_stance), Daniel Dennett
+### The Intentional Stance, Daniel Dennett
 
 In Daniel Dennett’s framework, there are three levels of abstraction used to predict the behavior of a system: the **Physical Stance**(physics/chemistry), the **Design Stance** (purpose/function), and the **Intentional Stance** (beliefs/desires).
 
@@ -74,7 +74,7 @@ This provides the distinction between **Implicit (Automatic) Social Tracking** 
 
 The paper talks about [Manual Frame Construction](../Cognition/Manual%20Frame%20Construction.md) -- this describes how autistic people can use "compensatory learning" to employ explicit reasoning to accomplish tasks that Automatic ToM would otherwise provide.  This is roughly equivalent to my understanding of [how I Predict or Explain Others](Theory%20of%20Mind.md#My%20Experience%20Predicting%20or%20Explaining%20Others).
 
-In short this describes the mechanism that differs between NT and autistic people (specifically [Asperger Syndrome](https://en.wikipedia.org/wiki/Asperger_syndrome), now called Level 1 ASD) and how autistic people can compensate.
+In short this describes the mechanism that differs between NT and autistic people (specifically Asperger Syndrome, now called Level 1 ASD) and how autistic people can compensate.
 
 The paper claimed that it tested ASD subjects (via eye tracking) and found they had no [Social Salience](Social%20Salience.md) but were still diagnosed with ASD.  Although this seems like it might be possible, it doesn't seem likely.  I think the noisy social saliency that [autistic people experience](Autism%20Experience.md) is the trigger for some of the [category B compensation effects](Not%20Autism.md).  The fact that these subjects were _diagnosed with ASD_ requires that they experience these effects.  Now I am no expert on this subject, but I am not sure I buy it.  Read the next paper -- Heyes didn't buy it either.
 ### [Submentalizing: I Am Not Really Reading Your Mind](https://www.semanticscholar.org/paper/Submentalizing%3A-I-Am-Not-Really-Reading-Your-Mind-Heyes/dd4625094a712f55d5f11bb469a2a80295831061) by Cecilia Heyes

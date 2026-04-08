@@ -3,7 +3,7 @@ layout: page
 title: Theory of Mind
 permalink: /Experience/Theory_of_Mind/
 ---
-[Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) (**ToM**) is a key feature in my condition.
+Theory of Mind (**ToM**) is a key feature in my condition.
 
 From Wikipedia:
 
