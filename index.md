@@ -29,7 +29,7 @@ Some starting points:
 	- I experience no stress and [Zero Lag](Cognition/Zero%20Lag.md)
 	- and some drawbacks: [Communication](Experience/Communication.md)
 - [Functional Cognitive Architecture](Cognition/Functional%20Cognitive%20Architecture.md) -- the mental stack
-	- [Axiomatic Deontology](Ethical%20Systems.md#Axiomatic%20Deontology) / [Ethics](Ethics.md) -- why a lack of social "feeling" does not equate to a lack of morality
+	- [Axiomatic Deontology](Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) / [Ethics](Cognition/Ethics.md) -- why a lack of social "feeling" does not equate to a lack of morality
 	- [Manual Frame Construction](Cognition/Manual%20Frame%20Construction.md)
 	- [Functional Logic Modeling](Cognition/Functional%20Logic%20Modeling.md)
 	- [Propositional Logic](Cognition/Propositional%20Logic.md)
