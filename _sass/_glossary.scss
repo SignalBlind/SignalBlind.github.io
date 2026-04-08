@@ -68,10 +68,12 @@
     border-top-color: var(--primary-color);
 }
 
-/* Show tooltip on hover */
-.glossary-term:hover .glossary-tooltip {
+/* Show tooltip on hover or tap */
+.glossary-term:hover .glossary-tooltip,
+.glossary-term.glossary-active .glossary-tooltip {
     visibility: visible;
     opacity: 1;
+    pointer-events: auto;
 }
 
 /* Adjust tooltip position if near edges */

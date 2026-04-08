@@ -166,6 +166,20 @@
                 link.className = 'glossary-link';
                 link.appendChild(termSpan);
 
+                // Toggle tooltip on click/tap for touch devices
+                termSpan.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    const isActive = this.classList.contains('glossary-active');
+                    // Close any other open tooltips
+                    document.querySelectorAll('.glossary-term.glossary-active').forEach(el => {
+                        el.classList.remove('glossary-active');
+                    });
+                    if (!isActive) {
+                        this.classList.add('glossary-active');
+                    }
+                });
+
                 fragments.push(link);
 
                 lastIndex = match.index + match.length;
@@ -188,6 +202,15 @@
             }
         });
     }
+
+    // Dismiss tooltips when clicking outside
+    document.addEventListener('click', function(e) {
+        if (!e.target.closest('.glossary-term')) {
+            document.querySelectorAll('.glossary-term.glossary-active').forEach(el => {
+                el.classList.remove('glossary-active');
+            });
+        }
+    });
 
     // Initialize when DOM is ready
     if (document.readyState === 'loading') {
