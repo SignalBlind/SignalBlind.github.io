@@ -31,7 +31,7 @@ I will be extremely sad when my dog, wife, or children die (assuming I am alive 
 
 I don't feel the NT hollowness or change in identity.  I feel the physiological aspect of it -- crying.  I feel a **high magnitude deletion event** -- a feeling of permanent loss. I suspect I won't go through the stages of grieving, at least not like an NT person would, but I don't know.
 
-I feel a lesser grief for people I don't know, and more in the abstract.  When young people are killed in war, I imagine the waste:  there were countless hours of love, teaching, school and effort in that person and it was all lost in an instant.
+I feel a lesser grief for people I don't know, and more in the abstract.  When young people are killed in war, I imagine the waste: there were countless hours of love, teaching, schooling, and effort in that person and it was all lost in an instant.
 
 The narrative affective resonance lets me [model somebody else's loss as my own](Empathy.md#Narrative%20Affective%20Resonance).  I cry for sad movies or when somebody else talks about the loss of their pet.  I am not mirroring their emotion as an NT person would, I am modeling it and feeling my own loss.
 

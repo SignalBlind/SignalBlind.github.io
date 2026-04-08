@@ -5,7 +5,7 @@ order: 505
 ---
 All my life I had this idea that everybody was the same in terms of how we thought.  I wonder, is this human nature?  NT people certainly assume everyone else is NT -- the difference is they are mostly right.
 
-I had so [social signal](Social%20Salience.md).  Without knowledge of that I had no hint that everyone else was different.  I thought differently but it was compatible enough, especially for more casual relationships.  My mental model allowed for differences of opinion and even recognized facts.  People could be inconsistent or irrational (in my point of view) and this was simply their personality or conscious choice.  I could see differences in capability or interest but those also made sense.
+I had no [social signal](Social%20Salience.md).  Without knowledge of that I had no hint that everyone else was different.  I thought differently but it was compatible enough, especially for more casual relationships.  My mental model allowed for differences of opinion and even recognized facts.  People could be inconsistent or irrational (in my point of view) and this was simply their personality or conscious choice.  I could see differences in capability or interest but those also made sense.
 
 It turns out this is common.  The assumption that others share one's internal cognitive architecture is a documented cognitive phenomenon known as the [**False Consensus Effect**](https://en.wikipedia.org/wiki/False_consensus_effect) or **[Typicality Bias](https://www.emergentmind.com/topics/typicality-bias-in-preference-data)**. In the absence of data to the contrary, the brain uses its own operating system as the default template for modeling all other agents.
 
