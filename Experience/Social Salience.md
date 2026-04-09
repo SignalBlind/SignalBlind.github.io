@@ -22,10 +22,20 @@ Social saliency doesn't just apply to nonverbal cues, it also affects:
 Social salience is roughly the volume control on the social signal.
 
 Note: the social salience network is primarily the anterior insula and dorsal anterior cingulate cortex.  Yeah, I don't know where those are either, but if you are curious, that is what I read!
-## My Experience: Lack of Social Saliency
+## My Experience: Lack of Social Saliency, Signal Blindness
+
+<div class="callout-important" markdown="1">
+This *signal blindness*, the lack of any social signal, is the main key to my condition and behavior.
+</div>
 
 I experience a complete lack of social saliency -- the volume on the social signal is turned to zero.  It is [Pure A-salience](Pure%20A-salience.md), a complete signal blindness (hence the website name).
 
 I don't receive any social signals.  I don't pick up nonverbal cues.  I don't know what people are thinking or how they are feeling unless they explicitly tell me.  I didn't even know this [was a thing](Everybody%20is%20the%20Same.md)!
 
 I am not only missing the social signal but also the social connections and pressures that go along with it.  I don't particularly care what another person thinks of me: either they are right and I should take note or they are wrong and I can ignore it.  I don't experience [Shame](../Emotions/Shame.md) or a whole host of other [socially triggered emotions](../Emotions/Emotions.md).
+
+See also:
+
+- [My Experience](My%20Experience.md)
+- [Contrastive Example - Bar](Contrastive%20Example%20-%20Bar.md)
+- [Contrastive Example - Movies](Contrastive%20Example%20-%20Movies.md)

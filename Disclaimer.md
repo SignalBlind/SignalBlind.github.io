@@ -59,7 +59,7 @@ I know that the usual style for writing is "person who is tall", but I am going 
 - I think the prose is easier to read
 
 If I have that wrong please let me know!
-## Could This Be Entirely False?
+## Could This Be Entirely False? ^Skeptical
 
 Yes, possibly.  See also [FAQ](FAQ.md#^False).  I don't think it is, but skepticism is good.
 
@@ -67,6 +67,8 @@ Yes, possibly.  See also [FAQ](FAQ.md#^False).  I don't think it is, but skeptic
 - I have no background or expertise in anything related to the mind.  or humans
 	- I am a programmer
 - I am reading things online, in books and using an LLM to explore
+
+There is a concept called Labeling Theory that suggests applying a label or diagnosis to somebody can cause them to behave that way.  Think astrology: different signs have certain behaviors and this is reinforced by people who believe in astrology.  Is my investigation actually affecting my behavior?  I hope so, for [Mitigation](Experience/Mitigation.md) steps.  I think I am observing myself clearly and describing rather than changing, but introspection and knowledge makes me aware of it too.
 
 About all I can say is that my observations about myself are truthful as far as I can perceive -- I might be mistaken, but when I find inconsistencies I figure them out.
 

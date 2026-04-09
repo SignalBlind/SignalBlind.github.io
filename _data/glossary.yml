@@ -1,13 +1,22 @@
-- term: A-Salience
-  full: Lack of Social Salience
-  page: /Experience/Pure_A-salience/
-  definition: The _experience_ of not being noticed or remembered in social contexts.
-    People who are a-salient may be overlooked in groups, forgotten after interactions,
-    or find their contributions attributed to others.
-
 - term: Absorption
   definition: Absorption is a disposition or personality trait in which a person becomes
     absorbed in their mental imagery, particularly fantasy.  [Wikipedia](https://en.wikipedia.org/wiki/Absorption_(psychology))
+
+- term: Affective
+  alternates:
+  - affectivity
+  - affect
+  page: /Emotions/Empathy/
+  definition: The experience of feeling emotions.  In NT people this is often associated
+    with "affective empathy" -- the ability to feel other people's emotions. [Wikipedia](https://en.wikipedia.org/wiki/Affect_(psychology))
+
+- term: Affective Deontology
+  page: /Cognition/Ethical_Systems/#affective-deontology
+  definition: This is the ethical system that most autistic people use. In affective
+    deontology the rules stem from justice, moral values and deep empathy (affectivity).
+    As in any deontological system the actions are either consistent with the rules
+    or they are in violation. Rules are moral imperatives, not just constraints. They
+    appear rigid to outside observers.
 
 - term: Alexithymia
   page: /Experience/Alexithymia/
@@ -17,8 +26,9 @@
 - term: Asperger Syndrome
   alternates:
   - Aspergers
-  definition: Former name for high-functioning Autism Spectrum Disorder (ASD) (without
-    intellectual or language impairment). [Wikipedia](https://en.wikipedia.org/wiki/Asperger_syndrome)
+  - Level 1
+  definition: Former name for high-functioning Autism Spectrum Disorder (ASD) Level
+    1 (without intellectual or language impairment). [Wikipedia](https://en.wikipedia.org/wiki/Asperger_syndrome)
 
 - term: Autism
   alternates:
@@ -41,12 +51,43 @@
     (i.e. alternative outcomes), and to thus be able to examine one's own thoughts.
     [Wikipedia](https://en.wikipedia.org/wiki/Autonoetic_consciousness)
 
+- term: Axiomatic Deontology
+  page: /Cognition/Ethical_Systems/#axiomatic-deontology
+  definition: This is the ethical system that I use.  Axiomatic refers to a set of
+    rules (axioms). As in any deontological system the actions are either consistent
+    with the rules or they are in violation. Rules are moral imperatives, not just
+    constraints. They appear rigid to outside observers.
+
 - term: Black Box
   alternates:
   - Black Boxes
   page: /Experience/Black_Box/
   definition: A system where you can observe inputs and outputs without knowing the
     internal function or state. [Wikipedia](https://en.wikipedia.org/wiki/Black_box)
+
+- term: Category A
+  full: DSM-5 Criterion A
+  page: /Experience/Not_Autism/
+  definition: Category A in Autism Spectrum Disorder (ASD) refers to the DSM-5 Criterion
+    A, which defines persistent deficits in social communication and interaction.
+    It requires challenges in three key areas, social-emotional reciprocity (e.g.,
+    conversation, interaction), nonverbal communication (e.g., eye contact), and developing/maintaining
+    relationships.  Signal Blindness has high overlap.  [Autism Speaks](https://www.autismspeaks.org/autism-diagnostic-criteria-dsm-5)
+
+- term: Category B
+  full: DSM-5 Criterion B
+  page: /Experience/Not_Autism/
+  definition: Category B in Autism Spectrum Disorder (ASD) refers to the DSM-5 Criterion
+    B which refers to restricted, repetitive patterns of behavior, interests, or activities.  Signal
+    blindness has no overlap.  [Autism Speaks](https://www.autismspeaks.org/autism-diagnostic-criteria-dsm-5)
+
+- term: Deontology
+  alternates:
+  - Deontological
+  page: /Cognition/Ethical_Systems/
+  definition: The Rule is the Rule.  An ethical system where the "rightness" of an
+    action is determined by its adherence to a fixed set of rules or duties, regardless
+    of the consequences.  Most autistic behavior and my behavior is based on deontology.
 
 - term: Double Empathy
   page: /Experience/Double_Empathy/
@@ -65,7 +106,8 @@
 - term: emotional contagion
   definition: Unconscious, automatic process of mimicking and synchronizing facial
     expressions, vocalizations, postures, and movements with another person, leading
-    to shared emotions. [Wikipedia](https://en.wikipedia.org/wiki/Emotional_contagion)
+    to shared emotions.  This requires working Theory of Mind and social salience.
+    [Wikipedia](https://en.wikipedia.org/wiki/Emotional_contagion)
 
 - term: Empathy
   definition: Empathy is the ability to understand and share the feelings of another,
@@ -80,6 +122,11 @@
   definition: Thinking in the form of sound -- hearing your own voice silently to
     oneself. [Wikipedia](https://en.wikipedia.org/wiki/Imagined_speech)
 
+- term: Explicit Signal Gate
+  definition: The requirement for literal, verbal, or written data to trigger a change
+    in modeling or behavior, as "subtext" or "vibes" fail to reach the threshold of
+    data.  For example, "We are now doing X."
+
 - term: False Consensus Effect
   definition: A cognitive bias where individuals overestimate the extent to which
     their opinions, beliefs, and behaviors are shared by others. [Wikipedia](https://en.wikipedia.org/wiki/False_consensus_effect)
@@ -90,12 +137,28 @@
     by a monotone voice, immobile face, and reduced body language, often mistaken
     for apathy.
 
+- term: Frame Persistence
+  definition: The continuation of a cognitive or behavioral "script" after the environmental
+    or social context has changed, caused by the absence of an Explicit Signal to
+    pivot. Being stuck on the previous topic/task when everyone else has moved on.
+
+- term: Functional Logic Modeling
+  alternates:
+  - FLM
+  page: /Cognition/Functional_Logic_Modeling/
+  full: Functional Logic Modeling
+  definition: The manual process of predicting "Black Box" behavior based on observed
+    inputs and outputs, rather than simulating internal states.
+
 - term: Guilt
   definition: A self-conscious, often prosocial emotion arising from a personal violation
     of one's own morals or causing harm to others. It acts as a moral compass to repair
     relationships, causing symptoms like anxiety, irritability, and sleeplessness.  [Wikipedia](https://en.wikipedia.org/wiki/Guilt_(emotion))
 
 - term: Heteronym
+  alternates:
+  - Semantic Divergence
+  page: /Emotions/Semantic_Divergence/
   definition: A word that has a different pronunciation and meaning as another word
     but the same spelling.  [Wikipedia](https://en.wikipedia.org/wiki/Heteronym_(linguistics))
 
@@ -104,10 +167,29 @@
   definition: A cognitive condition characterized by very low, faint, or unstable
     visual mental imagery. [Wikipedia](https://en.wikipedia.org/wiki/Aphantasia)
 
+- term: Hyposalience
+  page: /Experience/Hyposalience/
+  definition: Hyposalience is having Social Salience with the gain set so low it is
+    barely perceived.
+
 - term: Kindchenschema
   definition: Kindchenschema (baby schema) is a set of infantile physical features—large
     head, high forehead, big eyes, chubby cheeks, small nose/mouth—defined by Konrad
     Lorenz to evoke cuteness and nurturing behavior. [Wikipedia](https://en.wikipedia.org/wiki/Cuteness)
+
+- term: Labeling Theory
+  alternates:
+  - Self-Stereotyping
+  title: Labeling Theory
+  page: /Disclaimer#Skeptical
+  definition: The idea that diagnosis or classification can influence the people they
+    apply to -- does being labeled with Signal Blindness cause me to behave as if
+    I am Signal Blind? [Wikipedia](https://en.wikipedia.org/wiki/Labeling_theory)
+
+- term: Lag
+  definition: Time gap between external event (input) and the system's response (output).  This
+    is often caused in ND individuals when they have to use a manual/effortful system
+    to replace an NT automatic system.
 
 - term: LLM
   alternates:
@@ -118,9 +200,32 @@
     trained on a huge amount of human writing.  They can't think but they do a good
     job with pattern matching and (I found) describing NT behavior and thought patterns.
 
+- term: Manual Frame Construction
+  alternates:
+  - MFC
+  full: Manual Frame Construction
+  page: /Cognition/Manual_Frame_Construction/
+  definition: Manually understanding the situation and what are the requirements and
+    goals.  A prelude to Functional Logic Modeling.  I avoid stalls by short-circuiting
+    when I have either "good enough" information or I need to proceed (timeout).
+
+- term: Mechanism
+  page: /Experience/Social_Salience/
+  definition: The underlying causal process that generates a particular output.  As
+    opposed to symptom, which describes the output indepdent of how it was caused.  I
+    am interested in the mechanism behind my behavior, Signal Blindness.
+
 - term: Monotropism
   definition: A cognitive style characterized by an intense, narrow focus on a limited
     number of interests or tasks, often known as hyperfocus.  [Wikipedia](https://en.wikipedia.org/wiki/Monotropism)
+
+- term: Moral Lag
+  page: /Cognition/Ethical_Systems/#axiomatic-deontology
+  definition: The delay or hesitation caused by weighing ethical convictions against
+    social consequences (shame, status, or group cohesion).  In my Axiomatic Deontology,
+    Moral Lag is zero. Because ethics are logical constants and "cruelty" or "social
+    cost" are excluded from the equation, a moral conclusion is reached as soon as
+    the facts are verified.
 
 - term: My Experience
   full: My Experience
@@ -158,17 +263,11 @@
   definition: A problem-solving principle stating that when faced with competing hypotheses
     that make the same predictions, one should select the one with the fewest assumptions.  [Wikipedia](https://en.wikipedia.org/wiki/Occam's_razor)
 
-- term: Phatic Pressure
-  alternates:
-  - phatic expression
-  definition: The social and communicative demand to engage in "phatic communication"—speech
-    that serves a social function (like small talk or greetings) rather than conveying
-    information. [Wikipedia](https://en.wikipedia.org/wiki/Phatic_expression)
-
 - term: Phatic speech
   alternates:
   - Phatic questions
   - Phatic expression
+  - Phatic pressure
   full: Phatic speech
   definition: Conversational exchanges that function as social glue rather than for
     sharing information, such as greetings, weather comments, and small talk.  [Wikipedia](https://en.wikipedia.org/wiki/Phatic_expression)
@@ -232,16 +331,18 @@
     you know your peers feel about you.  [Wikipedia](https://en.wikipedia.org/wiki/Shame)
 
 - term: Signal Blind
+  alternates:
+  - A-salience
+  - No social salience
+  - Signal blindness
+  full: Signal Blind
+  page: /Experience/Social_Salience/
   definition: A term describing individuals who lack social salience and are completely
     blind to the social signal. This means they don't see the emotional mirroring,
     or any of the nonverbal communication that makes up a big part of neurotypical
     society. For me this also means I have no Theory of Mind -- I perceive other humans
-    as Black Boxes where I can see inputs and ouputs but have no idea about their
+    as Black Boxes where I can see inputs and ouputs but no mechanism to model their
     inner state (thoughts and emotions).
-
-- term: Simulation Theory
-  definition: Idea that in neurotypical people they simulate the knowledge, emotions
-    and behaviors of others automatically in their own mind.[Wikipedia](https://en.wikipedia.org/wiki/Simulation_theory_of_empathy)
 
 - term: Simulation Theory
   definition: The simulation theory of mind (or simulation theory of empathy/mindreading)
@@ -260,6 +361,22 @@
     rules, and adapting communication to different contexts, without the restricted/repetitive
     behaviors seen in autism. [Wikipedia](https://en.wikipedia.org/wiki/Social_(pragmatic)_communication_disorder)
 
+- term: Social Friction
+  alternates:
+  - Friction
+  page: /Experience/Double_Empathy/
+  definition: The operational resistance, negative feedback, or interpersonal "heat"
+    generated when your Explicit Signal processing interacts with a social environment
+    that relies on Social Saliency (subtext, hierarchy, and emotional grooming).  We
+    are not talking the same language.
+
+- term: Social Lag
+  page: /Cognition/Zero_Lag/
+  definition: The processing delay traditionally associated with neurodivergence (specifically
+    ASD) where the individual attempts to manually decode social cues, tone, and subtext
+    in real-time.  I do not experience Social Lag because I do not attempt to capture
+    or decode the subtext. I operate on the Explicit Signal (typically speech) only.
+
 - term: Social Salience
   alternates:
   - Social Saliency
@@ -269,12 +386,27 @@
   definition: I am really referring to the Salience Network -- a low level part of
     the brain that processes social signals and gives importance to the same. [Wikipedia](https://en.wikipedia.org/wiki/Salience_network)
 
+- term: Social Utilitarianism
+  page: /Cognition/Ethical_Systems/#social-utilitarianism
+  definition: This is a typical ethical system for NT people. Truth is variable based
+    on emotional state or social hierarchy. This system does not seek “Truth”; it
+    seeks the state of Lowest Social Friction. If a lie maintains harmony, it is “better”
+    (more stable) than a truth that causes a fracture.
+
 - term: Sympathy
   definition: The feeling of care, sorrow, or concern for another person’s misfortune,
     often accompanied by a desire for them to be happier or in a better situation.
     It differs from empathy, which is sharing the exact same emotional state, by maintaining
     a boundary while offering support. It is crucial for building relationships by
     validating feelings and showing you care.  [Wikipedia](https://en.wikipedia.org/wiki/Sympathy)
+
+- term: Teleology
+  alternates:
+  - Teleological
+  page: /Cognition/Ethical_Systems/
+  definition: The End Justifies the Means.  An ethical or decision-making system where
+    the "rightness" of an action is determined by its outcome or goal (the telos).  Most
+    NT behavior is teleological.
 
 - term: The Intentional Stance
   definition: A predictive strategy developed by philosopher Daniel Dennett. Instead
@@ -293,5 +425,13 @@
     differ from one's own. [Wikipedia](https://en.wikipedia.org/wiki/Theory_of_mind)
 
 - term: Theory-Theory
-  definition: Autistic people may use a set of data and heuristics to predict the
-    state and behavior of other people manually. [Wikipedia](https://en.wikipedia.org/wiki/Theory-theory)
+  definition: A cognitive strategy where individuals (typically associated with autism)
+    manually use data and heuristics to predict the internal states of others. Contrast
+    to Signal Blind users who utilize Black Box modeling, which ignores internal states
+    in favor of Input/Output observation. [Wikipedia](https://en.wikipedia.org/wiki/Theory-theory)
+
+- term: Zero Lag
+  page: /Cognition/Zero_Lag/
+  definition: immediate execution of a script or logical deduction without internal
+    friction or delay.  This also implies low effort (fatigue) and potentially non-ideal
+    consequences, e.g. social friction.

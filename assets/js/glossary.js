@@ -118,13 +118,19 @@
                         const parent = node.parentElement;
                         if (!parent) return NodeFilter.FILTER_REJECT;
 
-                        const tagName = parent.tagName.toLowerCase();
-                        if (tagName === 'code' ||
-                            tagName === 'pre' ||
-                            tagName === 'a' ||
-                            tagName === 'h1' ||
-                            parent.classList.contains('glossary-term')) {
-                            return NodeFilter.FILTER_REJECT;
+                        // Walk up ancestors to reject nodes inside excluded elements
+                        let el = parent;
+                        while (el && el !== content) {
+                            const tag = el.tagName.toLowerCase();
+                            if (tag === 'code' ||
+                                tag === 'pre' ||
+                                tag === 'a' ||
+                                tag === 'h1' ||
+                                el.classList.contains('glossary-term') ||
+                                el.classList.contains('glossary-tooltip')) {
+                                return NodeFilter.FILTER_REJECT;
+                            }
+                            el = el.parentElement;
                         }
 
                         return NodeFilter.FILTER_ACCEPT;
@@ -140,9 +146,63 @@
             return nodes;
         }
 
+        // First pass: annotate existing <a> tags whose text matches glossary terms
+        // This runs before text node processing so that linked first-mentions get priority
+        content.querySelectorAll('a:not(.glossary-tooltip-link):not(.glossary-annotated)').forEach(link => {
+            const linkText = link.textContent.trim();
+
+            for (const termObj of termsToSearch) {
+                const regex = new RegExp('^' + escapeRegex(termObj.searchTerm) + '$', 'i');
+                if (!regex.test(linkText)) continue;
+
+                // In first-only mode, skip if already linked
+                if (!allMode && linkedTerms.has(termObj.glossaryItem.term)) continue;
+
+                const glossaryItem = termObj.glossaryItem;
+
+                // Add tooltip directly inside the <a> tag
+                const tooltip = document.createElement('span');
+                tooltip.className = 'glossary-tooltip';
+
+                let tooltipText = '';
+                if (glossaryItem.full) {
+                    tooltipText = `<strong>${markdownToHtml(glossaryItem.full)}</strong><br>`;
+                }
+                tooltipText += markdownToHtml(glossaryItem.definition);
+
+                const linkTarget = glossaryItem.page || `{{ '/glossary/' | relative_url }}#${glossaryItem.slug}`;
+                const linkLabel = glossaryItem.page ? 'Read more \u2192' : 'Glossary \u2192';
+                tooltipText += `<a href="${linkTarget}" class="glossary-tooltip-link">${linkLabel}</a>`;
+
+                tooltip.innerHTML = tooltipText;
+
+                link.appendChild(tooltip);
+                link.classList.add('glossary-annotated', 'glossary-term');
+                link.style.position = 'relative';
+
+                // Toggle tooltip on click/tap
+                link._glossaryClickHandler = function(e) {
+                    if (e.target.closest('.glossary-tooltip-link')) return;
+                    e.preventDefault();
+                    e.stopPropagation();
+                    const isActive = this.classList.contains('glossary-active');
+                    document.querySelectorAll('.glossary-term.glossary-active').forEach(el => {
+                        el.classList.remove('glossary-active');
+                    });
+                    if (!isActive) {
+                        this.classList.add('glossary-active');
+                    }
+                };
+                link.addEventListener('click', link._glossaryClickHandler);
+
+                linkedTerms.add(glossaryItem.term);
+                break;
+            }
+        });
+
+        // Second pass: process plain text nodes
         const textNodes = collectTextNodes();
 
-        // Process each text node
         textNodes.forEach(textNode => {
             let text = textNode.textContent;
 
@@ -266,58 +326,6 @@
             }
         });
 
-        // Second pass: annotate existing <a> tags whose text matches glossary terms
-        content.querySelectorAll('a:not(.glossary-tooltip-link):not(.glossary-annotated)').forEach(link => {
-            const linkText = link.textContent.trim();
-
-            for (const termObj of termsToSearch) {
-                const regex = new RegExp('^' + escapeRegex(termObj.searchTerm) + '$', 'i');
-                if (!regex.test(linkText)) continue;
-
-                // In first-only mode, skip if already linked
-                if (!allMode && linkedTerms.has(termObj.glossaryItem.term)) continue;
-
-                const glossaryItem = termObj.glossaryItem;
-
-                // Add tooltip directly inside the <a> tag
-                const tooltip = document.createElement('span');
-                tooltip.className = 'glossary-tooltip';
-
-                let tooltipText = '';
-                if (glossaryItem.full) {
-                    tooltipText = `<strong>${markdownToHtml(glossaryItem.full)}</strong><br>`;
-                }
-                tooltipText += markdownToHtml(glossaryItem.definition);
-
-                const linkTarget = glossaryItem.page || `{{ '/glossary/' | relative_url }}#${glossaryItem.slug}`;
-                const linkLabel = glossaryItem.page ? 'Read more \u2192' : 'Glossary \u2192';
-                tooltipText += `<a href="${linkTarget}" class="glossary-tooltip-link">${linkLabel}</a>`;
-
-                tooltip.innerHTML = tooltipText;
-
-                link.appendChild(tooltip);
-                link.classList.add('glossary-annotated', 'glossary-term');
-                link.style.position = 'relative';
-
-                // Toggle tooltip on click/tap
-                link._glossaryClickHandler = function(e) {
-                    if (e.target.closest('.glossary-tooltip-link')) return;
-                    e.preventDefault();
-                    e.stopPropagation();
-                    const isActive = this.classList.contains('glossary-active');
-                    document.querySelectorAll('.glossary-term.glossary-active').forEach(el => {
-                        el.classList.remove('glossary-active');
-                    });
-                    if (!isActive) {
-                        this.classList.add('glossary-active');
-                    }
-                };
-                link.addEventListener('click', link._glossaryClickHandler);
-
-                linkedTerms.add(glossaryItem.term);
-                break;
-            }
-        });
     }
 
     // Dismiss tooltips when clicking outside
