@@ -20,6 +20,11 @@ Tags: System Discovery, High Competence, No Decorum
 I had seen the title before and wasn't interested in it, but based on LLM recommendations (see [Books](Books.md)) it suggested I might like the Amos Burton-like main character, so I gave it a try.  Really good!  It is about a humanoid robot that has broken free of his chains and considers his freewill.  Written as a first-person autistic (robot) point of view (the author discovered she was autistic was channeling her own experience).  Kind of hard-boiled detective in space mixed with Terminator.
 
 LLM summary: It is the ultimate "Manual Simulation" series. Murderbot has zero social intuition and finds human emotions confusing and awkward. It interprets everything through tactical overlays and risk assessments. It’s funny, fast, and very logical.
+### [Bobiverse](https://www.amazon.com/dp/B0753LBFQ7)
+
+Bob is an engineer in modern times.  Stuff happens.  His mind ends up piloting a starship to explore, colonize and reproduce (make more Bobs).  It is hard to believe how compelling a book where the main character isn't even physically present (in most senses) can be.  
+
+Bob is most likely ND and each of the different Bobs are *slight* variations on the theme.  The series is fantastic and I like to see how Bob operates.  The whole setting is both awful and inspiring at the same time.  Well worth a read!
 ### [Eon Series](https://www.amazon.com/gp/product/B071YMZ3RT)
 Tags: System Discovery
 

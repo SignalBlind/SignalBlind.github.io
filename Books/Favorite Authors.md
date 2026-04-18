@@ -152,6 +152,13 @@ They have a variety of other series both together and apart.  I enjoy all of the
 Tags: High Competence, Deduction, No Decorum
 
 *Jack Reacher* series - these are sort of military/mystery books.  Jack Reacher is an ex-MP who travels the country like a one-man A-Team.  Not high literature but very fun reads.
+
+Reacher isn't officially ND, but he seems to fit the bill:
+
+- literal communication, very blunt, no small talk, a lot of silence
+- internal clock, high speed mental math -- hyper-focus or "savant" characteristics
+- [Axiomatic Deontology](../Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) -- operates on rigid internal rules and logic.  cares about facts, not vibes
+- systemizing mind -- data and patterns
 ## [John Grisham](https://www.amazon.com/stores/John-Grisham/author/B000AQ40M8)
 Tags: Deduction
 
