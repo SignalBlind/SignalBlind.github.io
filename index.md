@@ -5,64 +5,79 @@ permalink: /
 order: 1
 ---
 <div class="callout-note" markdown="1">
-The "signal blind" mental architecture is not defined by struggle with social signals, but by the absence of them. I do not experience social anxiety, sensory overload, or the "social burnout" common in autism. Where others describe a "painful gap" between themselves and society, I perceive a neutral data field. My logic is not a compensatory tool for a broken social sense; it is the primary and only mode of operation.
+**Signal Blindness:** A cognitive architecture defined not by the struggle to process social signals, but by their total absence. No social anxiety. No sensory overload. No social shame. Only logic.
 </div>
-## About Me
 
-This site documents a specific cognitive architecture: **Total Social Signal Blindness.** It is the functional map of my own cognitive architecture.  I discovered late in life that I might be neurodivergent and this is what I discovered.
+## Differential Matrix
 
-At over [50 years of age](Experience/History.md) a therapist asked me if I had ever been diagnosed as autistic.  I hadn't and wondered why she might ask.  It turns out she had *excellent* instincts as I have significant overlap on all the [Category A](Experience/Not%20Autism.md) indicators, such as [Saying The Wrong Thing](Experience/Say%20The%20Wrong%20Thing.md), but none of the Category B indicators (I can't experience [Shame](Emotions/Shame.md) and have no social anxiety).  Typically that might suggest [SCD](Experience/Not%20SCD.md), but it is not that either.
+How does signal blindness compare to neurotypical and autistic experience?  These descriptions of ASD and NT experiences are functional models used to illustrate the gap in my own architecture, not clinical definitions of those groups.
 
-I believe I am unable to process *any* social signals.  I have no [Theory of Mind](Experience/Theory%20of%20Mind.md) and no [Social Salience](Experience/Social%20Salience.md).  Yet, I didn't even realize I was [different than anybody else](Experience/Everybody%20is%20the%20Same.md) -- sure I had my oddities, but so did everybody else.  This seemed well within the bounds of personality.  Curiously, the lack of social salience may have played a part in this perception.  I couldn't see the signals and nobody had ever mentioned them.  In cases where there were hints, like [Double Empathy](Experience/Double%20Empathy.md), it didn't bother me -- the part of the brain that would cause you to care is ... you guessed it, the social saliency network.  And mine was turned off.
+| Category                                 | Neurotypical (NT)                                                                                              | Autistic (ASD)                                                                                                | Signal Blind (You)                                                                                                                                                 |
+| :--------------------------------------- | :------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Social Noticing**<br>(Social Saliency) | **Automatic.** Social cues are the loudest things in the room.                                                 | **Manual/Overwhelming.** Cues are heard but hard to prioritize.                                               | [**Zero**](Experience/Social%20Salience.md). Cues are undetected background noise.                                                                                 |
+| **The "Vibe"**<br>(Social Signal)        | **Intuitive.** Feels like a "gut instinct" or "atmosphere."                                                    | **Conscious.** Requires active decoding of body/tone.                                                         | [**None**](Cognition/Zero%20Lag.md). Facts and literal text are the only data.                                                                                     |
+| **Reading Minds**<br>(Theory of Mind)    | [**Automatic**](Experience/NT%20Experience.md). Instantly "knows" how others feel.                             | [**Manual**](Experience/Autism%20Experience.md). Simulates others' feelings with effort.                      | [**None**](Experience/Theory%20of%20Mind.md).  Uses [**Logical Modeling**](Cognition/Functional%20Logic%20Modeling.md) to predict behavior at high cost.           |
+| **Social Pressure**<br>(Anxiety/Shame)   | **High/Contextual.** Fear of "doing it wrong" or losing status.                                                | **Extreme.** High cost of social error leading to meltdown.                                                   | [**Zero**](Emotions/Shame.md).  Cannot experience social shame or "rejection sensitive dysphoria."                                                                 |
+| **Internal Compass**<br>(Ethical Logic)  | [**Social**](Cognition/Ethical%20Systems.md#Social%20Utilitarianism).  Focused on social harmony at all costs. | [**Emotional**](Cognition/Ethical%20Systems.md#Affective%20Deontology).  Rules based on fairness and empathy. | [**Axiomatic**](Cognition/Ethical%20Systems.md#Axiomatic%20Deontology).  Rules are  [**Logical Constants**](Cognition/Propositional%20Logic.md) that never change. |
 
-My wife and I were reading [Autism Couple's Workbook](Books/Autism%20Couple's%20Workbook.md) and I was struck by how pertinent the book seemed to be in terms of my outward behavior, but then it was a complete miss on things like *meltdowns*.  I kept searching to understand the mechanism and I finally found it when the book mentioned Theory of Mind being a key factor behind several of the behaviors.  I talked to the therapist and she gave me [the key that unlocked it all](Experience/History.md#Stage%203): Theory of Mind is not a logic puzzle in NT people, it is automatic and effortless.
+A short example that illustrates my experience -- this may sound familiar for autistic readers, but perhaps my reaction is different.
 
-From this I was able to build a predictive model that fit my entire experience: I had no [Social Salience](Experience/Social%20Salience.md) and thus no social signal.  I was **signal blind**.  This is distinct from the [Autism Experience](Experience/Autism%20Experience.md) where there is often a social signal but it has to be manually processed, though in some cases people experience [Hyposalience](Experience/Hyposalience.md).  I have **none** and no workarounds.  I perceive humans around me as [Black Boxes](Experience/Black%20Box.md) where I can observe their inputs and outputs but have no notion of their inner state (thoughts and emotions).  I am not a psychopath, I have extremely rigid [Ethics](Cognition/Ethics.md) in an [Axiomatic Deontology](Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) -- the first rule of me is do not harm others.
+> I went to a party with my wife and brought a book in case I got bored.  As expected, I got bored, so I sat in the corner and read my book.  Much later my wife told me that people were offended by my behavior.  They thought I was angry with them.  I *couldn't believe it* -- why would they make something up (and totally false at that) and then believe it?  Whatever.
 
-To be clear: I am not a robot, even though it might seem that way. I have long-term friends. I have been married for almost 25 years and have children.  I am a successful software developer and have been with a top tier company for over 20 years.  I think the interesting thing about all of this is that I made it work -- I have a system (see below).  It isn't without flaws, some significant, but many of them I didn't know about until I started researching NT behavior.
+To be clear: I couldn't believe this was a thing, I made no changes in my behavior, and I didn't care what they thought since they were mistaken.  My lack of [Social Salience](Experience/Social%20Salience.md) means that I don't see the social signals and do not care about social standing.  I don't want to harm people, but at the time I couldn't see this as anything but "overactive imagination", which is on them.  Today, I understand that this is part of [Social Salience](Experience/Social%20Salience.md) and [Theory of Mind](Experience/Theory%20of%20Mind.md).
 
-Some starting points:
+I have a [Checklist](Experience/Checklist.md) that might illustrate the point as well, but briefly:
 
-- [My Experience](Experience/My%20Experience.md) -- What it feels like to live without a social "receiver."
-	- *why* I think this document is a good model for me
-	- [Benefits](Experience/Benefits.md) -- I am a software developer and this fits like a glove
-	- I experience no stress and [Zero Lag](Cognition/Zero%20Lag.md)
-	- and some drawbacks: [Communication](Experience/Communication.md)
-- [Functional Cognitive Architecture](Cognition/Functional%20Cognitive%20Architecture.md) -- the mental stack
-	- [Axiomatic Deontology](Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) / [Ethics](Cognition/Ethics.md) -- why a lack of social "feeling" does not equate to a lack of morality
-	- [Manual Frame Construction](Cognition/Manual%20Frame%20Construction.md)
-	- [Functional Logic Modeling](Cognition/Functional%20Logic%20Modeling.md)
-	- [Propositional Logic](Cognition/Propositional%20Logic.md)
-- [Emotions](Emotions/Emotions.md)
-	- I have emotions, and not [Alexithymia](Experience/Alexithymia.md)
-	- but I have significant [Semantic Divergence](Emotions/Semantic%20Divergence.md) in how I experience them
-	- some of the social emotions like [Shame](Emotions/Shame.md) I can't experience at all
-	- I have no affective [Empathy](Emotions/Empathy.md) and don't mirror emotions
-- [Books](Books/Books.md) / [Favorite Authors](Books/Favorite%20Authors.md)
-	- in researching this I found that LLMs are pretty good at recommending books when you describe what you like
+- Do you feel *vibes* or *tension* in a room?
+- Does the idea of social status influence your behavior?
+- Do you experience *shame* when you make a social mistake?
 
-Is this legit?  You can read my [Disclaimer](Disclaimer.md) and [FAQ](FAQ.md) and decide for yourself.  This model predicts my behavior and feelings with high fidelity -- I think it is real.
-## Objective
+I would answer "no" to all of these.
 
-I was documenting my mental architecture for myself -- it is hard to find [Mitigation](Experience/Mitigation.md) techniques if you don't understand what is happening.  That was the case reading books and articles about autism: many of the problems and techniques that were described just didn't fit.  This model does.  The jury is still out on the mitigation, but I am already seeing some positive effects with my wife.
+## Audience
 
-As I was researching this I naturally wanted to find other records of people like myself.  I can't be unique in this world and finding a research paper or study that described this would give it some legitimacy and hopefully provide a well of information.
+There is a lot of material here all connected with links.  It makes sense to me, but may be a bit scattered, depending on what you are looking for.
 
-Sadly my quest failed.  [Where Are My People?](Experience/Where%20Are%20My%20People?.md)
+- [About](About.md) me
+- [History](Experience/History.md) and [My Experience](Experience/My%20Experience.md)
 
-- clinical frameworks focus on disorders (impairments)
-- people who don't experience distress do not seek diagnosis
-- I suspect there are many "Stealth ND" individuals in technical fields.
+### Neurotypical Reader (Friend/Family/Curious)
 
-My hope is that someone like me will find this and recognize their own architecture.
+**Goal**: understanding the gap in communication and thought processes (why is this guy strange).
 
-Does this sound familiar?  I have a [Checklist](Experience/Checklist.md) if you want to see what I think might be discriminating factors.
+- [Emotions](Emotions/Emotions.md), [Semantic Divergence](Emotions/Semantic%20Divergence.md) and [No Shame](Emotions/Shame.md)
+- [Truth and Facts](Cognition/Truth%20and%20Facts.md)
+- [Double Empathy](Experience/Double%20Empathy.md) and [Flat Affect](Experience/Flat%20Affect.md) and [Say The Wrong Thing](Experience/Say%20The%20Wrong%20Thing.md)
+- [Examples](Cognition/Examples.md) of communication
 
+### Autistic Reader (The Seeker)
+
+Some readers identify Signal Blindness is a subtype of Autism. While there are overlaps in behavioral output, the **Internal Architecture** is different.  I do not experience "Sensory Overload" or "Social Anxiety." The signals are not "too loud"; they are not received.  I have emotions and can identify them. My blindness is external (Social Signals), not internal (Emotional Signals), see [Alexithymia](Experience/Alexithymia.md).
+
+**Goal**: comparing cognitive architectures.
+
+- [Not Autism](Experience/Not%20Autism.md), [Autism Experience](Experience/Autism%20Experience.md), [My Experience](Experience/My%20Experience.md)
+- [Overlaps](Experience/Overlaps.md)
+- [Checklist](Experience/Checklist.md)
+- [Functional Cognitive Architecture](Cognition/Functional%20Cognitive%20Architecture.md) and [Ethics](Cognition/Ethics.md)
+
+### My Doppelgänger!
+
+One of my [objectives](Objective.md) is to present information in case other people like me are looking.  I wasn't able to find anything that described my experience -- [Where Are My People?](Experience/Where%20Are%20My%20People?.md)
+
+- [Checklist](Experience/Checklist.md) , [My Experience](Experience/My%20Experience.md), [Social Salience](Experience/Social%20Salience.md)
+- [Functional Cognitive Architecture](Cognition/Functional%20Cognitive%20Architecture.md), [Manual Frame Construction](Cognition/Manual%20Frame%20Construction.md), [Functional Logic Modeling](Cognition/Functional%20Logic%20Modeling.md)
+- [Theory of Mind](Experience/Theory%20of%20Mind.md) and [Hypophantasia](Experience/Hypophantasia.md)
+- [Emotions](Emotions/Emotions.md) and [Semantic Divergence](Emotions/Semantic%20Divergence.md)
+
+## Why Did I Make This Site?
+
+See my [Objective](Objective.md).
 ## Data Reliability and Provenance
 
 ### Technical Status
 
-This model is a high-fidelity representation of my subjective cognitive experience. It has not undergone clinical peer review, see [Disclaimer](Disclaimer.md).
+This model is a high-fidelity representation of my subjective cognitive experience. It has not undergone clinical peer review, see [Disclaimer](Disclaimer.md) and [FAQ](FAQ.md).
 
 ### Methodological Note: Machine-Assisted Synthesis
 
