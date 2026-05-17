@@ -10,7 +10,7 @@ Don't read any of this as medical advice.  It is probably not wise to read it as
 ## Truth
 I value the [Truth and Facts](Cognition/Truth%20and%20Facts.md) above *most* other things (see [Ethics](Cognition/Ethics.md) for the few things I value more).  As far as I know, what I have written here is true.  Read this disclaimer to understand how I developed the information and judge for yourself.
 
-Just because I think it is true does not mean it is without error.  I may misrepresent, I may misunderstand and I may not know, but I wouldn't write it if I didn't *think* it was true.  [Let me know if you find an error or have a question!](https://github.com/SignalBlind/SignalBlind.github.io/issues)
+Just because I think it is true does not mean it is without error.  I may misrepresent, I may misunderstand and I may not know, but I wouldn't write it if I didn't *think* it was true.  Let me know if you find an error or have a question! [GitHub issues](https://github.com/SignalBlind/SignalBlind.github.io/issues) or [contact@signalblind.org](mailto:contact@signalblind.org)
 
 This model is not sacrosanct.  I feel no [Shame](Emotions/Shame.md) and although this describes my identity, it is *not* my identity.  It can be updated with no *emotional* cost if it is found to be incorrect.  There is *mechanical* cost to update it, but I value truth and accuracy.  The model is less useful if it is not correct.
 ## Descriptions of Autism and NT

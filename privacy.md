@@ -34,6 +34,6 @@ You have the right to:
 
 ### Contact
 
-For privacy concerns, please contact us through GitHub -- [just file an Issue](https://github.com/SignalBlind/SignalBlind.github.io/issues)!
+For privacy concerns, please contact us [through GitHub issues](https://github.com/SignalBlind/SignalBlind.github.io/issues) or email [contact@signalblind.org](mailto:contact@signalblind.org)
 
 Last updated: {{ 'now' | date: "%Y-%m-%d" }}
