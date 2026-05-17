@@ -48,7 +48,8 @@ There is a lot of material here all connected with links.  It makes sense to me,
 - [Emotions](Emotions/Emotions.md), [Semantic Divergence](Emotions/Semantic%20Divergence.md) and [No Shame](Emotions/Shame.md)
 - [Truth and Facts](Cognition/Truth%20and%20Facts.md)
 - [Double Empathy](Experience/Double%20Empathy.md) and [Flat Affect](Experience/Flat%20Affect.md) and [Say The Wrong Thing](Experience/Say%20The%20Wrong%20Thing.md)
-- [Examples](Cognition/Examples.md) of communication
+- [Examples](Cognition/Examples.md) of communication, [Communication](Experience/Communication.md)
+- [Mitigation](Experience/Mitigation.md)-- thoughts on how I can improve, maybe you have ideas?
 
 ### Autistic Reader (The Seeker)
 
@@ -69,6 +70,7 @@ One of my [objectives](Objective.md) is to present information in case other peo
 - [Functional Cognitive Architecture](Cognition/Functional%20Cognitive%20Architecture.md), [Manual Frame Construction](Cognition/Manual%20Frame%20Construction.md), [Functional Logic Modeling](Cognition/Functional%20Logic%20Modeling.md)
 - [Theory of Mind](Experience/Theory%20of%20Mind.md) and [Hypophantasia](Experience/Hypophantasia.md)
 - [Emotions](Emotions/Emotions.md) and [Semantic Divergence](Emotions/Semantic%20Divergence.md)
+- [Mitigation](Experience/Mitigation.md) -- thoughts on how I can improve
 
 ## Why Did I Make This Site?
 
