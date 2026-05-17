@@ -7,7 +7,7 @@ While phenotypic overlap with Autism Spectrum Disorder (ASD) exists, the underly
 *   **ASD:** Often involves sensory/regulatory friction and social processing lag.
 *   **Signal-Blindness:** Defined by the absence of a social "receiver." Data is processed via **Propositional Logic** and **Manual Frame Construction**.
 
-Visit the [site](https://signalblind.github.io) to find out more.
+Visit the [site](https://www.signalblind.org) to find out more.
 
 ## License
 
