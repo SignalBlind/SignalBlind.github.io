@@ -183,3 +183,13 @@ th {
     background-color: var(--sidebar-bg);
     font-weight: 600;
 }
+
+/* Responsive content swap: author both .wide-only and .narrow-only blocks;
+   one is shown based on viewport width. Breakpoint matches _layout.scss. */
+.narrow-only { display: none; }
+.wide-only   { display: block; }
+
+@media (max-width: 768px) {
+    .narrow-only { display: block; }
+    .wide-only   { display: none; }
+}
