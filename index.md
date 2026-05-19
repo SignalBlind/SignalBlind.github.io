@@ -85,6 +85,16 @@ There is a lot of material here all connected with links.  It makes sense to me,
 - [Examples](Cognition/Examples.md) of communication, [Communication](Experience/Communication.md)
 - [Mitigation](Experience/Mitigation.md) -- how can I improve how I interact with my family and friends?  It is tricky!
 
+### Therapists & Cognitive Scientists
+
+**Goal**: To understand the "Signal Blind" phenotype -- a cognitive architecture defined by the total absence of [Social Salience](Experience/Social%20Salience.md) rather than a deficit in processing.
+
+**My Goal**: to show my work and either demonstrate I am not a crank or show where the flaws might be.  This is not my area of expertise.  I put effort into making sure this was a consistent description of my experience.
+
+- Unlike ASD, this architecture experiences [Zero Lag](Cognition/Zero%20Lag.md) and no [social anxiety](Emotions/Shame.md) because the social receiver is not *noisy*, it is [*absent*](Experience/Social%20Salience.md).
+- [Professionals](Professionals.md): A curated path for professionals to evaluate the mechanism, architecture, and [Not Autism](Experience/Not%20Autism.md) differentiators.
+- [Differential Filter](Experience/Checklist.md): A series of discriminating questions that separate signal blindness from the standard ASD/NT profiles based on the presence or absence of social saliency feedback loops.
+
 ### Autistic Reader (The Seeker)
 
 Some readers identify Signal Blindness as a subtype of Autism. While there are overlaps in behavioral output, the **Internal Architecture** is different.  Unlike many on the spectrum, my sensory processing is **Standard/Neurotypical.** I do not experience sensory overwhelm, meltdown, or physical distress from lights or sounds.  That said, my lack of [Social Salience](Experience/Social%20Salience.md) means that I have *no* social signal.  Curiously, because that is the part of the brain that controls the importance (salience) of the social signal, I also experience *no* social anxiety.
