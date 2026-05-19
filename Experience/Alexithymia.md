@@ -29,7 +29,14 @@ There is a [chart](https://www.thementalhealthcoalition.org/feel-your-feelings/)
 	- I have to run a manual taxonomic search to name it -- this is automatic in NT people
 	- lag in naming emotions and high effort
 	- I once felt an emotion pair: fear + positive alignment.  I was only able to describe it as "high emotional state" (like overload) though I was eventually able to break it down into two pieces
-- in many cases the emotion I name isn't quite the same as how an NT person experiences it
+- in many cases the emotion I name isn't quite the same as how an NT person experiences it -- see [Semantic Divergence](../Emotions/Semantic%20Divergence.md)
+
+I see it like this:
+
+>**NT Emotion:** A felt state that **dictates** logic.
+>**My Emotion:** A biological state that **requires** logic to label.
+
+See my descriptions of [Anger](../Emotions/Anger.md) and [Sadness](../Emotions/Sadness.md) for examples of *how* I experience emotions.
 
 These aren't alexithymia, but they may be perceived to be related:
 

@@ -12,7 +12,7 @@ I do have emotions, but if you met me you might wonder:
 - [Flat Affect](../Experience/Flat%20Affect.md) -- I don't mirror or have typical social signaling
 - no [Alexithymia](../Experience/Alexithymia.md)
 
-That said, I don't have all the same emotions and I experience some of the emotions in a different way.
+That said, I don't have all the same emotions and I experience some of the emotions in a different way.  Like really different -- see [Semantic Divergence](Semantic%20Divergence.md).  The hardware is human animal, but the operating system is logical.
 
 <div class="callout-important" markdown="1">
 **Extra Disclaimer:** as a person who can't experience some of these emotions and experiences other ones in a different way, these descriptions of the NT experience are _best effort_.  I used an LLM to explain them to me but they are largely in my own words as I understand them.  Not all NT people will experience them the same way and I might be wrong.  I think the descriptions of my own experience are correct as far as I can introspect myself.
