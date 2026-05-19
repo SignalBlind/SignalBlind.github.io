@@ -42,4 +42,4 @@ My system achieves **Zero Lag** not through superior social computation, but t
 
 This is an **Emergent Property** of my cognitive architecture. I do not "decide" to ignore social cues; I simply lack the hardware to capture them. Occasional detection of "loud" social signals (e.g., exaggerated stage-acting) occurs only when the signal is so physically distorted that it registers as a literal acoustic fact rather than a "vibe."
 
-It isn't for everyone, in fact I think if you had even a hint of social salience it would be intolerable.  It isn't perfect either, but it works for me.
+To be clear: zero lag doesn't mean perfect social performance.  It means no time/effort spent on trying to figure out the social situation and no anxiety over how that feels to others.  It isn't for everyone, in fact I think if you had even a hint of social salience it would be intolerable.  It isn't perfect either, but it works for me.

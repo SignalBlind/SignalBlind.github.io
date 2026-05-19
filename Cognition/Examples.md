@@ -18,13 +18,15 @@ I could hear crying and identify that as a high magnitude signal for being upset
 
 Functional logic modeling quickly provided the shortcut for answering programming questions, I looked up the information in my memory (facts) and my propositional logic performed the delivery of the information.
 
-To an NT person this probably sounds very cold or even cruel.  I don't have [affective empathy](../Emotions/Empathy.md) so I can't pick up the signal that is very obvious to most people.  This was a non-sequitur in my mind -- two pieces of incongruent information and I picked the one that I could easily deal with.  The upset fact was discarded as irrelevant.  I don't intend to be cold, but it is a fact of having no [Social Salience](../Experience/Social%20Salience.md).
+To an NT person this probably sounds very cold or even cruel.  I don't have [affective empathy](../Emotions/Empathy.md) so I can't pick up the signal that is very obvious to most people.  This was a non-sequitur in my mind -- two pieces of incongruent information and I picked the one that I could easily deal with.  The upset fact was discarded as irrelevant.  I don't intend to be cold, but it is a fact of having no [Social Salience](../Experience/Social%20Salience.md).  This was a failure of understanding, not a failure of soul.
 
 **Note**: Signal Recognition is not Signal Integration.
 
 While I recognized the crying as a signal of distress, it remained Inert Data. In my cognitive architecture, a signal must have a corresponding Functional Script to be actionable. I lacked the "Social Co-regulation" (note: I discovered this was a thing while writing these notes) script necessary to address emotional distress; therefore, the signal was a known fact with no logical "If/Then" destination.
 
 I proceeded with the programming query because it was the only data point for which I possessed a Functional Logic Model. My response was an optimization of the only variable I could compute (the technical question), not a rejection of the person's emotional state. The "Distress" was a recognized variable that the system simply lacked the software to process.
+
+Lucky for the caller, my wife was able to take over the conversation.  Afterward she explained what she thought and I understood that I was missing something. At the time I had not yet discovered anything about being neurodivergent -- it wasn't until later when I thought about this that I understood what was happening.  
 ## Typical Example
 
 I made notes about this as soon as I got home -- it was still fresh in my mind and I was paying attention to my thought process.  I think this is a typical interaction.  Low stakes but not no stakes.

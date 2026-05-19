@@ -51,3 +51,5 @@ When I say my ethics apply to everyone, I mean everyone.  Me, my friends, my fam
 Of course my ethics seem to have little value for people in authority.
 
 Curiously (to me), most NT people grant exceptions and loosen rules for people of higher social importance.
+
+

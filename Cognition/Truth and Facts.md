@@ -23,7 +23,7 @@ I do not use white lies.  I might not say anything at all, but if I do say it, i
 
 In my ethics [Rule 2: Ownership](Ethics.md#Rule%202%20Ownership) is higher priority than [Rule 3: Truth](Ethics.md#Rule%203%20Truth).  If I do not own the data I will not reveal it.
 
-In fact, I may *lie* to conceal it and I don't feel this is wrong.  For example, if there is a fact **X** about my work and somebody asks me if **X** is true I could say:
+In fact, I may *lie* to conceal it and I don't feel this is wrong -- rule 2 (ownership) outranks rule 3 (truth).  For example, if there is a fact **X** about my work and somebody asks me if **X** is true I could say:
 
 - I can't talk about that
 - I don't know anything about that

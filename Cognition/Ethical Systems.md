@@ -83,6 +83,8 @@ This is a typical ethical system for NT people.  Truth is variable based on emot
 Actions are judged as good or bad based on how they make people feel.  Rules are dynamic and subject to social salience, emotional tone and group cohesion.  Obviously this requires a working social salience (typically automatic Theory of Mind) to evaluate.
 
 The system doesn't require logic as a constraint.  In fact "A" and "Not A" can both be true simultaneously if they serve the goal of **Social Cohesion**.
+
+To be fair: this is how the world works.  It isn't wrong, it is just something that I can't understand because I don't have the context -- no social signal.  My explanation may be a bit mechanical, but that is me translating what I read and what an LLM could explain to me through my own words.
 ## Divine Command Theory
 
 Morality is determined solely by the commands of a deity (God).
