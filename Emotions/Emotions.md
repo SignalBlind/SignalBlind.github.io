@@ -17,7 +17,7 @@ That said, I don't have all the same emotions and I experience some of the emoti
 <div class="callout-important" markdown="1">
 **Extra Disclaimer:** as a person who can't experience some of these emotions and experiences other ones in a different way, these descriptions of the NT experience are _best effort_.  I used an LLM to explain them to me but they are largely in my own words as I understand them.  Not all NT people will experience them the same way and I might be wrong.  I think the descriptions of my own experience are correct as far as I can introspect myself.
 
-As far as I know autistic people experience roughly the same emotions as NT people.
+As far as I know autistic people experience roughly the same emotions as NT people but they incorporate them in different ways.  I am not sure how the experience may vary or how autistic people might describe them.
 </div>
 
 ## Social Emotions (Missing) ^Social
