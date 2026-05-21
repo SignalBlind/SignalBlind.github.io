@@ -36,6 +36,8 @@ I see it like this:
 >**NT Emotion:** A felt state that **dictates** logic.
 >**My Emotion:** A biological state that **requires** logic to label.
 
+See [My Experience (Emotions)](../Emotions/Emotions.md#My%20Experience).
+
 See my descriptions of [Anger](../Emotions/Anger.md) and [Sadness](../Emotions/Sadness.md) for examples of *how* I experience emotions.
 
 These aren't alexithymia, but they may be perceived to be related:
