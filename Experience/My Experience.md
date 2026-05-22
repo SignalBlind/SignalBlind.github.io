@@ -6,8 +6,6 @@ order: 500
 ---
 You can read my [History](History.md) and how I discovered that I was ND after over 50 years thinking [Everybody is the Same](Everybody%20is%20the%20Same.md).
 
-## Mechanism
-
 I have identified two root causes for my ND condition:
 
 - no [Social Salience](Social%20Salience.md) / [Pure A-salience](Pure%20A-salience.md) -- no social signal, don't care about social status
@@ -16,6 +14,49 @@ I have identified two root causes for my ND condition:
 everything else falls out of that, perhaps the important piece being:
 
 - no [Theory of Mind](Theory%20of%20Mind.md)
+## How It Works
+
+![My Mind Block Diagram](../img/me-block.png)
+
+- The various senses provide the "social signal" to the salience network
+	- As far as I can tell, my senses are OK
+	- I can notice nonverbal cues of a high enough magnitude: crying, exaggerated facial expressions, laughing, yelling
+- My [salience network](Social%20Salience.md) produces no output
+	- The salience network would provide signal to other systems with importance (salience) information -- mine doesn't
+	- It doesn't feed into the limbic system (emotions) -- I have no affective [Empathy](../Emotions/Empathy.md)
+		- I am prosocial
+		- Have strong [Ethics](../Cognition/Ethics.md)
+		- Employ [Narrative Affective Resonance](../Emotions/Empathy.md#Narrative%20Affective%20Resonance) to understand emotional situations)
+	- It doesn't feed [Theory of Mind](Theory%20of%20Mind.md) -- I have no theory of mind
+	- I believe that it is either disabled or muted rather than just disconnected because other signals pass through here to provide the salience information for social interaction -- I have none
+	- [Failure Example](../Cognition/Examples.md#Failure%20Example) is an example of a failure to assign salience
+- Theory of Mind is a group of systems in the brain
+	- For most people this answers questions like: what is Bob thinking?  How is Bob feeling?
+	- For NT people this is automatic -- they don't have to ask themselves these questions, they *know it*
+	- My theory of mind is empty or deactivated, see more details in [Theory of Mind](Theory%20of%20Mind.md#My%20Experience%20Summary)
+	- Mentally I model people as [Black Boxes](Black%20Box.md) -- I can observe inputs and outputs but I don't know internal state or mechanisms
+- Normally, lack of Theory of Mind might make it hard to fit in to society
+	- I have an alternate "operating system"
+	- For most interactions, I don't even attempt to understand what people are thinking -- [Zero Lag](../Cognition/Zero%20Lag.md)
+	- For other interactions I use [Manual Frame Construction](../Cognition/Manual%20Frame%20Construction.md) and [Functional Logic Modeling](../Cognition/Functional%20Logic%20Modeling.md) to build a logical model
+		- I can predict something like: if I want output Y then I need to supply input X
+		- This is very effortful and not often used -- think about it like the prep work you might employ for a meeting with the CEO
+	- For people I know well, I have prebuilt logical models and I can employ coarse grained generic models for random people
+	- People are not represented in Theory of Mind, rather in my memory
+		- They have attached metadata
+		- They are not represented by a persistent simulation as they might be in Theory of Mind
+	- This is all processed with conscious thought
+	- The prosocial behavior that would come from social norms comes from [Axiomatic Deontology](../Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) and [Ethics](../Cognition/Ethics.md) -- I behave prosocially because I think it is logical and correct to do so
+	- This is normally low effort, zero lag, and potentially produces the same sort of interaction issues that autistic people experience: [Say The Wrong Thing](Say%20The%20Wrong%20Thing.md) and [Double Empathy](Double%20Empathy.md)
+	- However, the part of the brain that might cause anxiety about social interaction is ... the non-functional salience network
+		- I have no [Shame](../Emotions/Shame.md) or [Embarrassment](../Emotions/Embarrassment.md)
+		- So I have no anxiety about social gaffes
+		- But do note that this is asymmetric -- I experience no anxiety but people around me, especially my wife, do
+- The salience network would normally flow into the limbic system (emotions)
+	- I do have [Emotions](../Emotions/Emotions.md) but my experience is quite different from NT people
+	- I don't have [Alexithymia](Alexithymia.md)
+	- Emotions are more a label for mental and physiological state
+	- I am not angry, I am thinking angry thoughts
 
 ## What Does it Feel Like?
 
@@ -56,43 +97,3 @@ The Logical Collision:
 - **NT Perspective** (Social Resonance): "Alone" is the absence of a social signal or "vibe." Because I have Pure A-salience, I am physically present but socially "silent."
 
 Conclusion: I am responding to the explicit signal (location); she is responding to the social vacuum (connection). Both are technically correct, but we are measuring different things.
-## Why No Social Salience
-
-[Hypophantasia](Hypophantasia.md) is directly observable -- once I knew it "was a thing" I could describe my imagination experience and google/LLMs easily gave me a term.  Sure enough that was a match.
-
-No [Social Salience](Social%20Salience.md) is a bit trickier, see [Stage 3](History.md#Stage%203) for how I discovered it.  There is plenty written about [Theory of Mind](Theory%20of%20Mind.md) and the social salience network, but very little about [what i experienced](Where%20Are%20My%20People?.md).  Each time I would read something that sounded close there would be stressors that I just didn't experience.  For example, [noisy social salience](Autism%20Experience.md) seems to be one of the root causes for autism (your mileage may vary, I understand people are different).  It produces a [huge overlap](Not%20Autism.md) (and [Overlaps](Overlaps.md)) but also a big gap.
-
-Eventually I settled on *no social salience* -- literally no social signal.  I couldn't perceive it, in fact I didn't even know it was there.  It was like being achromatic and nobody mentioning that color exists.  Well, maybe more like people not mentioning breathing -- everybody has it, it is automatic, it is just a thing.  Nobody talks about breathing either.
-
-OK, so why do I think it is actually *no social salience*?
-
-- Occam's razor -- it is the simplest mechanism that explains *everything* I have observed
-	- it continues to be a good predictor of my behavior and thought process
-	- it has helped me explain myself to myself and others
-- there are [some non-flattering examples](../Cognition/Examples.md#Failure%20Example) of how it fails
-	- there are plenty more situations that show it but that one I think captures what having no social salience looks like in a way that is unambiguous and impactful
-- if I encounter a situation where I have elevated emotions, say sad or angry, as soon as the topic is resolved I am back to steady state
-	- there is no post-interaction rumination
-	- I don't store [emotions in my memory](Hypophantasia.md#My%20Experience%20Memory)
-		- lack of capture: no social salience
-		- lack of storage: hypophantasia
-- I am immune to phatic pressure -- the need to say something to fill silence
-	- I might talk to relieve boredom
-- I do not respect [Authority](Authority.md) (social positioning), only competence
-	- [No Authority Bias](../Cognition/Ethics.md#No%20Authority%20Bias)
-- no [Masking](Masking.md)
-- no social contagion -- I don't pick up the mood of the room
-- no [Shame](../Emotions/Shame.md) and a variety of other [emotions](../Emotions/Emotions.md)
-
-Those are all good evidence of *something* being different about my social salience, but *zero*?
-
-My hypothesis is that if I had *any* social salience I would:
-
-- notice that I am different
-- notice that I am failing or struggling in social settings
-- and I would care about these things
-- and be very stressful
-
-There is a description of this -- it is called [hyposalience](Where%20Are%20My%20People?.md#^Hyposalience) (note: the author does not use that term, but I think that is the term for what he describes).  He had a very low social salience signal, too low to be usable, but he was aware of it and experienced the points I make above (with perhaps less effect on the last two).
-
-Anyway, I could be wrong, but the consistency of this model matching my own experience makes me confident that it is at least partially correct -- there might be more to it.

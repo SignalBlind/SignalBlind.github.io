@@ -39,3 +39,46 @@ See also:
 - [My Experience](My%20Experience.md)
 - [Contrastive Example - Bar](Contrastive%20Example%20-%20Bar.md)
 - [Contrastive Example - Movies](Contrastive%20Example%20-%20Movies.md)
+
+## Why _No_ Social Salience
+
+Why do I think it is *none* rather than just very little, e.g. [Hyposalience](Hyposalience.md).
+
+[Hypophantasia](Hypophantasia.md) is directly observable -- once I knew it "was a thing" I could describe my imagination experience and google/LLMs easily gave me a term.  Sure enough that was a match.
+
+No social salience is a bit trickier, see [Stage 3](History.md#Stage%203) for how I discovered it.  There is plenty written about [Theory of Mind](Theory%20of%20Mind.md) and the social salience network, but very little about [what i experienced](Where%20Are%20My%20People?.md).  Each time I would read something that sounded close there would be stressors that I just didn't experience.  For example, [noisy social salience](Autism%20Experience.md) seems to be one of the root causes for autism (your mileage may vary, I understand people are different).  It produces a [huge overlap](Not%20Autism.md) (and [Overlaps](Overlaps.md)) but also a big gap.
+
+Eventually I settled on *no social salience* -- literally no social signal.  I couldn't perceive it, in fact I didn't even know it was there.  It was like being achromatic and nobody mentioning that color exists.  Well, maybe more like people not mentioning breathing -- everybody has it, it is automatic, it is just a thing.  Nobody talks about breathing either.
+
+OK, so why do I think it is actually *no social salience*?
+
+- Occam's razor -- it is the simplest mechanism that explains *everything* I have observed
+	- it continues to be a good predictor of my behavior and thought process
+	- it has helped me explain myself to myself and others
+- there are [some non-flattering examples](../Cognition/Examples.md#Failure%20Example) of how it fails
+	- there are plenty more situations that show it but that one I think captures what having no social salience looks like in a way that is unambiguous and impactful
+- if I encounter a situation where I have elevated emotions, say sad or angry, as soon as the topic is resolved I am back to steady state
+	- there is no post-interaction rumination
+	- I don't store [emotions in my memory](Hypophantasia.md#My%20Experience%20Memory)
+		- lack of capture: no social salience
+		- lack of storage: hypophantasia
+- I am immune to phatic pressure -- the need to say something to fill silence
+	- I might talk to relieve boredom
+- I do not respect [Authority](Authority.md) (social positioning), only competence
+	- [No Authority Bias](../Cognition/Ethics.md#No%20Authority%20Bias)
+- no [Masking](Masking.md)
+- no social contagion -- I don't pick up the mood of the room
+- no [Shame](../Emotions/Shame.md) and a variety of other [emotions](../Emotions/Emotions.md)
+
+Those are all good evidence of *something* being different about my social salience, but *zero*?
+
+My hypothesis is that if I had *any* social salience I would:
+
+- notice that I am different
+- notice that I am failing or struggling in social settings
+- and I would care about these things
+- and be very stressful
+
+There is a description of this -- it is called [hyposalience](Where%20Are%20My%20People?.md#^Hyposalience) (note: the author does not use that term, but I think that is the term for what he describes).  He had a very low social salience signal, too low to be usable, but he was aware of it and experienced the points I make above (with perhaps less effect on the last two).
+
+Anyway, I could be wrong, but the consistency of this model matching my own experience makes me confident that it is at least partially correct -- there might be more to it.
