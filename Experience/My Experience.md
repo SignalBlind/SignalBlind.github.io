@@ -11,9 +11,10 @@ I have identified two root causes for my ND condition:
 - no [Social Salience](Social%20Salience.md) / [Pure A-salience](Pure%20A-salience.md) -- no social signal, don't care about social status
 - [Hypophantasia](Hypophantasia.md) -- low imagery manual
 
-everything else falls out of that, perhaps the important piece being:
+everything else falls out of that, perhaps the important pieces being:
 
 - no [Theory of Mind](Theory%20of%20Mind.md)
+- [Semantic Divergence](../Emotions/Semantic%20Divergence.md) in emotions
 ## How It Works
 
 ![My Mind Block Diagram](../img/me-block.png)
