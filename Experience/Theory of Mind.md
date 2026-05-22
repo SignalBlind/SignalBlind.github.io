@@ -70,6 +70,19 @@ I have no social salience and I completely miss the "mindreading" part of Theory
 
 My conception of other people is fundamentally different than NT people: I perceive people as black boxes where I attach factual data.  I see only their words and actions.  I don't perceive them as bundles of emotions and thoughts separate from their actions.  I don't know how they think, I can only track facts I know *about* them.  I don't **think** about other people unless I consciously focus on them or something I see triggers a pattern match (e.g. cat videos and my daughter) -- they are without presence in my mind aside from these cases.
 
-Note: in clinical terms this is a lack of Social Object Permanence.  I know people exist beyond my thinking of them and I know they have thoughts of their own, but I know that logically (it is true by my observation), not because my mind works that way.  I might be labeled as having "Cognitive Theory of Mind" but not "Affective Theory of Mind" but even my cognitive version is quite different than how most people simulate the people around them.
-
 Effectively I have no Theory of Mind -- quite the opposite of what I originally thought.  This is different than autism where ToM is impaired by being noisy, high lag and effortful.  Mine is missing and I didn't even know it was a thing.
+
+## Cognitive Theory of Mind vs. Functional Modeling
+
+In clinical terms, my lack of persistent representation of people might be called a lack of Object Permanence. While I know people exist when I am not thinking of them, they have no "mental presence." When they are out of sight, they are deallocated from my active processing and exist only as a database entry in my memory.
+
+Clinicians might label me as having "Cognitive Theory of Mind" (deliberate perspective taking) but not "Affective Theory of Mind" (feeling what others feel). However, I think even "Cognitive ToM" is the wrong label for me:
+
+- **No [Social Signal](Social%20Salience.md)**: The approach most autistic people use (Theory-Theory) is still fed by a social signal, even if it's noisy. I have no signal at all.
+- **Telemetry vs. Simulation**: I don't [attempt to simulate a mind](../Cognition/Zero%20Lag.md). I use [Functional Logic Modeling](../Cognition/Functional%20Logic%20Modeling.md) to predict outputs from given inputs and only do that when required. I am reading telemetry, not mindreading.
+- **No Social Motivation**: I have no innate desire to understand internal states. The Social Salience network usually provides this drive -- without its output, I simply never realized there was anything to "understand" until recently.
+- **Identity as Metadata**: I don't represent people as "bundles of emotions." They are [Black Boxes](Black%20Box.md) tagged with facts. This isn't a background process -- it only spins up when I have a specific reason to focus on them.
+
+From the outside this might have functional overlap with Cognitive Theory of Mind, but the mechanism is entirely different.
+
+For what it's worth, I neither care that I do or do not have Theory of Mind. I am not a "broken" version of an NT person, I am a functional version of myself. Understanding that I simply don't have this hardware is the most accurate way to represent my experience.

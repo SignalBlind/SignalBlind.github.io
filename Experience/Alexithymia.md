@@ -15,35 +15,28 @@ Alexithymia can be very frustrating and isolating for a person who has it.
 
 ## My Experience
 
-This is a tricky one.  I don't think I have alexithymia, but there are some strong overlaps.  I think I experience [emotions](../Emotions/Emotions.md) in a very different way than most people, but I do have them and can describe them.
+This is a tricky one.  I don't have alexithymia, but there are some strong overlaps.  I experience [emotions](../Emotions/Emotions.md) in a very different way than NT people.  I do have emotions and can describe them, but it is a "translation" of emotional state rather than intuition.
 
 There is a [chart](https://www.thementalhealthcoalition.org/feel-your-feelings/) I used with a therapist to try to describe my feelings.
 
 ![emotion chart](https://www.thementalhealthcoalition.org/wp-content/uploads/2022/04/A__Mood-Meter-Image.png){: style="max-width: 700px"}
 
-- I found that I tend to be [Mid-happy Default](../Emotions/Mid-happy%20Default.md)
-	- I think I have very low fluctuation
-- I can experience anger and sadness and describe them easily
-	- some kind of threshold trigger for strong emotions
-- i do have some trouble naming some emotions
-	- I have to run a manual taxonomic search to name it -- this is automatic in NT people
-	- lag in naming emotions and high effort
-	- I once felt an emotion pair: fear + positive alignment.  I was only able to describe it as "high emotional state" (like overload) though I was eventually able to break it down into two pieces
-- in many cases the emotion I name isn't quite the same as how an NT person experiences it -- see [Semantic Divergence](../Emotions/Semantic%20Divergence.md)
+See [My Experience (Emotions)](../Emotions/Emotions.md#My%20Experience).  See my descriptions of [Anger](../Emotions/Anger.md) and [Sadness](../Emotions/Sadness.md) for examples of *how* I experience emotions.
 
 I see it like this:
 
 >**NT Emotion:** A felt state that **dictates** logic.
 >**My Emotion:** A biological state that **requires** logic to label.
 
-See [My Experience (Emotions)](../Emotions/Emotions.md#My%20Experience).
+So my mental state (sad story or anger at corruption) triggers the limbic (emotional system) which in turn fires the appropriate physiological response (tears or adrenaline).  My conscious mind sees both the thoughts and the physiological state and I can pattern match to an appropriate emotion.  For NT people this is automatic -- they don't need to think about it, they know it.
 
-See my descriptions of [Anger](../Emotions/Anger.md) and [Sadness](../Emotions/Sadness.md) for examples of *how* I experience emotions.
+I do have "externally oriented thinking", which is a core trait of alexithymia:
 
-These aren't alexithymia, but they may be perceived to be related:
+- no access to the vibe (internal measure of social state)
+- I care about the system, logic and ethics (external measure)
+- my emotions are triggered by thought (top-down), so I think about the reason for the emotion rather than the feeling of the emotion -- the feeling is how I label it, and the reason is what I consciously experience
 
-- [Flat Affect](Flat%20Affect.md)
-- [Easy Going](Easy%20Going.md) -- but not really
-- No mirroring
+but I do have the ability to decode these feelings + mental state to label the emotion, which means no alexithymia.  My decoding is near instant for typical emotions -- I don't have lag or difficulty here. I do have some issues around [Semantic Divergence](../Emotions/Semantic%20Divergence.md) where what I mean by the emotion doesn't sync with the NT meaning.
 
-So I think I don't have alexithymia, but certainly some overlap in *appearance* (phenotype).
+One time I was asked to describe my current emotional state and it was *unusual*.  I didn't have a mapping and after some introspection I realized I was feeling *two* emotions simultaneously (this is somewhat common for NT people, but I think not for me).  I was experiencing fear + positive alignment.  I was only able to describe it as "high emotional state" (like overload) until I could identify the pieces.
+

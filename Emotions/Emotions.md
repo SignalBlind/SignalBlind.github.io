@@ -42,7 +42,12 @@ So my emotions don't have the social side and they are not affected by people ar
 
 These emotions don't drive me as much as the physiological signals are inputs to my conscious thoughts.  That and the content of my thoughts, e.g. contemplating death of a loved pet or thinking about corrupt politicians, will make me feel a certain way.  These combine to produce what I experience as an emotion.
 
-I don't have [Alexithymia](../Experience/Alexithymia.md), but I do have to think to label my emotions.  I have to decode my state and map it to a term.  I once had to name a state where I was feeling both fear and positive alignment and this was a very strange sensation to me -- the only label I could come up with was "high emotional state".  Even decoding that there were two emotions present was quite novel, but I understand that this is quite typical for NT people and they would have little trouble naming such a thing.  I am not angry, I am thinking angry thoughts.  I might be sad (I will *feel* sad), but it is mostly *thinking* sad thoughts.
+I don't have [Alexithymia](../Experience/Alexithymia.md), but I do have to think to label my emotions.  I have to decode my state and map it to a term.  I once had to name a state where I was feeling both fear and positive alignment and this was a very strange sensation to me -- the only label I could come up with was "high emotional state".  Even decoding that there were two emotions present was quite novel to me.  I am not angry, I am thinking angry thoughts.  I might be sad (I will *feel* sad), but it is mostly *thinking* sad thoughts.
+
+Also note that I have both automatic and logically driven emotions:
+
+- If I hear a [sad story](Sadness.md) that I resonate with, it will bring tears to my eyes -- I can't control it or suppress it.  This is a semantic reflex rather than an affective reflex.  Though the triggering conditions may not match up with NT triggers, this is not a performance.  I feel it when I feel it.
+- I can also generate feelings like [Anger](Anger.md) by consciously thinking about things that make me angry (corrupt politicians).  I can also *stop* this emotion by thinking of something else.  I return to baseline *very* quickly and there is no lingering emotion.  This is also not performative, but it is perhaps under much more control than is typical for NT people.
 
 ## Social Emotions (Missing) ^Social
 

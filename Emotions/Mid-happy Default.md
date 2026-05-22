@@ -9,7 +9,7 @@ I find myself being mid-happy most of the time.  As long as I am not *hangry* I 
 
 ## Why?
 
-Speculation, but maybe:
+I think:
 
 - NT people
 	- happiness depends on social belonging and hierarchy
@@ -19,5 +19,8 @@ Speculation, but maybe:
 	- no [Shame](Shame.md) (social tax), no judgment from others
 	- do not pick up the mood of the room
 	- Internally generated: are my needs met?  Is the environment stable and predictable?  Do I understand?
+	- The way I [experience emotions](Emotions.md#My%20Experience) is often driven by my conscious thoughts rather than my thoughts being driven by emotions.  For me emotions are more a label of internal state than a state of being.  My idle position ends up mid-happy.
+
+Additionally, my return to baseline is very quick -- if I stop processing the thought that I label as angry, I am no longer angry.  If I am arguing and the argument stops, I am back to my mid-happy default almost immediately.
 
 Generally my needs are met and things are fine.  Mid-happy default!
