@@ -12,7 +12,7 @@ See also: [Autism Experience](Autism%20Experience.md) and [My Experience](My%20E
 
 ## How It Works
 
-![Neurotypical Mind Block Diagram](../img/nt-block.png)
+![Neurotypical Mind Block Diagram](../img/nt-block.png){: style="max-width: 700px"}
 
 - The various senses provide the "social signal" to the [salience network](Social%20Salience.md)
 	- These are the nonverbal cues that people give off about what they are thinking and feeling

@@ -11,7 +11,7 @@ This describes a typical autistic person's experience of [Theory of Mind](Theory
 See also: [NT Experience](NT%20Experience.md) and [My Experience](My%20Experience.md).
 
 ## How It Works
-![Autistic Mind Block Diagram](../img/autistic-block.png)
+![Autistic Mind Block Diagram](../img/autistic-block.png){: style="max-width: 700px"}
 
 From what I understand there are two common phenotypes for autism:
 

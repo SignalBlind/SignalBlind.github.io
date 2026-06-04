@@ -17,7 +17,7 @@ everything else falls out of that, perhaps the important pieces being:
 - [Semantic Divergence](../Emotions/Semantic%20Divergence.md) in emotions
 ## How It Works
 
-![My Mind Block Diagram](../img/me-block.png)
+![My Mind Block Diagram](../img/me-block.png){: style="max-width: 700px"}
 
 - The various senses provide the "social signal" to the salience network
 	- As far as I can tell, my senses are OK
@@ -49,6 +49,7 @@ everything else falls out of that, perhaps the important pieces being:
 	- This is all processed with conscious thought
 	- The prosocial behavior that would come from social norms comes from [Axiomatic Deontology](../Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) and [Ethics](../Cognition/Ethics.md) -- I behave prosocially because I think it is logical and correct to do so
 	- This is normally low effort, zero lag, and potentially produces the same sort of interaction issues that autistic people experience: [Say The Wrong Thing](Say%20The%20Wrong%20Thing.md) and [Double Empathy](Double%20Empathy.md)
+	- I never attempted [Masking](Masking.md) because I [never noticed I was different](Everybody%20is%20the%20Same.md)
 	- However, the part of the brain that might cause anxiety about social interaction is ... the non-functional salience network
 		- I have no [Shame](../Emotions/Shame.md) or [Embarrassment](../Emotions/Embarrassment.md)
 		- So I have no anxiety about social gaffes
@@ -57,7 +58,10 @@ everything else falls out of that, perhaps the important pieces being:
 	- I do have [Emotions](../Emotions/Emotions.md) but my experience is quite different from NT people
 	- I don't have [Alexithymia](Alexithymia.md)
 	- Emotions are more a label for mental and physiological state
+	- Example: I might feel a rush of adrenaline if I am angry.  When the condition for being angry is gone the emotion is also go, though the adrenaline may remain.  I experience this as "twitchy because of adrenaline" but NT people fell "I am still angry because of adrenaline"
 	- I am not angry, I am thinking angry thoughts
+- Not pictured: the Amygdala (threat center of the brain) can bypass the conscious thoughts
+	- I am afraid of heights -- I feel the fear even though I know logically it is irrational
 
 ## What Does it Feel Like?
 
