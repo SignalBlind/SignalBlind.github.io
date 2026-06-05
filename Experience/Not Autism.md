@@ -42,3 +42,23 @@ And had *none* of these.
 	- so called "special interests" -- used as a pressure relief
 - sensory input sensitivity
 	- auditory, visual, smell, etc.
+
+## So What is It?
+
+You can read [My Experience](My%20Experience.md) to see how I understand it.  Also check out [Checklist](Checklist.md) for a potential diagnostic I made to differentiate between my own experience and other [potential candidates](Overlaps.md) -- see how I answer the questions.
+
+## Traits vs. Trials
+
+I find myself in a strange position: I share many behaviors with the autistic community, but I don’t share the typical autistic experience.
+
+When I commit a social faux pas, I usually don’t notice. Even when it’s pointed out, it rarely causes me the "rejection sensitive dysphoria" or social anxiety that many autistic people describe. I experience the [Double Empathy Problem](Double%20Empathy.md) -- where communication breaks down because two people have different social styles, but for years, I didn't even realize the breakdown was happening. I was simply blissfully unaware.
+
+### The Asymmetry of Friction
+
+This isn't to say there is no friction; it just isn't felt by me. This is perhaps unique to the "no social salience" experience: the [friction is asymmetric](My%20Experience.md#^Friction).
+
+Because I don't react to emotions or social signals in the same way others do, I often appear very calm, which is an [asset at work](Benefits.md#My%20Experience). In my closest relationships (my wife and children), that lack of [Empathy](../Emotions/Empathy.md) or response creates significant weight. For a long time, I didn't believe I was giving off "unusual signals" because I couldn't perceive them. I thought people were making things up about me. I now understand the [mechanism](Theory%20of%20Mind.md) behind it, but the experience remains one-sided: I don't feel the hardship, but they do.
+
+### A Different Kind of Neurodivergence
+
+This puts me in a gray area. I benefit from autistic resources and feel a kinship with the community, but I am wary of over-identifying with a struggle that isn't fully mine. I don’t experience the "internal" friction or sensory overwhelm that defines the autistic experience for many. Acknowledging this is my way of respecting the community: I am autism-adjacent, sharing the traits but not the trials.
