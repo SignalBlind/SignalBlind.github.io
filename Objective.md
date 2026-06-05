@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Objective
+order: 14
 ---
 I was documenting my mental architecture for myself -- it is hard to find [Mitigation](Experience/Mitigation.md) techniques if you don't understand what is happening.  That was the case reading books and articles about autism: many of the problems and techniques that were described just didn't fit.  This model does.  The jury is still out on the mitigation, but I am already seeing some positive effects with my wife.
 

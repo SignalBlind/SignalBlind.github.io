@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+order: 13
 ---
 This site documents a specific cognitive architecture: **Total Social Signal Blindness.** It is the functional map of my own cognitive architecture.  I discovered late in life that I am neurodivergent and this is what I found.
 

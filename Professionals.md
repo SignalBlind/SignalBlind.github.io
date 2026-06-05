@@ -1,6 +1,7 @@
 ---
 layout: page
 title: A-Salient Phenotype
+order: 12
 ---
 This page is intended for psychologists, therapists, and cognitive researchers. It outlines a mental configuration I call [Signal Blindness](Experience/Social%20Salience.md) or [Pure A-salience](Experience/Pure%20A-salience.md)
 
@@ -25,6 +26,7 @@ To distinguish this from common clinical diagnoses ([Autism](Experience/Not%20Au
 - **[Zero Social Lag](Cognition/Zero%20Lag.md)**: because I don't attempt to decode the social signal (or use [Theory of Mind](Experience/Theory%20of%20Mind.md) to "mindread") there is no delay in social interaction.
 - **No social anxiety or [Shame](Emotions/Shame.md):** without a functioning social salience network, the biological triggers for shame are never pulled.  I don't know how others feel about me and do not care.
 - **Functional Success:** I am a high level software engineer at a top software company and have been there over 20 years.  My logical processing and even keel are [Benefits](Experience/Benefits.md) in that situation.
+
 ## Statement of Clinical Utility
 
 I am not seeking diagnosis, medication, or affordance at work.  My condition does not cause internal distress, though it does cause relational friction with my wife (unnoticed by me, but obvious to my wife).
@@ -34,6 +36,7 @@ My goals are:
 - **System Mapping:** to understand my own mechanism so I can understand my experience and be [accountable](Experience/Mitigation.md#Statement%20of%20Intent) for my conduct.
 - **Friction Reduction:** improve the quality of life for my wife and family by using [Mitigation](Experience/Mitigation.md) to bridge the gap.
 - **Phenotype Identification:** to document this architecture in case somebody else like me finds it and finds it useful (see [Where Are My People?](Experience/Where%20Are%20My%20People?.md)).
+
 ## Curated Path
 
 For those wishing to evaluate the logic of this model, I suggest the following sequence:
@@ -65,6 +68,7 @@ Seems like that should be trouble, right?  How I make it work.
 - [Checklist](Experience/Checklist.md) -- perhaps the strongest evidence for this specific architecture, a differential diagnosis checklist.
 	- By answering "No" to the standard stressors of neurodivergence, the checklist isolates a-salience as a distinct functional state rather than a state of high-effort compensation.
 - [Where Are My People?](Experience/Where%20Are%20My%20People?.md) -- a review of literature and why research might miss this particular phenotype.
+
 ### Due Diligence
 
 I used triangulation to build this model:
