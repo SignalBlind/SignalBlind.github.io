@@ -54,6 +54,11 @@
         return getCookie('glossary_all') === '1';
     }
 
+    // Hover-capable devices (desktop with mouse): linked glossary terms should
+    // navigate on click and show the tooltip on hover. Touch devices need tap
+    // to surface the tooltip first, then a tap on the link inside it.
+    const supportsHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+
     function initGlossary() {
         // Only run on content pages, not on the glossary page itself
         const content = document.querySelector('.content');
@@ -180,20 +185,25 @@
                 link.classList.add('glossary-annotated', 'glossary-term');
                 link.style.position = 'relative';
 
-                // Toggle tooltip on click/tap
-                link._glossaryClickHandler = function(e) {
-                    if (e.target.closest('.glossary-tooltip-link')) return;
-                    e.preventDefault();
-                    e.stopPropagation();
-                    const isActive = this.classList.contains('glossary-active');
-                    document.querySelectorAll('.glossary-term.glossary-active').forEach(el => {
-                        el.classList.remove('glossary-active');
-                    });
-                    if (!isActive) {
-                        this.classList.add('glossary-active');
-                    }
-                };
-                link.addEventListener('click', link._glossaryClickHandler);
+                // On touch/no-hover devices, intercept the first tap to show
+                // the tooltip; the user then taps the link inside it to navigate.
+                // On hover-capable devices, leave the click alone so the link
+                // navigates normally — the tooltip is reachable via hover.
+                if (!supportsHover) {
+                    link._glossaryClickHandler = function(e) {
+                        if (e.target.closest('.glossary-tooltip-link')) return;
+                        e.preventDefault();
+                        e.stopPropagation();
+                        const isActive = this.classList.contains('glossary-active');
+                        document.querySelectorAll('.glossary-term.glossary-active').forEach(el => {
+                            el.classList.remove('glossary-active');
+                        });
+                        if (!isActive) {
+                            this.classList.add('glossary-active');
+                        }
+                    };
+                    link.addEventListener('click', link._glossaryClickHandler);
+                }
 
                 linkedTerms.add(glossaryItem.term);
                 break;
