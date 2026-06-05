@@ -10,6 +10,61 @@ This describes the typical NT experience of [Theory of Mind](Theory%20of%20Mind.
 
 See also: [Autism Experience](Autism%20Experience.md) and [My Experience](My%20Experience.md).
 
+## How It Feels
+
+I am projecting based on what I have read.  This may sound a bit stilted -- I don't experience this and I am trying to contrast it to how autistic people and myself experience the world.
+
+NT people feel connected to other people around them.  Their minds are built for social harmony and getting along.  They understand each other's feelings and thoughts and use this to reach consensus.  They use these signals to build shared trust and detect social threats, e.g. [antisocial personality disorder](Overlaps.md#ASPD).  For others, e.g. autistic people, they encounter the [Double Empathy](Double%20Empathy.md) problem and struggle with mis-prediction.
+
+NT people behave the way they do because of social norms: [Shame](../Emotions/Shame.md) is a feeling that provides negative feedback if they behave antisocially and [Embarrassment](../Emotions/Embarrassment.md) does the same when they make social mistakes.  Social hierarchy is important.  It tells people who is the teller and who is the doer.  It gives weight to things that people say.
+
+Social organizations exist to help people belong.  Humans are social creatures and they want to connect and belong to a community.
+
+## Differential Matrix
+
+
+<div class="wide-only" markdown="1">
+
+| Category                                 | Neurotypical (NT)                                                                  | Autistic (ASD)                                                                           | Signal Blind (You)                                                                                                                                                                                            |
+| :--------------------------------------- | :--------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Social Noticing**<br>(Social Saliency) | **Automatic.** Social cues are the loudest things in the room.                     | **Manual/Overwhelming.** Cues are heard but hard to prioritize.                          | [**Zero**](Experience/Social%20Salience.md). Cues are undetected background noise.                                                                                                                            |
+| **The "Vibe"**<br>(Social Signal)        | **Intuitive.** Feels like a "gut instinct" or "atmosphere."                        | **Conscious.** Requires active decoding of body/tone.                                    | [**None**](Cognition/Zero%20Lag.md). Facts and literal text are the only data.                                                                                                                                |
+| **Reading Minds**<br>(Theory of Mind)    | [**Automatic**](Experience/NT%20Experience.md). Instantly "knows" how others feel. | [**Manual**](Experience/Autism%20Experience.md). Simulates others' feelings with effort. | [**None**](Experience/Theory%20of%20Mind.md).  People are [Black Boxes](Experience/Black%20Box.md). Uses [**Logical Modeling**](Cognition/Functional%20Logic%20Modeling.md) to predict behavior at high cost. |
+| **Social Pressure**<br>(Anxiety/Shame)   | **High/Relational.** Guided by the "feeling" of belonging or shame.                | **High/Reactive.** Friction between social desire and signal confusion.                  | [**None**](Emotions/Shame.md). Social status is a conceptual abstraction, not a felt pressure.                                                                                                                |
+| **Empathy Type**                         | **Affective.** Feels the emotions of others instinctively.                         | **Cognitive/Manual.** Tries to imagine how others feel to relate.                        | **[None](Emotions/Empathy.md).** Does not "feel" others' states. Uses [Rules](Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) and [Logic](Cognition/Ethics.md) to maintain pro-social behavior.        |
+
+
+</div>
+
+<div class="narrow-only" markdown="1">
+
+**Social Noticing** *(Social Saliency)*
+- **NT:** Automatic. Social cues are the loudest things in the room.
+- **ASD:** Manual/Overwhelming. Cues are heard but hard to prioritize.
+- **Signal Blind:** [Zero](Experience/Social%20Salience.md). Cues are undetected background noise.
+
+**The "Vibe"** *(Social Signal)*
+- **NT:** Intuitive. Feels like a "gut instinct" or "atmosphere."
+- **ASD:** Conscious. Requires active decoding of body/tone.
+- **Signal Blind:** [None](Cognition/Zero%20Lag.md). Facts and literal text are the only data.
+
+**Reading Minds** *(Theory of Mind)*
+- **NT:** [Automatic](Experience/NT%20Experience.md). Instantly "knows" how others feel.
+- **ASD:** [Manual](Experience/Autism%20Experience.md). Simulates others' feelings with effort.
+- **Signal Blind:** [None](Experience/Theory%20of%20Mind.md). People are [Black Boxes](Experience/Black%20Box.md). Uses [Logical Modeling](Cognition/Functional%20Logic%20Modeling.md) to predict behavior at high cost.
+
+**Social Pressure** *(Anxiety/Shame)*
+- **NT:** High/Contextual. Fear of "doing it wrong" or losing status.
+- **ASD:** Extreme. High cost of social error leading to meltdown.
+- **Signal Blind:** [Zero](Emotions/Shame.md). Cannot experience social shame or "rejection sensitive dysphoria."
+
+**Empathy Type**
+- **NT:** Affective. Feels the emotions of others instinctively.
+- **ASD:** Cognitive/Manual. Tries to imagine how others feel to relate.
+- **Signal Blind:** [None](Emotions/Empathy.md). Does not "feel" others' states. Uses [Rules](Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) and [Logic](Cognition/Ethics.md) to maintain pro-social behavior.
+
+</div>
+
 ## How It Works
 
 ![Neurotypical Mind Block Diagram](../img/nt-block.png){: style="max-width: 700px"}
@@ -54,12 +109,3 @@ See also: [Autism Experience](Autism%20Experience.md) and [My Experience](My%20E
 	- Lack of emotional signaling (say [Flat Affect](Flat%20Affect.md)) or lack of mirroring
 	- Automatic simulation mispredicts
 	- The other person appears to be unpredictable or weird
-## How It Feels
-
-I am projecting based on what I have read.  This may sound a bit stilted -- I don't experience this and I am trying to contrast it to how autistic people and myself experience the world.
-
-NT people feel connected to other people around them.  Their minds are built for social harmony and getting along.  They understand each other's feelings and thoughts and use this to reach consensus.  They use these signals to build shared trust and detect social threats, e.g. [antisocial personality disorder](Overlaps.md#ASPD).  For others, e.g. autistic people, they encounter the [Double Empathy](Double%20Empathy.md) problem and struggle with mis-prediction.
-
-NT people behave the way they do because of social norms: [Shame](../Emotions/Shame.md) is a feeling that provides negative feedback if they behave antisocially and [Embarrassment](../Emotions/Embarrassment.md) does the same when they make social mistakes.  Social hierarchy is important.  It tells people who is the teller and who is the doer.  It gives weight to things that people say.
-
-Social organizations exist to help people belong.  Humans are social creatures and they want to connect and belong to a community.

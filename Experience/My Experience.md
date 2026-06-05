@@ -15,6 +15,94 @@ everything else falls out of that, perhaps the important pieces being:
 
 - no [Theory of Mind](Theory%20of%20Mind.md)
 - [Semantic Divergence](../Emotions/Semantic%20Divergence.md) in emotions
+
+## How It Feels
+
+Calm, quiet, peaceful.  I think there is a ton of social stress that is just not visible to me.  Social salience is perhaps unique in that it is responsible for both perceiving the signal and *caring* about it.  I have neither.  I am usually [happy](../Emotions/Mid-happy%20Default.md).
+
+Here are some examples that might give a hint:
+
+- [Contrastive Example - Bar](Contrastive%20Example%20-%20Bar.md)
+- [Contrastive Example - Movies](Contrastive%20Example%20-%20Movies.md)
+
+I think [Theory of Mind: Identity of Others](Theory%20of%20Mind.md#My%20Experience%20Identity%20of%20Others) might also give some insight if I explained it well enough.
+
+On top of this lack of signal, I [think different than other people](../Cognition/Functional%20Cognitive%20Architecture.md) -- necessarily because so much NT thought is around social things.  I even have different [Ethics](../Cognition/Ethics.md).  These might sound a little more familiar to autistic people, though they probably use [Affective Deontology](../Cognition/Ethical%20Systems.md#Affective%20Deontology) -- both of these will probably look about the same to NT people ([Social Utilitarianism](../Cognition/Ethical%20Systems.md#Social%20Utilitarianism)).
+
+You can read about my [emotions](../Emotions/Emotions.md) but you might not perceive them as I have somewhat [Flat Affect](Flat%20Affect.md) and no emotional mirroring or signaling.  I [have emotions](Alexithymia.md) but they are different than what either NT or autistic people experience.  I have no [Shame](../Emotions/Shame.md), see [Hard Truths](../Cognition/Truth%20and%20Facts.md#Hard%20Truths) for an example.  There are quite a few socially oriented emotions that I simply can't experience.  Others, like [Compassion](../Emotions/Compassion.md) I use the same word (it looks the same to me) but it isn't the same feeling.  [Anger](../Emotions/Anger.md) and [Sadness](../Emotions/Sadness.md) are two that are probably the most similar and recognizable.
+
+Despite all of these differences from the norm, I have [Zero Lag](../Cognition/Zero%20Lag.md), low [Friction](Friction.md) (personally), and experience some [Benefits](Benefits.md) from the way my mind works.
+
+Does it sound like your own experience?  I think these are discriminating questions: [Checklist](Checklist.md).
+
+The TLDR is: I don't receive any social signals.  I don't know what other people are feeling or thinking.  I don't know about social positioning.  On top of not knowing, I also don't *care*.  Not in a negative way, more like asking somebody how they feel about radio waves.
+
+## What Friction Do You Experience? ^Friction
+
+I experience very little [Friction](Friction.md) myself.  Although I exhibit [category A](Not%20Autism.md#A%20Social%20Communication%20and%20Interaction) autism social effects I can't really perceive them.  People have told me about them and as I learn more about ND and NT people I can understand that there are differences.  I don't have any of the category B effects or high social cost effects like *meltdowns*.  I am not worried about how others perceive me (again a unique effect of no social salience).
+
+That isn't to say there is no friction.  I know that I can [Say The Wrong Thing](Say%20The%20Wrong%20Thing.md) and I give off *unusual* social signals.  This sometimes causes trouble.  I don't always know it at the time, sometimes people like my wife have to tell me.  For the longest time I thought it couldn't be true -- how could somebody make things up about me and then believe them?  I now know about the [mechanism](Theory%20of%20Mind.md) and have a little more insight here, but still don't _really_ understand it.
+
+Also perhaps unique to no social salience is the fact that the friction is asymmetric.  I have no [Empathy](../Emotions/Empathy.md), I don't react to emotions in the same way other people do.  I don't react at all.  This is not a big deal at work, in fact I might just appear very calm.  It isn't so important with friends, that is more casual and fun -- they can accept that I am a little odd pretty easily.  It is a lot harder with my closest relationships: my family, my wife, my kids.  Well, so they tell me.
+
+Perhaps I can illustrate this with an example:
+
+- **Wife**: "I feel alone."
+- **Me**: "I'm right here."
+
+The Logical Collision:
+
+- **My Perspective** (Spatial Fact): I am physically near, in the same room.  It is not factual that you are "alone".
+- **NT Perspective** (Social Resonance): "Alone" is the absence of a social signal or "vibe." Because I have Pure A-salience, I am physically present but socially "silent."
+
+Conclusion: I am responding to the explicit signal (location); she is responding to the social vacuum (connection). Both are technically correct, but we are measuring different things.
+
+## Differential Matrix
+
+How does signal blindness compare to neurotypical and autistic experience?  These descriptions of ASD and NT experiences are functional models used to illustrate the gap in my own architecture, not clinical definitions of those groups.
+
+<div class="wide-only" markdown="1">
+
+| Category                                 | Neurotypical (NT)                                                                  | Autistic (ASD)                                                                           | Signal Blind (You)                                                                                                                                                                                            |
+| :--------------------------------------- | :--------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Social Noticing**<br>(Social Saliency) | **Automatic.** Social cues are the loudest things in the room.                     | **Manual/Overwhelming.** Cues are heard but hard to prioritize.                          | [**Zero**](Experience/Social%20Salience.md). Cues are undetected background noise.                                                                                                                            |
+| **The "Vibe"**<br>(Social Signal)        | **Intuitive.** Feels like a "gut instinct" or "atmosphere."                        | **Conscious.** Requires active decoding of body/tone.                                    | [**None**](Cognition/Zero%20Lag.md). Facts and literal text are the only data.                                                                                                                                |
+| **Reading Minds**<br>(Theory of Mind)    | [**Automatic**](Experience/NT%20Experience.md). Instantly "knows" how others feel. | [**Manual**](Experience/Autism%20Experience.md). Simulates others' feelings with effort. | [**None**](Experience/Theory%20of%20Mind.md).  People are [Black Boxes](Experience/Black%20Box.md). Uses [**Logical Modeling**](Cognition/Functional%20Logic%20Modeling.md) to predict behavior at high cost. |
+| **Social Pressure**<br>(Anxiety/Shame)   | **High/Relational.** Guided by the "feeling" of belonging or shame.                | **High/Reactive.** Friction between social desire and signal confusion.                  | [**None**](Emotions/Shame.md). Social status is a conceptual abstraction, not a felt pressure.                                                                                                                |
+| **Empathy Type**                         | **Affective.** Feels the emotions of others instinctively.                         | **Cognitive/Manual.** Tries to imagine how others feel to relate.                        | **[None](Emotions/Empathy.md).** Does not "feel" others' states. Uses [Rules](Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) and [Logic](Cognition/Ethics.md) to maintain pro-social behavior.        |
+
+
+</div>
+
+<div class="narrow-only" markdown="1">
+
+**Social Noticing** *(Social Saliency)*
+- **NT:** Automatic. Social cues are the loudest things in the room.
+- **ASD:** Manual/Overwhelming. Cues are heard but hard to prioritize.
+- **Signal Blind:** [Zero](Experience/Social%20Salience.md). Cues are undetected background noise.
+
+**The "Vibe"** *(Social Signal)*
+- **NT:** Intuitive. Feels like a "gut instinct" or "atmosphere."
+- **ASD:** Conscious. Requires active decoding of body/tone.
+- **Signal Blind:** [None](Cognition/Zero%20Lag.md). Facts and literal text are the only data.
+
+**Reading Minds** *(Theory of Mind)*
+- **NT:** [Automatic](Experience/NT%20Experience.md). Instantly "knows" how others feel.
+- **ASD:** [Manual](Experience/Autism%20Experience.md). Simulates others' feelings with effort.
+- **Signal Blind:** [None](Experience/Theory%20of%20Mind.md). People are [Black Boxes](Experience/Black%20Box.md). Uses [Logical Modeling](Cognition/Functional%20Logic%20Modeling.md) to predict behavior at high cost.
+
+**Social Pressure** *(Anxiety/Shame)*
+- **NT:** High/Contextual. Fear of "doing it wrong" or losing status.
+- **ASD:** Extreme. High cost of social error leading to meltdown.
+- **Signal Blind:** [Zero](Emotions/Shame.md). Cannot experience social shame or "rejection sensitive dysphoria."
+
+**Empathy Type**
+- **NT:** Affective. Feels the emotions of others instinctively.
+- **ASD:** Cognitive/Manual. Tries to imagine how others feel to relate.
+- **Signal Blind:** [None](Emotions/Empathy.md). Does not "feel" others' states. Uses [Rules](Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) and [Logic](Cognition/Ethics.md) to maintain pro-social behavior.
+
+</div>
+
 ## How It Works
 
 ![My Mind Block Diagram](../img/me-block.png){: style="max-width: 700px"}
@@ -63,42 +151,3 @@ everything else falls out of that, perhaps the important pieces being:
 - Not pictured: the Amygdala (threat center of the brain) can bypass the conscious thoughts
 	- I am afraid of heights -- I feel the fear even though I know logically it is irrational
 
-## What Does it Feel Like?
-
-Calm, quiet, peaceful.  I think there is a ton of social stress that is just not visible to me.  Social salience is perhaps unique in that it is responsible for both perceiving the signal and *caring* about it.  I have neither.  I am usually [happy](../Emotions/Mid-happy%20Default.md).
-
-Here are some examples that might give a hint:
-
-- [Contrastive Example - Bar](Contrastive%20Example%20-%20Bar.md)
-- [Contrastive Example - Movies](Contrastive%20Example%20-%20Movies.md)
-
-I think [Theory of Mind: Identity of Others](Theory%20of%20Mind.md#My%20Experience%20Identity%20of%20Others) might also give some insight if I explained it well enough.
-
-On top of this lack of signal, I [think different than other people](../Cognition/Functional%20Cognitive%20Architecture.md) -- necessarily because so much NT thought is around social things.  I even have different [Ethics](../Cognition/Ethics.md).  These might sound a little more familiar to autistic people, though they probably use [Affective Deontology](../Cognition/Ethical%20Systems.md#Affective%20Deontology) -- both of these will probably look about the same to NT people ([Social Utilitarianism](../Cognition/Ethical%20Systems.md#Social%20Utilitarianism)).
-
-You can read about my [emotions](../Emotions/Emotions.md) but you might not perceive them as I have somewhat [Flat Affect](Flat%20Affect.md) and no emotional mirroring or signaling.  I [have emotions](Alexithymia.md) but they are different than what either NT or autistic people experience.  I have no [Shame](../Emotions/Shame.md), see [Hard Truths](../Cognition/Truth%20and%20Facts.md#Hard%20Truths) for an example.  There are quite a few socially oriented emotions that I simply can't experience.  Others, like [Compassion](../Emotions/Compassion.md) I use the same word (it looks the same to me) but it isn't the same feeling.  [Anger](../Emotions/Anger.md) and [Sadness](../Emotions/Sadness.md) are two that are probably the most similar and recognizable.
-
-Despite all of these differences from the norm, I have [Zero Lag](../Cognition/Zero%20Lag.md), low [Friction](Friction.md) (personally), and experience some [Benefits](Benefits.md) from the way my mind works.
-
-Does it sound like your own experience?  I think these are discriminating questions: [Checklist](Checklist.md).
-
-The TLDR is: I don't receive any social signals.  I don't know what other people are feeling or thinking.  I don't know about social positioning.  On top of not knowing, I also don't *care*.  Not in a negative way, more like asking somebody how they feel about radio waves.
-## What Friction Do You Experience? ^Friction
-
-I experience very little [Friction](Friction.md) myself.  Although I exhibit [category A](Not%20Autism.md#A%20Social%20Communication%20and%20Interaction) autism social effects I can't really perceive them.  People have told me about them and as I learn more about ND and NT people I can understand that there are differences.  I don't have any of the category B effects or high social cost effects like *meltdowns*.  I am not worried about how others perceive me (again a unique effect of no social salience).
-
-That isn't to say there is no friction.  I know that I can [Say The Wrong Thing](Say%20The%20Wrong%20Thing.md) and I give off *unusual* social signals.  This sometimes causes trouble.  I don't always know it at the time, sometimes people like my wife have to tell me.  For the longest time I thought it couldn't be true -- how could somebody make things up about me and then believe them?  I now know about the [mechanism](Theory%20of%20Mind.md) and have a little more insight here, but still don't _really_ understand it.
-
-Also perhaps unique to no social salience is the fact that the friction is asymmetric.  I have no [Empathy](../Emotions/Empathy.md), I don't react to emotions in the same way other people do.  I don't react at all.  This is not a big deal at work, in fact I might just appear very calm.  It isn't so important with friends, that is more casual and fun -- they can accept that I am a little odd pretty easily.  It is a lot harder with my closest relationships: my family, my wife, my kids.  Well, so they tell me.
-
-Perhaps I can illustrate this with an example:
-
-- **Wife**: "I feel alone."
-- **Me**: "I'm right here."
-
-The Logical Collision:
-
-- **My Perspective** (Spatial Fact): I am physically near, in the same room.  It is not factual that you are "alone".
-- **NT Perspective** (Social Resonance): "Alone" is the absence of a social signal or "vibe." Because I have Pure A-salience, I am physically present but socially "silent."
-
-Conclusion: I am responding to the explicit signal (location); she is responding to the social vacuum (connection). Both are technically correct, but we are measuring different things.
