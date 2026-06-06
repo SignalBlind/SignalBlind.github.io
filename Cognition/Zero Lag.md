@@ -17,7 +17,7 @@ My [cognitive architecture](Functional%20Cognitive%20Architecture.md#My%20Hardwa
 
 So don't I make social mistakes?  Yes, I can [Say The Wrong Thing](../Experience/Say%20The%20Wrong%20Thing.md) and I can miss [very important information](Examples.md#Failure%20Example).  I don't [signal my thoughts and emotions](../Experience/Flat%20Affect.md).  With all that, I don't [experience much friction](../Experience/My%20Experience.md#^Friction).  No social salience is an unusual thing because it is both the part of the brain that monitors the social signal AND the piece that controls how you feel about social situations -- I don't have any signal and I don't have any feeling about it.
 
-In the cases where I do encounter [Friction](../Experience/Friction.md#^SocialFriction), it is an efficiency issue, not something I detect as a social faux pax:
+In the cases where I do encounter [Friction](../Experience/Friction.md#^SocialFriction), it is an efficiency issue, not something I detect as a social faux pas:
 
 - **Resource Waste:** The conversation stalls. Effort must be diverted from the "Task" to "Explanation/Repair."
 - **Input Rejection:** The recipient becomes defensive. The other person’s "Receiver" closes (typically from my words or actions), rendering further factual transmission impossible

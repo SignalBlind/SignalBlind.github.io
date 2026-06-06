@@ -12,6 +12,7 @@ I use [Axiomatic Deontology](Ethical%20Systems.md#Axiomatic%20Deontology), a sys
 
 So what are my rules?  In priority order, something like this:
 ### Rule 1: Do Not Harm (Life/Environment)
+^NoHarm
 
 - Scope: Humans (Highest), Animals, and Environment (Utility-based).
 - The Utility Clause: Consumption of resources (food/wood) is permitted if the need is "Justified" by system survival.
@@ -46,9 +47,7 @@ Consider Capacity, Intent, Agency, and the priority of these rules.  The rules a
 I think how infractions are dealt with needs to consider the situation: prevention and correction is the most important.  I am not sure how I would feel if I were the victim of a crime: would I want punishment for the perpetrator?  Restitution makes sense, but what if it is a crime that cannot be repaid?
 ## No Authority Bias
 
-When I say my ethics apply to everyone, I mean everyone.  Me, my friends, my family, the people in my city, the local leaders, the leaders of companies, the leaders of nations and religions, and even God Himself.  In fact, the higher importance the position, the more responsibility these people have to do the right thing -- Noblesse Oblige.  The leaders of nations and religions have the greatest ability to harm the people the represent and command and thus should be held to the highest standards.  Incompetence is no excuse -- you should not hold such a position if you are unable to carry out your duty.
-
-Of course my ethics seem to have little value for people in authority.
+See [Corruption](../Emotions/Triggers.md#Corruption) -- I apply my ethics to everyone.  I understand they may not have the same ethics, but when I judge right from wrong it applies to all.
 
 Curiously (to me), most NT people grant exceptions and loosen rules for people of higher social importance.
 

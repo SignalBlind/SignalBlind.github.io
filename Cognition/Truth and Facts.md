@@ -45,7 +45,9 @@ Facts that I consume are graded as to their veracity, perhaps with:
 - probably true
 - true
 
-Even true is really "believed to be true".  When I consume facts I associate them with entities and whatever metadata I can remember.  For example:
+Even true is really "believed to be true".  To be clear, this veracity map is a post-hoc examination -- a model of my mental model.  I don't actually compute probabilities, I have a sense of likelihood and experience with how these combine.
+
+When I consume facts I associate them with entities and whatever metadata I can remember.  For example:
 
 - X told me that they believe there are UFOs (probably false -- but wish was true!)
 - I observed Y consuming cheese (true)
@@ -73,7 +75,7 @@ A concrete example: if an NT person told me that I am cold-hearted and have no e
 - I have no *affective* empathy (true)
 - unknown to NT observers I have no capacity for preventing either of these (likely true)
 - I don't feel cold-hearted (true)
-- I do [Care](../Emotions/Care.md) about people but perhaps not in a recognizable way (true)
+- I do [Care](../Emotions/Functional%20Altruism.md#Care) about people but perhaps not in a recognizable way (true)
 
 These are hard truths and do not paint me in a good light (though the third point indicates *why* it is so).  I have no problem ingesting this -- indeed it is useful for me to know it.  There may be cases where I have to explain to another person why I am behaving this way.
 #### Handling Opinions and Fuzzy Facts ^Softening

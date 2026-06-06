@@ -28,7 +28,7 @@ I see it like this:
 >**NT Emotion:** A felt state that **dictates** logic.
 >**My Emotion:** A biological state that **requires** logic to label.
 
-So my mental state (sad story or anger at corruption) triggers the limbic (emotional system) which in turn fires the appropriate physiological response (tears or adrenaline).  My conscious mind sees both the thoughts and the physiological state and I can pattern match to an appropriate emotion.  For NT people this is automatic -- they don't need to think about it, they know it.
+So my mental state (sad story or anger at [corruption](../Emotions/Triggers.md)) triggers the limbic (emotional system) which in turn fires the appropriate physiological response (tears or adrenaline).  My conscious mind sees both the thoughts and the physiological state and I can pattern match to an appropriate emotion.  For NT people this is automatic -- they don't need to think about it, they know it.
 
 I do have "externally oriented thinking", which is a core trait of alexithymia:
 

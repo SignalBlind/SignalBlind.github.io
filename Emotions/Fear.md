@@ -65,6 +65,18 @@ Lacking [Social Salience](../Experience/Social%20Salience.md) I have none of the
 I don't want to be socially excluded, but why would I be?  It may be hard for an NT conceive of such a thing, but I don't really care if I am excluded from a social group -- it just isn't something I can feel.  I wouldn't want to be fired from a job, but that is because I would lose functionality (my income) and have to find a new job, which can be hard work.
 
 I feel stress when doing a public presentation, but this is related to the preparation and anticipation -- once it is underway I am fine.  I don't fear the audience's reaction, I worry that I might flub the delivery.  I know logically that I can recover and most of the time people won't notice anyway, but I still feel the biological stress leading up to an important event.
+
+### My Experience: Danger!
+^Danger
+
+I do experience fear related to the Amygdala (threat center of the brain).  It bypasses all reason and goes straight to the limbic system (emotions).
+
+I know that I am afraid of heights.  It is often irrational -- the bridge has been standing for 150 years and it is unlikely to collapse when I walk on it.  Fear of heights is sometimes a feeling of falling or of being pulled toward the edge. It is a very intense anxiety that raises my heart rate and makes me want to crawl away from the edge.
+
+I experience rational fears too: startles, fire, explosions.  Well, I am presuming on the latter two.  These are situations that the low level Amygdala systems would detect as life threatening and indeed they usually are.
+
+The big difference is that social situations don't trigger this threat response in me.  Sure, I get nervous when speaking before a crowd -- I am anxious about delivering my presentation correctly (but not about what people think about it or me).  I never worry about social exclusion.  I don't have social salience to identify these as "important".
+
 ### Irrational Anxiety: My Dog
 
 I have anxiety over leaving my dog with the neighbors.  They have a small dog like mine and they love to take care of my dog.  I couldn't ask for a better situation.  I have a lot of anxiety leaving him with them if we go on vacation.

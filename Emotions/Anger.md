@@ -15,7 +15,9 @@ See also [Hate](Hate.md) which is a colder and longer term feeling.
 
 I feel anger when somebody is violating my [Ethics](../Cognition/Ethics.md) (e.g. lying or harming people).  I also feel a lower magnitude anger when somebody is wasteful or inefficient, especially when it causes harm to others.  I don't feel any personal insult, I am angered by system-level data corruption.
 
-I can also feel the adrenaline punch when thinking about high impact actors (e.g. leaders and politicians) who cause harm: lying, cheating, stealing, hurting, or killing people.  The magnitude of the harm and the responsibility of the actor to not do those things amplifies the effect.
+[Corrupt politicians](Triggers.md#Corruption) make me angry.  It just isn't right.  It is wasteful.  We are doing this to ourselves!
+
+Personal attacks on me typically don't bother me, unless somebody attacks my [Integrity](Triggers.md#Integrity).  Being called stupid or lazy are just opinions.  Being wrong or illogical is just a mistake (that I can learn from).  Going after my integrity is an assault on the truth of myself.
 
 I think [Hate](Hate.md) is a similar feeling for me, but also describing a longer term feeling -- it is a label for people who trigger my anger.
 ## Comparison
@@ -31,13 +33,6 @@ The target of my anger is also different.  I might be angry locally -- perhaps m
 My anger is futile.
 
 [Semantic Divergence](Semantic%20Divergence.md): yes.
-## Specific Trigger: Integrity
-
-There is at least one thing that will trigger anger with a feeling of personal insult: if somebody questions my integrity.
-
-I am fine if people call me out for hypocrisy, especially if I _have_ been inconsistent.  Even being called out for *lying* is fine if I have (hopefully unintentionally).  Making mistakes and being accused doesn't bother me -- these are true.
-
-If somebody questions my integrity and I believe the accusation is false I can get very angry in a way that feels somewhat distinct from normal anger.  I can't control what other people believe about me, but I will defend myself from this type of attack.  Questioning my integrity is a **Logic-Baseline Attack**. Because my identity is a product of consistent propositional logic, a false accusation of dishonesty is an attempt to invalidate my entire cognitive output. The anger here is a **Defense Protocol** to protect the integrity of the system.
 
 ## Specific Difference: Proven Wrong
 

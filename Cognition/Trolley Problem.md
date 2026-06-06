@@ -18,4 +18,4 @@ I think the situation is terrible, but I am not the cause.  Using the little inf
 
 This is [Satisficing](Manual%20Frame%20Construction.md#Satisficing) in action -- I need quick action and there is no "correct" answer.
 
-Note: this doesn't engage [Rule 1: Do Not Harm](Ethics.md#Rule%201%20Do%20Not%20Harm%20(Life/Environment)) as I am not harming.  All paths lead to death, optimize.
+Note: this doesn't engage [Rule 1: Do Not Harm](Ethics.md#^NoHarm) as I am not harming.  All paths lead to death, optimize.

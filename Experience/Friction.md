@@ -17,7 +17,7 @@ Internally I don't experience [any friction](My%20Experience.md#^Friction).  I d
 Socially I do sometimes experience friction and it is something I try to avoid for efficiency reasons or unintended harm that I could avoid.
 
 - **Unintended Harm:** I shouldn't tell somebody that they are fat.  I have some heuristics -- topics to avoid or phrasing to avoid because it causes hurt feeling.
-	- These are not things that would upset me (see [Hard Truths](../Cognition/Truth%20and%20Facts.md#Hard%20Truths)) but do upset others (as I have been told).  I [Care](../Emotions/Care.md) about others, but not in a way that NT people would probably recognize -- this is still an efficiency rule.
+	- These are not things that would upset me (see [Hard Truths](../Cognition/Truth%20and%20Facts.md#Hard%20Truths)) but do upset others (as I have been told).  I [Care](../Emotions/Functional%20Altruism.md) about others, but not in a way that NT people would probably recognize -- this is still an efficiency rule.
 	- This is a failure to account for the person's ([Black Box](Black%20Box.md)) constraints or failure to know them
 - **Resource Waste:** Avoid conversation stalls.  Effort must be diverted from the "Task" to "Explanation/Repair."
 	- Sometimes truth disrupts:  "This data in row 4 is incorrect; it invalidates the conclusion."

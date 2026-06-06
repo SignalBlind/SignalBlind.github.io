@@ -8,7 +8,7 @@ For NT people comforting is way to relieve distress in others.  They achieve thi
 
 ## My Experience
 
-I have no affective empathy.  To me, [Care](Care.md) is about helping somebody -- solving their problems.  I have no access to the [social signals](../Experience/Social%20Salience.md) and cannot mirror them.  I effectively have no [ability to provide comfort](../Cognition/Examples.md#Failure%20Example).
+I have no affective empathy.  To me, [Care](Functional%20Altruism.md#Care) is about helping somebody -- solving their problems.  I have no access to the [social signals](../Experience/Social%20Salience.md) and cannot mirror them.  I effectively have no [ability to provide comfort](../Cognition/Examples.md#Failure%20Example).
 
 Recently when I was upset about a situation my wife asked if I needed comfort.  I was surprised -- what could she do to fix the situation?  Of course that is not what she meant.  I had to do some investigating about what "comfort" meant.
 

@@ -40,7 +40,7 @@ I don't pick up any vibes.  I have no [Theory of Mind](../Experience/Theory%20of
 
 So my emotions don't have the social side and they are not affected by people around me.  They are affected by the situation: a funny story will make me smile and be happy.  A sad story about somebody's dog dying will trigger sadness in me as I think about my own dog dying in the future.  I do feel the physiological effects: sadness makes me cry and funny things make me laugh.  I can blush if I realize I have said [something offensive](../Experience/Say%20The%20Wrong%20Thing.md#Whoops).
 
-These emotions don't drive me as much as the physiological signals are inputs to my conscious thoughts.  That and the content of my thoughts, e.g. contemplating death of a loved pet or thinking about corrupt politicians, will make me feel a certain way.  These combine to produce what I experience as an emotion.
+These emotions don't drive me as much as the physiological signals are inputs to my conscious thoughts.  That and the content of my thoughts, e.g. contemplating death of a loved pet or thinking about [corrupt politicians](Triggers.md#Corruption), will make me feel a certain way.  These combine to produce what I experience as an emotion.
 
 I don't have [Alexithymia](../Experience/Alexithymia.md), but I do have to think to label my emotions.  I have to decode my state and map it to a term.  I once had to name a state where I was feeling both fear and positive alignment and this was a very strange sensation to me -- the only label I could come up with was "high emotional state".  Even decoding that there were two emotions present was quite novel to me.  I am not angry, I am thinking angry thoughts.  I might be sad (I will *feel* sad), but it is mostly *thinking* sad thoughts.
 
@@ -60,9 +60,9 @@ The self conscious emotions require a feedback signal for you to understand how 
 - [Embarrassment](Embarrassment.md)
 - [Hate](Hate.md)
 - [Arrogance](Arrogance.md)
-- [Compassion](Compassion.md)
-- [Care](Care.md)
-- [Sympathy](Sympathy.md)
+- [Compassion](Functional%20Altruism.md#Compassion)
+- [Care](Functional%20Altruism.md#Care)
+- [Sympathy](Functional%20Altruism.md#Sympathy)
 - [Comforting](Comforting.md)
 
 This one is a stand in for several of the *negative* emotions:

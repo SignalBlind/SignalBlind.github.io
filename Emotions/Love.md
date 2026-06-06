@@ -10,7 +10,7 @@ There are many types of love -- I am talking about romantic love here.  The love
 For NT people, love is a complex and multilayered emotion.  It typically involves:
 
 - attachment
-- [care](Care.md)
+- [Care](Functional%20Altruism.md#Care)
 - attraction
 
 These are communicated through vibes and social signals.  The people in love feel mentally connected -- on the same wavelength.  This results in a shift in salience (importance) where the partner becomes the most vivid person in their perception.  NT people expect their partner to intuit their needs rather than give explicit requests.  The couple forms a singular "we" identity.  Love provides a buffer against the world -- there is safety with your partner even if the world is cruel.

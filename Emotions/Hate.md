@@ -17,7 +17,7 @@ Typically hate is a longer term feeling than [Anger](Anger.md) and its function 
 
 For me "hate" is a term I use to indicate high intensity dislike.  It might be triggered by a [ethical](../Cognition/Ethics.md) judgment (the target is lying or harming people) or I might use it for very strong opinions, e.g. I hate fish.
 
-In the case of ethical violations, my "hate" is more of a label: "this person does bad things".  I don't feel a strong emotion, though if I focus my thoughts on their actions I may feel [Anger](Anger.md).  This is a *much* colder emotion than the NT emotion of the same name.  It is putting an "evil" name tag on something, not aligning forceful thoughts against them.
+In the case of ethical violations, my "hate" is more of a label: "this person does bad things" (see [Corruption](Triggers.md#Corruption)).  I don't feel a strong emotion, though if I focus my thoughts on their actions I may feel [Anger](Anger.md).  This is a *much* colder emotion than the NT emotion of the same name.  It is putting an "evil" name tag on something, not aligning forceful thoughts against them.
 
 Unlike NT people I can "hate" objects.  I don't ascribe evil intent to them, I just don't like them.  They might be inelegant, they might taste bad, they might be fundamentally flawed.  Again, it is just a label of dislike.
 
