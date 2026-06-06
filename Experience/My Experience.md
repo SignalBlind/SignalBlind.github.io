@@ -29,7 +29,7 @@ I think [Theory of Mind: Identity of Others](Theory%20of%20Mind.md#My%20Experien
 
 On top of this lack of signal, I [think different than other people](../Cognition/Functional%20Cognitive%20Architecture.md) -- necessarily because so much NT thought is around social things.  I even have different [Ethics](../Cognition/Ethics.md).  These might sound a little more familiar to autistic people, though they probably use [Affective Deontology](../Cognition/Ethical%20Systems.md#Affective%20Deontology) -- both of these will probably look about the same to NT people ([Social Utilitarianism](../Cognition/Ethical%20Systems.md#Social%20Utilitarianism)).
 
-You can read about my [emotions](../Emotions/Emotions.md) but you might not perceive them as I have somewhat [Flat Affect](Flat%20Affect.md) and no emotional mirroring or signaling.  I [have emotions](Alexithymia.md) but they are different than what either NT or autistic people experience.  I have no [Shame](../Emotions/Shame.md), see [Hard Truths](../Cognition/Truth%20and%20Facts.md#Hard%20Truths) for an example.  There are quite a few socially oriented emotions that I simply can't experience.  Others, like [Compassion](../Emotions/Compassion.md) I use the same word (it looks the same to me) but it isn't the same feeling.  [Anger](../Emotions/Anger.md) and [Sadness](../Emotions/Sadness.md) are two that are probably the most similar and recognizable.
+You can read about my [emotions](../Emotions/Emotions.md) but you might not perceive them as I have somewhat [Flat Affect](Flat%20Affect.md) and no emotional mirroring or signaling.  I [have emotions](Alexithymia.md) but they are different than what either NT or autistic people experience.  I have no [Shame](../Emotions/Shame.md), see [Hard Truths](../Cognition/Truth%20and%20Facts.md#Hard%20Truths) for an example.  There are quite a few socially oriented emotions that I simply can't experience.  Others, like [Compassion](../Emotions/Functional%20Altruism.md#Compassion) I use the same word (it looks the same to me) but it isn't the [same feeling](../Emotions/Semantic%20Divergence.md).  [Anger](../Emotions/Anger.md) and [Sadness](../Emotions/Sadness.md) are two that are probably the most similar and recognizable.
 
 Despite all of these differences from the norm, I have [Zero Lag](../Cognition/Zero%20Lag.md), low [Friction](Friction.md) (personally), and experience some [Benefits](Benefits.md) from the way my mind works.
 
@@ -62,14 +62,15 @@ Conclusion: I am responding to the explicit signal (location); she is responding
 How does signal blindness compare to neurotypical and autistic experience?  These descriptions of ASD and NT experiences are functional models used to illustrate the gap in my own architecture, not clinical definitions of those groups.
 
 <div class="wide-only" markdown="1">
+<div class="wide-only" markdown="1">
 
-| Category                                 | Neurotypical (NT)                                                                  | Autistic (ASD)                                                                           | Signal Blind (You)                                                                                                                                                                                            |
-| :--------------------------------------- | :--------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Social Noticing**<br>(Social Saliency) | **Automatic.** Social cues are the loudest things in the room.                     | **Manual/Overwhelming.** Cues are heard but hard to prioritize.                          | [**Zero**](Experience/Social%20Salience.md). Cues are undetected background noise.                                                                                                                            |
-| **The "Vibe"**<br>(Social Signal)        | **Intuitive.** Feels like a "gut instinct" or "atmosphere."                        | **Conscious.** Requires active decoding of body/tone.                                    | [**None**](Cognition/Zero%20Lag.md). Facts and literal text are the only data.                                                                                                                                |
-| **Reading Minds**<br>(Theory of Mind)    | [**Automatic**](Experience/NT%20Experience.md). Instantly "knows" how others feel. | [**Manual**](Experience/Autism%20Experience.md). Simulates others' feelings with effort. | [**None**](Experience/Theory%20of%20Mind.md).  People are [Black Boxes](Experience/Black%20Box.md). Uses [**Logical Modeling**](Cognition/Functional%20Logic%20Modeling.md) to predict behavior at high cost. |
-| **Social Pressure**<br>(Anxiety/Shame)   | **High/Relational.** Guided by the "feeling" of belonging or shame.                | **High/Reactive.** Friction between social desire and signal confusion.                  | [**None**](Emotions/Shame.md). Social status is a conceptual abstraction, not a felt pressure.                                                                                                                |
-| **Empathy Type**                         | **Affective.** Feels the emotions of others instinctively.                         | **Cognitive/Manual.** Tries to imagine how others feel to relate.                        | **[None](Emotions/Empathy.md).** Does not "feel" others' states. Uses [Rules](Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) and [Logic](Cognition/Ethics.md) to maintain pro-social behavior.        |
+| Category                                 | Neurotypical (NT)                                                       | Autistic (ASD)                                                                | Signal Blind (You)                                                                                                                                                                                              |
+| :--------------------------------------- | :---------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Social Noticing**<br>(Social Saliency) | **Automatic.** Social cues are the loudest things in the room.          | **Manual/Overwhelming.** Cues are heard but hard to prioritize.               | [**Zero**](Social%20Salience.md). Cues are undetected background noise.                                                                                                                                         |
+| **The "Vibe"**<br>(Social Signal)        | **Intuitive.** Feels like a "gut instinct" or "atmosphere."             | **Conscious.** Requires active decoding of body/tone.                         | [**None**](../Cognition/Zero%20Lag.md). Facts and literal text are the only data.                                                                                                                               |
+| **Reading Minds**<br>(Theory of Mind)    | [**Automatic**](NT%20Experience.md). Instantly "knows" how others feel. | [**Manual**](Autism%20Experience.md). Simulates others' feelings with effort. | [**None**](Theory%20of%20Mind.md).  People are [Black Boxes](Black%20Box.md). Uses [**Logical Modeling**](../Cognition/Functional%20Logic%20Modeling.md) to predict behavior at high cost.                      |
+| **Social Pressure**<br>(Anxiety/Shame)   | **High/Relational.** Guided by the "feeling" of belonging or shame.     | **High/Reactive.** Friction between social desire and signal confusion.       | [**None**](../Emotions/Shame.md). Social status is a conceptual abstraction, not a felt pressure.                                                                                                               |
+| **Empathy Type**                         | **Affective.** Feels the emotions of others instinctively.              | **Cognitive/Manual.** Tries to imagine how others feel to relate.             | **[None](../Emotions/Empathy.md).** Does not "feel" others' states. Uses [Rules](../Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) and [Logic](../Cognition/Ethics.md) to maintain pro-social behavior. |
 
 
 </div>
@@ -79,27 +80,27 @@ How does signal blindness compare to neurotypical and autistic experience?  Thes
 **Social Noticing** *(Social Saliency)*
 - **NT:** Automatic. Social cues are the loudest things in the room.
 - **ASD:** Manual/Overwhelming. Cues are heard but hard to prioritize.
-- **Signal Blind:** [Zero](Experience/Social%20Salience.md). Cues are undetected background noise.
+- **Signal Blind:** [Zero](Social%20Salience.md). Cues are undetected background noise.
 
 **The "Vibe"** *(Social Signal)*
 - **NT:** Intuitive. Feels like a "gut instinct" or "atmosphere."
 - **ASD:** Conscious. Requires active decoding of body/tone.
-- **Signal Blind:** [None](Cognition/Zero%20Lag.md). Facts and literal text are the only data.
+- **Signal Blind:** [None](../Cognition/Zero%20Lag.md). Facts and literal text are the only data.
 
 **Reading Minds** *(Theory of Mind)*
-- **NT:** [Automatic](Experience/NT%20Experience.md). Instantly "knows" how others feel.
-- **ASD:** [Manual](Experience/Autism%20Experience.md). Simulates others' feelings with effort.
-- **Signal Blind:** [None](Experience/Theory%20of%20Mind.md). People are [Black Boxes](Experience/Black%20Box.md). Uses [Logical Modeling](Cognition/Functional%20Logic%20Modeling.md) to predict behavior at high cost.
+- **NT:** [Automatic](NT%20Experience.md). Instantly "knows" how others feel.
+- **ASD:** [Manual](Autism%20Experience.md). Simulates others' feelings with effort.
+- **Signal Blind:** [None](Theory%20of%20Mind.md). People are [Black Boxes](Black%20Box.md). Uses [Logical Modeling](../Cognition/Functional%20Logic%20Modeling.md) to predict behavior at high cost.
 
 **Social Pressure** *(Anxiety/Shame)*
 - **NT:** High/Contextual. Fear of "doing it wrong" or losing status.
 - **ASD:** Extreme. High cost of social error leading to meltdown.
-- **Signal Blind:** [Zero](Emotions/Shame.md). Cannot experience social shame or "rejection sensitive dysphoria."
+- **Signal Blind:** [Zero](../Emotions/Shame.md). Cannot experience social shame or "rejection sensitive dysphoria."
 
 **Empathy Type**
 - **NT:** Affective. Feels the emotions of others instinctively.
 - **ASD:** Cognitive/Manual. Tries to imagine how others feel to relate.
-- **Signal Blind:** [None](Emotions/Empathy.md). Does not "feel" others' states. Uses [Rules](Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) and [Logic](Cognition/Ethics.md) to maintain pro-social behavior.
+- **Signal Blind:** [None](../Emotions/Empathy.md). Does not "feel" others' states. Uses [Rules](../Cognition/Ethical%20Systems.md#Axiomatic%20Deontology) and [Logic](../Cognition/Ethics.md) to maintain pro-social behavior.
 
 </div>
 
