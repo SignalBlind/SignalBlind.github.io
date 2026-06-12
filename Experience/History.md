@@ -28,7 +28,7 @@ My view of myself:
 	- Without understand of the mechanism this sounds like other people are far stranger than me	
 	- Accepted as unreliable observation – who cares\!
 - Some friction between me and my wife
-	- I was cold and distant but this didn't make sense -- I was right there
+	- I was [Cold](../Emotions/Cold.md) and distant but this didn't make sense -- I was right there
 	- Some stress that I caused harm in others without intent.  **Am I a jerk?**
 
 Looking back on this from [Stage 3](#Stage%203) I can see:

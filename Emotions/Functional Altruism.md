@@ -48,7 +48,7 @@ I don't understand _what_ or _how_ they feel, but I can sometimes experience a p
 Typically if somebody is very emotional, I don't know what to do.  I have a bias toward noninterference (assuming doing nothing is less harmful, though in practice I suspect that this is not what NT people expect).  If they are feeling distress where a solution is possible, problem solving would be my native state.
 ## Comparison
 
-In some cases the output (helping) can overlap, but the trigger and entire feeling is quite different.  Indeed, the "help" is quite different and may come across as cold -- I am performing tasks, not providing emotional support.  I am not capable of it, so from the NT point of view, this is true.
+In some cases the output (helping) can overlap, but the trigger and entire feeling is quite different.  Indeed, the "help" is quite different and may come across as [Cold](Cold.md) -- I am performing tasks, not providing emotional support.  I am not capable of it, so from the NT point of view, this is true.
 
 The trigger threshold is different.  NT people can detect very subtle vibes and understand hurt and offer sympathy.  I understand crying (roughly as a person stating they are sad) or explicit words.  I don't know why unless I am told.
 

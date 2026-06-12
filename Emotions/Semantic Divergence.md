@@ -50,3 +50,16 @@ My saving grace is that I am very low or no [Ego](Ego.md) -- I get along with al
 | [Sadness](Sadness.md)                             | "I have lost something precious; I need time to heal."              | "High-magnitude deletion event; permanent loss of unique value/data."                     |
 | [Shame](Shame.md)                                 | "I am fundamentally flawed; I must hide myself."                    | "Zero-signal; replaced by factual audit and decision to address or ignore data."          |
 | [Sympathy](Functional%20Altruism.md#Sympathy)     | "I feel for you (pity/intellectual recognition of pain)."           | "Labeling an observed state of distress; bias toward noninterference or fixing."          |
+
+## Mistaken Identity
+
+NT people evaluate each other and expect certain behavior.  When people don't behave that way, they assume certain intent.  This isn't necessarily a conscious choice: this is their threat detection systems operating at a low level and potentially mis-identifying a threat.
+
+| **Label**                            | **NT Experience**                                                                    | **Autism Experience**                   | **My Experience**                                                 |
+| ------------------------------------ | ------------------------------------------------------------------------------------ | --------------------------------------- | ----------------------------------------------------------------- |
+| [Cold](Cold.md)                      | A choice to withhold warmth: aggression or disapproval.                              | Emotional lag.                          | Flat affect, no emotional mirroring.  No intent whatsoever.       |
+| [Self-Centered](Self-Centered.md)    | I am more important than you.  I will use you to improve my own situation.           | Monotropism: intense focus.             | I don't perceive your unstated needs.                             |
+| [Goodness](Functional%20Altruism.md) | [Shame](Shame.md) and [Guilt](Guilt.md) are strong motivators to do the right thing. | Justice.  It is the right thing to do.  | [Ethics](../Cognition/Ethics.md) -- it is the correct way to act. |
+| [Arrogance](Arrogance.md)            | Claiming social superiority/dominance over others.                                   | Bluntness due to lack of social filter. | Status blindness.  Facts with no intent.                          |
+
+Just because something looks a certain way, doesn't mean it is.

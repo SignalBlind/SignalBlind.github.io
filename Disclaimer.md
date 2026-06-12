@@ -81,7 +81,7 @@ This site uses two different ways of writing depending on what is being describe
 *   **Structured Lists (Bullets):** Used for "Technical Mapping." I use this when the goal is to provide a lot of information quickly. It removes the "filler" of normal conversation to focus on the logic.
 
 ### 2. Why I Don't Use a "Terse" Style
-I avoid writing in a very short or "stilted" way because it often causes unnecessary problems. In many social situations, being too brief is seen as being cold or angry. Using a more natural, conversational style allows the information to be received without causing that specific kind of social friction.
+I avoid writing in a very short or "stilted" way because it often causes unnecessary problems. In many social situations, being too brief is seen as being [Cold](Emotions/Cold.md) or angry. Using a more natural, conversational style allows the information to be received without causing that specific kind of social friction.
 
 ### 3. Fact-Based Presentation
 I present my observations as **Facts**.

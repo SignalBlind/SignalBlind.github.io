@@ -25,7 +25,7 @@ I have no [Social Salience](../Experience/Social%20Salience.md) so I:
 - don't know what other people feel about me
 - and don't care either
 
-If somebody were to tell me [Hard Truths](../Cognition/Truth%20and%20Facts.md#Hard%20Truths), like "you are cold-hearted and have no empathy" it doesn't make me feel bad.  The statement is either:
+If somebody were to tell me [Hard Truths](../Cognition/Truth%20and%20Facts.md#Hard%20Truths), like "you are [Cold](Cold.md)-hearted and have no empathy" it doesn't make me feel bad.  The statement is either:
 
 - true -- accept and decide if I want to address
 - false -- ignore

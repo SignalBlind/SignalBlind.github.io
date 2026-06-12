@@ -32,7 +32,7 @@ I don't experience arrogance, but NT people can easily perceive me to be so:
 - I do use [softening](../Cognition/Truth%20and%20Facts.md#^Softening) for when I am not 100% sure
 - I have [Flat Affect](../Experience/Flat%20Affect.md)
 - I have no [Social Salience](../Experience/Social%20Salience.md) so I don't mirror or give off proper vibes
-- I think [logically](../Cognition/Propositional%20Logic.md) and speak [logically](../Cognition/Functional%20Logic%20Modeling.md) -- it can come off as cold
+- I think [logically](../Cognition/Propositional%20Logic.md) and speak [logically](../Cognition/Functional%20Logic%20Modeling.md) -- it can come off as [Cold](Cold.md)
 
 Per the LLM, NT people perceive this as:
 

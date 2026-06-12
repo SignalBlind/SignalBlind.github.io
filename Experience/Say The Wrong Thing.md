@@ -48,7 +48,7 @@ My own bluntness is similar to the last point: I am honest.  I am also very lite
 On the flip-side, I have no [Shame](../Emotions/Shame.md) and can receive feedback easily (I think this is difficult for autistic people to do as they are sometimes hypersalient).  If the feedback is false I can ignore it and if it is true I should incorporate it and make changes, if possible.  I can accept [Hard Truths](../Cognition/Truth%20and%20Facts.md#Hard%20Truths) -- I may not enjoy doing so and I may feel [Regret](../Emotions/Regret.md), but I don't feel bad about myself.
 ## Lack of Reciprocity
 
-In conversation people will often ask a question about your job, etc.  In NT people they expect you to ask a similar question back.  "How was your weekend?" is a casual request for information (and a social ping) and after answering (not necessarily literally) the expected response is "how was yours?".  If you do not respond this way NT people may find you cold, disinterested or possibly narcissistic.
+In conversation people will often ask a question about your job, etc.  In NT people they expect you to ask a similar question back.  "How was your weekend?" is a casual request for information (and a social ping) and after answering (not necessarily literally) the expected response is "how was yours?".  If you do not respond this way NT people may find you [Cold](../Emotions/Cold.md), disinterested or possibly narcissistic.
 
 For autistic people, if they slip up on this, it might be because of cognitive load from manual ToM.  They forget the script.
 

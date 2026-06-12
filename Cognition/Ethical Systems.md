@@ -37,7 +37,7 @@ I think the last one is humorous -- LLMs operate on the same explicit signals th
 
 - **Core Logic:** Symmetry and Vector Accuracy.
 - **Pros:** Low computational cost; maximum internal consistency.
-- **Cons:** Can be perceived as "rigid" or "cold" by NT systems.
+- **Cons:** Can be perceived as "rigid" or "[Cold](../Emotions/Cold.md)" by NT systems.
 
 ## Affective Deontology
 

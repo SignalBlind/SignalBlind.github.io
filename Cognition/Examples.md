@@ -18,7 +18,7 @@ I could hear crying and identify that as a high magnitude signal for being upset
 
 Functional logic modeling quickly provided the shortcut for answering programming questions, I looked up the information in my memory (facts) and my propositional logic performed the delivery of the information.
 
-To an NT person this probably sounds very cold or even cruel.  I don't have [affective empathy](../Emotions/Empathy.md) so I can't pick up the signal that is very obvious to most people.  This was a non-sequitur in my mind -- two pieces of incongruent information and I picked the one that I could easily deal with.  The upset fact was discarded as irrelevant.  I don't intend to be cold, but it is a fact of having no [Social Salience](../Experience/Social%20Salience.md).  This was a failure of understanding, not a failure of soul.
+To an NT person this probably sounds very [Cold](../Emotions/Cold.md) or even cruel.  I don't have [affective empathy](../Emotions/Empathy.md) so I can't pick up the signal that is very obvious to most people.  This was a non-sequitur in my mind -- two pieces of incongruent information and I picked the one that I could easily deal with.  The upset fact was discarded as irrelevant.  I don't intend to be cold, but it is a fact of having no [Social Salience](../Experience/Social%20Salience.md).  This was a failure of understanding, not a failure of soul.
 
 **Note**: Signal Recognition is not Signal Integration.
 
