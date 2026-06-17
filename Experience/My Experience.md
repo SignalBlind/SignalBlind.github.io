@@ -62,7 +62,6 @@ Conclusion: I am responding to the explicit signal (location); she is responding
 How does signal blindness compare to neurotypical and autistic experience?  These descriptions of ASD and NT experiences are functional models used to illustrate the gap in my own architecture, not clinical definitions of those groups.
 
 <div class="wide-only" markdown="1">
-<div class="wide-only" markdown="1">
 
 | Category                                 | Neurotypical (NT)                                                       | Autistic (ASD)                                                                | Signal Blind (You)                                                                                                                                                                                              |
 | :--------------------------------------- | :---------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
