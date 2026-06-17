@@ -17,6 +17,7 @@ body {
     padding: 2em 3em;
     max-width: 900px;
     margin-left: var(--sidebar-width);
+    transition: margin-left 0.3s ease;
 }
 
 .page {
@@ -51,6 +52,12 @@ body {
 }
 
 /* Responsive */
+@media (min-width: 769px) and (max-width: 1024px) {
+    html.nav-collapsed .content {
+        margin-left: 0;
+    }
+}
+
 @media (max-width: 768px) {
     .container {
         flex-direction: column;

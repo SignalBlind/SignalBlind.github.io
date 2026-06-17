@@ -132,11 +132,14 @@
     border-color: rgba(255, 255, 255, 0.5);
 }
 
-@media (max-width: 768px) {
+/* Show sidebar toggle on tablet & phone */
+@media (max-width: 1024px) {
     .sidebar-toggle {
         display: block;
     }
+}
 
+@media (max-width: 768px) {
     .site-title a {
         font-size: 1.1em;
     }

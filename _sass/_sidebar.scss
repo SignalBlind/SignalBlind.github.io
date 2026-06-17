@@ -9,6 +9,7 @@
     border-right: 1px solid var(--border-color);
     overflow-y: auto;
     z-index: 100;
+    transition: transform 0.3s ease;
 }
 
 .sidebar-content {
@@ -271,6 +272,13 @@
 
 .sidebar-overlay.active {
     display: block;
+}
+
+/* Tablet: sidebar visible by default, collapsible via header toggle */
+@media (min-width: 769px) and (max-width: 1024px) {
+    html.nav-collapsed .sidebar {
+        transform: translateX(-100%);
+    }
 }
 
 /* Responsive */
