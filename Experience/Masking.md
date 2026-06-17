@@ -33,3 +33,29 @@ Anyway, I am fortunate that my particular mental configuration allows for no mas
 
 - I don't notice that it is needed
 - I don't care what others think about me
+
+## Phatic Speech
+
+Phatic speech is an interesting case.  Phatic speech is, for example, the talking we do to greet each other at work:
+
+> Hey, how are you?
+
+> Fine!  How are you?
+
+I actually picked up phatic speech, I presume from observing it being used.  I wasn't masking -- I was following the script.
+
+I didn't realize that these questions were not meant to be answered truthfully; I saw a question and provided the data. If I was having a bad day, I would tell you so. I now realize these interactions are more of a **social ping**: a "hey!" that expects a "hey!" in return, rather than a request for information.
+
+I also frequently failed the "mirroring" rule. Many times when somebody asks a question, they expect a similar question in return:
+
+> Nice to meet you!  Where do you work?
+
+> I work at NASA.  (silence)
+
+I would answer, but I wouldn't ask the question back. Sometimes I might, if I happened to be thinking of the protocol, but I don't usually care where a stranger works—that isn't information I need. I would provide my answer and the conversation would simply die there.
+
+This was always fine with me, but I have since learned from feedback that this often makes NT participants uncomfortable. Because I lack social salience, I didn't know they were uncomfortable, nor did I notice the "social friction" I was creating.
+
+Unlike many autistic people who mask out of a desire to fit in or a fear of being "found out," my lack of masking isn't a choice—it’s a result of not perceiving the "need" in the first place.
+
+Now that I understand what is going on in NT conversations, I can better introspect my own behavior.  I still don't behave as expected (usually), but better to know than not.  This [Double Empathy](Double%20Empathy.md) issue still doesn't bother me personally, but at least I am aware it is going on for the other people. In situations where I think it might help (my wife prompted me) I can consciously try to follow the expanded script.  It takes effort and concentration so I don't do it normally.
