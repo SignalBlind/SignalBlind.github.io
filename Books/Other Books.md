@@ -21,10 +21,32 @@ I had seen the title before and wasn't interested in it, but based on LLM recomm
 
 LLM summary: It is the ultimate "Manual Simulation" series. Murderbot has zero social intuition and finds human emotions confusing and awkward. It interprets everything through tactical overlays and risk assessments. It’s funny, fast, and very logical.
 ### [Bobiverse](https://www.amazon.com/dp/B0753LBFQ7)
+Tags: System Discovery, High Competence
 
 Bob is an engineer in modern times.  Stuff happens.  His mind ends up piloting a starship to explore, colonize and reproduce (make more Bobs).  It is hard to believe how compelling a book where the main character isn't even physically present (in most senses) can be.  
 
 Bob is most likely ND and each of the different Bobs are *slight* variations on the theme.  The series is fantastic and I like to see how Bob operates.  The whole setting is both awful and inspiring at the same time.  Well worth a read!
+
+### [Dungeon Crawler Carl](https://www.amazon.com/dp/B08BX5D4LC?binding=hardcover&ref=dbs_dp_rwt_sb_pc_thcv)
+Tags: System Discovery, High Competence, Social Absurdity
+
+That makes total sense. One of the "Common Factors" you identified in your `Books.md` is **System Discovery**. If you explain exactly how the system works or how the character maps to your specific ethical framework right in the summary, you're actually robbing yourself (or your readers) of the pleasure of "discovering" that system through the text.
+
+Your original version is much better for a "shelf" because it sets the stage without solving the puzzle.
+
+If you want to keep your version but just tighten it up a bit (fixing one small plot detail and aligning the tags), here is a slightly "cleaned" version that stays vague:
+
+### [Dungeon Crawler Carl](https://www.amazon.com/dp/B08BX5D4LC)
+Tags: System Discovery, High Competence, Social Absurdity
+
+What if you were thrust into a fantasy role-playing game? How would you fare? Carl finds himself in this situation. He is a grounded, practical guy -- a former Coast Guard mechanic -- who is forced into a deadly, televised "crawl" through a literal dungeon. He’s joined by his ex-girlfriend's cat, Princess Donut, and has to rely on his problem-solving skills to survive.
+
+A few things I really like about this series:
+
+*   **Logic over "Vibes":** Even though the world is chaotic, there are in-universe explanations for how the "game" works and why Carl makes the tactical choices he does. It avoids "deus ex machina" moments.
+*   **The Humor:** It features Douglas Adams-style absurdity mixed with real-world tragedy and stakes.
+*   **Controlled Power Scaling:** The author manages the progression well. As the heroes get more powerful, the scenarios get exponentially tougher. It’s not just about raw power; it’s about who can outmaneuver the system.
+
 ### [Eon Series](https://www.amazon.com/gp/product/B071YMZ3RT)
 Tags: System Discovery
 
