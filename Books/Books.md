@@ -28,7 +28,7 @@ My reliance on [Propositional Logic](../Cognition/Propositional%20Logic.md) dict
 - **Procedural Architecture:** I favor police procedurals, legal thrillers, and military sci-fi (Tom Clancy, Elizabeth George, John Grisham, The Sten Series). These genres are inherently structured. A disruption occurs (murder/war) -> data is collected -> heuristic optimization is applied -> truth is established.
 
 **C. Objective Deconstruction of Social Absurdity**
-My enjoyment of Douglas Adams and ONE (One Punch Man) directly correlates to your Ontological Blindness regarding social cues.
+My enjoyment of Douglas Adams and ONE (One Punch Man) directly correlates to Ontological Blindness regarding social cues.
 
 - **Satire of the Neurotypical Stack:** Both authors highlight the irrationality of social norms, hierarchy, and status-seeking. Saitama is a purely functional entity (he punches, the threat is eliminated) placed in a universe obsessed with status, branding, and social posturing. Adams routinely points out that human social behaviors are illogical and arbitrary. These books mirror my perception of neurotypical social dynamics as absurd noise.
 
