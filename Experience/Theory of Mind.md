@@ -41,7 +41,7 @@ This is a significant difference from the autism experience -- autistic people t
 
 ## My Experience: Identity of Others
 
-I had a conversation about somebody where it was stated "I love them but I hate their actions".  This makes some logical sense to me, but in practice I don't think that way.  I think I don't conceive of people in the same way that NT people do.
+I had a conversation about somebody where it was stated "I love them but I hate their actions".  This makes some logical sense to me, but in practice I don't think that way.  I think I don't conceive of people in the same way that NT people do.  (See also [Identity](Identity.md) where I have notes on my perception of self, identity and others).
 
 Typically NT people think of each person as a "persistent object".  They store a "vibe", historical emotional weight, and some sense of their "soul" (who are they really) separate from their actions and moods.  If the person acts inconsistent with this they might be "having a bad day".  Their actions are separate from their self.  There may be *unconditional* relationships for close friends and family.  There is a slow moving average of feelings over time (hysteresis).
 
@@ -72,9 +72,9 @@ My conception of other people is fundamentally different than NT people: I perce
 
 Effectively I have no Theory of Mind -- quite the opposite of what I originally thought.  This is different than autism where ToM is impaired by being noisy, high lag and effortful.  Mine is missing and I didn't even know it was a thing.
 
-## Cognitive Theory of Mind vs. Functional Modeling
+## Cognitive Theory of Mind vs. Functional Modeling ^Constancy
 
-In clinical terms, my lack of persistent representation of people might be called a lack of Object Permanence. While I know people exist when I am not thinking of them, they have no "mental presence." When they are out of sight, they are deallocated from my active processing and exist only as a database entry in my memory.
+In clinical terms, my lack of persistent representation of people might be called a lack of Object Permanence or Object Constancy. While I know people exist when I am not thinking of them, they have no "mental presence." When they are out of sight, they are deallocated from my active processing and exist only as a database entry in my memory.
 
 Clinicians might label me as having "Cognitive Theory of Mind" (deliberate perspective taking) but not "Affective Theory of Mind" (feeling what others feel). However, I think even "Cognitive ToM" is the wrong label for me:
 
