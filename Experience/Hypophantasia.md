@@ -38,6 +38,8 @@ I find that my mental imagery looks a bit like a Lite-Brite.  Sort of outlines o
 
 Related to these is what thinking "sounds like" in my brain (not looks like!).  People who are more visual may experience a flow of images.  Because of my hypophantasia I internally vocalize my thoughts, which is called Inner Speech.  I am literally talking to myself to think.  There is no audience, just me.  It is not a rehearsal for what I will say, it is how my thoughts are realized.  I do this when I am by myself.
 
+Specifically I am *subvocalizing*. I am using the speech parts of my mind (Broca's area) to talk to myself, which involves sending micro-signals to my jaw, tongue, and lips.  I am not really moving but I can feel slight physical tension as I use my inner speech to think.
+
 Conscious thought is typically in full sentences, or at least sentence fragments.  More spurious thoughts are single words: as I walk through a crowd I am thinking "left" and "avoid", not full sentences.
 
 The only voice in my head is my own.  When I am thinking about other people I am making statements to myself: "I am hungry, perhaps X is also hungry".  This internal voice is not just stating facts, it is the execution of my thought process in my [Functional Cognitive Architecture](../Cognition/Functional%20Cognitive%20Architecture.md).
