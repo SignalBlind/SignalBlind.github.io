@@ -27,15 +27,6 @@ Bob is an engineer in modern times.  Stuff happens.  His mind ends up piloting a
 
 Bob is most likely ND and each of the different Bobs are *slight* variations on the theme.  The series is fantastic and I like to see how Bob operates.  The whole setting is both awful and inspiring at the same time.  Well worth a read!
 
-### [Dungeon Crawler Carl](https://www.amazon.com/dp/B08BX5D4LC?binding=hardcover&ref=dbs_dp_rwt_sb_pc_thcv)
-Tags: System Discovery, High Competence, Social Absurdity
-
-That makes total sense. One of the "Common Factors" you identified in your `Books.md` is **System Discovery**. If you explain exactly how the system works or how the character maps to your specific ethical framework right in the summary, you're actually robbing yourself (or your readers) of the pleasure of "discovering" that system through the text.
-
-Your original version is much better for a "shelf" because it sets the stage without solving the puzzle.
-
-If you want to keep your version but just tighten it up a bit (fixing one small plot detail and aligning the tags), here is a slightly "cleaned" version that stays vague:
-
 ### [Dungeon Crawler Carl](https://www.amazon.com/dp/B08BX5D4LC)
 Tags: System Discovery, High Competence, Social Absurdity
 
